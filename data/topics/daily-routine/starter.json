@@ -1,0 +1,247 @@
+{
+  "topic": "daily-routine",
+  "level": "starter",
+  "title": "Rafi's School Day",
+  "story": "Rafi is a school student in Dhaka. He lives with his mother, his father and his little sister Mitu. Every morning he gets up early and goes to school by rickshaw.",
+  "storyBn": "রাফি ঢাকার একজন স্কুলছাত্র। সে মা, বাবা আর ছোট বোন মিতুর সাথে থাকে। প্রতিদিন সকালে সে তাড়াতাড়ি ঘুম থেকে ওঠে এবং রিকশায় করে স্কুলে যায়।",
+  "units": [
+    {
+      "grammar": "present-simple",
+      "focus": "Rafi's everyday routine",
+      "focusBn": "রাফির প্রতিদিনের রুটিন",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb (+s/es) / am, is, are (+ time).",
+          "tipBn": "প্রতিদিনের অভ্যাস বোঝাতে present simple হয়; he/she হলে verb-এর সাথে s বা es যোগ হয়।",
+          "items": [
+            { "id": "01", "en": "Rafi is a student in Dhaka.", "words": [{ "w": "student", "bn": "ছাত্র", "pos": "noun" }] },
+            { "id": "02", "en": "He wakes up at 6 o'clock.", "words": [{ "w": "wakes up", "bn": "ঘুম থেকে ওঠে", "pos": "phrasal verb", "base": "wake up" }] },
+            { "id": "03", "en": "His alarm is very loud.", "words": [{ "w": "alarm", "bn": "অ্যালার্ম", "pos": "noun" }, { "w": "loud", "bn": "জোরালো", "pos": "adjective" }] },
+            { "id": "04", "en": "He brushes his teeth first.", "words": [{ "w": "brushes", "bn": "ব্রাশ করে", "pos": "verb", "base": "brush" }, { "w": "teeth", "bn": "দাঁত", "pos": "noun", "base": "tooth" }] },
+            { "id": "05", "en": "His mother makes breakfast.", "words": [{ "w": "makes", "bn": "বানায়", "pos": "verb", "base": "make" }, { "w": "breakfast", "bn": "সকালের নাস্তা", "pos": "noun" }] },
+            { "id": "06", "en": "Rafi goes to school by rickshaw.", "words": [{ "w": "by rickshaw", "bn": "রিকশায় করে", "pos": "phrase" }] },
+            { "id": "07", "en": "School starts at 8 o'clock.", "words": [{ "w": "starts", "bn": "শুরু হয়", "pos": "verb", "base": "start" }] },
+            { "id": "08", "en": "He is always tired after school.", "words": [{ "w": "always", "bn": "সবসময়", "pos": "adverb" }, { "w": "tired", "bn": "ক্লান্ত", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + don't / doesn't + verb (base). / Subject + isn't / aren't ...",
+          "tipBn": "না-বোধক করতে verb-এর আগে don't বা doesn't বসে; is/are-এর পরে not বসে।",
+          "items": [
+            { "id": "01", "en": "He doesn't wake up late.", "words": [{ "w": "wake up", "bn": "ঘুম থেকে ওঠা", "pos": "phrasal verb" }, { "w": "late", "bn": "দেরিতে", "pos": "adverb" }] },
+            { "id": "02", "en": "Rafi doesn't go to school by bus.", "words": [{ "w": "by bus", "bn": "বাসে করে", "pos": "phrase" }] },
+            { "id": "03", "en": "School doesn't start at 9 o'clock.", "words": [{ "w": "start", "bn": "শুরু হওয়া", "pos": "verb" }] },
+            { "id": "04", "en": "He isn't sleepy at school.", "words": [{ "w": "sleepy", "bn": "ঘুম ঘুম", "pos": "adjective" }] },
+            { "id": "05", "en": "Rafi doesn't like cold water.", "words": [{ "w": "like", "bn": "পছন্দ করা", "pos": "verb" }, { "w": "cold", "bn": "ঠান্ডা", "pos": "adjective" }] },
+            { "id": "06", "en": "His little sister doesn't go to school.", "words": [{ "w": "little sister", "bn": "ছোট বোন", "pos": "phrase" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Do / Does + subject + verb (base) ...? / Is + subject ...?",
+          "tipBn": "প্রশ্ন করতে Do বা Does শুরুতে বসে, আর verb মূল রূপে থাকে।",
+          "items": [
+            { "id": "01", "en": "Does Rafi wake up at 6 o'clock?", "words": [{ "w": "wake up", "bn": "ঘুম থেকে ওঠা", "pos": "phrasal verb" }] },
+            { "id": "02", "en": "Is his alarm very loud?", "words": [{ "w": "alarm", "bn": "অ্যালার্ম", "pos": "noun" }, { "w": "loud", "bn": "জোরালো", "pos": "adjective" }] },
+            { "id": "03", "en": "Does he brush his teeth every morning?", "words": [{ "w": "brush", "bn": "ব্রাশ করা", "pos": "verb" }, { "w": "every morning", "bn": "প্রতিদিন সকালে", "pos": "phrase" }] },
+            { "id": "04", "en": "Does he go to school by rickshaw?", "words": [{ "w": "rickshaw", "bn": "রিকশা", "pos": "noun" }] },
+            { "id": "05", "en": "Do you eat breakfast at home?", "words": [{ "w": "eat", "bn": "খাওয়া", "pos": "verb" }, { "w": "at home", "bn": "বাসায়", "pos": "phrase" }] },
+            { "id": "06", "en": "Do you take a shower every day?", "words": [{ "w": "take a shower", "bn": "গোসল করা", "pos": "phrase" }, { "w": "every day", "bn": "প্রতিদিন", "pos": "phrase" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + do / does + subject + verb (base)?",
+          "tipBn": "Wh- শব্দ প্রথমে বসে, তারপর do বা does, তারপর subject ও verb-এর মূল রূপ।",
+          "items": [
+            { "id": "01", "en": "What time does Rafi wake up?", "words": [{ "w": "what time", "bn": "কয়টায়", "pos": "phrase" }, { "w": "wake up", "bn": "ঘুম থেকে ওঠা", "pos": "phrasal verb" }] },
+            { "id": "02", "en": "How does he go to school?", "words": [{ "w": "how", "bn": "কীভাবে", "pos": "adverb" }] },
+            { "id": "03", "en": "Who makes breakfast in his house?", "words": [{ "w": "who", "bn": "কে", "pos": "pronoun" }, { "w": "makes", "bn": "বানায়", "pos": "verb", "base": "make" }] },
+            { "id": "04", "en": "When does school start?", "words": [{ "w": "when", "bn": "কখন", "pos": "adverb" }, { "w": "start", "bn": "শুরু হওয়া", "pos": "verb" }] },
+            { "id": "05", "en": "Where does Rafi live?", "words": [{ "w": "where", "bn": "কোথায়", "pos": "adverb" }, { "w": "live", "bn": "থাকা", "pos": "verb" }] },
+            { "id": "06", "en": "Why is he tired after school?", "words": [{ "w": "why", "bn": "কেন", "pos": "adverb" }, { "w": "tired", "bn": "ক্লান্ত", "pos": "adjective" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "present-continuous",
+      "focus": "What Rafi's family is doing this morning",
+      "focusBn": "আজ সকালে রাফির পরিবার কী করছে",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am / is / are + verb-ing (+ now).",
+          "tipBn": "এখন চলছে এমন কাজ বোঝাতে am/is/are-এর পরে verb-এর সাথে ing যোগ হয়।",
+          "items": [
+            { "id": "01", "en": "Rafi is getting up now.", "words": [{ "w": "getting up", "bn": "বিছানা ছেড়ে উঠছে", "pos": "phrasal verb", "base": "get up" }] },
+            { "id": "02", "en": "He is washing his face.", "words": [{ "w": "washing", "bn": "ধুচ্ছে", "pos": "verb", "base": "wash" }, { "w": "face", "bn": "মুখ", "pos": "noun" }] },
+            { "id": "03", "en": "Mitu is still sleeping.", "words": [{ "w": "still", "bn": "এখনও", "pos": "adverb" }, { "w": "sleeping", "bn": "ঘুমাচ্ছে", "pos": "verb", "base": "sleep" }] },
+            { "id": "04", "en": "His mother is frying eggs.", "words": [{ "w": "frying", "bn": "ভাজছে", "pos": "verb", "base": "fry" }, { "w": "eggs", "bn": "ডিম", "pos": "noun", "base": "egg" }] },
+            { "id": "05", "en": "His father is reading the newspaper.", "words": [{ "w": "newspaper", "bn": "খবরের কাগজ", "pos": "noun" }] },
+            { "id": "06", "en": "Rafi is putting on his school uniform.", "words": [{ "w": "putting on", "bn": "পরছে", "pos": "phrasal verb", "base": "put on" }, { "w": "school uniform", "bn": "স্কুলের পোশাক", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am not / isn't / aren't + verb-ing.",
+          "tipBn": "না-বোধক করতে am/is/are-এর পরে not বসে; isn't মানে is not।",
+          "items": [
+            { "id": "01", "en": "Rafi isn't sleeping now.", "words": [{ "w": "sleeping", "bn": "ঘুমাচ্ছে", "pos": "verb", "base": "sleep" }, { "w": "now", "bn": "এখন", "pos": "adverb" }] },
+            { "id": "02", "en": "He isn't using hot water.", "words": [{ "w": "using", "bn": "ব্যবহার করছে", "pos": "verb", "base": "use" }, { "w": "hot", "bn": "গরম", "pos": "adjective" }] },
+            { "id": "03", "en": "His mother isn't making tea.", "words": [{ "w": "making", "bn": "বানাচ্ছে", "pos": "verb", "base": "make" }, { "w": "tea", "bn": "চা", "pos": "noun" }] },
+            { "id": "04", "en": "His father isn't watching TV.", "words": [{ "w": "watching", "bn": "দেখছে", "pos": "verb", "base": "watch" }] },
+            { "id": "05", "en": "Mitu isn't crying this morning.", "words": [{ "w": "crying", "bn": "কাঁদছে", "pos": "verb", "base": "cry" }] },
+            { "id": "06", "en": "Rafi isn't wearing his shoes yet.", "words": [{ "w": "wearing", "bn": "পরে আছে", "pos": "verb", "base": "wear" }, { "w": "yet", "bn": "এখনো", "pos": "adverb" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am / Is / Are + subject + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে am/is/are বাক্যের শুরুতে চলে যায়।",
+          "items": [
+            { "id": "01", "en": "Is Rafi getting up now?", "words": [{ "w": "getting up", "bn": "বিছানা ছেড়ে উঠছে", "pos": "phrasal verb", "base": "get up" }] },
+            { "id": "02", "en": "Is he washing his face?", "words": [{ "w": "washing", "bn": "ধুচ্ছে", "pos": "verb", "base": "wash" }] },
+            { "id": "03", "en": "Is Mitu still sleeping?", "words": [{ "w": "still", "bn": "এখনও", "pos": "adverb" }] },
+            { "id": "04", "en": "Are you eating breakfast now, Rafi?", "words": [{ "w": "eating", "bn": "খাচ্ছ", "pos": "verb", "base": "eat" }] },
+            { "id": "05", "en": "Is it raining outside?", "words": [{ "w": "raining", "bn": "বৃষ্টি হচ্ছে", "pos": "verb", "base": "rain" }, { "w": "outside", "bn": "বাইরে", "pos": "adverb" }] },
+            { "id": "06", "en": "Are they waiting for a rickshaw?", "words": [{ "w": "waiting for", "bn": "অপেক্ষা করছে", "pos": "phrasal verb", "base": "wait for" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am / is / are + subject + verb-ing?",
+          "tipBn": "Wh- শব্দের পরে am/is/are, তারপর subject ও verb-ing বসে।",
+          "items": [
+            { "id": "01", "en": "What is Rafi doing now?", "words": [{ "w": "doing", "bn": "করছে", "pos": "verb", "base": "do" }] },
+            { "id": "02", "en": "What is his mother frying?", "words": [{ "w": "frying", "bn": "ভাজছে", "pos": "verb", "base": "fry" }] },
+            { "id": "03", "en": "Why is Rafi hurrying?", "words": [{ "w": "hurrying", "bn": "তাড়াহুড়া করছে", "pos": "verb", "base": "hurry" }] },
+            { "id": "04", "en": "Who is reading the newspaper?", "words": [{ "w": "who", "bn": "কে", "pos": "pronoun" }, { "w": "newspaper", "bn": "খবরের কাগজ", "pos": "noun" }] },
+            { "id": "05", "en": "Where are you going, Rafi?", "words": [{ "w": "going", "bn": "যাচ্ছ", "pos": "verb", "base": "go" }] },
+            { "id": "06", "en": "Which shirt is he wearing today?", "words": [{ "w": "which", "bn": "কোন", "pos": "other" }, { "w": "wearing", "bn": "পরছে", "pos": "verb", "base": "wear" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-simple",
+      "focus": "Rafi's bad morning yesterday",
+      "focusBn": "গতকাল রাফির খারাপ সকাল",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb (past) (+ time word).",
+          "tipBn": "অতীতের কাজ বোঝাতে verb-এর past রূপ হয়, যেমন wake থেকে woke।",
+          "items": [
+            { "id": "01", "en": "Rafi woke up late yesterday.", "words": [{ "w": "woke up", "bn": "ঘুম থেকে উঠেছিল", "pos": "phrasal verb", "base": "wake up" }, { "w": "yesterday", "bn": "গতকাল", "pos": "adverb" }] },
+            { "id": "02", "en": "He forgot to set his alarm.", "words": [{ "w": "forgot", "bn": "ভুলে গিয়েছিল", "pos": "verb", "base": "forget" }, { "w": "set", "bn": "সেট করা, দেওয়া", "pos": "verb" }] },
+            { "id": "03", "en": "He ate breakfast very quickly.", "words": [{ "w": "ate", "bn": "খেয়েছিল", "pos": "verb", "base": "eat" }, { "w": "quickly", "bn": "তাড়াতাড়ি", "pos": "adverb" }] },
+            { "id": "04", "en": "There was a lot of traffic.", "words": [{ "w": "a lot of", "bn": "অনেক", "pos": "phrase" }, { "w": "traffic", "bn": "যানজট", "pos": "noun" }] },
+            { "id": "05", "en": "He arrived at school at 8:15.", "words": [{ "w": "arrived", "bn": "পৌঁছেছিল", "pos": "verb", "base": "arrive" }] },
+            { "id": "06", "en": "His teacher looked a little angry.", "words": [{ "w": "looked", "bn": "দেখাচ্ছিল", "pos": "verb", "base": "look" }, { "w": "angry", "bn": "রাগান্বিত", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + didn't + verb (base).",
+          "tipBn": "অতীতের না-বোধক বাক্যে didn't বসে, আর verb মূল রূপে ফিরে যায়।",
+          "items": [
+            { "id": "01", "en": "Rafi didn't wake up on time.", "words": [{ "w": "on time", "bn": "সময়মতো", "pos": "phrase" }] },
+            { "id": "02", "en": "His alarm didn't ring.", "words": [{ "w": "ring", "bn": "বাজা", "pos": "verb" }] },
+            { "id": "03", "en": "He didn't finish his breakfast.", "words": [{ "w": "finish", "bn": "শেষ করা", "pos": "verb" }] },
+            { "id": "04", "en": "He didn't find an empty rickshaw.", "words": [{ "w": "find", "bn": "খুঁজে পাওয়া", "pos": "verb" }, { "w": "empty", "bn": "খালি", "pos": "adjective" }] },
+            { "id": "05", "en": "He didn't take his lunch box.", "words": [{ "w": "lunch box", "bn": "টিফিন বক্স", "pos": "noun" }] },
+            { "id": "06", "en": "He didn't watch TV in the evening.", "words": [{ "w": "evening", "bn": "সন্ধ্যা", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Did + subject + verb (base) ...? / Was there ...?",
+          "tipBn": "অতীতের প্রশ্নে Did শুরুতে বসে এবং verb মূল রূপে থাকে।",
+          "items": [
+            { "id": "01", "en": "Did Rafi wake up late yesterday?", "words": [{ "w": "late", "bn": "দেরিতে", "pos": "adverb" }, { "w": "yesterday", "bn": "গতকাল", "pos": "adverb" }] },
+            { "id": "02", "en": "Did he forget to set his alarm?", "words": [{ "w": "forget", "bn": "ভুলে যাওয়া", "pos": "verb" }] },
+            { "id": "03", "en": "Did he eat breakfast at home?", "words": [{ "w": "eat", "bn": "খাওয়া", "pos": "verb" }] },
+            { "id": "04", "en": "Was there a lot of traffic?", "words": [{ "w": "traffic", "bn": "যানজট", "pos": "noun" }] },
+            { "id": "05", "en": "Did his teacher say anything?", "words": [{ "w": "say", "bn": "বলা", "pos": "verb" }, { "w": "anything", "bn": "কিছু", "pos": "pronoun" }] },
+            { "id": "06", "en": "Did Rafi go to bed early?", "words": [{ "w": "go to bed", "bn": "ঘুমাতে যাওয়া", "pos": "phrase" }, { "w": "early", "bn": "তাড়াতাড়ি", "pos": "adverb" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + did + subject + verb (base)?",
+          "tipBn": "Wh- শব্দের পরে did বসে, আর verb মূল রূপে থাকে।",
+          "items": [
+            { "id": "01", "en": "Why did Rafi wake up late?", "words": [{ "w": "why", "bn": "কেন", "pos": "adverb" }, { "w": "wake up", "bn": "ঘুম থেকে ওঠা", "pos": "phrasal verb" }] },
+            { "id": "02", "en": "What time did he reach school?", "words": [{ "w": "what time", "bn": "কয়টায়", "pos": "phrase" }, { "w": "reach", "bn": "পৌঁছানো", "pos": "verb" }] },
+            { "id": "03", "en": "How did he feel at school?", "words": [{ "w": "feel", "bn": "অনুভব করা", "pos": "verb" }] },
+            { "id": "04", "en": "What did he eat for lunch?", "words": [{ "w": "lunch", "bn": "দুপুরের খাবার", "pos": "noun" }] },
+            { "id": "05", "en": "Where did he go after school?", "words": [{ "w": "after school", "bn": "স্কুল ছুটির পরে", "pos": "phrase" }] },
+            { "id": "06", "en": "When did he finish his homework?", "words": [{ "w": "finish", "bn": "শেষ করা", "pos": "verb" }, { "w": "homework", "bn": "বাড়ির কাজ", "pos": "noun" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "future-will",
+      "focus": "Promises and plans for tomorrow",
+      "focusBn": "আগামীকালের প্রতিশ্রুতি ও পরিকল্পনা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + will / 'll + verb (base).",
+          "tipBn": "ভবিষ্যৎ, প্রতিশ্রুতি বা হঠাৎ সিদ্ধান্ত বোঝাতে will-এর পরে verb মূল রূপে বসে।",
+          "items": [
+            { "id": "01", "en": "I will set my alarm tonight.", "words": [{ "w": "set", "bn": "সেট করা, দেওয়া", "pos": "verb" }, { "w": "tonight", "bn": "আজ রাতে", "pos": "adverb" }] },
+            { "id": "02", "en": "Rafi will wake up at 6 o'clock.", "words": [{ "w": "wake up", "bn": "ঘুম থেকে ওঠা", "pos": "phrasal verb" }] },
+            { "id": "03", "en": "I'll pack my school bag now.", "words": [{ "w": "pack", "bn": "গোছানো", "pos": "verb" }] },
+            { "id": "04", "en": "I will go to bed early.", "words": [{ "w": "go to bed", "bn": "ঘুমাতে যাওয়া", "pos": "phrase" }, { "w": "early", "bn": "তাড়াতাড়ি", "pos": "adverb" }] },
+            { "id": "05", "en": "We will visit Grandma on Friday.", "words": [{ "w": "visit", "bn": "বেড়াতে যাওয়া", "pos": "verb" }, { "w": "Grandma", "bn": "দাদি, নানি", "pos": "noun" }] },
+            { "id": "06", "en": "Tomorrow will be a busy day.", "words": [{ "w": "tomorrow", "bn": "আগামীকাল", "pos": "noun" }, { "w": "busy", "bn": "ব্যস্ত", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + won't / will not + verb (base).",
+          "tipBn": "won't মানে will not; এর পরে verb মূল রূপে বসে।",
+          "items": [
+            { "id": "01", "en": "I won't wake up late tomorrow.", "words": [{ "w": "late", "bn": "দেরিতে", "pos": "adverb" }, { "w": "tomorrow", "bn": "আগামীকাল", "pos": "adverb" }] },
+            { "id": "02", "en": "I won't forget my lunch box.", "words": [{ "w": "forget", "bn": "ভুলে যাওয়া", "pos": "verb" }, { "w": "lunch box", "bn": "টিফিন বক্স", "pos": "noun" }] },
+            { "id": "03", "en": "Rafi won't play games at night.", "words": [{ "w": "games", "bn": "গেম", "pos": "noun", "base": "game" }, { "w": "at night", "bn": "রাতে", "pos": "phrase" }] },
+            { "id": "04", "en": "I will not watch TV tonight.", "words": [{ "w": "watch", "bn": "দেখা", "pos": "verb" }, { "w": "tonight", "bn": "আজ রাতে", "pos": "adverb" }] },
+            { "id": "05", "en": "We won't go to school on Friday.", "words": [{ "w": "Friday", "bn": "শুক্রবার", "pos": "noun" }] },
+            { "id": "06", "en": "Breakfast won't take long.", "words": [{ "w": "take long", "bn": "বেশি সময় লাগা", "pos": "phrase" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Will + subject + verb (base) ...?",
+          "tipBn": "প্রশ্ন করতে Will বাক্যের শুরুতে বসে।",
+          "items": [
+            { "id": "01", "en": "Will you set your alarm tonight?", "words": [{ "w": "set", "bn": "সেট করা, দেওয়া", "pos": "verb" }, { "w": "alarm", "bn": "অ্যালার্ম", "pos": "noun" }] },
+            { "id": "02", "en": "Will Rafi wake up on time?", "words": [{ "w": "on time", "bn": "সময়মতো", "pos": "phrase" }] },
+            { "id": "03", "en": "Will you go to bed early tonight?", "words": [{ "w": "go to bed", "bn": "ঘুমাতে যাওয়া", "pos": "phrase" }] },
+            { "id": "04", "en": "Will you visit Grandma on Friday?", "words": [{ "w": "visit", "bn": "বেড়াতে যাওয়া", "pos": "verb" }, { "w": "Grandma", "bn": "দাদি, নানি", "pos": "noun" }] },
+            { "id": "05", "en": "Will it rain tomorrow morning?", "words": [{ "w": "rain", "bn": "বৃষ্টি হওয়া", "pos": "verb" }, { "w": "tomorrow morning", "bn": "আগামীকাল সকালে", "pos": "phrase" }] },
+            { "id": "06", "en": "Will you help me with my homework?", "words": [{ "w": "help", "bn": "সাহায্য করা", "pos": "verb" }, { "w": "homework", "bn": "বাড়ির কাজ", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + will + subject + verb (base)?",
+          "tipBn": "Wh- শব্দের পরে will, তারপর subject ও verb-এর মূল রূপ বসে।",
+          "items": [
+            { "id": "01", "en": "What time will you wake up?", "words": [{ "w": "what time", "bn": "কয়টায়", "pos": "phrase" }, { "w": "wake up", "bn": "ঘুম থেকে ওঠা", "pos": "phrasal verb" }] },
+            { "id": "02", "en": "When will you finish your homework?", "words": [{ "w": "finish", "bn": "শেষ করা", "pos": "verb" }] },
+            { "id": "03", "en": "Who will take Rafi to school?", "words": [{ "w": "take", "bn": "নিয়ে যাওয়া", "pos": "verb" }] },
+            { "id": "04", "en": "What will you eat for breakfast?", "words": [{ "w": "breakfast", "bn": "সকালের নাস্তা", "pos": "noun" }] },
+            { "id": "05", "en": "Where will we go on Friday?", "words": [{ "w": "where", "bn": "কোথায়", "pos": "adverb" }] },
+            { "id": "06", "en": "How will you get home?", "words": [{ "w": "get home", "bn": "বাসায় পৌঁছানো", "pos": "phrase" }] }
+          ]
+        }
+      ]
+    }
+  ]
+}

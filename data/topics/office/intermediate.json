@@ -1,0 +1,272 @@
+{
+  "topic": "office",
+  "level": "intermediate",
+  "title": "Sabrina's Project Team",
+  "story": "Sabrina works as a project coordinator at a software company in Dhaka. Her team, managed by Hasan, is building a shopping app for a supermarket chain. She works closely with Imran, a developer, and Lamia, a designer, while Nabila is their contact on the client side.",
+  "storyBn": "সাবরিনা ঢাকার একটি সফটওয়্যার কোম্পানিতে প্রজেক্ট কো-অর্ডিনেটর হিসেবে কাজ করে। হাসানের নেতৃত্বে তার দল একটি সুপারশপ চেইনের জন্য শপিং অ্যাপ বানাচ্ছে। সে ডেভেলপার ইমরান ও ডিজাইনার লামিয়ার সাথে কাজ করে, আর ক্লায়েন্টের পক্ষে যোগাযোগ রাখেন নাবিলা।",
+  "units": [
+    {
+      "grammar": "present-perfect",
+      "focus": "Report progress and recent work on the project",
+      "focusBn": "প্রকল্পের অগ্রগতি ও সাম্প্রতিক কাজের খবর দেওয়া",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + have/has + past participle (+ just/already/since/for).",
+          "tipBn": "সাম্প্রতিক খবর বা অতীতে শুরু হয়ে এখনও প্রাসঙ্গিক কাজ বোঝাতে have/has + past participle হয়।",
+          "items": [
+            { "id": "01", "en": "Sabrina has just sent the weekly update to the client.", "words": [{ "w": "just", "bn": "এইমাত্র", "pos": "adverb" }, { "w": "weekly update", "bn": "সাপ্তাহিক অগ্রগতির খবর", "pos": "noun" }] },
+            { "id": "02", "en": "Imran has already fixed the login bug on the app.", "words": [{ "w": "already", "bn": "ইতিমধ্যে", "pos": "adverb" }, { "w": "fixed", "bn": "ঠিক করেছে", "pos": "verb", "base": "fix" }, { "w": "bug", "bn": "ত্রুটি, বাগ", "pos": "noun" }] },
+            { "id": "03", "en": "Lamia has redesigned the home screen twice since Monday.", "words": [{ "w": "redesigned", "bn": "নতুন করে নকশা করেছে", "pos": "verb", "base": "redesign" }, { "w": "twice", "bn": "দুবার", "pos": "adverb" }, { "w": "since", "bn": "থেকে", "pos": "preposition" }] },
+            { "id": "04", "en": "We have finished two out of five project milestones.", "words": [{ "w": "out of", "bn": "এর মধ্যে", "pos": "preposition" }, { "w": "milestones", "bn": "গুরুত্বপূর্ণ ধাপ, মাইলফলক", "pos": "noun", "base": "milestone" }] },
+            { "id": "05", "en": "Hasan has managed this team since the project started last year.", "words": [{ "w": "managed", "bn": "পরিচালনা করেছেন", "pos": "verb", "base": "manage" }, { "w": "since", "bn": "থেকে", "pos": "conjunction" }] },
+            { "id": "06", "en": "I have booked the large meeting room for Thursday's demo.", "words": [{ "w": "booked", "bn": "আগে থেকে ঠিক করেছি, বুক করেছি", "pos": "verb", "base": "book" }, { "w": "demo", "bn": "প্রদর্শনী, ডেমো", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + haven't/hasn't + past participle (+ yet). / has never + past participle",
+          "tipBn": "না-বোধক করতে haven't বা hasn't বসে; yet সাধারণত বাক্যের শেষে থাকে।",
+          "items": [
+            { "id": "01", "en": "The client hasn't replied to Sabrina's email yet.", "words": [{ "w": "replied", "bn": "উত্তর দিয়েছে", "pos": "verb", "base": "reply" }, { "w": "yet", "bn": "এখনও", "pos": "adverb" }] },
+            { "id": "02", "en": "Imran hasn't tested the payment page on older phones.", "words": [{ "w": "tested", "bn": "পরীক্ষা করেছে", "pos": "verb", "base": "test" }, { "w": "older", "bn": "পুরনো", "pos": "adjective", "base": "old" }] },
+            { "id": "03", "en": "We haven't received the final content from the marketing team.", "words": [{ "w": "received", "bn": "পেয়েছি", "pos": "verb", "base": "receive" }, { "w": "content", "bn": "লেখা ও ছবি, কনটেন্ট", "pos": "noun" }] },
+            { "id": "04", "en": "Lamia has never presented her designs to a client before.", "words": [{ "w": "never", "bn": "কখনো না", "pos": "adverb" }, { "w": "presented", "bn": "উপস্থাপন করেছে", "pos": "verb", "base": "present" }] },
+            { "id": "05", "en": "I haven't had time to read the full report.", "words": [{ "w": "had time", "bn": "সময় পেয়েছি", "pos": "phrase", "base": "have time" }, { "w": "full", "bn": "পুরো", "pos": "adjective" }] },
+            { "id": "06", "en": "Nobody has updated the project calendar since last Monday.", "words": [{ "w": "updated", "bn": "হালনাগাদ করেছে", "pos": "verb", "base": "update" }, { "w": "project calendar", "bn": "প্রকল্পের সময়সূচি", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Have/Has + subject + (ever) + past participle ... (yet)?",
+          "tipBn": "প্রশ্ন করতে Have বা Has শুরুতে বসে; ever দিয়ে অভিজ্ঞতা, yet দিয়ে কাজ শেষ হয়েছে কিনা জানা যায়।",
+          "items": [
+            { "id": "01", "en": "Has the client replied to the weekly update yet?", "words": [{ "w": "replied", "bn": "উত্তর দিয়েছে", "pos": "verb", "base": "reply" }, { "w": "yet", "bn": "এর মধ্যে", "pos": "adverb" }] },
+            { "id": "02", "en": "Have you ever worked with an international client?", "words": [{ "w": "ever", "bn": "কখনো", "pos": "adverb" }, { "w": "international", "bn": "আন্তর্জাতিক, বিদেশি", "pos": "adjective" }] },
+            { "id": "03", "en": "Has Imran shared the latest version of the app with the testers?", "words": [{ "w": "latest", "bn": "সর্বশেষ", "pos": "adjective" }, { "w": "version", "bn": "সংস্করণ", "pos": "noun" }, { "w": "testers", "bn": "পরীক্ষক", "pos": "noun", "base": "tester" }] },
+            { "id": "04", "en": "Have we booked a room for Thursday's demo?", "words": [{ "w": "booked", "bn": "বুক করেছি", "pos": "verb", "base": "book" }, { "w": "demo", "bn": "প্রদর্শনী, ডেমো", "pos": "noun" }] },
+            { "id": "05", "en": "Has Hasan approved the new timeline for the second phase?", "words": [{ "w": "approved", "bn": "অনুমোদন করেছেন", "pos": "verb", "base": "approve" }, { "w": "timeline", "bn": "সময়সূচি", "pos": "noun" }, { "w": "phase", "bn": "পর্যায়, ধাপ", "pos": "noun" }] },
+            { "id": "06", "en": "Have you had a chance to look at my slides?", "words": [{ "w": "had a chance", "bn": "সুযোগ পেয়েছেন", "pos": "phrase", "base": "have a chance" }, { "w": "look at", "bn": "দেখা", "pos": "phrasal verb" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + have/has + subject + past participle?",
+          "tipBn": "প্রথমে Wh-word, তারপর have/has, subject ও past participle বসে।",
+          "items": [
+            { "id": "01", "en": "What have you finished since this morning?", "words": [{ "w": "finished", "bn": "শেষ করেছেন", "pos": "verb", "base": "finish" }, { "w": "since this morning", "bn": "আজ সকাল থেকে", "pos": "phrase" }] },
+            { "id": "02", "en": "How long has Lamia been at the company?", "words": [{ "w": "How long", "bn": "কতদিন", "pos": "phrase" }, { "w": "company", "bn": "প্রতিষ্ঠান, কোম্পানি", "pos": "noun" }] },
+            { "id": "03", "en": "Why hasn't the client signed the contract yet?", "words": [{ "w": "signed", "bn": "সই করেছে", "pos": "verb", "base": "sign" }, { "w": "contract", "bn": "চুক্তি", "pos": "noun" }] },
+            { "id": "04", "en": "Which features have we completed this week?", "words": [{ "w": "features", "bn": "সুবিধা, ফিচার", "pos": "noun", "base": "feature" }, { "w": "completed", "bn": "সম্পন্ন করেছি", "pos": "verb", "base": "complete" }] },
+            { "id": "05", "en": "Who has taken the projector from the meeting room?", "words": [{ "w": "taken", "bn": "নিয়ে গেছে", "pos": "verb", "base": "take" }, { "w": "meeting room", "bn": "সভাকক্ষ", "pos": "noun" }] },
+            { "id": "06", "en": "How many bugs have the testers found so far?", "words": [{ "w": "bugs", "bn": "ত্রুটি, বাগ", "pos": "noun", "base": "bug" }, { "w": "so far", "bn": "এখন পর্যন্ত", "pos": "phrase" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short update written mostly in the present perfect.",
+          "tipBn": "অগ্রগতির খবর দিতে present perfect বেশি ব্যবহার হয়: কী হয়ে গেছে, কী এখনও হয়নি।",
+          "items": [
+            { "id": "01", "title": "Weekly status update", "en": "Hi team, here is a quick update on the app. Imran has fixed the login bug, and Lamia has finished the new home screen. We haven't received the final content from the client yet, so I have sent them a reminder. Hasan has already approved the timeline for phase two.", "words": [{ "w": "update", "bn": "হালনাগাদ খবর, আপডেট", "pos": "noun" }, { "w": "content", "bn": "লেখা ও ছবি, কনটেন্ট", "pos": "noun" }, { "w": "reminder", "bn": "মনে করিয়ে দেওয়ার বার্তা", "pos": "noun" }, { "w": "approved", "bn": "অনুমোদন করেছেন", "pos": "verb", "base": "approve" }, { "w": "timeline", "bn": "সময়সূচি", "pos": "noun" }] },
+            { "id": "02", "title": "Reply to the client", "en": "Dear Nabila, thank you for your patience. We have completed the payment feature, and our testers have checked it on ten different phones. We haven't found any serious problems so far. I have attached a short video that shows how the feature works.", "words": [{ "w": "patience", "bn": "ধৈর্য", "pos": "noun" }, { "w": "completed", "bn": "সম্পন্ন করেছি", "pos": "verb", "base": "complete" }, { "w": "serious", "bn": "গুরুতর", "pos": "adjective" }, { "w": "so far", "bn": "এখন পর্যন্ত", "pos": "phrase" }, { "w": "attached", "bn": "সংযুক্ত করেছি", "pos": "verb", "base": "attach" }] },
+            { "id": "03", "title": "A new team member", "en": "Hi everyone, please welcome Tanha, our new tester. She has worked in software testing for four years and has joined us from a company in Chattogram. I have already given her access to the project files. Please say hello when you see her at the desk near the window.", "words": [{ "w": "welcome", "bn": "স্বাগত জানানো", "pos": "verb" }, { "w": "tester", "bn": "পরীক্ষক", "pos": "noun" }, { "w": "joined", "bn": "যোগ দিয়েছেন", "pos": "verb", "base": "join" }, { "w": "access", "bn": "প্রবেশাধিকার, অ্যাক্সেস", "pos": "noun" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-continuous",
+      "focus": "Describe what was happening during busy moments at work",
+      "focusBn": "অফিসের ব্যস্ত মুহূর্তে কী ঘটছিল তা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + was/were + verb-ing (+ when/while + clause).",
+          "tipBn": "অতীতের কোনো সময়ে চলমান কাজ বোঝাতে was/were + verb-ing হয়; when বা while দিয়ে দুটি ঘটনা যুক্ত হয়।",
+          "items": [
+            { "id": "01", "en": "Sabrina was presenting the demo when the projector suddenly stopped.", "words": [{ "w": "presenting", "bn": "উপস্থাপন করছিল", "pos": "verb", "base": "present" }, { "w": "suddenly", "bn": "হঠাৎ", "pos": "adverb" }] },
+            { "id": "02", "en": "Imran was fixing a bug while the rest of the team was having lunch.", "words": [{ "w": "fixing", "bn": "ঠিক করছিল", "pos": "verb", "base": "fix" }, { "w": "the rest of", "bn": "বাকি সবাই", "pos": "phrase" }] },
+            { "id": "03", "en": "At ten o'clock yesterday, we were discussing the budget with the client.", "words": [{ "w": "discussing", "bn": "আলোচনা করছিলাম", "pos": "verb", "base": "discuss" }, { "w": "budget", "bn": "বাজেট, খরচের পরিকল্পনা", "pos": "noun" }] },
+            { "id": "04", "en": "Lamia was working from home when the power went out.", "words": [{ "w": "working from home", "bn": "বাসা থেকে কাজ করছিল", "pos": "phrase" }, { "w": "power went out", "bn": "বিদ্যুৎ চলে গেল", "pos": "phrase" }] },
+            { "id": "05", "en": "Hasan was talking to the client when I knocked on his door.", "words": [{ "w": "talking to", "bn": "কথা বলছিলেন", "pos": "phrase" }, { "w": "knocked on", "bn": "টোকা দিলাম", "pos": "phrasal verb", "base": "knock on" }] },
+            { "id": "06", "en": "The whole team was waiting for the test results all afternoon.", "words": [{ "w": "waiting for", "bn": "অপেক্ষা করছিল", "pos": "phrasal verb", "base": "wait for" }, { "w": "results", "bn": "ফলাফল", "pos": "noun", "base": "result" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + wasn't/weren't + verb-ing ...",
+          "tipBn": "না-বোধক করতে was বা were-এর পরে not বসে, তারপর verb-ing।",
+          "items": [
+            { "id": "01", "en": "Sabrina wasn't expecting so many questions from the client.", "words": [{ "w": "expecting", "bn": "আশা করছিল", "pos": "verb", "base": "expect" }, { "w": "so many", "bn": "এত বেশি", "pos": "phrase" }] },
+            { "id": "02", "en": "Imran wasn't listening when Hasan explained the new deadline.", "words": [{ "w": "listening", "bn": "মন দিয়ে শুনছিল", "pos": "verb", "base": "listen" }, { "w": "deadline", "bn": "শেষ সময়সীমা", "pos": "noun" }] },
+            { "id": "03", "en": "We weren't using the latest version of the file.", "words": [{ "w": "latest", "bn": "সর্বশেষ", "pos": "adjective" }, { "w": "version", "bn": "সংস্করণ", "pos": "noun" }] },
+            { "id": "04", "en": "Lamia wasn't feeling well, so she left the office early.", "words": [{ "w": "feeling well", "bn": "সুস্থ বোধ করা", "pos": "phrase" }, { "w": "early", "bn": "আগে আগে", "pos": "adverb" }] },
+            { "id": "05", "en": "The Wi-Fi wasn't working during the morning meeting.", "words": [{ "w": "working", "bn": "চলছিল", "pos": "verb", "base": "work" }, { "w": "during", "bn": "চলাকালীন", "pos": "preposition" }] },
+            { "id": "06", "en": "I wasn't checking my phone, so I missed your call.", "words": [{ "w": "checking", "bn": "দেখছিলাম", "pos": "verb", "base": "check" }, { "w": "missed", "bn": "ধরতে পারিনি", "pos": "verb", "base": "miss" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Was/Were + subject + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে Was বা Were শুরুতে বসে, তারপর subject ও verb-ing।",
+          "items": [
+            { "id": "01", "en": "Were you taking notes during the client meeting?", "words": [{ "w": "taking notes", "bn": "নোট নিচ্ছিলেন", "pos": "phrase", "base": "take notes" }, { "w": "during", "bn": "চলাকালীন", "pos": "preposition" }] },
+            { "id": "02", "en": "Was Imran still working when you left last night?", "words": [{ "w": "still", "bn": "তখনও", "pos": "adverb" }, { "w": "last night", "bn": "গত রাতে", "pos": "phrase" }] },
+            { "id": "03", "en": "Was the client joining from their office or from home?", "words": [{ "w": "client", "bn": "ক্লায়েন্ট, গ্রাহক", "pos": "noun" }, { "w": "joining", "bn": "যুক্ত হচ্ছিলেন", "pos": "verb", "base": "join" }] },
+            { "id": "04", "en": "Were the testers using the old version of the app?", "words": [{ "w": "testers", "bn": "পরীক্ষক", "pos": "noun", "base": "tester" }, { "w": "version", "bn": "সংস্করণ", "pos": "noun" }] },
+            { "id": "05", "en": "Was Hasan sharing his screen when the call dropped?", "words": [{ "w": "sharing his screen", "bn": "স্ক্রিন শেয়ার করছিলেন", "pos": "phrase", "base": "share one's screen" }, { "w": "call dropped", "bn": "কল কেটে গেল", "pos": "phrase" }] },
+            { "id": "06", "en": "Were you and Lamia talking about the new design?", "words": [{ "w": "talking about", "bn": "কথা বলছিলেন", "pos": "phrase" }, { "w": "design", "bn": "নকশা, ডিজাইন", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + was/were + subject + verb-ing?",
+          "tipBn": "প্রথমে Wh-word, তারপর was/were, subject ও verb-ing বসে।",
+          "items": [
+            { "id": "01", "en": "What were you working on when the system crashed?", "words": [{ "w": "working on", "bn": "কাজ করছিলেন", "pos": "phrasal verb", "base": "work on" }, { "w": "crashed", "bn": "হঠাৎ বন্ধ হয়ে গেল", "pos": "verb", "base": "crash" }] },
+            { "id": "02", "en": "Why was Imran staying so late at the office?", "words": [{ "w": "staying", "bn": "থাকছিল", "pos": "verb", "base": "stay" }, { "w": "so late", "bn": "এত দেরি পর্যন্ত", "pos": "phrase" }] },
+            { "id": "03", "en": "Who was sitting at my desk this morning?", "words": [{ "w": "sitting", "bn": "বসে ছিল", "pos": "verb", "base": "sit" }, { "w": "desk", "bn": "ডেস্ক, কাজের টেবিল", "pos": "noun" }] },
+            { "id": "04", "en": "Where were you going in such a hurry?", "words": [{ "w": "going", "bn": "যাচ্ছিলেন", "pos": "verb", "base": "go" }, { "w": "in such a hurry", "bn": "এত তাড়াহুড়ো করে", "pos": "phrase" }] },
+            { "id": "05", "en": "What was the client complaining about during the call?", "words": [{ "w": "complaining", "bn": "অভিযোগ করছিলেন", "pos": "verb", "base": "complain" }, { "w": "during", "bn": "চলাকালীন", "pos": "preposition" }] },
+            { "id": "06", "en": "How were you feeling before your first presentation?", "words": [{ "w": "feeling", "bn": "অনুভব করছিলেন", "pos": "verb", "base": "feel" }, { "w": "presentation", "bn": "উপস্থাপনা", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short account of past events, mostly in the past continuous.",
+          "tipBn": "পটভূমিতে চলমান কাজ past continuous-এ, আর হঠাৎ ঘটা ঘটনা past simple-এ লেখা হয়।",
+          "items": [
+            { "id": "01", "title": "What happened during the demo", "en": "Yesterday afternoon, Sabrina was presenting the new app to the client. While she was showing the payment screen, the projector suddenly stopped working. Imran was sitting near the door, so he quickly brought a spare laptop. Meanwhile, Lamia was answering the client's questions about the design.", "words": [{ "w": "presenting", "bn": "উপস্থাপন করছিল", "pos": "verb", "base": "present" }, { "w": "suddenly", "bn": "হঠাৎ", "pos": "adverb" }, { "w": "spare", "bn": "অতিরিক্ত", "pos": "adjective" }, { "w": "Meanwhile", "bn": "এরই মধ্যে", "pos": "adverb" }] },
+            { "id": "02", "title": "Sorry for the late reply", "en": "Hi Hasan, sorry for the late reply. I was working on the report this morning when the power went out in our area. My laptop battery was running low, and the internet wasn't working either. I will finish the report as soon as the power comes back.", "words": [{ "w": "power went out", "bn": "বিদ্যুৎ চলে গেল", "pos": "phrase" }, { "w": "running low", "bn": "ফুরিয়ে আসছিল", "pos": "phrase", "base": "run low" }, { "w": "either", "bn": "-ও না", "pos": "adverb" }, { "w": "as soon as", "bn": "সাথে সাথে, যখনই", "pos": "conjunction" }] },
+            { "id": "03", "title": "Monday meeting summary", "en": "In Monday's meeting, while we were reviewing the timeline, the client asked for two new features. Hasan was taking notes, and Imran was checking how much time each feature needs. At the end, we were still discussing the budget, so we agreed to meet again on Wednesday.", "words": [{ "w": "reviewing", "bn": "পর্যালোচনা করছিলাম", "pos": "verb", "base": "review" }, { "w": "features", "bn": "সুবিধা, ফিচার", "pos": "noun", "base": "feature" }, { "w": "taking notes", "bn": "নোট নিচ্ছিলেন", "pos": "phrase", "base": "take notes" }, { "w": "agreed", "bn": "রাজি হলাম", "pos": "verb", "base": "agree" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "modals",
+      "focus": "Give advice, rules and polite requests at work",
+      "focusBn": "অফিসে পরামর্শ, নিয়ম ও ভদ্র অনুরোধ জানানো",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + should/must/have to/might/could/need to + verb (base) ...",
+          "tipBn": "should পরামর্শ, must ও have to বাধ্যবাধকতা, might সম্ভাবনা, আর could প্রস্তাব বা সম্ভাবনা বোঝায়।",
+          "items": [
+            { "id": "01", "en": "You should back up your files before you leave every evening.", "words": [{ "w": "back up", "bn": "ব্যাকআপ রাখা", "pos": "phrasal verb" }, { "w": "leave", "bn": "বের হওয়া", "pos": "verb" }] },
+            { "id": "02", "en": "All visitors must sign in at the front desk.", "words": [{ "w": "sign in", "bn": "নাম লেখানো", "pos": "phrasal verb" }, { "w": "front desk", "bn": "অভ্যর্থনা ডেস্ক", "pos": "noun" }] },
+            { "id": "03", "en": "We have to submit the final design by Thursday.", "words": [{ "w": "submit", "bn": "জমা দেওয়া", "pos": "verb" }, { "w": "by Thursday", "bn": "বৃহস্পতিবারের মধ্যে", "pos": "phrase" }] },
+            { "id": "04", "en": "The client might ask for more changes after the demo.", "words": [{ "w": "ask for", "bn": "চাওয়া", "pos": "phrasal verb" }, { "w": "changes", "bn": "পরিবর্তন", "pos": "noun", "base": "change" }] },
+            { "id": "05", "en": "You could ask IT to reset your password.", "words": [{ "w": "IT", "bn": "আইটি বিভাগ", "pos": "noun" }, { "w": "reset", "bn": "নতুন করে সেট করা", "pos": "verb" }] },
+            { "id": "06", "en": "Lamia needs to update the slides before the meeting.", "words": [{ "w": "needs to", "bn": "করা দরকার", "pos": "phrase", "base": "need to" }, { "w": "update", "bn": "হালনাগাদ করা", "pos": "verb" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + shouldn't/mustn't/don't have to/might not/can't + verb (base) ...",
+          "tipBn": "mustn't মানে করা নিষেধ, কিন্তু don't have to মানে করার দরকার নেই।",
+          "items": [
+            { "id": "01", "en": "You shouldn't reply to the client without checking with Hasan first.", "words": [{ "w": "without", "bn": "ছাড়া", "pos": "preposition" }, { "w": "checking with", "bn": "জিজ্ঞেস করে নেওয়া", "pos": "phrase" }] },
+            { "id": "02", "en": "We mustn't share client data outside the company.", "words": [{ "w": "share", "bn": "ভাগ করা, শেয়ার করা", "pos": "verb" }, { "w": "data", "bn": "তথ্য", "pos": "noun" }] },
+            { "id": "03", "en": "You don't have to come in early tomorrow.", "words": [{ "w": "don't have to", "bn": "দরকার নেই", "pos": "phrase" }, { "w": "come in", "bn": "অফিসে আসা", "pos": "phrasal verb" }] },
+            { "id": "04", "en": "The client might not like the new colors.", "words": [{ "w": "might not", "bn": "হয়তো না", "pos": "phrase" }, { "w": "colors", "bn": "রং", "pos": "noun", "base": "color" }] },
+            { "id": "05", "en": "I can't join the call at three because I have another meeting.", "words": [{ "w": "join", "bn": "যোগ দেওয়া", "pos": "verb" }, { "w": "another", "bn": "আরেকটি", "pos": "adjective" }] },
+            { "id": "06", "en": "Lamia doesn't need to print the slides for the meeting.", "words": [{ "w": "doesn't need to", "bn": "দরকার নেই", "pos": "phrase" }, { "w": "print", "bn": "ছাপানো, প্রিন্ট করা", "pos": "verb" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Should/Can/Could + subject + verb (base) ...? / Do/Does + subject + have to/need to + verb ...?",
+          "tipBn": "modal দিয়ে প্রশ্ন করতে modal শুরুতে বসে; have to বা need to হলে শুরুতে Do বা Does লাগে।",
+          "items": [
+            { "id": "01", "en": "Should I copy Hasan on my reply to the client?", "words": [{ "w": "copy", "bn": "সিসি-তে রাখা", "pos": "verb" }, { "w": "reply", "bn": "উত্তর", "pos": "noun" }] },
+            { "id": "02", "en": "Could you share your screen for a moment?", "words": [{ "w": "share your screen", "bn": "স্ক্রিন শেয়ার করা", "pos": "phrase" }, { "w": "for a moment", "bn": "এক মুহূর্তের জন্য", "pos": "phrase" }] },
+            { "id": "03", "en": "Do we have to finish the testing by Wednesday?", "words": [{ "w": "testing", "bn": "পরীক্ষার কাজ", "pos": "noun" }, { "w": "by Wednesday", "bn": "বুধবারের মধ্যে", "pos": "phrase" }] },
+            { "id": "04", "en": "Can I leave an hour early today?", "words": [{ "w": "leave", "bn": "চলে যাওয়া", "pos": "verb" }, { "w": "early", "bn": "আগে", "pos": "adverb" }] },
+            { "id": "05", "en": "Does everyone need to attend the training on Thursday?", "words": [{ "w": "attend", "bn": "উপস্থিত থাকা", "pos": "verb" }, { "w": "training", "bn": "প্রশিক্ষণ", "pos": "noun" }] },
+            { "id": "06", "en": "Could the delay affect the launch date?", "words": [{ "w": "delay", "bn": "বিলম্ব", "pos": "noun" }, { "w": "affect", "bn": "প্রভাব ফেলা", "pos": "verb" }, { "w": "launch date", "bn": "চালুর তারিখ", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "tag-question",
+          "pattern": "Statement with a modal, + opposite short tag?",
+          "tipBn": "হ্যাঁ-বোধক বাক্যের পরে না-বোধক ট্যাগ, আর না-বোধক বাক্যের পরে হ্যাঁ-বোধক ট্যাগ বসে।",
+          "items": [
+            { "id": "01", "en": "We should tell the client about the delay, shouldn't we?", "words": [{ "w": "tell", "bn": "জানানো", "pos": "verb" }, { "w": "delay", "bn": "বিলম্ব", "pos": "noun" }] },
+            { "id": "02", "en": "You can join the meeting at ten, can't you?", "words": [{ "w": "join", "bn": "যোগ দেওয়া", "pos": "verb" }, { "w": "meeting", "bn": "সভা, মিটিং", "pos": "noun" }] },
+            { "id": "03", "en": "Imran has to finish the bug fixes today, doesn't he?", "words": [{ "w": "has to", "bn": "করতেই হবে", "pos": "phrase", "base": "have to" }, { "w": "bug fixes", "bn": "ত্রুটি সারানোর কাজ", "pos": "noun" }] },
+            { "id": "04", "en": "We don't have to wear formal clothes on Thursdays, do we?", "words": [{ "w": "formal", "bn": "আনুষ্ঠানিক", "pos": "adjective" }, { "w": "clothes", "bn": "পোশাক", "pos": "noun" }] },
+            { "id": "05", "en": "Lamia shouldn't work this late every night, should she?", "words": [{ "w": "this late", "bn": "এত রাত পর্যন্ত", "pos": "phrase" }, { "w": "every night", "bn": "প্রতি রাতে", "pos": "phrase" }] },
+            { "id": "06", "en": "I can take my annual leave in December, can't I?", "words": [{ "w": "take", "bn": "নেওয়া", "pos": "verb" }, { "w": "annual leave", "bn": "বার্ষিক ছুটি", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short workplace message with rules, advice or requests.",
+          "tipBn": "নিয়ম, পরামর্শ ও অনুরোধ লিখতে must, should, have to, could, might একসাথে ব্যবহার হয়।",
+          "items": [
+            { "id": "01", "title": "Office rules for new staff", "en": "Welcome to the team! You must wear your ID card at all times in the building. You should lock your computer when you leave your desk, even for a few minutes. You don't have to come in on weekends, but you might need to join an urgent call sometimes.", "words": [{ "w": "ID card", "bn": "পরিচয়পত্র", "pos": "noun" }, { "w": "at all times", "bn": "সবসময়", "pos": "phrase" }, { "w": "lock", "bn": "লক করা", "pos": "verb" }, { "w": "urgent", "bn": "জরুরি", "pos": "adjective" }] },
+            { "id": "02", "title": "Message to the team", "en": "Hi team, the client has moved the demo to Tuesday, so we need to work fast. Imran, could you finish the payment fixes by Sunday evening? Lamia should update the slides with the new screens. We might have to stay a little late on Monday, but I will order dinner for everyone.", "words": [{ "w": "moved", "bn": "সরিয়ে নিয়েছে", "pos": "verb", "base": "move" }, { "w": "fixes", "bn": "সংশোধন", "pos": "noun", "base": "fix" }, { "w": "update", "bn": "হালনাগাদ করা", "pos": "verb" }, { "w": "order", "bn": "অর্ডার দেওয়া", "pos": "verb" }] },
+            { "id": "03", "title": "Asking for a day off", "en": "Dear Hasan, I would like to ask for a day off next Wednesday. My sister is getting married, and I have to travel to Sylhet. I can finish my tasks before I leave, and Imran could cover any urgent issues. Please let me know if that works for you.", "words": [{ "w": "day off", "bn": "ছুটির দিন", "pos": "noun" }, { "w": "getting married", "bn": "বিয়ে হচ্ছে", "pos": "phrase", "base": "get married" }, { "w": "cover", "bn": "সামলানো", "pos": "verb" }, { "w": "issues", "bn": "সমস্যা", "pos": "noun", "base": "issue" }, { "w": "let me know", "bn": "আমাকে জানাবেন", "pos": "phrase" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Talk about possible and imagined situations at work",
+      "focusBn": "অফিসের সম্ভাব্য ও কাল্পনিক পরিস্থিতি নিয়ে বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + present, will + verb. / If + past, would + verb.",
+          "tipBn": "সম্ভাব্য অবস্থার জন্য If + present ও will, আর কাল্পনিক অবস্থার জন্য If + past ও would ব্যবহার হয়।",
+          "items": [
+            { "id": "01", "en": "If the client approves the design today, we will start coding tomorrow.", "words": [{ "w": "approves", "bn": "অনুমোদন করে", "pos": "verb", "base": "approve" }, { "w": "coding", "bn": "কোড লেখা", "pos": "noun" }] },
+            { "id": "02", "en": "If you send me the file, I'll check it after lunch.", "words": [{ "w": "check", "bn": "দেখে দেওয়া, যাচাই করা", "pos": "verb" }, { "w": "after lunch", "bn": "দুপুরের খাবারের পরে", "pos": "phrase" }] },
+            { "id": "03", "en": "If I were the manager, I would give everyone Thursday afternoons off.", "words": [{ "w": "were", "bn": "হতাম", "pos": "verb", "base": "be" }, { "w": "afternoons off", "bn": "বিকেলের ছুটি", "pos": "noun" }] },
+            { "id": "04", "en": "If we had more developers, we would finish the project much faster.", "words": [{ "w": "developers", "bn": "সফটওয়্যার নির্মাতা, ডেভেলপার", "pos": "noun", "base": "developer" }, { "w": "faster", "bn": "আরও দ্রুত", "pos": "adverb", "base": "fast" }] },
+            { "id": "05", "en": "If the internet goes down again, we'll use the mobile hotspot.", "words": [{ "w": "goes down", "bn": "বন্ধ হয়ে যায়", "pos": "phrasal verb", "base": "go down" }, { "w": "mobile hotspot", "bn": "মোবাইলের হটস্পট", "pos": "noun" }] },
+            { "id": "06", "en": "If Lamia got an offer from abroad, she would probably take it.", "words": [{ "w": "offer", "bn": "চাকরির প্রস্তাব", "pos": "noun" }, { "w": "abroad", "bn": "বিদেশ", "pos": "adverb" }, { "w": "probably", "bn": "সম্ভবত", "pos": "adverb" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + don't/doesn't ..., won't + verb. / If + didn't ..., wouldn't + verb.",
+          "tipBn": "শর্তবাক্যে না-বোধক অর্থ দিতে don't, won't, didn't বা wouldn't ব্যবহার হয়।",
+          "items": [
+            { "id": "01", "en": "If we don't get the content by Sunday, we won't meet the deadline.", "words": [{ "w": "content", "bn": "লেখা ও ছবি, কনটেন্ট", "pos": "noun" }, { "w": "meet the deadline", "bn": "সময়মতো কাজ শেষ করা", "pos": "phrase" }] },
+            { "id": "02", "en": "If Imran doesn't fix this bug, the app won't pass the test.", "words": [{ "w": "fix", "bn": "ঠিক করা", "pos": "verb" }, { "w": "pass", "bn": "উত্তীর্ণ হওয়া", "pos": "verb" }] },
+            { "id": "03", "en": "I wouldn't accept the offer if the salary were lower.", "words": [{ "w": "accept", "bn": "গ্রহণ করা", "pos": "verb" }, { "w": "salary", "bn": "বেতন", "pos": "noun" }] },
+            { "id": "04", "en": "If I didn't have this deadline, I wouldn't work on the weekend.", "words": [{ "w": "deadline", "bn": "শেষ সময়সীমা", "pos": "noun" }, { "w": "weekend", "bn": "সাপ্তাহিক ছুটির দিন", "pos": "noun" }] },
+            { "id": "05", "en": "The client won't be happy if we miss the launch date.", "words": [{ "w": "miss", "bn": "ধরতে না পারা", "pos": "verb" }, { "w": "launch date", "bn": "চালুর তারিখ", "pos": "noun" }] },
+            { "id": "06", "en": "If you don't lock your screen, someone might read your emails.", "words": [{ "w": "lock", "bn": "লক করা", "pos": "verb" }, { "w": "someone", "bn": "কেউ", "pos": "pronoun" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + will/would + subject + verb + if ...?",
+          "tipBn": "Wh-প্রশ্নের পরে will বা would বসে, আর শর্তটি If দিয়ে যুক্ত হয়।",
+          "items": [
+            { "id": "01", "en": "What will you do if the client rejects the design?", "words": [{ "w": "rejects", "bn": "বাতিল করে", "pos": "verb", "base": "reject" }, { "w": "design", "bn": "নকশা, ডিজাইন", "pos": "noun" }] },
+            { "id": "02", "en": "Who will lead the team if Hasan goes on leave?", "words": [{ "w": "lead", "bn": "নেতৃত্ব দেওয়া", "pos": "verb" }, { "w": "goes on leave", "bn": "ছুটিতে যান", "pos": "phrase", "base": "go on leave" }] },
+            { "id": "03", "en": "How would you feel if you had to work every weekend?", "words": [{ "w": "had to", "bn": "করতে হতো", "pos": "phrase", "base": "have to" }, { "w": "weekend", "bn": "সাপ্তাহিক ছুটির দিন", "pos": "noun" }] },
+            { "id": "04", "en": "What would you change if you were the team leader?", "words": [{ "w": "change", "bn": "বদলানো", "pos": "verb" }, { "w": "team leader", "bn": "দলনেতা", "pos": "noun" }] },
+            { "id": "05", "en": "Where will we meet if the conference room is busy?", "words": [{ "w": "conference room", "bn": "সম্মেলন কক্ষ", "pos": "noun" }, { "w": "busy", "bn": "ব্যবহৃত হচ্ছে, খালি নেই", "pos": "adjective" }] },
+            { "id": "06", "en": "Which task would you choose if you could work on anything?", "words": [{ "w": "task", "bn": "কাজ", "pos": "noun" }, { "w": "choose", "bn": "বেছে নেওয়া", "pos": "verb" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short text with first and second conditional sentences.",
+          "tipBn": "বাস্তব পরিকল্পনার জন্য If + present ও will, আর কল্পনার জন্য If + past ও would লেখা হয়।",
+          "items": [
+            { "id": "01", "title": "Plan B for the launch", "en": "Hi all, the launch is still planned for the 15th. If the testers find no major bugs this week, we will release the app on time. If they find serious problems, we will move the launch by one week. I will send you an update on Thursday.", "words": [{ "w": "launch", "bn": "চালু করা, উদ্বোধন", "pos": "noun" }, { "w": "major", "bn": "বড়, গুরুত্বপূর্ণ", "pos": "adjective" }, { "w": "release", "bn": "প্রকাশ করা", "pos": "verb" }, { "w": "serious", "bn": "গুরুতর", "pos": "adjective" }] },
+            { "id": "02", "title": "If I were the manager", "en": "Imran often jokes about being the boss. If he were the manager, he would start every day at ten o'clock. He would also cancel half of the meetings and give the team more time to write code. But he says that if he had Hasan's job, he would probably miss coding.", "words": [{ "w": "jokes", "bn": "মজা করে বলে", "pos": "verb", "base": "joke" }, { "w": "cancel", "bn": "বাতিল করা", "pos": "verb" }, { "w": "half", "bn": "অর্ধেক", "pos": "noun" }, { "w": "probably", "bn": "সম্ভবত", "pos": "adverb" }, { "w": "miss", "bn": "অভাব বোধ করা", "pos": "verb" }] },
+            { "id": "03", "title": "New work-from-home plan", "en": "Hi team, here is our new work-from-home plan. If your tasks for the week are clear, you can work from home on Thursdays. If you work from home, you must stay online from ten to five and answer messages quickly. If the plan works well, we will add a second day next year.", "words": [{ "w": "clear", "bn": "স্পষ্ট", "pos": "adjective" }, { "w": "stay online", "bn": "অনলাইনে থাকা", "pos": "phrase" }, { "w": "works well", "bn": "ভালোভাবে চলে", "pos": "phrase", "base": "work well" }, { "w": "add", "bn": "যোগ করা", "pos": "verb" }] }
+          ]
+        }
+      ]
+    }
+  ]
+}

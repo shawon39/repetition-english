@@ -1,0 +1,272 @@
+{
+  "topic": "food-cooking",
+  "level": "advanced",
+  "title": "Samira's London Kitchen",
+  "story": "Samira Haque left Chattogram fifteen years ago and now runs Shorshe, a small Bangladeshi restaurant in East London. She works with her head chef, Daniel, and her nephew Tanvir, who manages the dining room. Together they deal with demanding customers, food critics, rising costs and the challenge of cutting food waste.",
+  "storyBn": "সামিরা হক পনেরো বছর আগে চট্টগ্রাম ছেড়েছেন, এখন পূর্ব লন্ডনে সরষে নামের একটি ছোট বাংলাদেশি রেস্তোরাঁ চালান। তাঁর সাথে কাজ করেন প্রধান শেফ ড্যানিয়েল আর ভাগ্নে তানভীর, যে ডাইনিং রুম সামলায়। একসাথে তাঁরা খুঁতখুঁতে খদ্দের, খাদ্য সমালোচক, বাড়তি খরচ আর খাবারের অপচয় কমানোর চ্যালেঞ্জ সামলান।",
+  "units": [
+    {
+      "grammar": "present-perfect-continuous",
+      "focus": "Describe ongoing efforts in the restaurant up to now",
+      "focusBn": "রেস্তোরাঁয় এখন পর্যন্ত চলমান প্রচেষ্টা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + have / has been + verb-ing (+ for / since / lately ...)",
+          "tipBn": "অতীতে শুরু হয়ে এখনও চলছে এমন কাজের সময়কাল বোঝাতে have/has been + verb-ing বসে, সাথে for/since থাকে।",
+          "items": [
+            { "id": "01", "en": "Samira has been running Shorshe for almost eight years, and the dining room is still full most nights.", "words": [{ "w": "running", "bn": "চালাচ্ছেন", "pos": "verb", "base": "run" }, { "w": "dining room", "bn": "খাবার ঘর", "pos": "noun" }] },
+            { "id": "02", "en": "Daniel has been experimenting with mustard oil since he first tasted Samira's fish curry.", "words": [{ "w": "experimenting", "bn": "পরীক্ষা-নিরীক্ষা করছেন", "pos": "verb", "base": "experiment" }, { "w": "mustard oil", "bn": "সরিষার তেল", "pos": "noun" }] },
+            { "id": "03", "en": "The kitchen team has been tracking every kilo of wasted food since January.", "words": [{ "w": "tracking", "bn": "হিসাব রাখছে", "pos": "verb", "base": "track" }, { "w": "wasted", "bn": "নষ্ট হওয়া", "pos": "adjective" }] },
+            { "id": "04", "en": "Tanvir has been answering complaints on review sites all morning, and his patience is wearing thin.", "words": [{ "w": "complaints", "bn": "অভিযোগ", "pos": "noun", "base": "complaint" }, { "w": "patience", "bn": "ধৈর্য", "pos": "noun" }, { "w": "wearing thin", "bn": "ফুরিয়ে আসছে", "pos": "idiom", "base": "wear thin" }] },
+            { "id": "05", "en": "Food prices have been climbing steadily for months, so Samira has been rethinking her menu.", "words": [{ "w": "steadily", "bn": "ধারাবাহিকভাবে", "pos": "adverb" }, { "w": "rethinking", "bn": "নতুন করে ভাবছেন", "pos": "verb", "base": "rethink" }] },
+            { "id": "06", "en": "A nutritionist has been advising the restaurant on how to cut down on salt without losing flavor.", "words": [{ "w": "nutritionist", "bn": "পুষ্টিবিদ", "pos": "noun" }, { "w": "advising", "bn": "পরামর্শ দিচ্ছেন", "pos": "verb", "base": "advise" }, { "w": "flavor", "bn": "স্বাদ", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + haven't / hasn't been + verb-ing ...",
+          "tipBn": "have/has-এর পরে not বসিয়ে বোঝানো হয় যে কাজটি সাম্প্রতিক সময়ে চলছে না।",
+          "items": [
+            { "id": "01", "en": "Daniel hasn't been sleeping well since the famous food critic booked a table for Friday.", "words": [{ "w": "food critic", "bn": "খাদ্য সমালোচক", "pos": "noun" }, { "w": "booked", "bn": "বুক করেছেন", "pos": "verb", "base": "book" }] },
+            { "id": "02", "en": "We haven't been ordering as much fish lately, because too much of it has been ending up in the trash.", "words": [{ "w": "lately", "bn": "ইদানীং", "pos": "adverb" }, { "w": "ending up", "bn": "শেষে গিয়ে পড়ছে", "pos": "phrasal verb", "base": "end up" }, { "w": "trash", "bn": "ময়লার ঝুড়ি", "pos": "noun" }] },
+            { "id": "03", "en": "Tanvir hasn't been taking proper breaks, and the long shifts are clearly affecting his health.", "words": [{ "w": "proper", "bn": "ঠিকঠাক", "pos": "adjective" }, { "w": "shifts", "bn": "পালা, শিফট", "pos": "noun", "base": "shift" }, { "w": "affecting", "bn": "প্রভাব ফেলছে", "pos": "verb", "base": "affect" }] },
+            { "id": "04", "en": "The new dessert hasn't been selling well, even though the reviews have been positive.", "words": [{ "w": "selling well", "bn": "ভালো বিক্রি হওয়া", "pos": "phrase", "base": "sell well" }, { "w": "even though", "bn": "যদিও", "pos": "conjunction" }] },
+            { "id": "05", "en": "Samira hasn't been cooking much herself lately because she has been buried in paperwork.", "words": [{ "w": "herself", "bn": "নিজে", "pos": "pronoun" }, { "w": "buried in paperwork", "bn": "কাগজপত্রের কাজে ডুবে থাকা", "pos": "idiom" }] },
+            { "id": "06", "en": "None of the regular customers have been complaining about the smaller portions.", "words": [{ "w": "regular customers", "bn": "নিয়মিত খদ্দের", "pos": "noun" }, { "w": "portions", "bn": "এক প্লেটের পরিমাণ", "pos": "noun", "base": "portion" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Have / Has + subject + been + verb-ing ...?",
+          "tipBn": "Have/Has শুরুতে বসিয়ে জানতে চাওয়া হয় কাজটি কিছু সময় ধরে চলছে কি না।",
+          "items": [
+            { "id": "01", "en": "Have you been following the online reviews since the critic's article came out?", "words": [{ "w": "following", "bn": "নজর রাখছ", "pos": "verb", "base": "follow" }, { "w": "came out", "bn": "প্রকাশিত হলো", "pos": "phrasal verb", "base": "come out" }] },
+            { "id": "02", "en": "Has Daniel been using local vegetables instead of imported ones this season?", "words": [{ "w": "local", "bn": "স্থানীয়", "pos": "adjective" }, { "w": "imported", "bn": "আমদানি করা", "pos": "adjective" }] },
+            { "id": "03", "en": "Have the staff been separating food scraps for composting, as we agreed?", "words": [{ "w": "separating", "bn": "আলাদা করছে", "pos": "verb", "base": "separate" }, { "w": "food scraps", "bn": "খাবারের উচ্ছিষ্ট", "pos": "noun" }, { "w": "composting", "bn": "জৈব সার বানানো", "pos": "noun" }] },
+            { "id": "04", "en": "Has Tanvir been training the new waiters to explain each dish properly?", "words": [{ "w": "training", "bn": "প্রশিক্ষণ দিচ্ছে", "pos": "verb", "base": "train" }, { "w": "properly", "bn": "ঠিকভাবে", "pos": "adverb" }] },
+            { "id": "05", "en": "Have customers been asking for more vegetarian and gluten-free options on the menu?", "words": [{ "w": "vegetarian", "bn": "নিরামিষ", "pos": "adjective" }, { "w": "gluten-free", "bn": "গ্লুটেনমুক্ত", "pos": "adjective" }, { "w": "options", "bn": "বিকল্প", "pos": "noun", "base": "option" }] },
+            { "id": "06", "en": "Has the restaurant been losing money since the rent went up last spring?", "words": [{ "w": "losing money", "bn": "লোকসান করা", "pos": "phrase", "base": "lose money" }, { "w": "rent", "bn": "ভাড়া", "pos": "noun" }, { "w": "went up", "bn": "বেড়ে গেল", "pos": "phrasal verb", "base": "go up" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + have / has + subject + been + verb-ing ...?",
+          "tipBn": "How long, Why, What-এর মতো প্রশ্নশব্দের পরে have/has + subject + been + verb-ing বসে।",
+          "items": [
+            { "id": "01", "en": "How long has Samira been serving her grandmother's recipes to London diners?", "words": [{ "w": "serving", "bn": "পরিবেশন করছেন", "pos": "verb", "base": "serve" }, { "w": "diners", "bn": "রেস্তোরাঁর খদ্দের", "pos": "noun", "base": "diner" }] },
+            { "id": "02", "en": "Why have so many customers been leaving half their rice on the plate?", "words": [{ "w": "leaving", "bn": "ফেলে রাখছে", "pos": "verb", "base": "leave" }, { "w": "half", "bn": "অর্ধেক", "pos": "noun" }] },
+            { "id": "03", "en": "What have you been doing with the vegetable peels and leftover bread?", "words": [{ "w": "peels", "bn": "খোসা", "pos": "noun", "base": "peel" }, { "w": "leftover", "bn": "বেঁচে যাওয়া", "pos": "adjective" }] },
+            { "id": "04", "en": "Which suppliers have we been relying on for fresh hilsa and mustard seeds?", "words": [{ "w": "suppliers", "bn": "সরবরাহকারী", "pos": "noun", "base": "supplier" }, { "w": "relying on", "bn": "নির্ভর করছি", "pos": "phrasal verb", "base": "rely on" }, { "w": "hilsa", "bn": "ইলিশ", "pos": "noun" }] },
+            { "id": "05", "en": "Who has been posting those glowing reviews about our biryani on social media?", "words": [{ "w": "glowing", "bn": "উচ্ছ্বসিত", "pos": "adjective" }, { "w": "reviews", "bn": "রিভিউ, মূল্যায়ন", "pos": "noun", "base": "review" }] },
+            { "id": "06", "en": "How has the team been coping with the extra orders during Ramadan?", "words": [{ "w": "coping with", "bn": "সামলাচ্ছে", "pos": "phrasal verb", "base": "cope with" }, { "w": "extra", "bn": "বাড়তি", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences, mostly have / has been + verb-ing with for / since.",
+          "tipBn": "অনুচ্ছেদে বেশিরভাগ বাক্য present perfect continuous-এ থাকে এবং এখন পর্যন্ত চলমান কাজ বোঝায়।",
+          "items": [
+            { "id": "01", "title": "Eight years of Shorshe", "en": "Samira has been running Shorshe since she was thirty-two. For eight years, she has been getting up at dawn to check deliveries and prepare the spice mixes herself. Lately, she has been training Daniel to take over some of this work. He has been learning quickly, but Samira still tastes every pot of dal before service. Old habits, she says, are hard to break.", "words": [{ "w": "at dawn", "bn": "ভোরে", "pos": "phrase" }, { "w": "deliveries", "bn": "সরবরাহ করা মালামাল", "pos": "noun", "base": "delivery" }, { "w": "take over", "bn": "দায়িত্ব নেওয়া", "pos": "phrasal verb" }, { "w": "service", "bn": "খাবার পরিবেশনের সময়", "pos": "noun" }, { "w": "hard to break", "bn": "ছাড়া কঠিন", "pos": "phrase" }] },
+            { "id": "02", "title": "Fighting food waste", "en": "For the past six months, the kitchen has been weighing its waste every night. The results have been shocking. Customers have been leaving mountains of rice, so Daniel has been serving smaller portions and offering free refills. The team has also been turning stale bread into a popular bread pudding. As a result, the restaurant has been throwing away almost forty percent less food.", "words": [{ "w": "weighing", "bn": "ওজন করছে", "pos": "verb", "base": "weigh" }, { "w": "mountains of", "bn": "বিপুল পরিমাণ", "pos": "phrase" }, { "w": "refills", "bn": "আবার ভরে দেওয়া", "pos": "noun", "base": "refill" }, { "w": "stale", "bn": "বাসি", "pos": "adjective" }, { "w": "throwing away", "bn": "ফেলে দিচ্ছে", "pos": "phrasal verb", "base": "throw away" }] },
+            { "id": "03", "title": "Waiting for the review", "en": "Everyone at Shorshe has been feeling nervous all week. A well-known critic visited on Friday, and Tanvir has been checking the newspaper's website every hour since then. Daniel has been replaying the evening in his head, wondering whether the lamb was overcooked. Samira, meanwhile, has been reminding them that one review cannot define eight years of hard work.", "words": [{ "w": "well-known", "bn": "সুপরিচিত", "pos": "adjective" }, { "w": "replaying", "bn": "মনে মনে বারবার ভাবছেন", "pos": "verb", "base": "replay" }, { "w": "overcooked", "bn": "বেশি রান্না হয়ে যাওয়া", "pos": "adjective" }, { "w": "meanwhile", "bn": "এদিকে", "pos": "adverb" }, { "w": "define", "bn": "নির্ধারণ করা", "pos": "verb" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-perfect",
+      "focus": "Tell the story behind the restaurant and one difficult night",
+      "focusBn": "রেস্তোরাঁর পেছনের গল্প ও একটি কঠিন রাতের কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + had + past participle (+ before / by the time / after ...)",
+          "tipBn": "অতীতের দুটি ঘটনার মধ্যে যেটি আগে ঘটেছিল, সেটি বোঝাতে had + past participle বসে।",
+          "items": [
+            { "id": "01", "en": "Before she moved to London, Samira had cooked only for relatives at weddings and Eid gatherings in Chattogram.", "words": [{ "w": "relatives", "bn": "আত্মীয়স্বজন", "pos": "noun", "base": "relative" }, { "w": "gatherings", "bn": "জমায়েত, আসর", "pos": "noun", "base": "gathering" }] },
+            { "id": "02", "en": "By the time the critic arrived, Daniel had already prepared three versions of the fish curry.", "words": [{ "w": "by the time", "bn": "যখন ... তার আগেই", "pos": "phrase" }, { "w": "versions", "bn": "ধরন, সংস্করণ", "pos": "noun", "base": "version" }] },
+            { "id": "03", "en": "The rice had burned at the bottom because someone had turned the heat up too high.", "words": [{ "w": "bottom", "bn": "তলা", "pos": "noun" }, { "w": "heat", "bn": "আঁচ", "pos": "noun" }] },
+            { "id": "04", "en": "Tanvir realized that he had given table six the wrong order only after they had started eating.", "words": [{ "w": "realized", "bn": "বুঝতে পারল", "pos": "verb", "base": "realize" }, { "w": "wrong order", "bn": "ভুল অর্ডার", "pos": "noun" }] },
+            { "id": "05", "en": "Samira had saved for ten years before she finally opened her own restaurant.", "words": [{ "w": "saved", "bn": "সঞ্চয় করেছিলেন", "pos": "verb", "base": "save" }, { "w": "finally", "bn": "অবশেষে", "pos": "adverb" }] },
+            { "id": "06", "en": "After the inspectors had checked the fridges, they praised the kitchen's strict hygiene standards.", "words": [{ "w": "inspectors", "bn": "পরিদর্শক", "pos": "noun", "base": "inspector" }, { "w": "strict", "bn": "কঠোর", "pos": "adjective" }, { "w": "hygiene standards", "bn": "স্বাস্থ্যবিধির মান", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hadn't / had never + past participle ...",
+          "tipBn": "অতীতের কোনো সময়ের আগে কাজটি হয়নি বোঝাতে hadn't বা had never + past participle বসে।",
+          "items": [
+            { "id": "01", "en": "Daniel had never tasted fresh hilsa before he started working at Shorshe.", "words": [{ "w": "tasted", "bn": "স্বাদ নিয়েছিলেন", "pos": "verb", "base": "taste" }, { "w": "hilsa", "bn": "ইলিশ", "pos": "noun" }] },
+            { "id": "02", "en": "We hadn't ordered enough lamb, so the curry sold out before eight o'clock.", "words": [{ "w": "lamb", "bn": "ভেড়ার মাংস", "pos": "noun" }, { "w": "sold out", "bn": "ফুরিয়ে গিয়েছিল", "pos": "phrasal verb", "base": "sell out" }] },
+            { "id": "03", "en": "The new waiter hadn't read the allergy list, which nearly caused a serious problem.", "words": [{ "w": "allergy list", "bn": "অ্যালার্জির তালিকা", "pos": "noun" }, { "w": "nearly", "bn": "প্রায়", "pos": "adverb" }] },
+            { "id": "04", "en": "Samira hadn't expected British diners to love bitter gourd, but it became a bestseller.", "words": [{ "w": "expected", "bn": "আশা করেছিলেন", "pos": "verb", "base": "expect" }, { "w": "bitter gourd", "bn": "করলা", "pos": "noun" }, { "w": "bestseller", "bn": "সবচেয়ে বেশি বিক্রি হওয়া পদ", "pos": "noun" }] },
+            { "id": "05", "en": "The critic hadn't finished his starter when the main course arrived, which annoyed him.", "words": [{ "w": "starter", "bn": "শুরুর পদ", "pos": "noun" }, { "w": "main course", "bn": "প্রধান পদ", "pos": "noun" }, { "w": "annoyed", "bn": "বিরক্ত করেছিল", "pos": "verb", "base": "annoy" }] },
+            { "id": "06", "en": "None of us had imagined that a small family restaurant could attract such long lines.", "words": [{ "w": "imagined", "bn": "কল্পনা করেছিলাম", "pos": "verb", "base": "imagine" }, { "w": "attract", "bn": "আকর্ষণ করা", "pos": "verb" }] }
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Hadn't + subject + past participle ...?",
+          "tipBn": "Hadn't দিয়ে প্রশ্ন শুরু করলে বোঝায় বক্তা ধরে নিয়েছিলেন কাজটি আগেই হয়ে গিয়েছিল।",
+          "items": [
+            { "id": "01", "en": "Hadn't Daniel checked the oven temperature before he put the bread in?", "words": [{ "w": "checked", "bn": "যাচাই করেছিলেন", "pos": "verb", "base": "check" }, { "w": "oven temperature", "bn": "ওভেনের তাপমাত্রা", "pos": "noun" }] },
+            { "id": "02", "en": "Hadn't we agreed to remove the dishes that nobody was ordering anymore?", "words": [{ "w": "agreed", "bn": "একমত হয়েছিলাম", "pos": "verb", "base": "agree" }, { "w": "remove", "bn": "বাদ দেওয়া", "pos": "verb" }] },
+            { "id": "03", "en": "Hadn't the supplier promised to deliver the fish before noon on Friday?", "words": [{ "w": "supplier", "bn": "সরবরাহকারী", "pos": "noun" }, { "w": "promised", "bn": "প্রতিশ্রুতি দিয়েছিল", "pos": "verb", "base": "promise" }] },
+            { "id": "04", "en": "Hadn't Tanvir warned the customer that the beef curry was extremely spicy?", "words": [{ "w": "warned", "bn": "সতর্ক করেছিল", "pos": "verb", "base": "warn" }, { "w": "extremely", "bn": "অত্যন্ত", "pos": "adverb" }] },
+            { "id": "05", "en": "Hadn't you already eaten at Shorshe before the critic's review made it famous?", "words": [{ "w": "review", "bn": "রিভিউ, মূল্যায়ন", "pos": "noun" }, { "w": "famous", "bn": "বিখ্যাত", "pos": "adjective" }] },
+            { "id": "06", "en": "Hadn't Samira's grandmother taught her most of these recipes long before she moved abroad?", "words": [{ "w": "long before", "bn": "অনেক আগেই", "pos": "phrase" }, { "w": "abroad", "bn": "বিদেশে", "pos": "adverb" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + had + subject + past participle ...?",
+          "tipBn": "প্রশ্নশব্দের পরে had, তারপর subject ও past participle বসে।",
+          "items": [
+            { "id": "01", "en": "What had gone wrong in the kitchen before the critic sent back his plate?", "words": [{ "w": "gone wrong", "bn": "গোলমাল হয়েছিল", "pos": "phrase", "base": "go wrong" }, { "w": "sent back", "bn": "ফেরত পাঠালেন", "pos": "phrasal verb", "base": "send back" }] },
+            { "id": "02", "en": "How many kitchens had Daniel worked in before he joined Shorshe as head chef?", "words": [{ "w": "joined", "bn": "যোগ দিলেন", "pos": "verb", "base": "join" }, { "w": "head chef", "bn": "প্রধান শেফ", "pos": "noun" }] },
+            { "id": "03", "en": "Why had the walk-in freezer stopped working overnight, and who had noticed it first?", "words": [{ "w": "walk-in freezer", "bn": "বড় হিমঘর", "pos": "noun" }, { "w": "overnight", "bn": "রাতের মধ্যে", "pos": "adverb" }, { "w": "noticed", "bn": "খেয়াল করেছিল", "pos": "verb", "base": "notice" }] },
+            { "id": "04", "en": "Where had Samira learned to balance so many strong spices so perfectly in one dish?", "words": [{ "w": "balance", "bn": "ভারসাম্য রাখা", "pos": "verb" }, { "w": "perfectly", "bn": "নিখুঁতভাবে", "pos": "adverb" }] },
+            { "id": "05", "en": "Which dishes had the critic already tried by the time Samira came out to greet him?", "words": [{ "w": "by the time", "bn": "যখন ... তার আগেই", "pos": "phrase" }, { "w": "greet", "bn": "অভ্যর্থনা জানানো", "pos": "verb" }] },
+            { "id": "06", "en": "What had customers complained about most often before Samira redesigned the menu?", "words": [{ "w": "most often", "bn": "সবচেয়ে বেশি", "pos": "phrase" }, { "w": "redesigned", "bn": "নতুন করে সাজালেন", "pos": "verb", "base": "redesign" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences, mostly had + past participle, with before / after / by the time.",
+          "tipBn": "অনুচ্ছেদে আগের ঘটনা past perfect-এ আর পরের ঘটনা past simple-এ থাকে।",
+          "items": [
+            { "id": "01", "title": "The road to London", "en": "Samira had never planned to run a restaurant. Before she left Chattogram, she had worked as a school teacher and had cooked only for family gatherings. After her husband had lost his job, she needed a way to support the family. By the time she opened Shorshe, she had spent years selling homemade curries at a weekend market. Those loyal customers became her first regular diners.", "words": [{ "w": "gatherings", "bn": "জমায়েত, আসর", "pos": "noun", "base": "gathering" }, { "w": "support", "bn": "ভরণপোষণ করা", "pos": "verb" }, { "w": "homemade", "bn": "ঘরে তৈরি", "pos": "adjective" }, { "w": "loyal", "bn": "বিশ্বস্ত", "pos": "adjective" }, { "w": "regular diners", "bn": "নিয়মিত খদ্দের", "pos": "noun" }] },
+            { "id": "02", "title": "A night to forget", "en": "The critic's visit had started badly. The fish supplier had arrived two hours late, so Daniel had not had time to marinate the hilsa properly. Tanvir had seated the critic next to a noisy birthday party. By the time the main course arrived, the critic had already written several notes. Samira later admitted that she had never felt so nervous in her own kitchen.", "words": [{ "w": "supplier", "bn": "সরবরাহকারী", "pos": "noun" }, { "w": "marinate", "bn": "মসলা মাখিয়ে রাখা", "pos": "verb" }, { "w": "seated", "bn": "বসিয়েছিল", "pos": "verb", "base": "seat" }, { "w": "admitted", "bn": "স্বীকার করলেন", "pos": "verb", "base": "admit" }, { "w": "nervous", "bn": "উদ্বিগ্ন", "pos": "adjective" }] },
+            { "id": "03", "title": "Lessons from the past", "en": "Daniel had trained in French restaurants before he joined Shorshe. He had learned precise techniques, but he had never cooked with panch phoron or mustard paste. At first, his dishes tasted correct but lifeless. By the end of his first year, Samira had shown him how her mother tempered spices in hot oil, and his cooking had changed completely. Soon, regular customers could not tell whose curry they were eating.", "words": [{ "w": "precise", "bn": "নিখুঁত, সূক্ষ্ম", "pos": "adjective" }, { "w": "panch phoron", "bn": "পাঁচফোড়ন", "pos": "noun" }, { "w": "lifeless", "bn": "প্রাণহীন", "pos": "adjective" }, { "w": "tempered", "bn": "ফোড়ন দিতেন", "pos": "verb", "base": "temper" }, { "w": "could not tell", "bn": "বুঝতে পারত না", "pos": "phrase" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "passive",
+      "focus": "Describe how food is prepared, served and judged",
+      "focusBn": "খাবার কীভাবে তৈরি, পরিবেশন ও মূল্যায়ন করা হয় তা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + be (is / was / has been / will be / is being) + past participle (+ by ...)",
+          "tipBn": "কে কাজটি করল তার চেয়ে কাজটিই বেশি গুরুত্বপূর্ণ হলে be + past participle দিয়ে কর্মবাচ্য হয়।",
+          "items": [
+            { "id": "01", "en": "All the spices are roasted and ground by hand every Monday morning.", "words": [{ "w": "roasted", "bn": "ভাজা হয়", "pos": "verb", "base": "roast" }, { "w": "ground", "bn": "গুঁড়া করা হয়", "pos": "verb", "base": "grind" }, { "w": "by hand", "bn": "হাতে", "pos": "phrase" }] },
+            { "id": "02", "en": "The hilsa is flown in frozen from Bangladesh and delivered to the restaurant twice a week.", "words": [{ "w": "flown in", "bn": "বিমানে আনা হয়", "pos": "phrasal verb", "base": "fly in" }, { "w": "frozen", "bn": "হিমায়িত", "pos": "adjective" }, { "w": "delivered", "bn": "পৌঁছে দেওয়া হয়", "pos": "verb", "base": "deliver" }] },
+            { "id": "03", "en": "Shorshe was praised in a national newspaper for its honest, home-style cooking.", "words": [{ "w": "praised", "bn": "প্রশংসিত হয়েছিল", "pos": "verb", "base": "praise" }, { "w": "home-style", "bn": "ঘরোয়া", "pos": "adjective" }] },
+            { "id": "04", "en": "Leftover rice has been turned into crispy snacks instead of being thrown away.", "words": [{ "w": "crispy", "bn": "মচমচে", "pos": "adjective" }, { "w": "thrown away", "bn": "ফেলে দেওয়া", "pos": "phrasal verb", "base": "throw away" }] },
+            { "id": "05", "en": "Every dish will be labeled with its main allergens from next month.", "words": [{ "w": "labeled", "bn": "চিহ্নিত করা হবে", "pos": "verb", "base": "label" }, { "w": "allergens", "bn": "অ্যালার্জি সৃষ্টিকারী উপাদান", "pos": "noun", "base": "allergen" }] },
+            { "id": "06", "en": "The dining room is being redecorated, so dinner is being served in the garden this week.", "words": [{ "w": "redecorated", "bn": "নতুন করে সাজানো", "pos": "verb", "base": "redecorate" }, { "w": "served", "bn": "পরিবেশন করা", "pos": "verb", "base": "serve" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + be + not / never + past participle ...",
+          "tipBn": "কর্মবাচ্যের না-বোধক বাক্যে be verb বা has/had/will-এর পরে not বা never বসে, তারপর past participle।",
+          "items": [
+            { "id": "01", "en": "Artificial food coloring is never added to our curries, however bright they look.", "words": [{ "w": "artificial", "bn": "কৃত্রিম", "pos": "adjective" }, { "w": "food coloring", "bn": "খাবারের রং", "pos": "noun" }, { "w": "however", "bn": "যতই", "pos": "adverb" }] },
+            { "id": "02", "en": "The critic's complaint wasn't taken seriously at first, which turned out to be a mistake.", "words": [{ "w": "taken seriously", "bn": "গুরুত্ব দেওয়া", "pos": "phrase", "base": "take seriously" }, { "w": "turned out", "bn": "শেষে দেখা গেল", "pos": "phrasal verb", "base": "turn out" }] },
+            { "id": "03", "en": "Unsold food isn't thrown out at closing time but donated to a nearby shelter.", "words": [{ "w": "unsold", "bn": "অবিক্রীত", "pos": "adjective" }, { "w": "donated", "bn": "দান করা হয়", "pos": "verb", "base": "donate" }, { "w": "shelter", "bn": "আশ্রয়কেন্দ্র", "pos": "noun" }] },
+            { "id": "04", "en": "The fish hadn't been cleaned properly, so the whole batch was sent back.", "words": [{ "w": "batch", "bn": "চালান", "pos": "noun" }, { "w": "sent back", "bn": "ফেরত পাঠানো হয়েছিল", "pos": "phrasal verb", "base": "send back" }] },
+            { "id": "05", "en": "Customers won't be charged for rice refills, according to the new policy.", "words": [{ "w": "charged", "bn": "টাকা নেওয়া হবে", "pos": "verb", "base": "charge" }, { "w": "refills", "bn": "আবার দেওয়া", "pos": "noun", "base": "refill" }, { "w": "policy", "bn": "নীতি", "pos": "noun" }] },
+            { "id": "06", "en": "The recipe for Samira's famous mustard fish has never been written down.", "words": [{ "w": "mustard fish", "bn": "সরষে মাছ", "pos": "noun" }, { "w": "written down", "bn": "লিখে রাখা", "pos": "phrasal verb", "base": "write down" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Is / Was / Are / Were / Has ... been / Will ... be + subject + past participle ...?",
+          "tipBn": "be verb বা has/will শুরুতে বসিয়ে কর্মবাচ্যের প্রশ্ন হয়, তারপর past participle আসে।",
+          "items": [
+            { "id": "01", "en": "Is the yogurt for the borhani made fresh in the kitchen every morning?", "words": [{ "w": "yogurt", "bn": "দই", "pos": "noun" }, { "w": "made fresh", "bn": "তাজা বানানো হয়", "pos": "phrase" }] },
+            { "id": "02", "en": "Was the lamb slow-cooked for long enough, or was it rushed because of the crowd?", "words": [{ "w": "slow-cooked", "bn": "অল্প আঁচে রান্না করা", "pos": "verb", "base": "slow-cook" }, { "w": "rushed", "bn": "তাড়াহুড়ো করে করা", "pos": "verb", "base": "rush" }] },
+            { "id": "03", "en": "Has the new winter menu been tested on regular customers before its official launch?", "words": [{ "w": "tested", "bn": "পরীক্ষা করা হয়েছে", "pos": "verb", "base": "test" }, { "w": "official", "bn": "আনুষ্ঠানিক", "pos": "adjective" }, { "w": "launch", "bn": "চালু করা", "pos": "noun" }] },
+            { "id": "04", "en": "Will the leftover curry be collected by the local food bank before we close tonight?", "words": [{ "w": "collected", "bn": "সংগ্রহ করা হবে", "pos": "verb", "base": "collect" }, { "w": "food bank", "bn": "খাদ্য ব্যাংক", "pos": "noun" }] },
+            { "id": "05", "en": "Were the complaints about slow service passed on to the kitchen staff last night?", "words": [{ "w": "slow service", "bn": "ধীর সেবা", "pos": "noun" }, { "w": "passed on", "bn": "জানানো হয়েছিল", "pos": "phrasal verb", "base": "pass on" }] },
+            { "id": "06", "en": "Are the vegetables in this curry grown locally, or are they imported from abroad?", "words": [{ "w": "grown", "bn": "চাষ করা হয়", "pos": "verb", "base": "grow" }, { "w": "locally", "bn": "স্থানীয়ভাবে", "pos": "adverb" }, { "w": "imported", "bn": "আমদানি করা হয়", "pos": "verb", "base": "import" }] }
+          ]
+        },
+        {
+          "type": "indirect-question",
+          "pattern": "Could you tell me / Do you know / I was wondering + if / whether / wh- + subject + be + past participle ...",
+          "tipBn": "পরোক্ষ প্রশ্নে Could you tell me বা Do you know-এর পরের অংশ সাধারণ বাক্যের ক্রমে বসে, প্রশ্নের ক্রমে নয়।",
+          "items": [
+            { "id": "01", "en": "Could you tell me whether this dish is cooked with peanuts or peanut oil?", "words": [{ "w": "whether", "bn": "কি না", "pos": "conjunction" }, { "w": "peanuts", "bn": "চিনাবাদাম", "pos": "noun", "base": "peanut" }] },
+            { "id": "02", "en": "Do you know how the mustard paste is prepared in a Bangladeshi kitchen?", "words": [{ "w": "mustard paste", "bn": "সরিষা বাটা", "pos": "noun" }, { "w": "prepared", "bn": "তৈরি করা হয়", "pos": "verb", "base": "prepare" }] },
+            { "id": "03", "en": "I was wondering if a table for six could be reserved for Saturday evening.", "words": [{ "w": "wondering", "bn": "ভাবছিলাম", "pos": "verb", "base": "wonder" }, { "w": "reserved", "bn": "সংরক্ষিত, বুক করা", "pos": "verb", "base": "reserve" }] },
+            { "id": "04", "en": "Would you mind telling me when the critic's review of Shorshe will be published?", "words": [{ "w": "would you mind", "bn": "আপনার আপত্তি আছে কি", "pos": "phrase" }, { "w": "published", "bn": "প্রকাশিত হবে", "pos": "verb", "base": "publish" }] },
+            { "id": "05", "en": "Can you find out whether the prawns were caught at sea or raised on a farm?", "words": [{ "w": "find out", "bn": "জেনে নেওয়া", "pos": "phrasal verb" }, { "w": "prawns", "bn": "চিংড়ি", "pos": "noun", "base": "prawn" }, { "w": "raised", "bn": "চাষ করা হয়েছিল", "pos": "verb", "base": "raise" }] },
+            { "id": "06", "en": "I'd like to know how much food is thrown away here every week.", "words": [{ "w": "I'd like to know", "bn": "আমি জানতে চাই", "pos": "phrase" }, { "w": "thrown away", "bn": "ফেলে দেওয়া হয়", "pos": "phrasal verb", "base": "throw away" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences, mostly passive: is / are / was / has been + past participle.",
+          "tipBn": "অনুচ্ছেদে কাজ কীভাবে করা হয় বা হয়েছিল তা বোঝাতে বেশিরভাগ বাক্য কর্মবাচ্যে থাকে।",
+          "items": [
+            { "id": "01", "title": "From market to plate", "en": "At Shorshe, most ingredients are bought from small local farms. The fish is delivered twice a week, and it is cleaned and marinated within hours. Spices are roasted in small batches so that their aroma is not lost. Every plate is carefully checked by Daniel before it is carried to the table. Nothing is left to chance.", "words": [{ "w": "ingredients", "bn": "উপকরণ", "pos": "noun", "base": "ingredient" }, { "w": "marinated", "bn": "মসলা মাখানো হয়", "pos": "verb", "base": "marinate" }, { "w": "batches", "bn": "দফা", "pos": "noun", "base": "batch" }, { "w": "aroma", "bn": "সুগন্ধ", "pos": "noun" }, { "w": "left to chance", "bn": "ভাগ্যের ওপর ছেড়ে দেওয়া", "pos": "idiom" }] },
+            { "id": "02", "title": "The review", "en": "Last Sunday, the long-awaited review was finally published. Shorshe was described as a hidden gem, and Daniel's mustard fish was singled out for special praise. The slow service was criticized, but it was noted that the restaurant had been unusually busy that night. Within hours, the article had been shared thousands of times, and every table for the next month was booked.", "words": [{ "w": "long-awaited", "bn": "বহু প্রতীক্ষিত", "pos": "adjective" }, { "w": "hidden gem", "bn": "লুকানো রত্ন", "pos": "idiom" }, { "w": "singled out", "bn": "আলাদা করে বেছে নেওয়া হয়েছিল", "pos": "phrasal verb", "base": "single out" }, { "w": "criticized", "bn": "সমালোচিত হয়েছিল", "pos": "verb", "base": "criticize" }, { "w": "booked", "bn": "বুক হয়ে গিয়েছিল", "pos": "verb", "base": "book" }] },
+            { "id": "03", "title": "A second life for leftovers", "en": "Since last year, a strict waste plan has been followed in the kitchen. Vegetable peels are collected and sent to a community garden, where they are turned into compost. Day-old bread is made into pudding, and extra rice is fried with eggs for the staff meal. Any sealed, unsold food is picked up by a local charity every night. As a result, the kitchen's waste has been cut by almost half.", "words": [{ "w": "peels", "bn": "খোসা", "pos": "noun", "base": "peel" }, { "w": "compost", "bn": "জৈব সার", "pos": "noun" }, { "w": "day-old", "bn": "একদিনের বাসি", "pos": "adjective" }, { "w": "sealed", "bn": "মুখবন্ধ", "pos": "adjective" }, { "w": "picked up", "bn": "নিয়ে যাওয়া হয়", "pos": "phrasal verb", "base": "pick up" }, { "w": "charity", "bn": "দাতব্য সংস্থা", "pos": "noun" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Reflect on past choices and their results",
+      "focusBn": "অতীতের সিদ্ধান্ত ও তার ফলাফল নিয়ে ভাবা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + had + past participle, would have + past participle. / If + had + past participle, would + verb (now).",
+          "tipBn": "অতীতে যা ঘটেনি তা কল্পনা করতে If + had + past participle এবং would have বসে; mixed conditional-এ ফলাফল এখনকার, তাই would + verb।",
+          "items": [
+            { "id": "01", "en": "If the fish had arrived on time, Daniel would have marinated it properly.", "words": [{ "w": "on time", "bn": "সময়মতো", "pos": "phrase" }, { "w": "marinated", "bn": "মসলা মাখাতেন", "pos": "verb", "base": "marinate" }] },
+            { "id": "02", "en": "If Samira had stayed in Chattogram, she would probably be teaching at a school now.", "words": [{ "w": "stayed", "bn": "থেকে যেতেন", "pos": "verb", "base": "stay" }, { "w": "probably", "bn": "সম্ভবত", "pos": "adverb" }] },
+            { "id": "03", "en": "If we had tracked our waste earlier, we would have saved thousands of pounds.", "words": [{ "w": "tracked", "bn": "হিসাব রাখতাম", "pos": "verb", "base": "track" }, { "w": "saved", "bn": "বাঁচাতে পারতাম", "pos": "verb", "base": "save" }] },
+            { "id": "04", "en": "Tanvir would have seated the critic in a quieter corner if he had recognized him.", "words": [{ "w": "seated", "bn": "বসাত", "pos": "verb", "base": "seat" }, { "w": "quieter", "bn": "আরও নিরিবিলি", "pos": "adjective", "base": "quiet" }, { "w": "recognized", "bn": "চিনতে পারত", "pos": "verb", "base": "recognize" }] },
+            { "id": "05", "en": "If her grandmother had written down her recipes, Samira would have a priceless cookbook today.", "words": [{ "w": "priceless", "bn": "অমূল্য", "pos": "adjective" }, { "w": "cookbook", "bn": "রান্নার বই", "pos": "noun" }] },
+            { "id": "06", "en": "If Daniel had accepted the job offer in Paris, he would be cooking French food right now.", "words": [{ "w": "accepted", "bn": "গ্রহণ করতেন", "pos": "verb", "base": "accept" }, { "w": "job offer", "bn": "চাকরির প্রস্তাব", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + hadn't + past participle, ... would / could have ... / ... wouldn't have + past participle if ...",
+          "tipBn": "না-বোধক শর্তে hadn't বা wouldn't have বসে, যেমন If we hadn't ..., we wouldn't have ...।",
+          "items": [
+            { "id": "01", "en": "If Tanvir hadn't checked the allergy list, a customer could have been seriously hurt.", "words": [{ "w": "allergy list", "bn": "অ্যালার্জির তালিকা", "pos": "noun" }, { "w": "seriously", "bn": "গুরুতরভাবে", "pos": "adverb" }] },
+            { "id": "02", "en": "We wouldn't have run out of rice if the supplier hadn't canceled at the last minute.", "words": [{ "w": "run out of", "bn": "ফুরিয়ে যাওয়া", "pos": "phrasal verb" }, { "w": "canceled", "bn": "বাতিল করত", "pos": "verb", "base": "cancel" }, { "w": "at the last minute", "bn": "শেষ মুহূর্তে", "pos": "idiom" }] },
+            { "id": "03", "en": "If Samira hadn't opened Shorshe, many Londoners would never have tasted real Bangladeshi home cooking.", "words": [{ "w": "Londoners", "bn": "লন্ডনবাসী", "pos": "noun", "base": "Londoner" }, { "w": "home cooking", "bn": "ঘরোয়া রান্না", "pos": "noun" }] },
+            { "id": "04", "en": "The critic wouldn't have been so harsh if his main course hadn't arrived cold.", "words": [{ "w": "harsh", "bn": "কঠোর", "pos": "adjective" }, { "w": "main course", "bn": "প্রধান পদ", "pos": "noun" }] },
+            { "id": "05", "en": "If Daniel hadn't learned to temper spices, his curries wouldn't taste so authentic today.", "words": [{ "w": "temper", "bn": "ফোড়ন দেওয়া", "pos": "verb" }, { "w": "authentic", "bn": "খাঁটি", "pos": "adjective" }] },
+            { "id": "06", "en": "We wouldn't be struggling with high costs now if we hadn't signed such an expensive lease.", "words": [{ "w": "struggling", "bn": "হিমশিম খাচ্ছি", "pos": "verb", "base": "struggle" }, { "w": "lease", "bn": "ভাড়ার চুক্তি", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + would + subject + have + past participle + if + had ...?",
+          "tipBn": "প্রশ্নশব্দের পরে would have + past participle বসিয়ে অতীতের কাল্পনিক ফলাফল জানতে চাওয়া হয়।",
+          "items": [
+            { "id": "01", "en": "What would you have done if the critic had walked out halfway through the meal?", "words": [{ "w": "walked out", "bn": "উঠে চলে যেতেন", "pos": "phrasal verb", "base": "walk out" }, { "w": "halfway through", "bn": "মাঝপথে", "pos": "phrase" }] },
+            { "id": "02", "en": "How would the evening have gone if the fish had been delivered on time?", "words": [{ "w": "gone", "bn": "কাটত", "pos": "verb", "base": "go" }, { "w": "delivered", "bn": "পৌঁছে দেওয়া হতো", "pos": "verb", "base": "deliver" }] },
+            { "id": "03", "en": "Where would Samira be living now if she had stayed in Bangladesh?", "words": [{ "w": "living", "bn": "বাস করতেন", "pos": "verb", "base": "live" }, { "w": "stayed", "bn": "থেকে যেতেন", "pos": "verb", "base": "stay" }] },
+            { "id": "04", "en": "Which dishes would you have removed if the review had been harsh?", "words": [{ "w": "removed", "bn": "বাদ দিতেন", "pos": "verb", "base": "remove" }, { "w": "harsh", "bn": "কঠোর", "pos": "adjective" }] },
+            { "id": "05", "en": "Who would have run the kitchen if Daniel had quit after that terrible night?", "words": [{ "w": "run", "bn": "চালাত", "pos": "verb" }, { "w": "quit", "bn": "ছেড়ে দিতেন", "pos": "verb" }] },
+            { "id": "06", "en": "How much money would we be saving now if we had started composting years ago?", "words": [{ "w": "saving", "bn": "বাঁচাতাম", "pos": "verb", "base": "save" }, { "w": "composting", "bn": "জৈব সার বানানো", "pos": "verb", "base": "compost" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences with third (If + had + past participle, would have ...) and mixed conditionals.",
+          "tipBn": "অনুচ্ছেদে অতীতের কাল্পনিক অবস্থা ও তার ফল third ও mixed conditional দিয়ে বলা হয়।",
+          "items": [
+            { "id": "01", "title": "What if the fish had arrived?", "en": "Daniel still thinks about the night of the critic's visit. If the supplier had arrived on time, he would have marinated the hilsa for the full four hours. If Tanvir had noticed the birthday party, he would have seated the critic somewhere quieter. The review might have been perfect. On the other hand, if everything had gone smoothly, Shorshe would not have learned so much from that night.", "words": [{ "w": "supplier", "bn": "সরবরাহকারী", "pos": "noun" }, { "w": "marinated", "bn": "মসলা মাখাতেন", "pos": "verb", "base": "marinate" }, { "w": "noticed", "bn": "খেয়াল করত", "pos": "verb", "base": "notice" }, { "w": "on the other hand", "bn": "অন্যদিকে", "pos": "phrase" }, { "w": "smoothly", "bn": "নির্বিঘ্নে", "pos": "adverb" }] },
+            { "id": "02", "title": "A different life", "en": "Samira sometimes wonders how her life would look if she had stayed in Chattogram. If she had kept her teaching job, she would probably be living near her parents now. She would cook for family gatherings rather than for strangers. However, if she had never moved to London, thousands of people would never have tasted her mother's recipes. She has no regrets.", "words": [{ "w": "wonders", "bn": "ভাবেন", "pos": "verb", "base": "wonder" }, { "w": "kept", "bn": "ধরে রাখতেন", "pos": "verb", "base": "keep" }, { "w": "rather than", "bn": "এর বদলে", "pos": "phrase" }, { "w": "strangers", "bn": "অপরিচিত মানুষ", "pos": "noun", "base": "stranger" }, { "w": "regrets", "bn": "আফসোস", "pos": "noun", "base": "regret" }] },
+            { "id": "03", "title": "Lessons in waste", "en": "When Shorshe opened, nobody measured how much food was thrown away. If the team had started tracking waste from the first day, they would have saved a great deal of money. They would also have noticed much sooner that the portions of rice were too large. If Samira had understood this earlier, the restaurant would be even more profitable today. Now she tells every new restaurant owner to measure waste from the start.", "words": [{ "w": "measured", "bn": "মেপে দেখেছিল", "pos": "verb", "base": "measure" }, { "w": "tracking", "bn": "হিসাব রাখা", "pos": "verb", "base": "track" }, { "w": "a great deal of", "bn": "প্রচুর", "pos": "phrase" }, { "w": "portions", "bn": "পরিমাণ", "pos": "noun", "base": "portion" }, { "w": "profitable", "bn": "লাভজনক", "pos": "adjective" }] }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "topic": "shopping",
+  "level": "advanced",
+  "title": "A Smart Shopper Abroad",
+  "story": "Farhan, a young engineer from Chattogram, has moved to Toronto for work. Living on his own for the first time, he is learning to manage a budget, shop online, return faulty products and stand up for his rights as a consumer. His Canadian roommate Leo is an impulse buyer, while his sister Tania runs a small online clothing store back in Dhaka.",
+  "storyBn": "চট্টগ্রামের তরুণ প্রকৌশলী ফারহান চাকরির জন্য টরন্টোতে গেছে। প্রথমবার একা থাকতে গিয়ে সে বাজেট সামলানো, অনলাইনে কেনাকাটা, ত্রুটিপূর্ণ পণ্য ফেরত দেওয়া আর ক্রেতা হিসেবে নিজের অধিকার আদায় করা শিখছে। তার কানাডীয় রুমমেট লিও ঝোঁকের বশে কেনাকাটা করে, আর তার বোন তানিয়া ঢাকায় একটি ছোট অনলাইন পোশাকের দোকান চালায়।",
+  "units": [
+    {
+      "grammar": "present-perfect-continuous",
+      "focus": "Talk about spending habits and problems that have been going on",
+      "focusBn": "চলতে থাকা খরচের অভ্যাস ও সমস্যা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + have/has been + verb-ing (+ for/since ...)",
+          "tipBn": "অতীতে শুরু হয়ে এখনও চলছে এমন কাজের সময়কাল বোঝাতে have বা has been-এর পরে verb-ing বসে; for ও since দিয়ে সময় বলা হয়।",
+          "items": [
+            { "id": "01", "en": "Farhan has been tracking every dollar he spends in a budgeting app since he arrived in Toronto.", "words": [{ "w": "tracking", "bn": "হিসাব রাখছে", "pos": "verb", "base": "track" }, { "w": "budgeting app", "bn": "বাজেটের অ্যাপ", "pos": "noun" }] },
+            { "id": "02", "en": "For the past two weeks, I have been trying to get a refund for a faulty pair of headphones.", "words": [{ "w": "refund", "bn": "টাকা ফেরত", "pos": "noun" }, { "w": "faulty", "bn": "ত্রুটিপূর্ণ", "pos": "adjective" }] },
+            { "id": "03", "en": "Leo has been buying things on impulse lately, and his credit card bill shows it.", "words": [{ "w": "on impulse", "bn": "ঝোঁকের বশে", "pos": "idiom" }, { "w": "lately", "bn": "ইদানীং", "pos": "adverb" }] },
+            { "id": "04", "en": "The store has been advertising the same so-called clearance sale for three months now.", "words": [{ "w": "so-called", "bn": "তথাকথিত", "pos": "adjective" }, { "w": "clearance sale", "bn": "মাল খালি করার সেল", "pos": "noun" }] },
+            { "id": "05", "en": "Farhan has been comparing laptops and reading customer reviews all evening, hoping to find the best value.", "words": [{ "w": "comparing", "bn": "তুলনা করছে", "pos": "verb", "base": "compare" }, { "w": "best value", "bn": "দামের তুলনায় সেরা", "pos": "phrase" }] },
+            { "id": "06", "en": "Prices at our local grocery store have been creeping up steadily since the spring.", "words": [{ "w": "creeping up", "bn": "ধীরে ধীরে বাড়ছে", "pos": "phrasal verb", "base": "creep up" }, { "w": "steadily", "bn": "ক্রমাগত", "pos": "adverb" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + haven't/hasn't been + verb-ing ...",
+          "tipBn": "have বা has-এর পরে not বসে, তারপর been আর verb-ing আসে।",
+          "items": [
+            { "id": "01", "en": "I haven't been using my gym membership, yet the company keeps charging me every month.", "words": [{ "w": "membership", "bn": "সদস্যপদ", "pos": "noun" }, { "w": "charging", "bn": "টাকা কাটছে", "pos": "verb", "base": "charge" }] },
+            { "id": "02", "en": "Farhan hasn't been sticking to his budget since the holiday sales started.", "words": [{ "w": "sticking to", "bn": "মেনে চলা", "pos": "phrasal verb", "base": "stick to" }, { "w": "holiday sales", "bn": "ছুটির মৌসুমের সেল", "pos": "noun" }] },
+            { "id": "03", "en": "The customer service team hasn't been answering my emails, which is incredibly frustrating.", "words": [{ "w": "incredibly", "bn": "ভীষণ রকম", "pos": "adverb" }, { "w": "frustrating", "bn": "বিরক্তিকর", "pos": "adjective" }] },
+            { "id": "04", "en": "Leo hasn't been checking his bank statements, so he didn't notice the double charge.", "words": [{ "w": "bank statements", "bn": "ব্যাংক বিবরণী", "pos": "noun", "base": "bank statement" }, { "w": "double charge", "bn": "দুবার টাকা কাটা", "pos": "noun" }] },
+            { "id": "05", "en": "I haven't been buying brand-name products lately because the store's own brand is just as good.", "words": [{ "w": "brand-name", "bn": "নামী ব্র্যান্ডের", "pos": "adjective" }, { "w": "own brand", "bn": "দোকানের নিজস্ব ব্র্যান্ড", "pos": "noun" }, { "w": "just as good", "bn": "ঠিক ততটাই ভালো", "pos": "phrase" }] },
+            { "id": "06", "en": "Farhan hasn't been paying full price for anything since he discovered cashback apps.", "words": [{ "w": "full price", "bn": "পুরো দাম", "pos": "phrase" }, { "w": "discovered", "bn": "খুঁজে পেয়েছে", "pos": "verb", "base": "discover" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Have/Has + subject + been + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে Have বা Has শুরুতে বসে, তারপর subject, been আর verb-ing আসে।",
+          "items": [
+            { "id": "01", "en": "Have you been keeping your receipts in case you need to return anything?", "words": [{ "w": "in case", "bn": "যদি দরকার পড়ে", "pos": "phrase" }, { "w": "return", "bn": "ফেরত দেওয়া", "pos": "verb" }] },
+            { "id": "02", "en": "Has Leo been using that buy-now-pay-later app again to pay for his new sneakers?", "words": [{ "w": "buy-now-pay-later", "bn": "এখন কিনে পরে টাকা দেওয়ার", "pos": "adjective" }, { "w": "sneakers", "bn": "কেডস", "pos": "noun" }] },
+            { "id": "03", "en": "Has the company been ignoring your complaints since you first contacted them in March?", "words": [{ "w": "ignoring", "bn": "উপেক্ষা করছে", "pos": "verb", "base": "ignore" }, { "w": "complaints", "bn": "অভিযোগ", "pos": "noun", "base": "complaint" }] },
+            { "id": "04", "en": "Have prices been rising this fast everywhere, or only in this neighborhood?", "words": [{ "w": "rising", "bn": "বাড়ছে", "pos": "verb", "base": "rise" }, { "w": "neighborhood", "bn": "এলাকা", "pos": "noun" }] },
+            { "id": "05", "en": "Have you been saving a fixed amount from each paycheck, as your sister suggested?", "words": [{ "w": "fixed amount", "bn": "নির্দিষ্ট পরিমাণ", "pos": "phrase" }, { "w": "paycheck", "bn": "বেতন", "pos": "noun" }] },
+            { "id": "06", "en": "Has Farhan been waiting all week for the courier to deliver his replacement phone?", "words": [{ "w": "courier", "bn": "কুরিয়ার", "pos": "noun" }, { "w": "replacement", "bn": "বদলি", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + have/has + subject + been + verb-ing ...?",
+          "tipBn": "Wh-শব্দের পরে have বা has, তারপর subject, been আর verb-ing বসে; How long দিয়ে কাজের সময়কাল জানতে চাওয়া হয়।",
+          "items": [
+            { "id": "01", "en": "How long have you been waiting for the refund to appear in your account?", "words": [{ "w": "How long", "bn": "কত দিন ধরে", "pos": "phrase" }, { "w": "appear", "bn": "জমা হওয়া", "pos": "verb" }] },
+            { "id": "02", "en": "Why has the supermarket been charging extra for reusable bags since last month?", "words": [{ "w": "charging extra", "bn": "বাড়তি টাকা নেওয়া", "pos": "phrase", "base": "charge extra" }, { "w": "reusable", "bn": "বারবার ব্যবহারযোগ্য", "pos": "adjective" }] },
+            { "id": "03", "en": "What have you been doing to cut down on unnecessary spending since you moved here?", "words": [{ "w": "cut down on", "bn": "কমানো", "pos": "phrasal verb" }, { "w": "unnecessary", "bn": "অপ্রয়োজনীয়", "pos": "adjective" }] },
+            { "id": "04", "en": "Which websites have you been using to compare prices before big purchases?", "words": [{ "w": "compare", "bn": "তুলনা করা", "pos": "verb" }, { "w": "purchases", "bn": "কেনাকাটা", "pos": "noun", "base": "purchase" }] },
+            { "id": "05", "en": "Who has been sending you all those promotional emails about limited-time offers?", "words": [{ "w": "promotional", "bn": "প্রচারমূলক", "pos": "adjective" }, { "w": "limited-time offers", "bn": "সীমিত সময়ের অফার", "pos": "noun", "base": "limited-time offer" }] },
+            { "id": "06", "en": "How much have you been spending each month on subscriptions you rarely use?", "words": [{ "w": "subscriptions", "bn": "মাসিক সাবস্ক্রিপশন", "pos": "noun", "base": "subscription" }, { "w": "rarely", "bn": "কদাচিৎ", "pos": "adverb" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A longer text in the present perfect continuous",
+          "tipBn": "অনুচ্ছেদে present perfect continuous দিয়ে কিছুদিন ধরে চলতে থাকা অভ্যাস ও চেষ্টার কথা বলা হয়।",
+          "items": [
+            { "id": "01", "title": "The budgeting app", "en": "Farhan has been using a budgeting app for six months, and it has been teaching him hard lessons. Every evening he has been entering what he spent that day, from coffee to groceries. He has been noticing how quickly small purchases add up. Lately he has been cooking at home more often, and he has been putting the money he saves into an emergency fund.", "words": [{ "w": "hard lessons", "bn": "কঠিন শিক্ষা", "pos": "phrase" }, { "w": "entering", "bn": "লিখে রাখছে", "pos": "verb", "base": "enter" }, { "w": "add up", "bn": "যোগ হয়ে বড় অঙ্ক হয়", "pos": "phrasal verb" }, { "w": "Lately", "bn": "ইদানীং", "pos": "adverb" }, { "w": "emergency fund", "bn": "জরুরি তহবিল", "pos": "noun" }] },
+            { "id": "02", "title": "Chasing a refund", "en": "Farhan has been trying to get his money back for a faulty blender for almost three weeks. He has been calling the helpline every other day, but he has been getting the same recorded message. Meanwhile, the company has been posting cheerful ads about its excellent customer care. Leo has been urging him to write an honest review and warn other buyers.", "words": [{ "w": "faulty", "bn": "ত্রুটিপূর্ণ", "pos": "adjective" }, { "w": "every other day", "bn": "একদিন পরপর", "pos": "phrase" }, { "w": "recorded message", "bn": "রেকর্ড করা বার্তা", "pos": "noun" }, { "w": "Meanwhile", "bn": "এদিকে", "pos": "adverb" }, { "w": "urging", "bn": "তাগিদ দিচ্ছে", "pos": "verb", "base": "urge" }] },
+            { "id": "03", "title": "Tania's small business", "en": "Back in Dhaka, Tania has been running a small online clothing store from her bedroom. For the past year she has been learning what customers really want. She has been replying to every review, even the angry ones, and she has been offering free exchanges when sizes don't fit. Her sales have been growing steadily ever since.", "words": [{ "w": "running", "bn": "চালাচ্ছে", "pos": "verb", "base": "run" }, { "w": "replying to", "bn": "উত্তর দিচ্ছে", "pos": "phrasal verb", "base": "reply to" }, { "w": "exchanges", "bn": "বদলে দেওয়া", "pos": "noun", "base": "exchange" }, { "w": "steadily", "bn": "ধারাবাহিকভাবে", "pos": "adverb" }, { "w": "ever since", "bn": "তখন থেকে", "pos": "phrase" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-perfect",
+      "focus": "Explain what had already happened before a shopping decision",
+      "focusBn": "কেনাকাটার কোনো সিদ্ধান্তের আগে কী ঘটে গিয়েছিল তা ব্যাখ্যা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + had + past participle (+ before/by the time ...)",
+          "tipBn": "অতীতের দুটি ঘটনার মধ্যে যেটি আগে ঘটেছিল সেটিতে had-এর পরে past participle বসে।",
+          "items": [
+            { "id": "01", "en": "By the time Farhan read the negative reviews, he had already paid for the blender.", "words": [{ "w": "By the time", "bn": "যতক্ষণে", "pos": "phrase" }, { "w": "already", "bn": "ইতিমধ্যে", "pos": "adverb" }] },
+            { "id": "02", "en": "The Boxing Day sale had ended an hour before we finally reached the mall.", "words": [{ "w": "Boxing Day", "bn": "বড়দিনের পরের দিন", "pos": "noun" }, { "w": "ended", "bn": "শেষ হয়ে গিয়েছিল", "pos": "verb", "base": "end" }] },
+            { "id": "03", "en": "Leo realized that he had accidentally signed up for a yearly subscription.", "words": [{ "w": "accidentally", "bn": "ভুল করে", "pos": "adverb" }, { "w": "signed up for", "bn": "নাম লিখিয়েছিল", "pos": "phrasal verb", "base": "sign up for" }] },
+            { "id": "04", "en": "Farhan had compared prices in four stores before he finally chose a new laptop.", "words": [{ "w": "compared", "bn": "তুলনা করেছিল", "pos": "verb", "base": "compare" }, { "w": "chose", "bn": "বেছে নিল", "pos": "verb", "base": "choose" }] },
+            { "id": "05", "en": "The seller had promised a full refund, so I was shocked when he offered store credit instead.", "words": [{ "w": "store credit", "bn": "দোকানে কেনার জমা টাকা", "pos": "noun" }, { "w": "shocked", "bn": "হতবাক", "pos": "adjective" }] },
+            { "id": "06", "en": "After he had set a strict monthly budget, Farhan finally started saving money.", "words": [{ "w": "set", "bn": "ঠিক করেছিল", "pos": "verb" }, { "w": "strict", "bn": "কঠোর", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hadn't/had never + past participle ...",
+          "tipBn": "had-এর পরে not বা never বসিয়ে আগের অতীতের কাজকে না-বোধক করা হয়।",
+          "items": [
+            { "id": "01", "en": "Farhan hadn't read the return policy, so he didn't know about the 14-day limit.", "words": [{ "w": "return policy", "bn": "পণ্য ফেরতের নিয়ম", "pos": "noun" }, { "w": "limit", "bn": "সীমা", "pos": "noun" }] },
+            { "id": "02", "en": "I hadn't noticed the hidden delivery fee until I reached the checkout page.", "words": [{ "w": "hidden", "bn": "লুকানো", "pos": "adjective" }, { "w": "checkout page", "bn": "মূল্য পরিশোধের পাতা", "pos": "noun" }] },
+            { "id": "03", "en": "The package still hadn't arrived by the date the website had promised.", "words": [{ "w": "package", "bn": "পার্সেল", "pos": "noun" }, { "w": "promised", "bn": "প্রতিশ্রুতি দিয়েছিল", "pos": "verb", "base": "promise" }] },
+            { "id": "04", "en": "We hadn't expected groceries in Toronto to be so much more expensive than in Dhaka.", "words": [{ "w": "expected", "bn": "আশা করেছিলাম", "pos": "verb", "base": "expect" }, { "w": "groceries", "bn": "মুদি জিনিস", "pos": "noun", "base": "grocery" }] },
+            { "id": "05", "en": "Farhan had not kept the original box, so the store refused to accept the return.", "words": [{ "w": "original", "bn": "আসল", "pos": "adjective" }, { "w": "refused", "bn": "রাজি হলো না", "pos": "verb", "base": "refuse" }] },
+            { "id": "06", "en": "Until that day, Leo had never questioned whether he really needed half the things he bought.", "words": [{ "w": "Until that day", "bn": "সেদিন পর্যন্ত", "pos": "phrase" }, { "w": "questioned", "bn": "প্রশ্ন তুলেছিল", "pos": "verb", "base": "question" }] }
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Hadn't + subject + past participle ...?",
+          "tipBn": "অবাক হয়ে বা নিশ্চিত হতে চাইলে Hadn't দিয়ে প্রশ্ন শুরু হয়, তারপর subject আর past participle আসে।",
+          "items": [
+            { "id": "01", "en": "Hadn't you checked the return policy before you paid for such an expensive blender?", "words": [{ "w": "checked", "bn": "দেখে নিয়েছিলে", "pos": "verb", "base": "check" }, { "w": "return policy", "bn": "পণ্য ফেরতের নিয়ম", "pos": "noun" }] },
+            { "id": "02", "en": "Hadn't the store promised a full refund if the product turned out to be faulty?", "words": [{ "w": "full refund", "bn": "পুরো টাকা ফেরত", "pos": "noun" }, { "w": "turned out", "bn": "দেখা গেল", "pos": "phrasal verb", "base": "turn out" }] },
+            { "id": "03", "en": "Hadn't Leo already canceled that streaming subscription when they charged him again?", "words": [{ "w": "canceled", "bn": "বাতিল করেছিল", "pos": "verb", "base": "cancel" }, { "w": "charged", "bn": "টাকা কেটেছিল", "pos": "verb", "base": "charge" }] },
+            { "id": "04", "en": "Hadn't you read dozens of reviews before choosing that laptop last spring?", "words": [{ "w": "dozens of", "bn": "ডজন ডজন", "pos": "phrase" }, { "w": "choosing", "bn": "বেছে নেওয়া", "pos": "verb", "base": "choose" }] },
+            { "id": "05", "en": "Hadn't the courier already tried to deliver the parcel twice before you called them?", "words": [{ "w": "courier", "bn": "কুরিয়ার", "pos": "noun" }, { "w": "twice", "bn": "দুবার", "pos": "adverb" }] },
+            { "id": "06", "en": "Hadn't Tania warned you that those flash sales often come with hidden fees?", "words": [{ "w": "warned", "bn": "সতর্ক করেছিল", "pos": "verb", "base": "warn" }, { "w": "flash sales", "bn": "ঝটিকা সেল", "pos": "noun", "base": "flash sale" }, { "w": "hidden fees", "bn": "লুকানো ফি", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + had + subject + past participle ...?",
+          "tipBn": "Wh-শব্দের পরে had, তারপর subject আর past participle বসে।",
+          "items": [
+            { "id": "01", "en": "What had you already bought by the time you checked your bank balance?", "words": [{ "w": "by the time", "bn": "যতক্ষণে", "pos": "phrase" }, { "w": "bank balance", "bn": "ব্যাংকে থাকা টাকা", "pos": "noun" }] },
+            { "id": "02", "en": "Why hadn't the manufacturer warned customers about the recall before the holiday season?", "words": [{ "w": "manufacturer", "bn": "প্রস্তুতকারক", "pos": "noun" }, { "w": "recall", "bn": "পণ্য ফেরত নেওয়ার ঘোষণা", "pos": "noun" }] },
+            { "id": "03", "en": "How much had Farhan spent before he finally set a spending limit?", "words": [{ "w": "spending limit", "bn": "খরচের সীমা", "pos": "noun" }, { "w": "finally", "bn": "অবশেষে", "pos": "adverb" }] },
+            { "id": "04", "en": "Where had you seen that jacket before you found it cheaper online?", "words": [{ "w": "found", "bn": "খুঁজে পেলে", "pos": "verb", "base": "find" }, { "w": "cheaper", "bn": "আরও সস্তায়", "pos": "adjective", "base": "cheap" }] },
+            { "id": "05", "en": "Which store had offered the best price on the laptop before the sale ended?", "words": [{ "w": "offered", "bn": "দিয়েছিল", "pos": "verb", "base": "offer" }, { "w": "ended", "bn": "শেষ হলো", "pos": "verb", "base": "end" }] },
+            { "id": "06", "en": "How many times had Leo contacted the seller before he left a one-star review?", "words": [{ "w": "contacted", "bn": "যোগাযোগ করেছিল", "pos": "verb", "base": "contact" }, { "w": "one-star review", "bn": "এক তারকার রিভিউ", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A longer text in the past perfect",
+          "tipBn": "অনুচ্ছেদে past perfect দিয়ে আগে ঘটে যাওয়া ঘটনা আর past simple দিয়ে পরের ঘটনা বলা হয়।",
+          "items": [
+            { "id": "01", "title": "The blender that broke", "en": "Farhan had wanted a good blender for months, so when a flash sale appeared, he bought one immediately. He hadn't read a single review. Two weeks later, the motor stopped working. When he finally looked online, he discovered that dozens of buyers had already reported the same problem. By then, the seller had quietly removed the product from the website.", "words": [{ "w": "flash sale", "bn": "ঝটিকা সেল", "pos": "noun" }, { "w": "immediately", "bn": "সঙ্গে সঙ্গে", "pos": "adverb" }, { "w": "reported", "bn": "জানিয়েছিল", "pos": "verb", "base": "report" }, { "w": "By then", "bn": "ততক্ষণে", "pos": "phrase" }, { "w": "quietly", "bn": "চুপিচুপি", "pos": "adverb" }] },
+            { "id": "02", "title": "An impulse buy", "en": "Leo had promised himself that he would only buy groceries that Saturday. However, by the time he left the mall, he had spent over three hundred dollars on things he hadn't planned to buy. He had picked up a smart watch, two shirts and a fancy coffee machine. At home, he realized he had forgotten the milk and eggs.", "words": [{ "w": "promised himself", "bn": "নিজেকে কথা দিয়েছিল", "pos": "phrase", "base": "promise oneself" }, { "w": "picked up", "bn": "কিনে ফেলেছিল", "pos": "phrasal verb", "base": "pick up" }, { "w": "fancy", "bn": "শৌখিন, দামি", "pos": "adjective" }, { "w": "forgotten", "bn": "ভুলে গিয়েছিল", "pos": "verb", "base": "forget" }] },
+            { "id": "03", "title": "A lesson from the market", "en": "Before he moved to Canada, Farhan had always shopped with his mother at a busy market in Chattogram. She had taught him to bargain, to check every vegetable and to count his change. In Toronto, fixed prices had confused him at first. But after he had lived there for a year, he understood that comparing stores was simply a different kind of bargaining.", "words": [{ "w": "bargain", "bn": "দরদাম করা", "pos": "verb" }, { "w": "change", "bn": "ফেরত টাকা", "pos": "noun" }, { "w": "fixed prices", "bn": "একদাম", "pos": "noun" }, { "w": "confused", "bn": "বিভ্রান্ত করেছিল", "pos": "verb", "base": "confuse" }, { "w": "at first", "bn": "প্রথমদিকে", "pos": "phrase" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "passive",
+      "focus": "Talk about orders, deliveries, refunds and consumer rights",
+      "focusBn": "অর্ডার, ডেলিভারি, টাকা ফেরত ও ক্রেতা-অধিকার নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + be (is/was/has been/will be/is being) + past participle (+ by ...)",
+          "tipBn": "কে কাজটি করেছে তার চেয়ে কাজটিই বেশি জরুরি হলে be-এর উপযুক্ত রূপের পরে past participle বসে।",
+          "items": [
+            { "id": "01", "en": "Your order has been shipped and will be delivered within three to five business days.", "words": [{ "w": "shipped", "bn": "পাঠানো হয়েছে", "pos": "verb", "base": "ship" }, { "w": "business days", "bn": "কর্মদিবস", "pos": "noun" }] },
+            { "id": "02", "en": "In Canada, customers are protected by law against unfair contract terms and misleading advertisements.", "words": [{ "w": "protected", "bn": "সুরক্ষিত", "pos": "verb", "base": "protect" }, { "w": "unfair", "bn": "অন্যায্য", "pos": "adjective" }, { "w": "misleading", "bn": "বিভ্রান্তিকর", "pos": "adjective" }] },
+            { "id": "03", "en": "Farhan's parcel was left outside in the rain, and the box was completely soaked.", "words": [{ "w": "left", "bn": "ফেলে রাখা হয়েছিল", "pos": "verb", "base": "leave" }, { "w": "soaked", "bn": "ভিজে চুপচুপে", "pos": "adjective" }] },
+            { "id": "04", "en": "The faulty headphones were finally replaced after Farhan's third complaint to the manager.", "words": [{ "w": "replaced", "bn": "বদলে দেওয়া হয়েছিল", "pos": "verb", "base": "replace" }, { "w": "complaint", "bn": "অভিযোগ", "pos": "noun" }] },
+            { "id": "05", "en": "Your refund is being processed and should appear on your statement by Friday.", "words": [{ "w": "processed", "bn": "প্রক্রিয়া করা হচ্ছে", "pos": "verb", "base": "process" }, { "w": "statement", "bn": "ব্যাংক বিবরণী", "pos": "noun" }] },
+            { "id": "06", "en": "All prices will be reduced by thirty percent during the end-of-season sale.", "words": [{ "w": "reduced", "bn": "কমানো হবে", "pos": "verb", "base": "reduce" }, { "w": "end-of-season", "bn": "মৌসুম শেষের", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + wasn't/hasn't been/cannot be/shouldn't be + past participle ...",
+          "tipBn": "be-এর রূপ বা মোডালের পরে not বসিয়ে কর্মবাচ্যকে না-বোধক করা হয়।",
+          "items": [
+            { "id": "01", "en": "The extra delivery fee wasn't mentioned anywhere on the product page until checkout.", "words": [{ "w": "mentioned", "bn": "উল্লেখ করা", "pos": "verb", "base": "mention" }, { "w": "checkout", "bn": "মূল্য পরিশোধের ধাপ", "pos": "noun" }] },
+            { "id": "02", "en": "Sale items cannot be returned or exchanged unless they are faulty or damaged.", "words": [{ "w": "unless", "bn": "যদি না", "pos": "conjunction" }, { "w": "damaged", "bn": "ক্ষতিগ্রস্ত", "pos": "adjective" }] },
+            { "id": "03", "en": "Farhan's complaint hasn't been answered, even though it was submitted two weeks ago.", "words": [{ "w": "submitted", "bn": "জমা দেওয়া হয়েছিল", "pos": "verb", "base": "submit" }, { "w": "even though", "bn": "যদিও", "pos": "conjunction" }] },
+            { "id": "04", "en": "Customers shouldn't be charged every month for a subscription they never agreed to.", "words": [{ "w": "charged", "bn": "টাকা কাটা", "pos": "verb", "base": "charge" }, { "w": "agreed to", "bn": "রাজি হয়েছিল", "pos": "phrasal verb", "base": "agree to" }] },
+            { "id": "05", "en": "The damaged box wasn't noticed until the delivery driver had already left.", "words": [{ "w": "noticed", "bn": "চোখে পড়া", "pos": "verb", "base": "notice" }, { "w": "delivery driver", "bn": "ডেলিভারি চালক", "pos": "noun" }] },
+            { "id": "06", "en": "Personal data should not be shared with third parties without the customer's consent.", "words": [{ "w": "third parties", "bn": "তৃতীয় পক্ষ", "pos": "noun", "base": "third party" }, { "w": "consent", "bn": "সম্মতি", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Is/Was/Has/Will + subject + (been/be) + past participle ...?",
+          "tipBn": "কর্মবাচ্যের প্রশ্নে Is, Was, Has বা Will শুরুতে বসে, আর past participle পরে থাকে।",
+          "items": [
+            { "id": "01", "en": "Has my refund been approved yet, or is it still being reviewed?", "words": [{ "w": "approved", "bn": "অনুমোদিত", "pos": "verb", "base": "approve" }, { "w": "reviewed", "bn": "যাচাই করা হচ্ছে", "pos": "verb", "base": "review" }] },
+            { "id": "02", "en": "Are online sellers required by law to accept returns within thirty days?", "words": [{ "w": "required", "bn": "বাধ্য", "pos": "verb", "base": "require" }, { "w": "by law", "bn": "আইন অনুযায়ী", "pos": "phrase" }] },
+            { "id": "03", "en": "Was the parcel signed for by someone at the front desk of your building?", "words": [{ "w": "signed for", "bn": "সই করে নেওয়া", "pos": "phrasal verb", "base": "sign for" }, { "w": "front desk", "bn": "অভ্যর্থনা ডেস্ক", "pos": "noun" }] },
+            { "id": "04", "en": "Will I be charged a restocking fee if I return the opened laptop?", "words": [{ "w": "restocking fee", "bn": "পুনঃমজুত ফি", "pos": "noun" }, { "w": "opened", "bn": "খোলা", "pos": "adjective" }] },
+            { "id": "05", "en": "Is this winter jacket really made from recycled materials, as the label claims?", "words": [{ "w": "recycled", "bn": "পুনর্ব্যবহৃত", "pos": "adjective" }, { "w": "claims", "bn": "দাবি করে", "pos": "verb", "base": "claim" }] },
+            { "id": "06", "en": "Were you given a written receipt when the exchange was completed at the counter?", "words": [{ "w": "written", "bn": "লিখিত", "pos": "adjective" }, { "w": "completed", "bn": "সম্পন্ন হলো", "pos": "verb", "base": "complete" }] }
+          ]
+        },
+        {
+          "type": "indirect-question",
+          "pattern": "Could you tell me / Do you know whether / I was wondering if + subject + be + past participle ...",
+          "tipBn": "ভদ্রভাবে জানতে চাইলে Could you tell me বা Do you know-এর পরে সাধারণ বাক্যের মতো subject আগে আর verb পরে বসে।",
+          "items": [
+            { "id": "01", "en": "Could you tell me when my refund will be processed and how it will be paid?", "words": [{ "w": "refund", "bn": "টাকা ফেরত", "pos": "noun" }, { "w": "processed", "bn": "প্রক্রিয়া করা হবে", "pos": "verb", "base": "process" }] },
+            { "id": "02", "en": "Do you know whether this item can be exchanged for a different size?", "words": [{ "w": "whether", "bn": "কিনা", "pos": "conjunction" }, { "w": "exchanged", "bn": "বদলানো", "pos": "verb", "base": "exchange" }] },
+            { "id": "03", "en": "I was wondering if the delivery could be rescheduled for Saturday morning.", "words": [{ "w": "I was wondering", "bn": "আমি জানতে চাইছিলাম", "pos": "phrase" }, { "w": "rescheduled", "bn": "সময় বদলানো", "pos": "verb", "base": "reschedule" }] },
+            { "id": "04", "en": "Would you mind telling me why my order was canceled without any notice?", "words": [{ "w": "Would you mind", "bn": "কিছু মনে করবেন কি", "pos": "phrase" }, { "w": "notice", "bn": "আগাম জানানো", "pos": "noun" }] },
+            { "id": "05", "en": "Can you find out whether the missing parcel has been located yet?", "words": [{ "w": "find out", "bn": "খোঁজ নেওয়া", "pos": "phrasal verb" }, { "w": "located", "bn": "খুঁজে পাওয়া গেছে", "pos": "verb", "base": "locate" }] },
+            { "id": "06", "en": "I'd like to know how customer complaints are handled in your company.", "words": [{ "w": "I'd like to know", "bn": "আমি জানতে চাই", "pos": "phrase" }, { "w": "handled", "bn": "নিষ্পত্তি করা হয়", "pos": "verb", "base": "handle" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A longer text in the passive voice",
+          "tipBn": "অনুচ্ছেদে বিভিন্ন কালের কর্মবাচ্য দিয়ে প্রক্রিয়া, নিয়ম ও অধিকারের কথা বলা হয়।",
+          "items": [
+            { "id": "01", "title": "A parcel gone missing", "en": "Last month, Farhan's new phone was marked as delivered, but it was never found. The tracking page said it had been left at the front door, yet nothing was there. A claim was filed with the courier, and his case was passed to a senior agent. Eventually, a replacement was sent, and he was offered a small credit for the trouble.", "words": [{ "w": "marked", "bn": "চিহ্নিত করা হয়েছিল", "pos": "verb", "base": "mark" }, { "w": "claim", "bn": "দাবি", "pos": "noun" }, { "w": "filed", "bn": "দাখিল করা হয়েছিল", "pos": "verb", "base": "file" }, { "w": "Eventually", "bn": "অবশেষে", "pos": "adverb" }, { "w": "credit", "bn": "জমা টাকা", "pos": "noun" }] },
+            { "id": "02", "title": "Know your rights", "en": "When Farhan's blender broke, Leo showed him how shoppers are protected in Canada. Products must be described accurately, and prices must be clearly displayed. If an item is found to be faulty, the buyer is usually entitled to a repair, a replacement or a refund. Farhan was told that similar rights are also guaranteed by law in Bangladesh.", "words": [{ "w": "accurately", "bn": "সঠিকভাবে", "pos": "adverb" }, { "w": "displayed", "bn": "প্রদর্শিত", "pos": "verb", "base": "display" }, { "w": "entitled to", "bn": "পাওয়ার অধিকারী", "pos": "phrase" }, { "w": "similar", "bn": "একই রকম", "pos": "adjective" }, { "w": "guaranteed", "bn": "নিশ্চিত করা হয়েছে", "pos": "verb", "base": "guarantee" }] },
+            { "id": "03", "title": "How reviews are handled", "en": "Every review that is posted on Tania's online store is read by Tania herself. Negative reviews are never deleted; instead, they are answered politely within a day. If a customer is unhappy, a free exchange is offered and the new item is sent at no extra cost. As a result, her store has been recommended by hundreds of satisfied buyers.", "words": [{ "w": "deleted", "bn": "মুছে ফেলা হয়", "pos": "verb", "base": "delete" }, { "w": "politely", "bn": "ভদ্রভাবে", "pos": "adverb" }, { "w": "at no extra cost", "bn": "বাড়তি খরচ ছাড়া", "pos": "phrase" }, { "w": "recommended", "bn": "সুপারিশ করা হয়েছে", "pos": "verb", "base": "recommend" }, { "w": "satisfied", "bn": "সন্তুষ্ট", "pos": "adjective" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Reflect on past shopping choices and their results",
+      "focusBn": "অতীতের কেনাকাটার সিদ্ধান্ত ও তার ফল নিয়ে ভাবা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + had + past participle, would/could have + past participle (third) / ..., would + verb now (mixed)",
+          "tipBn": "অতীতে ঘটেনি এমন কাল্পনিক শর্তে If-এর পরে had + past participle আর অন্য অংশে would have + past participle বসে; ফল এখনকার হলে would + verb বসে।",
+          "items": [
+            { "id": "01", "en": "If Farhan had read the reviews, he would have chosen a more reliable blender.", "words": [{ "w": "chosen", "bn": "বেছে নিত", "pos": "verb", "base": "choose" }, { "w": "reliable", "bn": "নির্ভরযোগ্য", "pos": "adjective" }] },
+            { "id": "02", "en": "If Leo had waited for the Black Friday sale, he would have saved two hundred dollars.", "words": [{ "w": "Black Friday", "bn": "বড় ছাড়ের দিন", "pos": "noun" }, { "w": "saved", "bn": "বাঁচাতে পারত", "pos": "verb", "base": "save" }] },
+            { "id": "03", "en": "If I had kept the receipt, I could have exchanged the shoes for a bigger size.", "words": [{ "w": "could have", "bn": "পারতাম", "pos": "phrase" }, { "w": "exchanged", "bn": "বদলে নেওয়া", "pos": "verb", "base": "exchange" }] },
+            { "id": "04", "en": "If Farhan had started budgeting earlier, he would have more savings now.", "words": [{ "w": "budgeting", "bn": "বাজেট করা", "pos": "verb", "base": "budget" }, { "w": "savings", "bn": "সঞ্চয়", "pos": "noun" }] },
+            { "id": "05", "en": "If Tania had opened her online store earlier, she would have even more customers today.", "words": [{ "w": "earlier", "bn": "আরও আগে", "pos": "adverb" }, { "w": "even more", "bn": "আরও বেশি", "pos": "phrase" }] },
+            { "id": "06", "en": "If I were more patient, I would have waited for the price to drop.", "words": [{ "w": "patient", "bn": "ধৈর্যশীল", "pos": "adjective" }, { "w": "drop", "bn": "কমে যাওয়া", "pos": "verb" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + hadn't + past participle, wouldn't have + past participle / wouldn't + verb now",
+          "tipBn": "hadn't বা wouldn't বসিয়ে অতীতের কাল্পনিক শর্ত বা তার ফলকে না-বোধক করা হয়।",
+          "items": [
+            { "id": "01", "en": "If the store hadn't offered free returns, I wouldn't have ordered three different sizes.", "words": [{ "w": "free returns", "bn": "বিনামূল্যে ফেরত", "pos": "noun" }, { "w": "ordered", "bn": "অর্ডার করতাম", "pos": "verb", "base": "order" }] },
+            { "id": "02", "en": "Farhan wouldn't have lost his money if he had paid with a credit card instead of cash.", "words": [{ "w": "lost", "bn": "হারাত", "pos": "verb", "base": "lose" }, { "w": "instead of", "bn": "এর বদলে", "pos": "preposition" }] },
+            { "id": "03", "en": "If Leo hadn't signed up for so many subscriptions, he wouldn't be broke now.", "words": [{ "w": "signed up for", "bn": "নাম লেখাত", "pos": "phrasal verb", "base": "sign up for" }, { "w": "broke", "bn": "টাকাশূন্য", "pos": "adjective" }] },
+            { "id": "04", "en": "If I had known about the hidden fees, I would never have completed the order.", "words": [{ "w": "hidden fees", "bn": "লুকানো ফি", "pos": "noun" }, { "w": "completed", "bn": "সম্পন্ন করতাম", "pos": "verb", "base": "complete" }] },
+            { "id": "05", "en": "If the courier hadn't left the parcel outside, it wouldn't have been stolen.", "words": [{ "w": "courier", "bn": "কুরিয়ার", "pos": "noun" }, { "w": "stolen", "bn": "চুরি হতো", "pos": "verb", "base": "steal" }] },
+            { "id": "06", "en": "If Farhan didn't track his spending so carefully, he wouldn't have been able to afford the trip home last winter.", "words": [{ "w": "track", "bn": "হিসাব রাখা", "pos": "verb" }, { "w": "afford", "bn": "সামর্থ্য থাকা", "pos": "verb" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + would + subject + have + past participle + if + had ...?",
+          "tipBn": "Wh-শব্দের পরে would, তারপর subject আর have + past participle বসে; if-অংশে had + past participle থাকে।",
+          "items": [
+            { "id": "01", "en": "What would you have done if the seller had refused to give you a refund?", "words": [{ "w": "refused", "bn": "অস্বীকার করত", "pos": "verb", "base": "refuse" }, { "w": "refund", "bn": "টাকা ফেরত", "pos": "noun" }] },
+            { "id": "02", "en": "How much would you have saved if you had bought the laptop during the sale?", "words": [{ "w": "saved", "bn": "বাঁচাতে", "pos": "verb", "base": "save" }, { "w": "during", "bn": "চলাকালীন", "pos": "preposition" }] },
+            { "id": "03", "en": "Which phone would you have bought if you had read the reviews first?", "words": [{ "w": "reviews", "bn": "রিভিউ, মতামত", "pos": "noun", "base": "review" }, { "w": "first", "bn": "আগে", "pos": "adverb" }] },
+            { "id": "04", "en": "How would your life be different now if you had saved half your salary last year?", "words": [{ "w": "different", "bn": "অন্যরকম", "pos": "adjective" }, { "w": "salary", "bn": "বেতন", "pos": "noun" }] },
+            { "id": "05", "en": "Who would you have complained to if the store manager had ignored you?", "words": [{ "w": "complained to", "bn": "অভিযোগ করতে", "pos": "phrasal verb", "base": "complain to" }, { "w": "ignored", "bn": "উপেক্ষা করত", "pos": "verb", "base": "ignore" }] },
+            { "id": "06", "en": "What would Tania's business look like today if she had never started selling online?", "words": [{ "w": "business", "bn": "ব্যবসা", "pos": "noun" }, { "w": "look like", "bn": "দেখতে কেমন হতো", "pos": "phrasal verb" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A longer text with third and mixed conditionals",
+          "tipBn": "অনুচ্ছেদে third ও mixed conditional দিয়ে অতীতের ভুল, শিক্ষা আর তার বর্তমান ফল বলা হয়।",
+          "items": [
+            { "id": "01", "title": "The winter coat", "en": "Last November, Farhan bought the first winter coat he saw because he was cold and in a hurry. If he had compared a few stores, he would have found a warmer coat for less money. If he had checked the size chart, he would have ordered a larger size. Now he says that if he had been more patient, he would be much warmer this winter.", "words": [{ "w": "in a hurry", "bn": "তাড়াহুড়োয়", "pos": "phrase" }, { "w": "compared", "bn": "তুলনা করত", "pos": "verb", "base": "compare" }, { "w": "size chart", "bn": "মাপের তালিকা", "pos": "noun" }, { "w": "patient", "bn": "ধৈর্যশীল", "pos": "adjective" }] },
+            { "id": "02", "title": "Leo's credit card", "en": "If Leo had read his statements every month, he would have noticed the extra charges much sooner. He would have saved hundreds of dollars if he had canceled his unused subscriptions. If he hadn't used his credit card for every small purchase, he wouldn't be paying so much interest now. Luckily, he has finally learned his lesson.", "words": [{ "w": "statements", "bn": "ব্যাংক বিবরণী", "pos": "noun", "base": "statement" }, { "w": "sooner", "bn": "আরও আগে", "pos": "adverb", "base": "soon" }, { "w": "unused", "bn": "অব্যবহৃত", "pos": "adjective" }, { "w": "interest", "bn": "সুদ", "pos": "noun" }, { "w": "learned his lesson", "bn": "শিক্ষা পেয়েছে", "pos": "idiom", "base": "learn one's lesson" }] },
+            { "id": "03", "title": "A good decision", "en": "Some choices turn out well. When Tania started her online store, she offered free exchanges from the first day. If she hadn't made that decision, many customers would have left angry reviews. If she had followed her friends' advice and sold only through a physical shop, she would not have so many loyal buyers across Bangladesh today.", "words": [{ "w": "turn out", "bn": "শেষে দাঁড়ায়", "pos": "phrasal verb" }, { "w": "advice", "bn": "পরামর্শ", "pos": "noun" }, { "w": "physical", "bn": "সরাসরি, বাস্তব", "pos": "adjective" }, { "w": "loyal", "bn": "বিশ্বস্ত", "pos": "adjective" }] }
+          ]
+        }
+      ]
+    }
+  ]
+}

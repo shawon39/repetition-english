@@ -1,0 +1,272 @@
+{
+  "topic": "food-cooking",
+  "level": "intermediate",
+  "title": "Cooking Away From Home",
+  "story": "Arif grew up in Chattogram but now studies in Dhaka. He shares a small flat with his friends Sabbir and Nayeem. They are tired of oily canteen food, so Arif is learning to cook, and his mother guides him on video calls.",
+  "storyBn": "আরিফ চট্টগ্রামে বড় হয়েছে, কিন্তু এখন ঢাকায় পড়াশোনা করে। সে বন্ধু সাব্বির আর নাঈমের সাথে একটি ছোট ফ্ল্যাটে থাকে। ক্যান্টিনের তেলতেলে খাবারে তারা বিরক্ত, তাই আরিফ রান্না শিখছে, আর মা ভিডিও কলে তাকে শিখিয়ে দেন।",
+  "units": [
+    {
+      "grammar": "present-perfect",
+      "focus": "Talk about cooking experience and recent kitchen news",
+      "focusBn": "রান্নার অভিজ্ঞতা ও রান্নাঘরের সাম্প্রতিক ঘটনা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + have / has + past participle (+ just / already / since / for) ...",
+          "tipBn": "অভিজ্ঞতা বা এমন অতীত কাজ যার ফল এখনও আছে, তা বোঝাতে have/has + past participle বসে।",
+          "items": [
+            { "id": "01", "en": "Arif has learned to cook five dishes since he moved to Dhaka.", "words": [{ "w": "learned", "bn": "শিখেছে", "pos": "verb", "base": "learn" }, { "w": "since", "bn": "থেকে", "pos": "conjunction" }] },
+            { "id": "02", "en": "Sabbir has just finished washing a huge pile of dishes.", "words": [{ "w": "just", "bn": "এইমাত্র", "pos": "adverb" }, { "w": "pile", "bn": "স্তূপ", "pos": "noun" }] },
+            { "id": "03", "en": "We have already spent half of our food budget this month.", "words": [{ "w": "already", "bn": "ইতিমধ্যে", "pos": "adverb" }, { "w": "budget", "bn": "বাজেট, খরচের সীমা", "pos": "noun" }] },
+            { "id": "04", "en": "My mother has sent me a jar of her famous mango pickle.", "words": [{ "w": "jar", "bn": "বয়াম", "pos": "noun" }, { "w": "famous", "bn": "বিখ্যাত", "pos": "adjective" }, { "w": "pickle", "bn": "আচার", "pos": "noun" }] },
+            { "id": "05", "en": "Nayeem has cut down on sugar since his last checkup.", "words": [{ "w": "cut down on", "bn": "কমিয়ে দেওয়া", "pos": "phrasal verb" }, { "w": "checkup", "bn": "স্বাস্থ্য পরীক্ষা", "pos": "noun" }] },
+            { "id": "06", "en": "Arif has perfected his mother's khichuri recipe after many attempts.", "words": [{ "w": "perfected", "bn": "নিখুঁত করেছে", "pos": "verb", "base": "perfect" }, { "w": "attempts", "bn": "চেষ্টা", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + haven't / hasn't + past participle (+ yet) / Subject + has never + past participle ...",
+          "tipBn": "না-বোধক করতে have/has-এর পরে not বা never বসে; yet সাধারণত বাক্যের শেষে বসে।",
+          "items": [
+            { "id": "01", "en": "Arif hasn't tried cooking beef curry on his own yet.", "words": [{ "w": "on his own", "bn": "নিজে নিজে", "pos": "phrase" }, { "w": "yet", "bn": "এখনও", "pos": "adverb" }] },
+            { "id": "02", "en": "Nayeem has never boiled an egg in his whole life.", "words": [{ "w": "boiled", "bn": "সেদ্ধ করেছে", "pos": "verb", "base": "boil" }, { "w": "whole", "bn": "পুরো", "pos": "adjective" }] },
+            { "id": "03", "en": "We haven't cleaned the greasy stove since we moved in.", "words": [{ "w": "greasy", "bn": "তেলচিটে", "pos": "adjective" }, { "w": "moved in", "bn": "বাসায় উঠেছি", "pos": "phrasal verb", "base": "move in" }] },
+            { "id": "04", "en": "Sabbir hasn't eaten any fried snacks for two weeks.", "words": [{ "w": "fried snacks", "bn": "ভাজাপোড়া নাশতা", "pos": "noun" }, { "w": "for two weeks", "bn": "দুই সপ্তাহ ধরে", "pos": "phrase" }] },
+            { "id": "05", "en": "Nobody has taken out the kitchen garbage today.", "words": [{ "w": "taken out", "bn": "বাইরে ফেলেছে", "pos": "phrasal verb", "base": "take out" }, { "w": "garbage", "bn": "ময়লা-আবর্জনা", "pos": "noun" }] },
+            { "id": "06", "en": "The rice hasn't absorbed all the water yet.", "words": [{ "w": "absorbed", "bn": "শুষে নিয়েছে", "pos": "verb", "base": "absorb" }, { "w": "yet", "bn": "এখনও", "pos": "adverb" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Have / Has + subject + (ever / already) + past participle ...?",
+          "tipBn": "প্রশ্ন করতে Have/Has শুরুতে বসে; ever দিয়ে অভিজ্ঞতা জানতে চাওয়া হয়।",
+          "items": [
+            { "id": "01", "en": "Have you ever cooked fish curry without your mother's help?", "words": [{ "w": "ever", "bn": "কখনো", "pos": "adverb" }, { "w": "without", "bn": "ছাড়া", "pos": "preposition" }] },
+            { "id": "02", "en": "Has Sabbir already eaten all the leftover rice?", "words": [{ "w": "already", "bn": "ইতিমধ্যে", "pos": "adverb" }, { "w": "leftover", "bn": "বেঁচে যাওয়া", "pos": "adjective" }] },
+            { "id": "03", "en": "Have you added the turmeric and chili powder yet?", "words": [{ "w": "turmeric", "bn": "হলুদ", "pos": "noun" }, { "w": "chili powder", "bn": "মরিচের গুঁড়া", "pos": "noun" }] },
+            { "id": "04", "en": "Has the milk gone sour in this heat?", "words": [{ "w": "gone sour", "bn": "টক হয়ে গেছে", "pos": "phrase", "base": "go sour" }, { "w": "heat", "bn": "গরম", "pos": "noun" }] },
+            { "id": "05", "en": "Have you ever tasted Chattogram's famous mezbani beef?", "words": [{ "w": "tasted", "bn": "চেখে দেখেছ", "pos": "verb", "base": "taste" }, { "w": "famous", "bn": "বিখ্যাত", "pos": "adjective" }] },
+            { "id": "06", "en": "Has Nayeem started eating more vegetables since his checkup?", "words": [{ "w": "started", "bn": "শুরু করেছে", "pos": "verb", "base": "start" }, { "w": "checkup", "bn": "স্বাস্থ্য পরীক্ষা", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + have / has + subject + past participle ...?",
+          "tipBn": "প্রশ্নশব্দের পরে have/has, তারপর subject ও past participle বসে।",
+          "items": [
+            { "id": "01", "en": "How many dishes have you learned to cook so far?", "words": [{ "w": "dishes", "bn": "পদ", "pos": "noun" }, { "w": "so far", "bn": "এখন পর্যন্ত", "pos": "phrase" }] },
+            { "id": "02", "en": "What has happened to our new rice cooker?", "words": [{ "w": "happened", "bn": "ঘটেছে", "pos": "verb", "base": "happen" }, { "w": "rice cooker", "bn": "রাইস কুকার", "pos": "noun" }] },
+            { "id": "03", "en": "Why has the dal turned so thick and sticky?", "words": [{ "w": "thick", "bn": "ঘন", "pos": "adjective" }, { "w": "sticky", "bn": "আঠালো", "pos": "adjective" }] },
+            { "id": "04", "en": "How long have you lived on instant noodles?", "words": [{ "w": "lived on", "bn": "শুধু খেয়ে দিন কাটিয়েছ", "pos": "phrasal verb", "base": "live on" }, { "w": "instant noodles", "bn": "ইনস্ট্যান্ট নুডলস", "pos": "noun" }] },
+            { "id": "05", "en": "Who has eaten the last piece of chicken?", "words": [{ "w": "last", "bn": "শেষ", "pos": "adjective" }, { "w": "piece", "bn": "টুকরা", "pos": "noun" }] },
+            { "id": "06", "en": "Which recipes has your mother sent you this week?", "words": [{ "w": "recipes", "bn": "রান্নার প্রণালী", "pos": "noun", "base": "recipe" }, { "w": "sent", "bn": "পাঠিয়েছেন", "pos": "verb", "base": "send" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences, mostly have / has + past participle.",
+          "tipBn": "অনুচ্ছেদে বেশিরভাগ বাক্য present perfect-এ থাকে এবং এখনকার ফলাফল বোঝায়।",
+          "items": [
+            { "id": "01", "title": "Three months of cooking", "en": "Arif has lived in Dhaka for three months now. In that time, he has learned to make rice, dal and a simple chicken curry. He has burned a few pots, but he has never given up. His friends have stopped complaining about his food, and they have even asked for second helpings.", "words": [{ "w": "burned", "bn": "পুড়িয়েছে", "pos": "verb", "base": "burn" }, { "w": "given up", "bn": "হাল ছেড়ে দিয়েছে", "pos": "phrasal verb", "base": "give up" }, { "w": "complaining", "bn": "অভিযোগ করা", "pos": "verb", "base": "complain" }, { "w": "second helpings", "bn": "আরেকবার খাবার নেওয়া", "pos": "noun" }] },
+            { "id": "02", "title": "A healthier flat", "en": "Nayeem's doctor has told him to eat less oil and sugar. Since then, the three friends have changed their habits. They have replaced fried snacks with fruit and roasted chickpeas, and Arif has started steaming fish instead of frying it. Nobody has complained so far.", "words": [{ "w": "habits", "bn": "অভ্যাস", "pos": "noun", "base": "habit" }, { "w": "replaced", "bn": "বদলে নিয়েছে", "pos": "verb", "base": "replace" }, { "w": "roasted chickpeas", "bn": "ভাজা ছোলা", "pos": "noun" }, { "w": "steaming", "bn": "ভাপে রান্না করা", "pos": "verb", "base": "steam" }, { "w": "instead of", "bn": "এর বদলে", "pos": "phrase" }] },
+            { "id": "03", "title": "A kitchen disaster", "en": "Sabbir has just tried to cook dinner for the first time, and the flat smells of smoke. He has burned the onions and added far too much salt to the curry. Arif has opened all the windows, and Nayeem has already ordered pizza.", "words": [{ "w": "smells of", "bn": "এর গন্ধে ভরা", "pos": "phrase", "base": "smell of" }, { "w": "smoke", "bn": "ধোঁয়া", "pos": "noun" }, { "w": "far too much", "bn": "অনেক বেশি", "pos": "phrase" }, { "w": "ordered", "bn": "অর্ডার করেছে", "pos": "verb", "base": "order" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-continuous",
+      "focus": "Describe what was happening at busy kitchen moments",
+      "focusBn": "রান্নাঘরের ব্যস্ত মুহূর্তে কী চলছিল তা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + was / were + verb-ing (+ when / while + ...)",
+          "tipBn": "অতীতে কোনো সময়ে চলছিল এমন কাজ বোঝাতে was/were + verb-ing বসে; when/while দিয়ে দুটি ঘটনা যুক্ত হয়।",
+          "items": [
+            { "id": "01", "en": "Arif was frying onions when the gas suddenly went off.", "words": [{ "w": "frying", "bn": "ভাজছিল", "pos": "verb", "base": "fry" }, { "w": "went off", "bn": "বন্ধ হয়ে গেল", "pos": "phrasal verb", "base": "go off" }] },
+            { "id": "02", "en": "While the rice was boiling, Sabbir was chopping the vegetables.", "words": [{ "w": "while", "bn": "যখন", "pos": "conjunction" }, { "w": "chopping", "bn": "কুচি করছিল", "pos": "verb", "base": "chop" }] },
+            { "id": "03", "en": "My mother was explaining the recipe on a video call late last night.", "words": [{ "w": "explaining", "bn": "বুঝিয়ে দিচ্ছিলেন", "pos": "verb", "base": "explain" }, { "w": "recipe", "bn": "রান্নার প্রণালী", "pos": "noun" }] },
+            { "id": "04", "en": "Nayeem was secretly snacking on chocolate while we were making salad.", "words": [{ "w": "secretly", "bn": "গোপনে", "pos": "adverb" }, { "w": "snacking on", "bn": "টুকটাক খাচ্ছিল", "pos": "phrasal verb", "base": "snack on" }] },
+            { "id": "05", "en": "The pressure cooker was whistling loudly when the landlord knocked.", "words": [{ "w": "whistling", "bn": "সিটি দিচ্ছিল", "pos": "verb", "base": "whistle" }, { "w": "landlord", "bn": "বাড়িওয়ালা", "pos": "noun" }] },
+            { "id": "06", "en": "We were eating by candlelight because of a power cut.", "words": [{ "w": "candlelight", "bn": "মোমবাতির আলো", "pos": "noun" }, { "w": "power cut", "bn": "লোডশেডিং", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + wasn't / weren't + verb-ing ... / Nobody + was + verb-ing ...",
+          "tipBn": "was/were-এর পরে not বসিয়ে অতীতে চলমান কাজের না-বোধক বাক্য হয়।",
+          "items": [
+            { "id": "01", "en": "Arif wasn't paying attention, so the milk boiled over.", "words": [{ "w": "paying attention", "bn": "মনোযোগ দিচ্ছিল", "pos": "phrase", "base": "pay attention" }, { "w": "boiled over", "bn": "উপচে পড়ল", "pos": "phrasal verb", "base": "boil over" }] },
+            { "id": "02", "en": "Sabbir wasn't wearing gloves when he cut the green chilies.", "words": [{ "w": "gloves", "bn": "দস্তানা, গ্লাভস", "pos": "noun" }, { "w": "green chilies", "bn": "কাঁচা মরিচ", "pos": "noun" }] },
+            { "id": "03", "en": "We weren't expecting guests, so the fridge was almost empty.", "words": [{ "w": "expecting", "bn": "আশা করছিলাম", "pos": "verb", "base": "expect" }, { "w": "almost", "bn": "প্রায়", "pos": "adverb" }] },
+            { "id": "04", "en": "Nobody was watching the curry when it started to burn.", "words": [{ "w": "watching", "bn": "খেয়াল রাখছিল", "pos": "verb", "base": "watch" }, { "w": "burn", "bn": "পুড়ে যাওয়া", "pos": "verb" }] },
+            { "id": "05", "en": "My mother wasn't measuring the spices, but the curry still tasted perfect.", "words": [{ "w": "measuring", "bn": "মাপছিলেন", "pos": "verb", "base": "measure" }, { "w": "still", "bn": "তবুও", "pos": "adverb" }] },
+            { "id": "06", "en": "The guests weren't enjoying the curry because it was far too spicy.", "words": [{ "w": "enjoying", "bn": "উপভোগ করছিল", "pos": "verb", "base": "enjoy" }, { "w": "far too", "bn": "অনেক বেশি", "pos": "phrase" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Was / Were + subject + verb-ing ...?",
+          "tipBn": "Was/Were শুরুতে বসিয়ে অতীতের চলমান কাজ নিয়ে প্রশ্ন করা হয়।",
+          "items": [
+            { "id": "01", "en": "Were you cooking when the power went out?", "words": [{ "w": "power", "bn": "বিদ্যুৎ", "pos": "noun" }, { "w": "went out", "bn": "চলে গেল", "pos": "phrasal verb", "base": "go out" }] },
+            { "id": "02", "en": "Was Sabbir watching a video while the milk was boiling?", "words": [{ "w": "while", "bn": "যখন", "pos": "conjunction" }, { "w": "boiling", "bn": "ফুটছিল", "pos": "verb", "base": "boil" }] },
+            { "id": "03", "en": "Were the boys arguing about whose turn it was to cook?", "words": [{ "w": "arguing", "bn": "তর্ক করছিল", "pos": "verb", "base": "argue" }, { "w": "turn", "bn": "পালা", "pos": "noun" }] },
+            { "id": "04", "en": "Was your mother laughing at your uneven rotis?", "words": [{ "w": "laughing at", "bn": "দেখে হাসছিলেন", "pos": "phrase", "base": "laugh at" }, { "w": "uneven", "bn": "অসমান", "pos": "adjective" }] },
+            { "id": "05", "en": "Was the fish still frying when you left the kitchen?", "words": [{ "w": "still", "bn": "তখনও", "pos": "adverb" }, { "w": "frying", "bn": "ভাজা হচ্ছিল", "pos": "verb", "base": "fry" }] },
+            { "id": "06", "en": "Were you following the recipe or just guessing?", "words": [{ "w": "following", "bn": "অনুসরণ করছিলে", "pos": "verb", "base": "follow" }, { "w": "guessing", "bn": "আন্দাজ করছিলে", "pos": "verb", "base": "guess" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + was / were + subject + verb-ing ...?",
+          "tipBn": "প্রশ্নশব্দের পরে was/were, তারপর subject ও verb-ing বসে।",
+          "items": [
+            { "id": "01", "en": "What were you frying when the neighbors complained about the smell?", "words": [{ "w": "neighbors", "bn": "প্রতিবেশী", "pos": "noun", "base": "neighbor" }, { "w": "complained", "bn": "অভিযোগ করল", "pos": "verb", "base": "complain" }] },
+            { "id": "02", "en": "Why was Nayeem standing in front of the fridge at midnight?", "words": [{ "w": "in front of", "bn": "সামনে", "pos": "phrase" }, { "w": "midnight", "bn": "মাঝরাত", "pos": "noun" }] },
+            { "id": "03", "en": "Who was washing the dishes while you were cooking?", "words": [{ "w": "dishes", "bn": "থালাবাসন", "pos": "noun" }, { "w": "while", "bn": "যখন", "pos": "conjunction" }] },
+            { "id": "04", "en": "How long was the dal simmering on low heat?", "words": [{ "w": "simmering", "bn": "অল্প আঁচে ফুটছিল", "pos": "verb", "base": "simmer" }, { "w": "low heat", "bn": "কম আঁচ", "pos": "noun" }] },
+            { "id": "05", "en": "Which spice was Arif looking for all morning?", "words": [{ "w": "spice", "bn": "মসলা", "pos": "noun" }, { "w": "looking for", "bn": "খুঁজছিল", "pos": "phrasal verb", "base": "look for" }] },
+            { "id": "06", "en": "What was your mother telling you about soaking the rice?", "words": [{ "w": "telling", "bn": "বলছিলেন", "pos": "verb", "base": "tell" }, { "w": "soaking", "bn": "ভিজিয়ে রাখা", "pos": "verb", "base": "soak" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences, mostly was / were + verb-ing, with when / while.",
+          "tipBn": "অনুচ্ছেদে পটভূমির কাজ past continuous-এ, আর হঠাৎ ঘটা ঘটনা past simple-এ থাকে।",
+          "items": [
+            { "id": "01", "title": "The night the power went out", "en": "Last Friday, Arif was cooking dinner for his friends. The pressure cooker was whistling, and Sabbir was chopping salad at the table. Suddenly, the power went out. They were eating dal and rice by candlelight when the lights finally came back.", "words": [{ "w": "whistling", "bn": "সিটি দিচ্ছিল", "pos": "verb", "base": "whistle" }, { "w": "suddenly", "bn": "হঠাৎ", "pos": "adverb" }, { "w": "candlelight", "bn": "মোমবাতির আলো", "pos": "noun" }, { "w": "came back", "bn": "ফিরে এল", "pos": "phrasal verb", "base": "come back" }] },
+            { "id": "02", "title": "A video call lesson", "en": "At nine o'clock last night, my mother was teaching me how to make fish curry on a video call. I was holding the phone in one hand and stirring the pan with the other. While she was talking, the onions were turning dark brown. She was laughing, but I was panicking.", "words": [{ "w": "holding", "bn": "ধরে ছিলাম", "pos": "verb", "base": "hold" }, { "w": "stirring", "bn": "নাড়ছিলাম", "pos": "verb", "base": "stir" }, { "w": "dark brown", "bn": "গাঢ় বাদামি", "pos": "adjective" }, { "w": "panicking", "bn": "ঘাবড়ে যাচ্ছিলাম", "pos": "verb", "base": "panic" }] },
+            { "id": "03", "title": "Guests at the door", "en": "On Saturday afternoon, the three friends were relaxing in the flat. Nayeem was sleeping, and Sabbir was watching cricket. Arif was washing a pile of dirty dishes when his cousins rang the doorbell. They were carrying boxes of homemade pitha from Chattogram, so everyone woke up quickly.", "words": [{ "w": "relaxing", "bn": "বিশ্রাম নিচ্ছিল", "pos": "verb", "base": "relax" }, { "w": "pile", "bn": "স্তূপ", "pos": "noun" }, { "w": "doorbell", "bn": "কলিং বেল", "pos": "noun" }, { "w": "carrying", "bn": "বয়ে আনছিল", "pos": "verb", "base": "carry" }, { "w": "woke up", "bn": "জেগে উঠল", "pos": "phrasal verb", "base": "wake up" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "modals",
+      "focus": "Give kitchen advice, rules and possibilities",
+      "focusBn": "রান্নাঘরের পরামর্শ, নিয়ম ও সম্ভাবনা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + should / must / have to / might / could / may + verb (base) ...",
+          "tipBn": "পরামর্শে should, নিয়মে must বা have to, আর সম্ভাবনায় might/could/may বসে; এরপর verb মূল রূপে থাকে।",
+          "items": [
+            { "id": "01", "en": "You should soak the rice for twenty minutes to make it softer.", "words": [{ "w": "soak", "bn": "ভিজিয়ে রাখা", "pos": "verb" }, { "w": "softer", "bn": "আরও নরম", "pos": "adjective", "base": "soft" }] },
+            { "id": "02", "en": "We must wash raw chicken carefully and keep it away from vegetables.", "words": [{ "w": "raw", "bn": "কাঁচা", "pos": "adjective" }, { "w": "away from", "bn": "থেকে দূরে", "pos": "phrase" }] },
+            { "id": "03", "en": "Nayeem has to check the sugar in everything he eats now.", "words": [{ "w": "has to", "bn": "করতে হয়", "pos": "phrase", "base": "have to" }, { "w": "check", "bn": "যাচাই করা", "pos": "verb" }] },
+            { "id": "04", "en": "The curry might need a pinch of salt, so taste it first.", "words": [{ "w": "pinch", "bn": "চিমটি", "pos": "noun" }, { "w": "taste", "bn": "চেখে দেখা", "pos": "verb" }] },
+            { "id": "05", "en": "You could add a little lemon juice to brighten the flavor.", "words": [{ "w": "brighten", "bn": "সতেজ করা", "pos": "verb" }, { "w": "flavor", "bn": "স্বাদ", "pos": "noun" }] },
+            { "id": "06", "en": "The guests may arrive early, so we should start cooking by five.", "words": [{ "w": "arrive", "bn": "পৌঁছানো", "pos": "verb" }, { "w": "early", "bn": "তাড়াতাড়ি", "pos": "adverb" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + shouldn't / mustn't / don't have to / might not / can't + verb (base) ...",
+          "tipBn": "shouldn't মানে উচিত নয়, mustn't মানে একেবারে নিষেধ, আর don't have to মানে করার দরকার নেই।",
+          "items": [
+            { "id": "01", "en": "You shouldn't wash the rice too roughly, or the grains will break.", "words": [{ "w": "roughly", "bn": "জোরে জোরে", "pos": "adverb" }, { "w": "grains", "bn": "দানা", "pos": "noun", "base": "grain" }] },
+            { "id": "02", "en": "You mustn't leave hot oil on the stove without watching it.", "words": [{ "w": "leave", "bn": "রেখে যাওয়া", "pos": "verb" }, { "w": "without", "bn": "ছাড়া", "pos": "preposition" }] },
+            { "id": "03", "en": "We don't have to cook every night if we plan well.", "words": [{ "w": "don't have to", "bn": "দরকার নেই", "pos": "phrase" }, { "w": "plan", "bn": "পরিকল্পনা করা", "pos": "verb" }] },
+            { "id": "04", "en": "Nayeem shouldn't drink so many sugary soft drinks.", "words": [{ "w": "sugary", "bn": "চিনিযুক্ত", "pos": "adjective" }, { "w": "soft drinks", "bn": "কোমল পানীয়", "pos": "noun" }] },
+            { "id": "05", "en": "The chicken might not be fully cooked, so check the middle.", "words": [{ "w": "fully", "bn": "পুরোপুরি", "pos": "adverb" }, { "w": "middle", "bn": "মাঝখান", "pos": "noun" }] },
+            { "id": "06", "en": "You can't rush biryani because it needs time and patience.", "words": [{ "w": "rush", "bn": "তাড়াহুড়ো করা", "pos": "verb" }, { "w": "patience", "bn": "ধৈর্য", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Should / Can / Could + subject + verb (base) ...? / Do + subject + have to + verb ...?",
+          "tipBn": "Should, Can বা Could শুরুতে বসিয়ে পরামর্শ, অনুমতি বা সম্ভাবনা নিয়ে প্রশ্ন করা হয়।",
+          "items": [
+            { "id": "01", "en": "Should I add the potatoes before or after the fish?", "words": [{ "w": "add", "bn": "দেওয়া, যোগ করা", "pos": "verb" }, { "w": "potatoes", "bn": "আলু", "pos": "noun", "base": "potato" }] },
+            { "id": "02", "en": "Can we freeze the leftover curry for next week?", "words": [{ "w": "freeze", "bn": "জমিয়ে রাখা", "pos": "verb" }, { "w": "leftover", "bn": "বেঁচে যাওয়া", "pos": "adjective" }] },
+            { "id": "03", "en": "Do we have to invite the landlord to our Eid lunch?", "words": [{ "w": "have to", "bn": "করতে হবে", "pos": "phrase" }, { "w": "landlord", "bn": "বাড়িওয়ালা", "pos": "noun" }] },
+            { "id": "04", "en": "Could you show me how to fold a samosa?", "words": [{ "w": "fold", "bn": "ভাঁজ করা", "pos": "verb" }, { "w": "samosa", "bn": "সমুচা", "pos": "noun" }] },
+            { "id": "05", "en": "Should we use less ghee to make this recipe healthier?", "words": [{ "w": "ghee", "bn": "ঘি", "pos": "noun" }, { "w": "healthier", "bn": "বেশি স্বাস্থ্যকর", "pos": "adjective", "base": "healthy" }] },
+            { "id": "06", "en": "Could the milk go bad if we leave it out overnight?", "words": [{ "w": "go bad", "bn": "নষ্ট হয়ে যাওয়া", "pos": "phrase" }, { "w": "overnight", "bn": "সারা রাত", "pos": "adverb" }] }
+          ]
+        },
+        {
+          "type": "tag-question",
+          "pattern": "Statement with a modal, + opposite tag? (We should ..., shouldn't we?)",
+          "tipBn": "হ্যাঁ-বোধক বাক্যের শেষে না-বোধক ট্যাগ, আর না-বোধক বাক্যের শেষে হ্যাঁ-বোধক ট্যাগ বসে।",
+          "items": [
+            { "id": "01", "en": "We should rinse the lentils before cooking them, shouldn't we?", "words": [{ "w": "rinse", "bn": "ধুয়ে নেওয়া", "pos": "verb" }, { "w": "lentils", "bn": "ডাল", "pos": "noun", "base": "lentil" }] },
+            { "id": "02", "en": "You can't keep cut onions for long, can you?", "words": [{ "w": "keep", "bn": "রেখে দেওয়া", "pos": "verb" }, { "w": "for long", "bn": "বেশিক্ষণ", "pos": "phrase" }] },
+            { "id": "03", "en": "Nayeem has to avoid sweets for a while, doesn't he?", "words": [{ "w": "avoid", "bn": "এড়িয়ে চলা", "pos": "verb" }, { "w": "for a while", "bn": "কিছুদিন", "pos": "phrase" }] },
+            { "id": "04", "en": "We mustn't forget to turn off the gas, must we?", "words": [{ "w": "forget", "bn": "ভুলে যাওয়া", "pos": "verb" }, { "w": "turn off", "bn": "বন্ধ করা", "pos": "phrasal verb" }] },
+            { "id": "05", "en": "Arif could open a small food stall one day, couldn't he?", "words": [{ "w": "food stall", "bn": "খাবারের দোকান", "pos": "noun" }, { "w": "one day", "bn": "একদিন", "pos": "phrase" }] },
+            { "id": "06", "en": "We shouldn't make the curry too spicy for the guests, should we?", "words": [{ "w": "spicy", "bn": "ঝাল", "pos": "adjective" }, { "w": "guests", "bn": "অতিথি", "pos": "noun", "base": "guest" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences with should, must, have to, can, might and could.",
+          "tipBn": "অনুচ্ছেদে নিয়ম, পরামর্শ ও সম্ভাবনা বোঝাতে বিভিন্ন modal ব্যবহার হয়।",
+          "items": [
+            { "id": "01", "title": "Rules for our kitchen", "en": "After Sabbir's disaster, we made some kitchen rules. Everyone must wash their own plate after eating. We should plan the week's meals on Friday, so we don't have to eat out every day. Also, nobody can leave the stove on and walk away.", "words": [{ "w": "disaster", "bn": "বিপর্যয়", "pos": "noun" }, { "w": "plan", "bn": "পরিকল্পনা করা", "pos": "verb" }, { "w": "eat out", "bn": "বাইরে খাওয়া", "pos": "phrasal verb" }, { "w": "walk away", "bn": "চলে যাওয়া", "pos": "phrasal verb" }] },
+            { "id": "02", "title": "My mother's advice", "en": "My mother says I should always taste the food while I cook. If the dal is too thick, I can add a little hot water. I shouldn't add all the spices at once, because they might burn. She says a good cook has to be patient.", "words": [{ "w": "taste", "bn": "চেখে দেখা", "pos": "verb" }, { "w": "thick", "bn": "ঘন", "pos": "adjective" }, { "w": "at once", "bn": "একসাথে", "pos": "phrase" }, { "w": "patient", "bn": "ধৈর্যশীল", "pos": "adjective" }] },
+            { "id": "03", "title": "Eating better", "en": "Nayeem's doctor says he has to eat more vegetables and less rice. He doesn't have to give up sweets completely, but he should limit them. We might try brown rice next month. It could be a good change for all of us.", "words": [{ "w": "give up", "bn": "ছেড়ে দেওয়া", "pos": "phrasal verb" }, { "w": "completely", "bn": "পুরোপুরি", "pos": "adverb" }, { "w": "limit", "bn": "সীমিত রাখা", "pos": "verb" }, { "w": "brown rice", "bn": "লাল চাল", "pos": "noun" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Talk about real and imaginary kitchen situations",
+      "focusBn": "বাস্তব ও কাল্পনিক রান্নার পরিস্থিতি নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + present, will + verb. / If + past, would + verb.",
+          "tipBn": "বাস্তব সম্ভাবনায় If + present এবং will, আর কাল্পনিক অবস্থায় If + past এবং would বসে।",
+          "items": [
+            { "id": "01", "en": "If you fry the onions slowly, they will turn sweet and golden.", "words": [{ "w": "slowly", "bn": "ধীরে ধীরে", "pos": "adverb" }, { "w": "golden", "bn": "সোনালি", "pos": "adjective" }] },
+            { "id": "02", "en": "If Sabbir cooks tonight, we will probably order pizza later.", "words": [{ "w": "probably", "bn": "সম্ভবত", "pos": "adverb" }, { "w": "order", "bn": "অর্ডার করা", "pos": "verb" }] },
+            { "id": "03", "en": "If I had a bigger kitchen, I would invite all my classmates for dinner.", "words": [{ "w": "bigger", "bn": "আরও বড়", "pos": "adjective", "base": "big" }, { "w": "invite", "bn": "দাওয়াত দেওয়া", "pos": "verb" }, { "w": "classmates", "bn": "সহপাঠী", "pos": "noun", "base": "classmate" }] },
+            { "id": "04", "en": "If my mother lived nearby, we would eat home-cooked food every day.", "words": [{ "w": "nearby", "bn": "কাছাকাছি", "pos": "adverb" }, { "w": "home-cooked", "bn": "ঘরে রান্না করা", "pos": "adjective" }] },
+            { "id": "05", "en": "If you keep the fish in the freezer, it will stay fresh for weeks.", "words": [{ "w": "freezer", "bn": "ফ্রিজার", "pos": "noun" }, { "w": "stay fresh", "bn": "তাজা থাকা", "pos": "phrase" }] },
+            { "id": "06", "en": "Nayeem would feel more energetic if he ate breakfast every morning.", "words": [{ "w": "energetic", "bn": "চনমনে, প্রাণবন্ত", "pos": "adjective" }, { "w": "ate", "bn": "খেত", "pos": "verb", "base": "eat" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + subject + don't / didn't ..., ... will / would ... / If ..., ... won't / wouldn't ...",
+          "tipBn": "শর্তবাক্যের যেকোনো অংশে not বসিয়ে না-বোধক করা যায়: If you don't ..., ... won't / wouldn't ...।",
+          "items": [
+            { "id": "01", "en": "If you don't stir the dal, it will stick to the pot.", "words": [{ "w": "stir", "bn": "নাড়া", "pos": "verb" }, { "w": "stick to", "bn": "লেগে যাওয়া", "pos": "phrase" }] },
+            { "id": "02", "en": "The rice won't be fluffy if you add too much water.", "words": [{ "w": "fluffy", "bn": "ঝরঝরে", "pos": "adjective" }, { "w": "too much", "bn": "অতিরিক্ত", "pos": "phrase" }] },
+            { "id": "03", "en": "If we didn't share the cooking, nobody would have time to study.", "words": [{ "w": "share", "bn": "ভাগ করে নেওয়া", "pos": "verb" }, { "w": "nobody", "bn": "কেউ না", "pos": "pronoun" }] },
+            { "id": "04", "en": "I wouldn't eat that oily canteen food again if you paid me.", "words": [{ "w": "oily", "bn": "তেলতেলে", "pos": "adjective" }, { "w": "if you paid me", "bn": "কিছুতেই না", "pos": "idiom" }] },
+            { "id": "05", "en": "If Arif didn't cook, we would spend all our money on takeout.", "words": [{ "w": "spend", "bn": "খরচ করা", "pos": "verb" }, { "w": "takeout", "bn": "বাইরে থেকে আনা খাবার", "pos": "noun" }] },
+            { "id": "06", "en": "If the milk isn't fresh, the tea won't taste good.", "words": [{ "w": "fresh", "bn": "তাজা", "pos": "adjective" }, { "w": "taste", "bn": "স্বাদ লাগা", "pos": "verb" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + will / would + subject + verb + if ...?",
+          "tipBn": "প্রশ্নশব্দ দিয়ে শুরু করে শর্তের ফল জানতে চাওয়া হয়: What will you do if ...? / What would you do if ...?",
+          "items": [
+            { "id": "01", "en": "What will you cook if your cousins visit this weekend?", "words": [{ "w": "cousins", "bn": "কাজিন, আত্মীয় ভাই-বোন", "pos": "noun", "base": "cousin" }, { "w": "visit", "bn": "বেড়াতে আসা", "pos": "verb" }] },
+            { "id": "02", "en": "What would you do if you burned the food in front of guests?", "words": [{ "w": "burned", "bn": "পুড়িয়ে ফেলতে", "pos": "verb", "base": "burn" }, { "w": "in front of", "bn": "সামনে", "pos": "phrase" }] },
+            { "id": "03", "en": "How will we manage if the gas cylinder runs out tonight?", "words": [{ "w": "manage", "bn": "সামলানো", "pos": "verb" }, { "w": "runs out", "bn": "ফুরিয়ে যায়", "pos": "phrasal verb", "base": "run out" }] },
+            { "id": "04", "en": "Which dish would you choose if you could eat only one food forever?", "words": [{ "w": "choose", "bn": "বেছে নেওয়া", "pos": "verb" }, { "w": "forever", "bn": "চিরকাল", "pos": "adverb" }] },
+            { "id": "05", "en": "Where would you take your mother for dinner if she visited Dhaka?", "words": [{ "w": "take", "bn": "নিয়ে যাওয়া", "pos": "verb" }, { "w": "visited", "bn": "বেড়াতে আসতেন", "pos": "verb", "base": "visit" }] },
+            { "id": "06", "en": "What will happen if you leave the rice on high heat?", "words": [{ "w": "leave", "bn": "রেখে দেওয়া", "pos": "verb" }, { "w": "high heat", "bn": "বেশি আঁচ", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences with first (If + present, will) and second (If + past, would) conditionals.",
+          "tipBn": "অনুচ্ছেদে বাস্তব সম্ভাবনার জন্য will এবং কল্পনার জন্য would ব্যবহার হয়।",
+          "items": [
+            { "id": "01", "title": "If I opened a restaurant", "en": "Sometimes I dream about my own restaurant. If I opened one, I would serve simple home food from Chattogram. My mother would be the head cook, and Sabbir would handle the money. If the food were good, students from all over the city would come.", "words": [{ "w": "serve", "bn": "পরিবেশন করা", "pos": "verb" }, { "w": "head cook", "bn": "প্রধান রাঁধুনি", "pos": "noun" }, { "w": "handle", "bn": "সামলানো", "pos": "verb" }, { "w": "all over the city", "bn": "পুরো শহর থেকে", "pos": "phrase" }] },
+            { "id": "02", "title": "Planning for guests", "en": "Arif's cousins are coming to Dhaka next week. If they arrive at lunchtime, he will make fish curry and dal. If they come late, he will cook something quick, like khichuri with eggs. Either way, they will not leave hungry.", "words": [{ "w": "cousins", "bn": "কাজিন, আত্মীয় ভাই-বোন", "pos": "noun", "base": "cousin" }, { "w": "lunchtime", "bn": "দুপুরের খাবারের সময়", "pos": "noun" }, { "w": "either way", "bn": "যেভাবেই হোক", "pos": "phrase" }, { "w": "leave", "bn": "চলে যাওয়া", "pos": "verb" }] },
+            { "id": "03", "title": "A healthier choice", "en": "If we cook at home more often, we will save money and eat less oil. If Nayeem keeps walking every evening, his sugar level will improve. And if we had a bigger fridge, we would store fresh vegetables for the whole week.", "words": [{ "w": "more often", "bn": "আরও ঘন ঘন", "pos": "phrase" }, { "w": "save", "bn": "বাঁচানো", "pos": "verb" }, { "w": "sugar level", "bn": "রক্তে চিনির মাত্রা", "pos": "noun" }, { "w": "improve", "bn": "উন্নতি হওয়া", "pos": "verb" }] }
+          ]
+        }
+      ]
+    }
+  ]
+}

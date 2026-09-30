@@ -1,0 +1,272 @@
+{
+  "topic": "household-chores",
+  "level": "advanced",
+  "title": "Four Roommates in Toronto",
+  "story": "Tanvir moved from Dhaka to Toronto for his master's degree. He shares an old four-bedroom apartment with Imran, a software developer from Chattogram, Lucas, a trainee chef from Brazil, and Mei, a nurse who works night shifts. Keeping the place clean and dividing the housework fairly is a constant negotiation.",
+  "storyBn": "তানভীর মাস্টার্স করতে ঢাকা থেকে টরন্টোতে গেছে। সে একটি পুরনো চার বেডরুমের অ্যাপার্টমেন্টে থাকে চট্টগ্রামের সফটওয়্যার ডেভেলপার ইমরান, ব্রাজিলের শিক্ষানবিশ রাঁধুনি লুকাস এবং রাতের শিফটে কাজ করা নার্স মেই-এর সাথে। ঘর পরিষ্কার রাখা আর কাজ ন্যায্যভাবে ভাগ করা নিয়ে তাদের মধ্যে সবসময় আলোচনা চলে।",
+  "units": [
+    {
+      "grammar": "present-perfect-continuous",
+      "focus": "Describe ongoing household problems and efforts up to now",
+      "focusBn": "এখন পর্যন্ত চলতে থাকা ঘরের সমস্যা ও চেষ্টার কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + has/have been + verb-ing (+ for / since / lately).",
+          "tipBn": "অতীতে শুরু হয়ে এখনো চলছে এমন কাজে has/have been + verb-ing বসে; সময় বোঝাতে for বা since লাগে।",
+          "items": [
+            { "id": "01", "en": "The kitchen faucet has been dripping for three days, and it's keeping Mei awake at night.", "words": [{ "w": "faucet", "bn": "পানির কল", "pos": "noun" }, { "w": "dripping", "bn": "ফোঁটা ফোঁটা পড়ছে", "pos": "verb", "base": "drip" }, { "w": "awake", "bn": "জেগে", "pos": "adjective" }] },
+            { "id": "02", "en": "Tanvir has been doing most of the dishes since Lucas started working late shifts at the restaurant.", "words": [{ "w": "most of", "bn": "বেশিরভাগ", "pos": "phrase" }, { "w": "late shifts", "bn": "রাতের শিফট", "pos": "noun" }] },
+            { "id": "03", "en": "We've been trying to declutter the hallway closet for weeks, but it keeps filling up again.", "words": [{ "w": "declutter", "bn": "অপ্রয়োজনীয় জিনিস সরানো", "pos": "verb" }, { "w": "closet", "bn": "দেয়াল-আলমারি", "pos": "noun" }, { "w": "filling up", "bn": "ভরে যাওয়া", "pos": "phrasal verb", "base": "fill up" }] },
+            { "id": "04", "en": "Imran has been keeping a shared spreadsheet of chores and expenses since January.", "words": [{ "w": "shared", "bn": "সবার ব্যবহারের, যৌথ", "pos": "adjective" }, { "w": "spreadsheet", "bn": "হিসাবের তালিকা", "pos": "noun" }, { "w": "expenses", "bn": "খরচ", "pos": "noun" }] },
+            { "id": "05", "en": "Mei has been sleeping badly because the radiator in her room has been clanking all night.", "words": [{ "w": "radiator", "bn": "ঘর গরম করার যন্ত্র", "pos": "noun" }, { "w": "clanking", "bn": "ঠকঠক শব্দ করছে", "pos": "verb", "base": "clank" }] },
+            { "id": "06", "en": "Lately, the four of us have been taking turns cooking dinner on weeknights, and it's been working surprisingly well.", "words": [{ "w": "Lately", "bn": "ইদানীং", "pos": "adverb" }, { "w": "taking turns", "bn": "পালা করে করা", "pos": "phrase" }, { "w": "surprisingly", "bn": "আশ্চর্যজনকভাবে", "pos": "adverb" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hasn't/haven't been + verb-ing ...",
+          "tipBn": "hasn't been বা haven't been + verb-ing দিয়ে বোঝায় কাজটি কিছুদিন ধরে হচ্ছে না।",
+          "items": [
+            { "id": "01", "en": "Lucas hasn't been pulling his weight around the apartment lately, and the others have noticed.", "words": [{ "w": "pulling his weight", "bn": "নিজের ভাগের কাজ করা", "pos": "idiom" }, { "w": "lately", "bn": "ইদানীং", "pos": "adverb" }, { "w": "noticed", "bn": "খেয়াল করেছে", "pos": "verb", "base": "notice" }] },
+            { "id": "02", "en": "The dryer in the basement hasn't been working properly, so our clothes have been coming out damp.", "words": [{ "w": "dryer", "bn": "কাপড় শুকানোর মেশিন", "pos": "noun" }, { "w": "basement", "bn": "মাটির নিচের তলা", "pos": "noun" }, { "w": "damp", "bn": "স্যাঁতসেঁতে, ভেজা ভেজা", "pos": "adjective" }] },
+            { "id": "03", "en": "We haven't been sorting our recycling correctly, according to the building manager's latest notice.", "words": [{ "w": "sorting", "bn": "বাছাই করা", "pos": "verb", "base": "sort" }, { "w": "recycling", "bn": "পুনর্ব্যবহারযোগ্য আবর্জনা", "pos": "noun" }, { "w": "notice", "bn": "নোটিশ", "pos": "noun" }] },
+            { "id": "04", "en": "I haven't been sleeping well since the upstairs neighbors started renovating their kitchen.", "words": [{ "w": "upstairs", "bn": "ওপরতলার", "pos": "adjective" }, { "w": "renovating", "bn": "সংস্কার করা", "pos": "verb", "base": "renovate" }] },
+            { "id": "05", "en": "Imran hasn't been cooking as much as he used to because of his heavy workload.", "words": [{ "w": "used to", "bn": "আগে করত", "pos": "phrase" }, { "w": "workload", "bn": "কাজের চাপ", "pos": "noun" }] },
+            { "id": "06", "en": "None of us has been cleaning the oven, and it's starting to smell of burnt cheese.", "words": [{ "w": "None of us", "bn": "আমাদের কেউই না", "pos": "phrase" }, { "w": "oven", "bn": "ওভেন", "pos": "noun" }, { "w": "burnt", "bn": "পোড়া", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Has/Have + subject + been + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে Has বা Have শুরুতে বসে, তারপর subject, been ও verb-ing।",
+          "items": [
+            { "id": "01", "en": "Have you been using my laundry detergent again without asking me first?", "words": [{ "w": "detergent", "bn": "কাপড় কাচার সাবান", "pos": "noun" }, { "w": "without asking", "bn": "না বলে", "pos": "phrase" }] },
+            { "id": "02", "en": "Has the landlord been ignoring our repeated emails about the broken radiator in Mei's room?", "words": [{ "w": "ignoring", "bn": "উপেক্ষা করা", "pos": "verb", "base": "ignore" }, { "w": "repeated", "bn": "বারবার পাঠানো", "pos": "adjective" }] },
+            { "id": "03", "en": "Has Lucas been leaving his dirty pans in the sink overnight again, despite our agreement?", "words": [{ "w": "overnight", "bn": "সারা রাত", "pos": "adverb" }, { "w": "despite", "bn": "সত্ত্বেও", "pos": "preposition" }, { "w": "agreement", "bn": "সমঝোতা", "pos": "noun" }] },
+            { "id": "04", "en": "Have you all been following the new cleaning schedule that we agreed on last month?", "words": [{ "w": "following", "bn": "মেনে চলা", "pos": "verb", "base": "follow" }, { "w": "schedule", "bn": "সময়সূচি", "pos": "noun" }, { "w": "agreed on", "bn": "একমত হয়েছিলাম", "pos": "phrasal verb", "base": "agree on" }] },
+            { "id": "05", "en": "Has Imran been doing all the grocery shopping on his own since the semester began?", "words": [{ "w": "grocery shopping", "bn": "মুদি বাজার করা", "pos": "noun" }, { "w": "on his own", "bn": "একা", "pos": "phrase" }] },
+            { "id": "06", "en": "Have mice been getting in through the gap under the back door?", "words": [{ "w": "mice", "bn": "ইঁদুর", "pos": "noun", "base": "mouse" }, { "w": "getting in", "bn": "ভেতরে ঢোকা", "pos": "phrasal verb", "base": "get in" }, { "w": "gap", "bn": "ফাঁক", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + has/have + subject + been + verb-ing ...?",
+          "tipBn": "How long বা Why এর মতো প্রশ্নবোধক শব্দের পরে has/have, subject, been ও verb-ing বসে।",
+          "items": [
+            { "id": "01", "en": "How long have you been waiting for the superintendent to fix the leak?", "words": [{ "w": "superintendent", "bn": "ভবনের তত্ত্বাবধায়ক", "pos": "noun" }, { "w": "leak", "bn": "ছিদ্র দিয়ে পানি পড়া", "pos": "noun" }] },
+            { "id": "02", "en": "Why has the smoke alarm been beeping every few minutes since this morning?", "words": [{ "w": "smoke alarm", "bn": "ধোঁয়ার সতর্ক-ঘণ্টা", "pos": "noun" }, { "w": "beeping", "bn": "বিপ বিপ করছে", "pos": "verb", "base": "beep" }] },
+            { "id": "03", "en": "What have you been using to get those tough stains out of the bathtub?", "words": [{ "w": "tough", "bn": "নাছোড়, কঠিন", "pos": "adjective" }, { "w": "stains", "bn": "দাগ", "pos": "noun" }, { "w": "bathtub", "bn": "গোসলের টব", "pos": "noun" }] },
+            { "id": "04", "en": "Who has been taking out the recycling while I've been away on my research trip?", "words": [{ "w": "recycling", "bn": "পুনর্ব্যবহারযোগ্য আবর্জনা", "pos": "noun" }, { "w": "away", "bn": "বাইরে", "pos": "adverb" }, { "w": "research trip", "bn": "গবেষণার সফর", "pos": "noun" }] },
+            { "id": "05", "en": "How have you been managing all the housework with your exams coming up?", "words": [{ "w": "managing", "bn": "সামলাচ্ছ", "pos": "verb", "base": "manage" }, { "w": "coming up", "bn": "সামনে আসছে", "pos": "phrasal verb", "base": "come up" }] },
+            { "id": "06", "en": "Where have you been storing all the empty boxes from our online orders?", "words": [{ "w": "storing", "bn": "জমিয়ে রাখা", "pos": "verb", "base": "store" }, { "w": "online orders", "bn": "অনলাইনে কেনা জিনিস", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A longer text mostly in the present perfect continuous.",
+          "tipBn": "অনুচ্ছেদে কিছুদিন ধরে চলতে থাকা কাজ ও অবস্থা has/have been + verb-ing দিয়ে বলা হয়েছে।",
+          "items": [
+            { "id": "01", "title": "The endless dishes", "en": "For the past month, I have been doing far more than my share of the dishes. Lucas has been working late at the restaurant, and Imran has been staying at the office until midnight. Meanwhile, the pile in the sink has been growing every evening. I have been trying to stay patient, but honestly, I have been feeling a little resentful. We clearly need to talk about it this weekend.", "words": [{ "w": "my share", "bn": "আমার ভাগ", "pos": "phrase" }, { "w": "Meanwhile", "bn": "এদিকে", "pos": "adverb" }, { "w": "pile", "bn": "স্তূপ", "pos": "noun" }, { "w": "patient", "bn": "ধৈর্যশীল", "pos": "adjective" }, { "w": "resentful", "bn": "মনঃক্ষুণ্ন, ক্ষুব্ধ", "pos": "adjective" }] },
+            { "id": "02", "title": "Winter in an old building", "en": "Our building is almost a hundred years old, and it has been showing its age this winter. The radiators have been making strange noises, and cold air has been coming in around the windows. Imran has been sealing the gaps with tape, while Mei has been hunting for a cheap space heater online. We have been complaining to the landlord for weeks. So far, he has only sent a polite reply.", "words": [{ "w": "showing its age", "bn": "বয়সের ছাপ পড়ছে", "pos": "idiom" }, { "w": "sealing", "bn": "বন্ধ করা, সিল করা", "pos": "verb", "base": "seal" }, { "w": "gaps", "bn": "ফাঁক", "pos": "noun" }, { "w": "hunting for", "bn": "হন্যে হয়ে খোঁজা", "pos": "phrasal verb", "base": "hunt for" }, { "w": "space heater", "bn": "ছোট রুম হিটার", "pos": "noun" }] },
+            { "id": "03", "title": "Our decluttering project", "en": "Since New Year, we have been decluttering the apartment one room at a time. Mei has been leading the project, and she has been making tough decisions for all of us. We have been donating clothes we no longer wear and selling old furniture online. Lucas has been resisting, because he has been collecting kitchen gadgets for years. Still, the living room has been looking much more spacious lately.", "words": [{ "w": "decluttering", "bn": "অপ্রয়োজনীয় জিনিস সরানো", "pos": "verb", "base": "declutter" }, { "w": "donating", "bn": "দান করা", "pos": "verb", "base": "donate" }, { "w": "resisting", "bn": "আপত্তি করা", "pos": "verb", "base": "resist" }, { "w": "gadgets", "bn": "ছোট যন্ত্রপাতি", "pos": "noun" }, { "w": "spacious", "bn": "খোলামেলা", "pos": "adjective" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-perfect",
+      "focus": "Explain what had happened before a problem was discovered",
+      "focusBn": "কোনো সমস্যা ধরা পড়ার আগে কী ঘটেছিল তা ব্যাখ্যা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + had + past participle (+ by the time / before / after ...).",
+          "tipBn": "অতীতের দুটি ঘটনার মধ্যে যেটি আগে ঘটেছিল, সেটিতে had + past participle বসে।",
+          "items": [
+            { "id": "01", "en": "By the time I got home, Lucas had already cleaned the entire kitchen as an apology.", "words": [{ "w": "By the time", "bn": "যতক্ষণে", "pos": "phrase" }, { "w": "entire", "bn": "পুরো", "pos": "adjective" }, { "w": "apology", "bn": "ক্ষমা চাওয়া", "pos": "noun" }] },
+            { "id": "02", "en": "The pipe behind the washing machine had burst long before anyone noticed the water.", "words": [{ "w": "burst", "bn": "ফেটে গিয়েছিল", "pos": "verb" }, { "w": "noticed", "bn": "খেয়াল করল", "pos": "verb", "base": "notice" }] },
+            { "id": "03", "en": "Mei had labeled every shelf in the pantry before the rest of us woke up.", "words": [{ "w": "labeled", "bn": "লেবেল লাগিয়েছিল", "pos": "verb", "base": "label" }, { "w": "pantry", "bn": "খাবার রাখার ভাঁড়ার", "pos": "noun" }, { "w": "the rest of us", "bn": "বাকি আমরা", "pos": "phrase" }] },
+            { "id": "04", "en": "After Imran had tightened the loose hinge, the cabinet door finally closed properly.", "words": [{ "w": "tightened", "bn": "শক্ত করে লাগিয়েছিল", "pos": "verb", "base": "tighten" }, { "w": "loose", "bn": "ঢিলা", "pos": "adjective" }, { "w": "hinge", "bn": "কবজা", "pos": "noun" }] },
+            { "id": "05", "en": "Tanvir realized too late that he had left a red sock in the load of white shirts.", "words": [{ "w": "realized", "bn": "বুঝতে পারল", "pos": "verb", "base": "realize" }, { "w": "load", "bn": "একবারে ধোয়ার কাপড়", "pos": "noun" }] },
+            { "id": "06", "en": "We had drawn up a detailed cleaning schedule on the very day we moved in together.", "words": [{ "w": "drawn up", "bn": "তৈরি করেছিলাম", "pos": "phrasal verb", "base": "draw up" }, { "w": "detailed", "bn": "বিস্তারিত", "pos": "adjective" }, { "w": "very day", "bn": "ঠিক সেই দিনই", "pos": "phrase" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hadn't + past participle ... (before / until / by the time ...).",
+          "tipBn": "hadn't + past participle দিয়ে বোঝায় অতীতের নির্দিষ্ট সময়ের আগে কাজটি হয়নি।",
+          "items": [
+            { "id": "01", "en": "Lucas hadn't washed a single dish before he left for his weekend trip.", "words": [{ "w": "single", "bn": "একটিও", "pos": "adjective" }, { "w": "left for", "bn": "রওনা দিল", "pos": "phrasal verb", "base": "leave for" }] },
+            { "id": "02", "en": "I hadn't realized how much time housework took until I started living on my own.", "words": [{ "w": "realized", "bn": "বুঝতে পারা", "pos": "verb", "base": "realize" }, { "w": "housework", "bn": "ঘরের কাজ", "pos": "noun" }, { "w": "on my own", "bn": "নিজে একা", "pos": "phrase" }] },
+            { "id": "03", "en": "The previous tenants hadn't cleaned the oven even once, judging by the thick grease.", "words": [{ "w": "previous tenants", "bn": "আগের ভাড়াটিয়া", "pos": "noun" }, { "w": "judging by", "bn": "দেখে বোঝা যায়", "pos": "phrase" }, { "w": "grease", "bn": "তেল-চর্বি", "pos": "noun" }] },
+            { "id": "04", "en": "Nobody had checked the batteries in the smoke detector since the previous winter.", "words": [{ "w": "batteries", "bn": "ব্যাটারি", "pos": "noun" }, { "w": "smoke detector", "bn": "ধোঁয়া শনাক্তকারী যন্ত্র", "pos": "noun" }] },
+            { "id": "05", "en": "We hadn't expected the plumbing repairs to cost nearly five hundred dollars.", "words": [{ "w": "expected", "bn": "আশা করা", "pos": "verb", "base": "expect" }, { "w": "plumbing", "bn": "পানির লাইনের কাজ", "pos": "noun" }, { "w": "nearly", "bn": "প্রায়", "pos": "adverb" }] },
+            { "id": "06", "en": "Imran hadn't read the instructions, so he chose the wrong setting on the new washer.", "words": [{ "w": "instructions", "bn": "নির্দেশনা", "pos": "noun" }, { "w": "setting", "bn": "সেটিং, মোড", "pos": "noun" }, { "w": "washer", "bn": "কাপড় ধোয়ার মেশিন", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Hadn't + subject + past participle ...? / Why hadn't + subject + past participle ...?",
+          "tipBn": "অবাক হয়ে বা নিশ্চিত হতে Hadn't দিয়ে প্রশ্ন শুরু হয়, তারপর subject ও past participle।",
+          "items": [
+            { "id": "01", "en": "Hadn't we all agreed that everyone would clean up after themselves?", "words": [{ "w": "agreed", "bn": "একমত হয়েছিলাম", "pos": "verb", "base": "agree" }, { "w": "clean up after themselves", "bn": "নিজের কাজের পর নিজেই পরিষ্কার করা", "pos": "phrase" }] },
+            { "id": "02", "en": "Hadn't Lucas promised to defrost the freezer before the power went out?", "words": [{ "w": "defrost", "bn": "জমা বরফ গলানো", "pos": "verb" }, { "w": "freezer", "bn": "ফ্রিজার", "pos": "noun" }] },
+            { "id": "03", "en": "Why hadn't anyone told the landlord about the mold in the bathroom?", "words": [{ "w": "landlord", "bn": "বাড়িওয়ালা", "pos": "noun" }, { "w": "mold", "bn": "ছত্রাক", "pos": "noun" }] },
+            { "id": "04", "en": "Hadn't the previous tenants warned you about the noisy pipes before you signed the lease?", "words": [{ "w": "warned", "bn": "সতর্ক করেছিল", "pos": "verb", "base": "warn" }, { "w": "lease", "bn": "ভাড়ার চুক্তি", "pos": "noun" }] },
+            { "id": "05", "en": "Hadn't Mei already vacuumed the living room by the time the guests arrived?", "words": [{ "w": "vacuumed", "bn": "ধুলা টানার যন্ত্রে পরিষ্কার করেছিল", "pos": "verb", "base": "vacuum" }, { "w": "by the time", "bn": "যতক্ষণে", "pos": "phrase" }] },
+            { "id": "06", "en": "Hadn't you noticed the damp patch on the ceiling before it started dripping?", "words": [{ "w": "damp patch", "bn": "স্যাঁতসেঁতে দাগ", "pos": "noun" }, { "w": "ceiling", "bn": "ঘরের ছাদ", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + had + subject + past participle ...?",
+          "tipBn": "প্রশ্নবোধক শব্দের পরে had, তারপর subject ও past participle বসে।",
+          "items": [
+            { "id": "01", "en": "What had Lucas done to the blender before it stopped working completely?", "words": [{ "w": "blender", "bn": "ব্লেন্ডার", "pos": "noun" }, { "w": "completely", "bn": "পুরোপুরি", "pos": "adverb" }] },
+            { "id": "02", "en": "How many times had you reminded him before he finally took out the trash?", "words": [{ "w": "reminded", "bn": "মনে করিয়ে দিয়েছিলে", "pos": "verb", "base": "remind" }, { "w": "finally", "bn": "অবশেষে", "pos": "adverb" }] },
+            { "id": "03", "en": "Where had Imran hidden the spare keys before he flew back to Dhaka?", "words": [{ "w": "hidden", "bn": "লুকিয়ে রেখেছিল", "pos": "verb", "base": "hide" }, { "w": "spare keys", "bn": "বাড়তি চাবি", "pos": "noun" }] },
+            { "id": "04", "en": "Why had the dishwasher flooded the kitchen floor by the time you came home?", "words": [{ "w": "dishwasher", "bn": "থালা ধোয়ার মেশিন", "pos": "noun" }, { "w": "flooded", "bn": "পানিতে ভাসিয়ে দিয়েছিল", "pos": "verb", "base": "flood" }] },
+            { "id": "05", "en": "Which cleaning products had you tried before you finally got rid of the mold?", "words": [{ "w": "cleaning products", "bn": "পরিষ্কারক পণ্য", "pos": "noun" }, { "w": "got rid of", "bn": "দূর করলে", "pos": "phrase", "base": "get rid of" }] },
+            { "id": "06", "en": "Who had left the freezer door open before the ice cream melted?", "words": [{ "w": "freezer", "bn": "ফ্রিজার", "pos": "noun" }, { "w": "melted", "bn": "গলে গেল", "pos": "verb", "base": "melt" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A longer text using the past perfect for the earlier past.",
+          "tipBn": "অনুচ্ছেদে আগে ঘটা ঘটনা had + past participle এ, আর পরের ঘটনা past simple এ বলা হয়েছে।",
+          "items": [
+            { "id": "01", "title": "Flood in the laundry room", "en": "When I went down to the basement on Sunday, I was shocked. Someone had overloaded the washing machine, and water had spread across the entire floor. By the time the superintendent arrived, I had already mopped up most of the mess. Later, we discovered that Lucas had put two heavy duvets in at once. He hadn't read the warning sign above the machine.", "words": [{ "w": "shocked", "bn": "হতবাক", "pos": "adjective" }, { "w": "overloaded", "bn": "অতিরিক্ত বোঝাই করেছিল", "pos": "verb", "base": "overload" }, { "w": "superintendent", "bn": "ভবনের তত্ত্বাবধায়ক", "pos": "noun" }, { "w": "mopped up", "bn": "মুছে তুলেছিলাম", "pos": "phrasal verb", "base": "mop up" }, { "w": "duvets", "bn": "লেপ", "pos": "noun" }] },
+            { "id": "02", "title": "Before I moved abroad", "en": "Before I moved into this apartment, I had never shared a home with strangers. In Dhaka, my mother and our helper had done almost everything for me. I had rarely cooked a meal or cleaned a bathroom. So my first month abroad came as a shock, and I soon understood how much work my family had quietly done for years.", "words": [{ "w": "strangers", "bn": "অপরিচিত মানুষ", "pos": "noun" }, { "w": "helper", "bn": "গৃহকর্মী", "pos": "noun" }, { "w": "rarely", "bn": "কদাচিৎ", "pos": "adverb" }, { "w": "abroad", "bn": "বিদেশে", "pos": "adverb" }, { "w": "came as a shock", "bn": "বড় ধাক্কা হয়ে এল", "pos": "phrase" }] },
+            { "id": "03", "title": "The surprise inspection", "en": "Last month, the landlord announced an inspection with only a day's notice. Fortunately, Mei had already organized the storage closet, and Imran had repaired the broken blind in the living room the week before. However, nobody had cleaned the stove for ages. We stayed up until two in the morning scrubbing it. By the time the landlord came, the apartment had never looked better.", "words": [{ "w": "inspection", "bn": "পরিদর্শন", "pos": "noun" }, { "w": "a day's notice", "bn": "এক দিন আগে জানানো", "pos": "phrase" }, { "w": "blind", "bn": "জানালার খড়খড়ি পর্দা", "pos": "noun" }, { "w": "for ages", "bn": "বহুদিন ধরে", "pos": "phrase" }, { "w": "stayed up", "bn": "জেগে ছিলাম", "pos": "phrasal verb", "base": "stay up" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "passive",
+      "focus": "Describe what is done, was done or will be done in the building",
+      "focusBn": "ভবনে কী করা হয়, হয়েছে বা হবে তা কর্মবাচ্যে বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Object + be (is / was / has been / will be ...) + past participle (+ by ...).",
+          "tipBn": "কাজটি কে করল তার চেয়ে কাজটিই জরুরি হলে be + past participle দিয়ে কর্মবাচ্য হয়।",
+          "items": [
+            { "id": "01", "en": "The hallways are vacuumed every Tuesday by a cleaning company that the landlord hires.", "words": [{ "w": "hallways", "bn": "করিডোর", "pos": "noun" }, { "w": "vacuumed", "bn": "ধুলা টানার যন্ত্রে পরিষ্কার করা হয়", "pos": "verb", "base": "vacuum" }, { "w": "hires", "bn": "কাজে নিয়োগ দেন", "pos": "verb", "base": "hire" }] },
+            { "id": "02", "en": "Our broken radiator was finally replaced last week, after nearly a month of complaints.", "words": [{ "w": "radiator", "bn": "ঘর গরম করার যন্ত্র", "pos": "noun" }, { "w": "replaced", "bn": "বদলানো হয়েছিল", "pos": "verb", "base": "replace" }, { "w": "complaints", "bn": "অভিযোগ", "pos": "noun" }] },
+            { "id": "03", "en": "The chore schedule has been updated so that the heavier tasks are shared more fairly.", "words": [{ "w": "updated", "bn": "হালনাগাদ করা হয়েছে", "pos": "verb", "base": "update" }, { "w": "heavier", "bn": "বেশি পরিশ্রমের", "pos": "adjective", "base": "heavy" }, { "w": "fairly", "bn": "ন্যায্যভাবে", "pos": "adverb" }] },
+            { "id": "04", "en": "Recycling must be rinsed and sorted before it is put out on Thursday nights.", "words": [{ "w": "rinsed", "bn": "ধুয়ে নেওয়া", "pos": "verb", "base": "rinse" }, { "w": "sorted", "bn": "বাছাই করা", "pos": "verb", "base": "sort" }, { "w": "put out", "bn": "বাইরে রাখা", "pos": "phrasal verb" }] },
+            { "id": "05", "en": "The whole apartment is going to be repainted before the new lease begins in September.", "words": [{ "w": "repainted", "bn": "নতুন করে রং করা", "pos": "verb", "base": "repaint" }, { "w": "lease", "bn": "ভাড়ার চুক্তি", "pos": "noun" }] },
+            { "id": "06", "en": "A professional cleaner will be hired to deep-clean the carpets when Lucas moves out.", "words": [{ "w": "professional", "bn": "পেশাদার", "pos": "adjective" }, { "w": "deep-clean", "bn": "খুঁটিয়ে পরিষ্কার করা", "pos": "verb" }, { "w": "moves out", "bn": "বাসা ছেড়ে যায়", "pos": "phrasal verb", "base": "move out" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Object + be + not + past participle ... (isn't / wasn't / hasn't been / won't be).",
+          "tipBn": "be এর পরে not বসিয়ে না-বোধক কর্মবাচ্য হয়, যেমন wasn't collected বা hasn't been fixed।",
+          "items": [
+            { "id": "01", "en": "The garbage wasn't collected this week because of the heavy snowstorm.", "words": [{ "w": "collected", "bn": "নিয়ে যাওয়া হয়েছিল", "pos": "verb", "base": "collect" }, { "w": "snowstorm", "bn": "তুষারঝড়", "pos": "noun" }] },
+            { "id": "02", "en": "Pets aren't allowed in the building, according to the terms of our lease.", "words": [{ "w": "allowed", "bn": "অনুমতি দেওয়া", "pos": "verb", "base": "allow" }, { "w": "terms", "bn": "শর্তাবলি", "pos": "noun" }] },
+            { "id": "03", "en": "The mold in the bathroom hasn't been treated properly, so it keeps coming back.", "words": [{ "w": "mold", "bn": "ছত্রাক", "pos": "noun" }, { "w": "treated", "bn": "প্রতিকার করা", "pos": "verb", "base": "treat" }, { "w": "keeps coming back", "bn": "বারবার ফিরে আসে", "pos": "phrase" }] },
+            { "id": "04", "en": "Our security deposit won't be returned unless the apartment is left spotless.", "words": [{ "w": "security deposit", "bn": "জামানতের টাকা", "pos": "noun" }, { "w": "returned", "bn": "ফেরত দেওয়া", "pos": "verb", "base": "return" }, { "w": "spotless", "bn": "ঝকঝকে পরিষ্কার", "pos": "adjective" }] },
+            { "id": "05", "en": "The broken window in the laundry room hadn't been repaired by the time winter arrived.", "words": [{ "w": "laundry room", "bn": "কাপড় ধোয়ার ঘর", "pos": "noun" }, { "w": "repaired", "bn": "মেরামত করা", "pos": "verb", "base": "repair" }] },
+            { "id": "06", "en": "Heavy furniture shouldn't be moved without at least two people to help.", "words": [{ "w": "furniture", "bn": "আসবাবপত্র", "pos": "noun" }, { "w": "at least", "bn": "অন্তত", "pos": "phrase" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Is / Was / Has / Will / Can / Should + subject + (been / be) + past participle ...?",
+          "tipBn": "প্রশ্ন করতে প্রথম সাহায্যকারী verb শুরুতে যায়, আর past participle নিজের জায়গায় থাকে।",
+          "items": [
+            { "id": "01", "en": "Has the leak under the kitchen sink been properly fixed yet?", "words": [{ "w": "leak", "bn": "ছিদ্র দিয়ে পানি পড়া", "pos": "noun" }, { "w": "properly", "bn": "ঠিকভাবে", "pos": "adverb" }] },
+            { "id": "02", "en": "Are the smoke detectors in each unit tested regularly by the building management?", "words": [{ "w": "unit", "bn": "ফ্ল্যাট, ইউনিট", "pos": "noun" }, { "w": "regularly", "bn": "নিয়মিত", "pos": "adverb" }, { "w": "management", "bn": "ব্যবস্থাপনা কর্তৃপক্ষ", "pos": "noun" }] },
+            { "id": "03", "en": "Was the dryer serviced before the new tenants moved in upstairs?", "words": [{ "w": "serviced", "bn": "সার্ভিসিং করা হয়েছিল", "pos": "verb", "base": "service" }, { "w": "tenants", "bn": "ভাড়াটিয়া", "pos": "noun" }] },
+            { "id": "04", "en": "Will the carpets be professionally cleaned before the final inspection next month?", "words": [{ "w": "professionally", "bn": "পেশাদারভাবে", "pos": "adverb" }, { "w": "inspection", "bn": "পরিদর্শন", "pos": "noun" }] },
+            { "id": "05", "en": "Can bulky items like old mattresses be left next to the regular trash bins?", "words": [{ "w": "bulky", "bn": "বড় ও ভারী", "pos": "adjective" }, { "w": "mattresses", "bn": "তোশক", "pos": "noun" }] },
+            { "id": "06", "en": "Should the chore schedule be reviewed every month to keep things fair?", "words": [{ "w": "reviewed", "bn": "পর্যালোচনা করা", "pos": "verb", "base": "review" }, { "w": "fair", "bn": "ন্যায্য", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "indirect-question",
+          "pattern": "Could you tell me / Do you know / I was wondering + wh-word or if/whether + subject + passive verb ...",
+          "tipBn": "ভদ্র প্রশ্নে ভেতরের অংশ সাধারণ বাক্যের মতো সাজানো থাকে, যেমন when the carpets will be replaced।",
+          "items": [
+            { "id": "01", "en": "Could you tell me when the hallway carpets will be replaced?", "words": [{ "w": "hallway", "bn": "করিডোর", "pos": "noun" }, { "w": "replaced", "bn": "বদলানো হবে", "pos": "verb", "base": "replace" }] },
+            { "id": "02", "en": "Do you know whether the recycling is collected on Thursdays or Fridays?", "words": [{ "w": "whether", "bn": "কিনা", "pos": "conjunction" }, { "w": "collected", "bn": "নিয়ে যাওয়া হয়", "pos": "verb", "base": "collect" }] },
+            { "id": "03", "en": "I was wondering if the broken dryer could be repaired before the weekend.", "words": [{ "w": "wondering", "bn": "জানতে চাইছিলাম", "pos": "verb", "base": "wonder" }, { "w": "repaired", "bn": "মেরামত করা", "pos": "verb", "base": "repair" }] },
+            { "id": "04", "en": "Would you mind telling us why our maintenance request was ignored?", "words": [{ "w": "Would you mind", "bn": "কিছু মনে করবেন কি", "pos": "phrase" }, { "w": "maintenance request", "bn": "মেরামতের অনুরোধ", "pos": "noun" }, { "w": "ignored", "bn": "উপেক্ষা করা হয়েছিল", "pos": "verb", "base": "ignore" }] },
+            { "id": "05", "en": "Could you let me know whether the old furniture will be picked up this week?", "words": [{ "w": "let me know", "bn": "আমাকে জানানো", "pos": "phrase" }, { "w": "picked up", "bn": "নিয়ে যাওয়া হবে", "pos": "phrasal verb", "base": "pick up" }] },
+            { "id": "06", "en": "I'd like to know how the cleaning costs are divided among the four of us.", "words": [{ "w": "divided", "bn": "ভাগ করা হয়", "pos": "verb", "base": "divide" }, { "w": "among", "bn": "মধ্যে", "pos": "preposition" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A longer text using the passive in different tenses.",
+          "tipBn": "অনুচ্ছেদে বিভিন্ন কালে কর্মবাচ্য (is collected, were installed, will be laid) ব্যবহার হয়েছে।",
+          "items": [
+            { "id": "01", "title": "Rules for waste", "en": "Our building has strict rules about waste. Garbage is collected on Monday mornings, and recycling is picked up every Thursday. All bottles and cans must be rinsed before they are placed in the blue bins. Large items, such as old sofas, are not accepted unless a special pickup has been booked. Last month, our bags were left behind because they had been sorted incorrectly.", "words": [{ "w": "waste", "bn": "বর্জ্য", "pos": "noun" }, { "w": "rinsed", "bn": "ধুয়ে নেওয়া", "pos": "verb", "base": "rinse" }, { "w": "accepted", "bn": "গ্রহণ করা", "pos": "verb", "base": "accept" }, { "w": "booked", "bn": "বুক করা", "pos": "verb", "base": "book" }, { "w": "incorrectly", "bn": "ভুলভাবে", "pos": "adverb" }] },
+            { "id": "02", "title": "The kitchen renovation", "en": "The landlord finally agreed to renovate our kitchen. The old cabinets were torn out on Monday, and new ones were installed later that week. Meanwhile, the stove was disconnected, so all our meals were cooked in the microwave. The walls are being painted today, and the new floor will be laid on Friday. Hopefully, everything will have been finished by the end of the month.", "words": [{ "w": "renovate", "bn": "সংস্কার করা", "pos": "verb" }, { "w": "torn out", "bn": "উপড়ে ফেলা হয়েছিল", "pos": "phrasal verb", "base": "tear out" }, { "w": "installed", "bn": "বসানো হয়েছিল", "pos": "verb", "base": "install" }, { "w": "disconnected", "bn": "সংযোগ বিচ্ছিন্ন করা", "pos": "verb", "base": "disconnect" }, { "w": "laid", "bn": "বসানো হবে", "pos": "verb", "base": "lay" }] },
+            { "id": "03", "title": "Hiring a cleaner", "en": "Last semester, we decided that the bathrooms should be cleaned by a professional every two weeks. A reliable local company was recommended by one of Mei's colleagues. The cost is shared equally, and the payment is sent automatically on the first day of each month. Since then, far fewer arguments have been caused by the state of the bathroom. It has been money well spent.", "words": [{ "w": "reliable", "bn": "নির্ভরযোগ্য", "pos": "adjective" }, { "w": "recommended", "bn": "সুপারিশ করা হয়েছিল", "pos": "verb", "base": "recommend" }, { "w": "colleagues", "bn": "সহকর্মী", "pos": "noun" }, { "w": "equally", "bn": "সমানভাবে", "pos": "adverb" }, { "w": "money well spent", "bn": "সার্থক খরচ", "pos": "idiom" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Reflect on past choices and their results at home",
+      "focusBn": "ঘরের কাজে অতীতের সিদ্ধান্ত ও তার ফল নিয়ে ভাবা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + had + past participle, would have + past participle. / Mixed: If + had + past participle, would + verb (now).",
+          "tipBn": "অতীতের কাল্পনিক শর্তে If + had + past participle আর ফলাফলে would have + past participle বসে; ফল এখনকার হলে would + verb।",
+          "items": [
+            { "id": "01", "en": "If we had read the lease more carefully, we would have noticed the clause about carpet cleaning.", "words": [{ "w": "lease", "bn": "ভাড়ার চুক্তি", "pos": "noun" }, { "w": "clause", "bn": "ধারা", "pos": "noun" }] },
+            { "id": "02", "en": "If Imran had called the plumber sooner, the damage would have been much less serious.", "words": [{ "w": "sooner", "bn": "আরও আগে", "pos": "adverb" }, { "w": "damage", "bn": "ক্ষতি", "pos": "noun" }] },
+            { "id": "03", "en": "If I had learned to cook in Dhaka, I would be much more confident in the kitchen now.", "words": [{ "w": "learned", "bn": "শিখতাম", "pos": "verb", "base": "learn" }, { "w": "confident", "bn": "আত্মবিশ্বাসী", "pos": "adjective" }] },
+            { "id": "04", "en": "Lucas would have saved himself a lot of trouble if he had checked his pockets before washing.", "words": [{ "w": "saved himself a lot of trouble", "bn": "অনেক ঝামেলা থেকে বাঁচত", "pos": "phrase" }, { "w": "pockets", "bn": "পকেট", "pos": "noun" }] },
+            { "id": "05", "en": "If we had divided the chores fairly from the start, we would all get along better today.", "words": [{ "w": "divided", "bn": "ভাগ করতাম", "pos": "verb", "base": "divide" }, { "w": "from the start", "bn": "শুরু থেকে", "pos": "phrase" }, { "w": "get along", "bn": "মিলেমিশে থাকা", "pos": "phrasal verb" }] },
+            { "id": "06", "en": "Had we known about the mice, we would have sealed the gaps before winter.", "words": [{ "w": "Had we known", "bn": "আমরা যদি জানতাম", "pos": "phrase" }, { "w": "sealed", "bn": "বন্ধ করে দিতাম", "pos": "verb", "base": "seal" }, { "w": "gaps", "bn": "ফাঁক", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + hadn't + past participle, wouldn't have + past participle. / ... wouldn't + verb (now) if ...",
+          "tipBn": "শর্ত বা ফলাফলে hadn't বা wouldn't বসিয়ে না-বোধক কাল্পনিক অতীত বোঝানো হয়।",
+          "items": [
+            { "id": "01", "en": "If Lucas hadn't overloaded the washer, the basement wouldn't have flooded.", "words": [{ "w": "overloaded", "bn": "অতিরিক্ত বোঝাই করত", "pos": "verb", "base": "overload" }, { "w": "flooded", "bn": "পানিতে ভেসে যেত", "pos": "verb", "base": "flood" }] },
+            { "id": "02", "en": "We wouldn't have lost our deposit if we hadn't ignored the stains on the carpet.", "words": [{ "w": "deposit", "bn": "জামানত", "pos": "noun" }, { "w": "ignored", "bn": "উপেক্ষা করতাম", "pos": "verb", "base": "ignore" }] },
+            { "id": "03", "en": "If I hadn't bought that cheap vacuum cleaner, I wouldn't be dealing with a broken one now.", "words": [{ "w": "vacuum cleaner", "bn": "ধুলা টানার যন্ত্র", "pos": "noun" }, { "w": "dealing with", "bn": "সামলানো", "pos": "phrasal verb", "base": "deal with" }] },
+            { "id": "04", "en": "If Mei weren't so organized, this apartment would never have passed the inspection.", "words": [{ "w": "organized", "bn": "গোছানো স্বভাবের", "pos": "adjective" }, { "w": "passed", "bn": "উতরে যাওয়া", "pos": "verb", "base": "pass" }, { "w": "inspection", "bn": "পরিদর্শন", "pos": "noun" }] },
+            { "id": "05", "en": "The argument wouldn't have started if someone had simply replaced the toilet paper.", "words": [{ "w": "argument", "bn": "ঝগড়া", "pos": "noun" }, { "w": "simply", "bn": "শুধু", "pos": "adverb" }] },
+            { "id": "06", "en": "If we hadn't hired a cleaner, we wouldn't have so much free time on weekends now.", "words": [{ "w": "hired", "bn": "নিয়োগ দিতাম", "pos": "verb", "base": "hire" }, { "w": "free time", "bn": "অবসর সময়", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + would + subject + have + past participle + if + had + past participle?",
+          "tipBn": "প্রশ্নবোধক শব্দের পরে would ... have + past participle, তারপর if + had + past participle বসে।",
+          "items": [
+            { "id": "01", "en": "What would you have done if the landlord had refused to fix the heating?", "words": [{ "w": "refused", "bn": "রাজি না হতেন", "pos": "verb", "base": "refuse" }, { "w": "heating", "bn": "ঘর গরমের ব্যবস্থা", "pos": "noun" }] },
+            { "id": "02", "en": "How would things be different now if we had chosen a newer apartment?", "words": [{ "w": "different", "bn": "ভিন্ন", "pos": "adjective" }, { "w": "chosen", "bn": "বেছে নিতাম", "pos": "verb", "base": "choose" }] },
+            { "id": "03", "en": "Who would have noticed the leak if Mei hadn't been home that afternoon?", "words": [{ "w": "noticed", "bn": "খেয়াল করত", "pos": "verb", "base": "notice" }, { "w": "leak", "bn": "ছিদ্র দিয়ে পানি পড়া", "pos": "noun" }] },
+            { "id": "04", "en": "Where would we have stored everything if we hadn't decluttered last spring?", "words": [{ "w": "stored", "bn": "রাখতাম", "pos": "verb", "base": "store" }, { "w": "decluttered", "bn": "অপ্রয়োজনীয় জিনিস সরাতাম", "pos": "verb", "base": "declutter" }] },
+            { "id": "05", "en": "Which chores would you have kept if you had been allowed to choose?", "words": [{ "w": "kept", "bn": "রাখতে", "pos": "verb", "base": "keep" }, { "w": "allowed", "bn": "অনুমতি পাওয়া", "pos": "verb", "base": "allow" }] },
+            { "id": "06", "en": "How much money would we have saved if we had repaired the leak ourselves?", "words": [{ "w": "saved", "bn": "বাঁচাতাম", "pos": "verb", "base": "save" }, { "w": "ourselves", "bn": "নিজেরা", "pos": "pronoun" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A longer text with third and mixed conditionals.",
+          "tipBn": "অনুচ্ছেদে অতীতের কাল্পনিক শর্ত এবং তার অতীত বা বর্তমান ফল বলা হয়েছে।",
+          "items": [
+            { "id": "01", "title": "If only we had talked earlier", "en": "Looking back, our first year together could have gone much more smoothly. If we had talked openly about chores from the beginning, small annoyances would not have turned into big arguments. If Lucas had admitted that he hated washing dishes, we could have given him other tasks. And if I had spoken up sooner, I would not feel so tired of cleaning now.", "words": [{ "w": "Looking back", "bn": "পেছনে ফিরে তাকালে", "pos": "phrase" }, { "w": "smoothly", "bn": "নির্বিঘ্নে", "pos": "adverb" }, { "w": "annoyances", "bn": "বিরক্তির বিষয়", "pos": "noun" }, { "w": "admitted", "bn": "স্বীকার করত", "pos": "verb", "base": "admit" }, { "w": "spoken up", "bn": "মুখ খুলতাম", "pos": "phrasal verb", "base": "speak up" }] },
+            { "id": "02", "title": "The costly leak", "en": "Last winter, a tiny leak under the bathroom sink turned into a major repair. If we had reported it immediately, the plumber would have replaced a single washer. Instead, we ignored it for weeks, and the water slowly rotted the cabinet. If the landlord had not been so understanding, we would have paid for the whole thing. Now we report every drip on the same day.", "words": [{ "w": "major", "bn": "বড় ধরনের", "pos": "adjective" }, { "w": "immediately", "bn": "সঙ্গে সঙ্গে", "pos": "adverb" }, { "w": "rotted", "bn": "পচিয়ে ফেলেছিল", "pos": "verb", "base": "rot" }, { "w": "understanding", "bn": "সহানুভূতিশীল", "pos": "adjective" }, { "w": "drip", "bn": "ফোঁটা", "pos": "noun" }] },
+            { "id": "03", "title": "Growing up with chores", "en": "Tanvir often wonders how his life would be different if his parents had given him chores as a child. If he had learned to do laundry at ten, he would not have ruined so many shirts in his first month abroad. On the other hand, if he had never moved to Toronto, he might still expect someone else to clean up after him. Living with roommates has taught him more than any lesson at home.", "words": [{ "w": "wonders", "bn": "ভাবে", "pos": "verb", "base": "wonder" }, { "w": "ruined", "bn": "নষ্ট করত", "pos": "verb", "base": "ruin" }, { "w": "On the other hand", "bn": "অন্যদিকে", "pos": "phrase" }, { "w": "clean up after him", "bn": "তার ফেলে রাখা জিনিস গোছানো", "pos": "phrase" }] }
+          ]
+        }
+      ]
+    }
+  ]
+}

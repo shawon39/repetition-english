@@ -1,0 +1,272 @@
+{
+  "topic": "office",
+  "level": "advanced",
+  "title": "Leading an International Team",
+  "story": "Ayesha Rahman is a senior project manager at the Dhaka office of a logistics software company. She works with Daniel, the product director in London, Mei, the finance lead in Singapore, and Tariq, a senior developer in Dhaka. Together they are delivering a tracking platform for a large shipping client, and the project is running behind schedule.",
+  "storyBn": "আয়েশা রহমান একটি লজিস্টিকস সফটওয়্যার কোম্পানির ঢাকা অফিসের সিনিয়র প্রজেক্ট ম্যানেজার। তিনি লন্ডনের প্রোডাক্ট ডিরেক্টর ড্যানিয়েল, সিঙ্গাপুরের ফাইন্যান্স লিড মেই এবং ঢাকার সিনিয়র ডেভেলপার তারিকের সাথে কাজ করেন। তাঁরা মিলে একটি বড় শিপিং ক্লায়েন্টের জন্য ট্র্যাকিং প্ল্যাটফর্ম তৈরি করছেন, কিন্তু প্রকল্পটি নির্ধারিত সময়ের চেয়ে পিছিয়ে আছে।",
+  "units": [
+    {
+      "grammar": "present-perfect-continuous",
+      "focus": "Describe ongoing work and long-running problems",
+      "focusBn": "দীর্ঘ সময় ধরে চলমান কাজ ও সমস্যার বর্ণনা দেওয়া",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + has/have been + verb-ing + for/since ...",
+          "tipBn": "অতীতে শুরু হয়ে এখনও চলছে এমন কাজের সময়কাল বোঝাতে has/have been + verb-ing এবং for/since ব্যবহার হয়।",
+          "items": [
+            { "id": "01", "en": "Ayesha has been leading the Dhaka team since the project kicked off in January.", "words": [{ "w": "leading", "bn": "নেতৃত্ব দিচ্ছেন", "pos": "verb", "base": "lead" }, { "w": "kicked off", "bn": "শুরু হয়েছিল", "pos": "phrasal verb", "base": "kick off" }] },
+            { "id": "02", "en": "Daniel and Mei have been negotiating the new contract terms with the client for almost three weeks.", "words": [{ "w": "negotiating", "bn": "দর-কষাকষি করছেন", "pos": "verb", "base": "negotiate" }, { "w": "terms", "bn": "শর্তাবলি", "pos": "noun", "base": "term" }] },
+            { "id": "03", "en": "Our developers have been working overtime to make up for the delays in the testing phase.", "words": [{ "w": "overtime", "bn": "নির্ধারিত সময়ের বাইরে", "pos": "adverb" }, { "w": "make up for", "bn": "পুষিয়ে নেওয়া", "pos": "phrasal verb" }, { "w": "delays", "bn": "বিলম্ব", "pos": "noun", "base": "delay" }] },
+            { "id": "04", "en": "The client has been asking for weekly progress reports ever since the first deadline slipped.", "words": [{ "w": "progress reports", "bn": "অগ্রগতির প্রতিবেদন", "pos": "noun" }, { "w": "ever since", "bn": "তখন থেকেই", "pos": "conjunction" }, { "w": "slipped", "bn": "পিছিয়ে গেল", "pos": "verb", "base": "slip" }] },
+            { "id": "05", "en": "Tariq has been mentoring two junior developers alongside his regular workload this quarter.", "words": [{ "w": "mentoring", "bn": "হাতে-কলমে শেখাচ্ছেন", "pos": "verb", "base": "mentor" }, { "w": "alongside", "bn": "পাশাপাশি", "pos": "preposition" }, { "w": "workload", "bn": "কাজের চাপ", "pos": "noun" }] },
+            { "id": "06", "en": "I've been meaning to schedule a call with you to discuss the revised budget.", "words": [{ "w": "been meaning to", "bn": "অনেকদিন ধরে ভাবছি", "pos": "phrase", "base": "mean to" }, { "w": "schedule", "bn": "সময় ঠিক করা", "pos": "verb" }, { "w": "revised", "bn": "সংশোধিত", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hasn't/haven't been + verb-ing ...",
+          "tipBn": "না-বোধক করতে has বা have-এর পরে not বসে, তারপর been + verb-ing।",
+          "items": [
+            { "id": "01", "en": "The server hasn't been performing well since we migrated the data last month.", "words": [{ "w": "performing", "bn": "ঠিকমতো চলছে", "pos": "verb", "base": "perform" }, { "w": "migrated", "bn": "স্থানান্তর করেছি", "pos": "verb", "base": "migrate" }] },
+            { "id": "02", "en": "We haven't been receiving timely feedback from the client's legal team lately.", "words": [{ "w": "timely", "bn": "সময়মতো", "pos": "adjective" }, { "w": "feedback", "bn": "মতামত", "pos": "noun" }, { "w": "lately", "bn": "ইদানীং", "pos": "adverb" }] },
+            { "id": "03", "en": "Mei hasn't been sleeping much because the budget review has been keeping her busy.", "words": [{ "w": "review", "bn": "পর্যালোচনা", "pos": "noun" }, { "w": "keeping her busy", "bn": "তাকে ব্যস্ত রাখছে", "pos": "phrase", "base": "keep someone busy" }] },
+            { "id": "04", "en": "Honestly, the team hasn't been communicating as openly as it did at the start.", "words": [{ "w": "communicating", "bn": "যোগাযোগ করছে", "pos": "verb", "base": "communicate" }, { "w": "openly", "bn": "খোলাখুলি", "pos": "adverb" }, { "w": "at the start", "bn": "শুরুর দিকে", "pos": "phrase" }] },
+            { "id": "05", "en": "I haven't been ignoring your emails; I've simply been traveling for the client workshops.", "words": [{ "w": "ignoring", "bn": "উপেক্ষা করছি", "pos": "verb", "base": "ignore" }, { "w": "workshops", "bn": "কর্মশালা", "pos": "noun", "base": "workshop" }] },
+            { "id": "06", "en": "Daniel hasn't been attending the daily stand-ups because of the time difference.", "words": [{ "w": "attending", "bn": "উপস্থিত থাকছেন", "pos": "verb", "base": "attend" }, { "w": "stand-ups", "bn": "প্রতিদিনের ছোট মিটিং", "pos": "noun", "base": "stand-up" }, { "w": "time difference", "bn": "সময়ের পার্থক্য", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Has/Have + subject + been + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে Has বা Have শুরুতে বসে, তারপর subject, been ও verb-ing।",
+          "items": [
+            { "id": "01", "en": "Have you been tracking the hours your team spends on change requests?", "words": [{ "w": "tracking", "bn": "হিসাব রাখছেন", "pos": "verb", "base": "track" }, { "w": "change requests", "bn": "পরিবর্তনের অনুরোধ", "pos": "noun" }] },
+            { "id": "02", "en": "Has the client been complaining about the slow loading times on the dashboard again?", "words": [{ "w": "complaining", "bn": "অভিযোগ করছে", "pos": "verb", "base": "complain" }, { "w": "loading times", "bn": "লোড হতে লাগা সময়", "pos": "noun" }] },
+            { "id": "03", "en": "Have Tariq and his team been testing the new release over the weekend?", "words": [{ "w": "release", "bn": "নতুন সংস্করণ, রিলিজ", "pos": "noun" }, { "w": "over the weekend", "bn": "সপ্তাহান্তের ছুটিতে", "pos": "phrase" }] },
+            { "id": "04", "en": "Has Mei been working on the cost forecast for the next quarter?", "words": [{ "w": "cost forecast", "bn": "খরচের পূর্বাভাস", "pos": "noun" }, { "w": "quarter", "bn": "ত্রৈমাসিক, তিন মাস", "pos": "noun" }] },
+            { "id": "05", "en": "Have you been feeling overwhelmed by the number of meetings lately?", "words": [{ "w": "overwhelmed", "bn": "চাপে দিশেহারা", "pos": "adjective" }, { "w": "lately", "bn": "ইদানীং", "pos": "adverb" }] },
+            { "id": "06", "en": "Has the London office been using the new approval workflow since March?", "words": [{ "w": "approval workflow", "bn": "অনুমোদনের প্রক্রিয়া", "pos": "noun" }, { "w": "since March", "bn": "মার্চ থেকে", "pos": "phrase" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "How long / What / Why / Who + has/have + subject + been + verb-ing?",
+          "tipBn": "How long দিয়ে সময়কাল, আর What, Why, Who দিয়ে চলমান কাজের ধরন বা কারণ জানা যায়।",
+          "items": [
+            { "id": "01", "en": "How long have you been managing projects with teams in different time zones?", "words": [{ "w": "managing", "bn": "পরিচালনা করছেন", "pos": "verb", "base": "manage" }, { "w": "time zones", "bn": "সময় অঞ্চল", "pos": "noun", "base": "time zone" }] },
+            { "id": "02", "en": "Why has the client been delaying the sign-off on the final design?", "words": [{ "w": "delaying", "bn": "দেরি করছে", "pos": "verb", "base": "delay" }, { "w": "sign-off", "bn": "চূড়ান্ত অনুমোদন", "pos": "noun" }] },
+            { "id": "03", "en": "What has Tariq been doing to reduce the number of bugs in each release?", "words": [{ "w": "reduce", "bn": "কমানো", "pos": "verb" }, { "w": "release", "bn": "নতুন সংস্করণ, রিলিজ", "pos": "noun" }] },
+            { "id": "04", "en": "Who has been handling the vendor invoices while Mei is on leave?", "words": [{ "w": "handling", "bn": "সামলাচ্ছে", "pos": "verb", "base": "handle" }, { "w": "vendor", "bn": "সরবরাহকারী", "pos": "noun" }, { "w": "invoices", "bn": "বিল, চালান", "pos": "noun", "base": "invoice" }] },
+            { "id": "05", "en": "How much time have we been losing because of unclear requirements?", "words": [{ "w": "losing", "bn": "নষ্ট করছি", "pos": "verb", "base": "lose" }, { "w": "unclear", "bn": "অস্পষ্ট", "pos": "adjective" }, { "w": "requirements", "bn": "চাহিদা, প্রয়োজনীয়তা", "pos": "noun", "base": "requirement" }] },
+            { "id": "06", "en": "Which issues have you been raising in the weekly stakeholder meetings?", "words": [{ "w": "raising", "bn": "তুলছেন, উত্থাপন করছেন", "pos": "verb", "base": "raise" }, { "w": "stakeholder", "bn": "অংশীজন", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A workplace update written mostly in the present perfect continuous.",
+          "tipBn": "দীর্ঘদিন ধরে চলা কাজ, সমস্যা বা প্রচেষ্টার বর্ণনায় has/have been + verb-ing বারবার আসে।",
+          "items": [
+            { "id": "01", "title": "An honest timeline update", "en": "Dear all, I want to give you an honest picture of where we stand. The team has been working extra hours for the past three weeks, but we have been struggling with unstable test servers. As a result, we have been running about ten days behind schedule. Tariq has been coordinating with the IT team to fix the environment, and I will share a revised timeline on Monday.", "words": [{ "w": "where we stand", "bn": "আমাদের বর্তমান অবস্থা", "pos": "phrase" }, { "w": "struggling", "bn": "হিমশিম খাচ্ছি", "pos": "verb", "base": "struggle" }, { "w": "unstable", "bn": "অস্থিতিশীল", "pos": "adjective" }, { "w": "behind schedule", "bn": "নির্ধারিত সময়ের পিছনে", "pos": "phrase" }, { "w": "coordinating", "bn": "সমন্বয় করছেন", "pos": "verb", "base": "coordinate" }, { "w": "revised", "bn": "সংশোধিত", "pos": "adjective" }] },
+            { "id": "02", "title": "Performance review notes", "en": "Tariq, over the past year you have been doing excellent work on the tracking module. You have been mentoring two junior developers, and their code quality has improved a lot. However, you have been taking on too many tasks at once, and some deadlines have slipped. Next quarter, I would like you to delegate more and focus on the architecture.", "words": [{ "w": "module", "bn": "অংশ, মডিউল", "pos": "noun" }, { "w": "mentoring", "bn": "হাতে-কলমে শেখাচ্ছেন", "pos": "verb", "base": "mentor" }, { "w": "taking on", "bn": "দায়িত্ব নিচ্ছেন", "pos": "phrasal verb", "base": "take on" }, { "w": "at once", "bn": "একসাথে", "pos": "phrase" }, { "w": "delegate", "bn": "অন্যকে দায়িত্ব দেওয়া", "pos": "verb" }, { "w": "architecture", "bn": "সফটওয়্যারের কাঠামো", "pos": "noun" }] },
+            { "id": "03", "title": "Working across time zones", "en": "The Dhaka team has been staying online until nine at night for months to join calls with London, and it has been exhausting. Mei has been working late in Singapore to overlap with both offices. We have been experimenting with shorter meetings and more written updates. So far, the results have been encouraging, and people have been responding faster in the shared channel.", "words": [{ "w": "exhausting", "bn": "ক্লান্তিকর", "pos": "adjective" }, { "w": "overlap", "bn": "সময় মেলানো", "pos": "verb" }, { "w": "experimenting", "bn": "পরীক্ষা-নিরীক্ষা করছি", "pos": "verb", "base": "experiment" }, { "w": "So far", "bn": "এখন পর্যন্ত", "pos": "phrase" }, { "w": "encouraging", "bn": "আশাব্যঞ্জক", "pos": "adjective" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-perfect",
+      "focus": "Explain what had already happened before key project moments",
+      "focusBn": "প্রকল্পের গুরুত্বপূর্ণ মুহূর্তের আগে কী ঘটে গিয়েছিল তা ব্যাখ্যা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + had + past participle + before/by the time/after ...",
+          "tipBn": "অতীতের দুটি ঘটনার মধ্যে যেটি আগে ঘটেছিল, সেটি বোঝাতে had + past participle ব্যবহার হয়।",
+          "items": [
+            { "id": "01", "en": "By the time Daniel joined the call, Ayesha had already walked the client through the new dashboard.", "words": [{ "w": "By the time", "bn": "যখন, ততক্ষণে", "pos": "conjunction" }, { "w": "walked the client through", "bn": "ক্লায়েন্টকে ধাপে ধাপে বুঝিয়েছিলেন", "pos": "phrase", "base": "walk someone through" }] },
+            { "id": "02", "en": "The client had signed the original contract before anyone noticed the missing clause.", "words": [{ "w": "original", "bn": "মূল", "pos": "adjective" }, { "w": "noticed", "bn": "লক্ষ করল", "pos": "verb", "base": "notice" }, { "w": "clause", "bn": "ধারা", "pos": "noun" }] },
+            { "id": "03", "en": "Mei had prepared three budget scenarios before the finance committee met on Tuesday.", "words": [{ "w": "scenarios", "bn": "সম্ভাব্য পরিস্থিতি", "pos": "noun", "base": "scenario" }, { "w": "committee", "bn": "কমিটি, পর্ষদ", "pos": "noun" }] },
+            { "id": "04", "en": "We realized that the vendor had shipped the wrong hardware only after the installation began.", "words": [{ "w": "realized", "bn": "বুঝতে পারলাম", "pos": "verb", "base": "realize" }, { "w": "vendor", "bn": "সরবরাহকারী", "pos": "noun" }, { "w": "shipped", "bn": "পাঠিয়েছিল", "pos": "verb", "base": "ship" }] },
+            { "id": "05", "en": "Tariq had warned us about the database limits long before the system crashed.", "words": [{ "w": "warned", "bn": "সতর্ক করেছিলেন", "pos": "verb", "base": "warn" }, { "w": "long before", "bn": "অনেক আগেই", "pos": "phrase" }, { "w": "crashed", "bn": "অচল হয়ে গেল", "pos": "verb", "base": "crash" }] },
+            { "id": "06", "en": "After the team had reviewed all the feedback, Ayesha drafted a new project plan.", "words": [{ "w": "reviewed", "bn": "পর্যালোচনা করেছিল", "pos": "verb", "base": "review" }, { "w": "drafted", "bn": "খসড়া করলেন", "pos": "verb", "base": "draft" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hadn't / had never + past participle ...",
+          "tipBn": "না-বোধক করতে had-এর পরে not বা never বসে, তারপর past participle।",
+          "items": [
+            { "id": "01", "en": "The client hadn't read the proposal before the meeting, so we had to explain everything again.", "words": [{ "w": "proposal", "bn": "প্রস্তাবনা", "pos": "noun" }, { "w": "explain", "bn": "ব্যাখ্যা করা", "pos": "verb" }] },
+            { "id": "02", "en": "Ayesha hadn't expected the budget cuts until Mei showed her the latest figures.", "words": [{ "w": "budget cuts", "bn": "বাজেট কমানো", "pos": "noun" }, { "w": "until", "bn": "যতক্ষণ না", "pos": "conjunction" }, { "w": "figures", "bn": "হিসাব, সংখ্যা", "pos": "noun", "base": "figure" }] },
+            { "id": "03", "en": "We hadn't tested the backup system properly, which caused a long outage last Friday.", "words": [{ "w": "properly", "bn": "ঠিকমতো", "pos": "adverb" }, { "w": "outage", "bn": "সেবা বন্ধ থাকা, বিভ্রাট", "pos": "noun" }] },
+            { "id": "04", "en": "Daniel had never managed a fully remote team before he took on this project.", "words": [{ "w": "fully remote", "bn": "পুরোপুরি দূর থেকে কাজ করা", "pos": "adjective" }, { "w": "took on", "bn": "দায়িত্ব নিলেন", "pos": "phrasal verb", "base": "take on" }] },
+            { "id": "05", "en": "By the time we noticed the error, nobody had backed up the latest version.", "words": [{ "w": "error", "bn": "ভুল, ত্রুটি", "pos": "noun" }, { "w": "backed up", "bn": "ব্যাকআপ নিয়েছিল", "pos": "phrasal verb", "base": "back up" }] },
+            { "id": "06", "en": "Tariq hadn't received any clear requirements when he started building the module.", "words": [{ "w": "requirements", "bn": "চাহিদা, প্রয়োজনীয়তা", "pos": "noun", "base": "requirement" }, { "w": "module", "bn": "অংশ, মডিউল", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Hadn't + subject + (already) + past participle ...?",
+          "tipBn": "Hadn't দিয়ে প্রশ্ন করলে বোঝায় আমরা ধরে নিয়েছিলাম কাজটি আগেই হয়ে গিয়েছিল।",
+          "items": [
+            { "id": "01", "en": "Hadn't the client already approved the design before they asked for more changes?", "words": [{ "w": "approved", "bn": "অনুমোদন করেছিল", "pos": "verb", "base": "approve" }, { "w": "asked for", "bn": "চাইল", "pos": "phrasal verb", "base": "ask for" }] },
+            { "id": "02", "en": "Hadn't Tariq warned us about the database limits several months before the crash?", "words": [{ "w": "warned", "bn": "সতর্ক করেছিলেন", "pos": "verb", "base": "warn" }, { "w": "limits", "bn": "সীমাবদ্ধতা", "pos": "noun", "base": "limit" }, { "w": "crash", "bn": "হঠাৎ অচল হওয়া", "pos": "noun" }] },
+            { "id": "03", "en": "Hadn't Mei sent the revised forecast to the board before Thursday's meeting?", "words": [{ "w": "revised", "bn": "সংশোধিত", "pos": "adjective" }, { "w": "forecast", "bn": "পূর্বাভাস", "pos": "noun" }, { "w": "board", "bn": "পরিচালনা পর্ষদ", "pos": "noun" }] },
+            { "id": "04", "en": "Hadn't we agreed on the scope before the client added three new features?", "words": [{ "w": "agreed on", "bn": "একমত হয়েছিলাম", "pos": "phrasal verb", "base": "agree on" }, { "w": "scope", "bn": "কাজের পরিধি", "pos": "noun" }] },
+            { "id": "05", "en": "Hadn't Daniel already left the office by the time the client called back?", "words": [{ "w": "by the time", "bn": "যখন, ততক্ষণে", "pos": "conjunction" }, { "w": "called back", "bn": "আবার ফোন করল", "pos": "phrasal verb", "base": "call back" }] },
+            { "id": "06", "en": "Hadn't you finished the handover notes before you went on leave?", "words": [{ "w": "handover notes", "bn": "দায়িত্ব বুঝিয়ে দেওয়ার নোট", "pos": "noun" }, { "w": "went on leave", "bn": "ছুটিতে গেলেন", "pos": "phrase", "base": "go on leave" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + had + subject + past participle ...?",
+          "tipBn": "প্রথমে Wh-word, তারপর had, subject ও past participle বসে।",
+          "items": [
+            { "id": "01", "en": "What had the vendor promised before they missed the delivery date?", "words": [{ "w": "vendor", "bn": "সরবরাহকারী", "pos": "noun" }, { "w": "promised", "bn": "প্রতিশ্রুতি দিয়েছিল", "pos": "verb", "base": "promise" }, { "w": "delivery date", "bn": "সরবরাহের তারিখ", "pos": "noun" }] },
+            { "id": "02", "en": "How long had Ayesha been in the role before she was promoted?", "words": [{ "w": "role", "bn": "পদ, ভূমিকা", "pos": "noun" }, { "w": "promoted", "bn": "পদোন্নতি পেলেন", "pos": "verb", "base": "promote" }] },
+            { "id": "03", "en": "Why hadn't anyone informed the client about the delay before the steering committee meeting?", "words": [{ "w": "informed", "bn": "জানিয়েছিল", "pos": "verb", "base": "inform" }, { "w": "steering committee", "bn": "পরিচালনা কমিটি", "pos": "noun" }] },
+            { "id": "04", "en": "Which tasks had the team completed by the end of the second sprint?", "words": [{ "w": "completed", "bn": "সম্পন্ন করেছিল", "pos": "verb", "base": "complete" }, { "w": "sprint", "bn": "নির্দিষ্ট মেয়াদের কাজের পর্ব", "pos": "noun" }] },
+            { "id": "05", "en": "Who had approved the extra spending before Mei joined the company?", "words": [{ "w": "approved", "bn": "অনুমোদন করেছিল", "pos": "verb", "base": "approve" }, { "w": "extra spending", "bn": "অতিরিক্ত খরচ", "pos": "noun" }] },
+            { "id": "06", "en": "Where had the team stored the old files before the migration?", "words": [{ "w": "stored", "bn": "সংরক্ষণ করেছিল", "pos": "verb", "base": "store" }, { "w": "migration", "bn": "স্থানান্তর", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short account that uses the past perfect for the earlier events.",
+          "tipBn": "গল্পের মূল ঘটনা past simple-এ, আর তার আগে ঘটে যাওয়া ঘটনা had + past participle-এ লেখা হয়।",
+          "items": [
+            { "id": "01", "title": "What went wrong in phase one", "en": "Looking back, the delay in phase one was not a surprise. The client had changed the requirements twice before we even finished the design. We had also underestimated the time needed to connect the old database. By the time we raised the issue with the stakeholders, we had already lost three weeks. Next time, we will flag risks much earlier.", "words": [{ "w": "Looking back", "bn": "পেছন ফিরে দেখলে", "pos": "phrase" }, { "w": "requirements", "bn": "চাহিদা, প্রয়োজনীয়তা", "pos": "noun", "base": "requirement" }, { "w": "underestimated", "bn": "কম করে ধরেছিলাম", "pos": "verb", "base": "underestimate" }, { "w": "stakeholders", "bn": "অংশীজন", "pos": "noun", "base": "stakeholder" }, { "w": "flag", "bn": "আগেভাগে জানানো", "pos": "verb" }] },
+            { "id": "02", "title": "The invoice problem", "en": "Hi Ayesha, I wanted to explain the invoice problem. Before I joined the finance team, the vendor had already sent two invoices with the wrong rates. My predecessor had paid the first one without checking it. When I found the error, the second payment had not gone out yet, so I stopped it. I have asked the vendor for a refund.", "words": [{ "w": "invoice", "bn": "বিল, চালান", "pos": "noun" }, { "w": "rates", "bn": "দর, হার", "pos": "noun", "base": "rate" }, { "w": "predecessor", "bn": "পূর্বসূরি", "pos": "noun" }, { "w": "gone out", "bn": "পাঠানো হয়েছিল", "pos": "phrasal verb", "base": "go out" }, { "w": "refund", "bn": "টাকা ফেরত", "pos": "noun" }] },
+            { "id": "03", "title": "A difficult negotiation", "en": "The negotiation with the client was tense from the start. They had expected a discount because we had missed the first deadline. Before the meeting, Daniel and Mei had agreed on the lowest price they could accept. After both sides had presented their positions, Ayesha suggested a compromise: a small discount in exchange for a longer contract. By the end of the day, everyone had signed.", "words": [{ "w": "tense", "bn": "উত্তেজনাপূর্ণ", "pos": "adjective" }, { "w": "discount", "bn": "মূল্যছাড়", "pos": "noun" }, { "w": "positions", "bn": "অবস্থান", "pos": "noun", "base": "position" }, { "w": "compromise", "bn": "আপস, সমঝোতা", "pos": "noun" }, { "w": "in exchange for", "bn": "বিনিময়ে", "pos": "phrase" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "passive",
+      "focus": "Report decisions, processes and results formally",
+      "focusBn": "সিদ্ধান্ত, প্রক্রিয়া ও ফলাফল আনুষ্ঠানিকভাবে জানানো",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + be (is/was/has been/will be/must be) + past participle (+ by ...).",
+          "tipBn": "কে কাজটি করেছে তার চেয়ে কাজটি বেশি গুরুত্বপূর্ণ হলে be + past participle দিয়ে কর্মবাচ্য তৈরি হয়।",
+          "items": [
+            { "id": "01", "en": "The revised contract was signed by both parties on Thursday afternoon.", "words": [{ "w": "revised", "bn": "সংশোধিত", "pos": "adjective" }, { "w": "parties", "bn": "পক্ষ", "pos": "noun", "base": "party" }] },
+            { "id": "02", "en": "All expense claims must be submitted through the finance portal by the fifth of each month.", "words": [{ "w": "expense claims", "bn": "খরচের দাবি", "pos": "noun" }, { "w": "submitted", "bn": "জমা দেওয়া", "pos": "verb", "base": "submit" }, { "w": "portal", "bn": "অনলাইন পোর্টাল", "pos": "noun" }] },
+            { "id": "03", "en": "The server issue has been resolved, and all services have been restored.", "words": [{ "w": "resolved", "bn": "সমাধান করা হয়েছে", "pos": "verb", "base": "resolve" }, { "w": "restored", "bn": "আবার চালু করা হয়েছে", "pos": "verb", "base": "restore" }] },
+            { "id": "04", "en": "The final report will be shared with the stakeholders by the end of the week.", "words": [{ "w": "shared", "bn": "পাঠানো, শেয়ার করা", "pos": "verb", "base": "share" }, { "w": "stakeholders", "bn": "অংশীজন", "pos": "noun", "base": "stakeholder" }] },
+            { "id": "05", "en": "Weekly progress reports are reviewed by the steering committee every Monday morning.", "words": [{ "w": "reviewed", "bn": "পর্যালোচনা করা হয়", "pos": "verb", "base": "review" }, { "w": "steering committee", "bn": "পরিচালনা কমিটি", "pos": "noun" }] },
+            { "id": "06", "en": "Tariq is being considered for a promotion after his outstanding work this year.", "words": [{ "w": "considered", "bn": "বিবেচনা করা", "pos": "verb", "base": "consider" }, { "w": "promotion", "bn": "পদোন্নতি", "pos": "noun" }, { "w": "outstanding", "bn": "অসাধারণ", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + be + not + past participle ...",
+          "tipBn": "কর্মবাচ্যের না-বোধক বাক্যে be-এর পরে not বসে, যেমন hasn't been paid, won't be announced।",
+          "items": [
+            { "id": "01", "en": "The invoice hasn't been paid yet because the purchase order is missing.", "words": [{ "w": "invoice", "bn": "বিল, চালান", "pos": "noun" }, { "w": "purchase order", "bn": "ক্রয়াদেশ", "pos": "noun" }, { "w": "missing", "bn": "পাওয়া যাচ্ছে না", "pos": "adjective" }] },
+            { "id": "02", "en": "Confidential client data must not be stored on personal laptops under any circumstances.", "words": [{ "w": "Confidential", "bn": "গোপনীয়", "pos": "adjective" }, { "w": "stored", "bn": "সংরক্ষণ করা", "pos": "verb", "base": "store" }, { "w": "under any circumstances", "bn": "কোনো অবস্থাতেই", "pos": "phrase" }] },
+            { "id": "03", "en": "The new features weren't included in the original quote, so they will be charged separately.", "words": [{ "w": "included", "bn": "অন্তর্ভুক্ত", "pos": "verb", "base": "include" }, { "w": "quote", "bn": "দামের প্রস্তাব, কোটেশন", "pos": "noun" }, { "w": "charged separately", "bn": "আলাদা করে বিল করা", "pos": "phrase" }] },
+            { "id": "04", "en": "Our request for extra staff was not approved by head office.", "words": [{ "w": "staff", "bn": "কর্মী", "pos": "noun" }, { "w": "head office", "bn": "প্রধান কার্যালয়", "pos": "noun" }] },
+            { "id": "05", "en": "The meeting minutes haven't been circulated to the rest of the team.", "words": [{ "w": "meeting minutes", "bn": "সভার কার্যবিবরণী", "pos": "noun" }, { "w": "circulated", "bn": "সবার কাছে পাঠানো", "pos": "verb", "base": "circulate" }] },
+            { "id": "06", "en": "The launch date won't be announced until the security audit is complete.", "words": [{ "w": "announced", "bn": "ঘোষণা করা", "pos": "verb", "base": "announce" }, { "w": "security audit", "bn": "নিরাপত্তা নিরীক্ষা", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Is/Was/Has/Will/Can + subject + (been/be) + past participle ...?",
+          "tipBn": "কর্মবাচ্যে প্রশ্ন করতে is, was, has, will বা can শুরুতে বসে, তারপর subject ও past participle।",
+          "items": [
+            { "id": "01", "en": "Has the updated timeline been approved by the client's project board yet?", "words": [{ "w": "updated", "bn": "হালনাগাদ", "pos": "adjective" }, { "w": "approved", "bn": "অনুমোদিত", "pos": "verb", "base": "approve" }, { "w": "project board", "bn": "প্রকল্প পর্ষদ", "pos": "noun" }] },
+            { "id": "02", "en": "Were the new team members given access to the shared drive on their first day?", "words": [{ "w": "access", "bn": "প্রবেশাধিকার", "pos": "noun" }, { "w": "shared drive", "bn": "সবার ব্যবহারের ড্রাইভ", "pos": "noun" }] },
+            { "id": "03", "en": "Will the training sessions be recorded for colleagues in other time zones?", "words": [{ "w": "recorded", "bn": "রেকর্ড করা", "pos": "verb", "base": "record" }, { "w": "colleagues", "bn": "সহকর্মী", "pos": "noun", "base": "colleague" }] },
+            { "id": "04", "en": "Is the budget reviewed every quarter or only at the end of the year?", "words": [{ "w": "reviewed", "bn": "পর্যালোচনা করা হয়", "pos": "verb", "base": "review" }, { "w": "quarter", "bn": "ত্রৈমাসিক, তিন মাস", "pos": "noun" }] },
+            { "id": "05", "en": "Was the client informed about the delay before the contract was renewed?", "words": [{ "w": "informed", "bn": "জানানো হয়েছিল", "pos": "verb", "base": "inform" }, { "w": "renewed", "bn": "নবায়ন করা", "pos": "verb", "base": "renew" }] },
+            { "id": "06", "en": "Can these last-minute changes be made without affecting the launch date?", "words": [{ "w": "last-minute", "bn": "শেষ মুহূর্তের", "pos": "adjective" }, { "w": "affecting", "bn": "প্রভাব ফেলা", "pos": "verb", "base": "affect" }] }
+          ]
+        },
+        {
+          "type": "indirect-question",
+          "pattern": "Could you tell me / Do you know / I was wondering + if/whether/wh-word + subject + passive verb ...",
+          "tipBn": "ভদ্রভাবে জানতে Could you tell me বা I was wondering দিয়ে শুরু হয়, আর ভেতরের অংশে সাধারণ বাক্যের মতো subject আগে বসে।",
+          "items": [
+            { "id": "01", "en": "Could you tell me when the final invoice will be sent to the client?", "words": [{ "w": "final", "bn": "চূড়ান্ত", "pos": "adjective" }, { "w": "invoice", "bn": "বিল, চালান", "pos": "noun" }] },
+            { "id": "02", "en": "Do you know whether the new security policy has been approved yet?", "words": [{ "w": "whether", "bn": "কিনা", "pos": "conjunction" }, { "w": "policy", "bn": "নীতি", "pos": "noun" }] },
+            { "id": "03", "en": "I was wondering if the deadline could be extended by a few days.", "words": [{ "w": "wondering", "bn": "ভাবছিলাম", "pos": "verb", "base": "wonder" }, { "w": "extended", "bn": "বাড়ানো", "pos": "verb", "base": "extend" }] },
+            { "id": "04", "en": "Would you mind telling me why my leave request was rejected?", "words": [{ "w": "Would you mind", "bn": "কিছু মনে না করলে", "pos": "phrase" }, { "w": "leave request", "bn": "ছুটির আবেদন", "pos": "noun" }, { "w": "rejected", "bn": "নাকচ করা", "pos": "verb", "base": "reject" }] },
+            { "id": "05", "en": "Could you find out how the extra project costs were calculated?", "words": [{ "w": "find out", "bn": "জেনে নেওয়া", "pos": "phrasal verb" }, { "w": "calculated", "bn": "হিসাব করা", "pos": "verb", "base": "calculate" }] },
+            { "id": "06", "en": "I'd like to know who will be assigned to the client account next year.", "words": [{ "w": "assigned", "bn": "দায়িত্ব দেওয়া", "pos": "verb", "base": "assign" }, { "w": "account", "bn": "ক্লায়েন্টের দায়িত্ব, অ্যাকাউন্ট", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A formal workplace text that uses the passive in several tenses.",
+          "tipBn": "আনুষ্ঠানিক প্রতিবেদন ও অনুরোধে কাজটির উপর জোর দিতে বিভিন্ন কালের কর্মবাচ্য ব্যবহার হয়।",
+          "items": [
+            { "id": "01", "title": "Incident report", "en": "On Tuesday evening, the tracking platform was taken offline for almost two hours. The problem was caused by an expired security certificate. The issue was detected by our monitoring system, and a new certificate was installed within ninety minutes. No customer data was lost. To prevent this in the future, all certificates will now be checked automatically every week.", "words": [{ "w": "offline", "bn": "বন্ধ, অফলাইন", "pos": "adverb" }, { "w": "expired", "bn": "মেয়াদোত্তীর্ণ", "pos": "adjective" }, { "w": "detected", "bn": "শনাক্ত করা হয়েছিল", "pos": "verb", "base": "detect" }, { "w": "prevent", "bn": "প্রতিরোধ করা", "pos": "verb" }, { "w": "automatically", "bn": "স্বয়ংক্রিয়ভাবে", "pos": "adverb" }] },
+            { "id": "02", "title": "Formal request for resources", "en": "Dear Daniel, I am writing to request two additional testers for the next phase. As you know, the scope has been expanded significantly since the contract was signed. If the request is approved, the new testers will be trained in Dhaka during the first week. All costs have been reviewed by Mei and can be covered by the contingency budget. I would appreciate your decision by Friday.", "words": [{ "w": "additional", "bn": "অতিরিক্ত", "pos": "adjective" }, { "w": "scope", "bn": "কাজের পরিধি", "pos": "noun" }, { "w": "significantly", "bn": "উল্লেখযোগ্যভাবে", "pos": "adverb" }, { "w": "contingency budget", "bn": "জরুরি সংরক্ষিত বাজেট", "pos": "noun" }, { "w": "appreciate", "bn": "কৃতজ্ঞ থাকা", "pos": "verb" }] },
+            { "id": "03", "title": "Steering committee summary", "en": "Several important decisions were made at yesterday's steering committee meeting. The launch has been moved to the second week of November to allow more time for testing. The extra features requested by the client will be delivered in a separate phase and billed separately. Daniel was asked to update the risk register, and a revised plan is expected by next Wednesday.", "words": [{ "w": "steering committee", "bn": "পরিচালনা কমিটি", "pos": "noun" }, { "w": "delivered", "bn": "সরবরাহ করা হবে", "pos": "verb", "base": "deliver" }, { "w": "billed", "bn": "বিল করা হবে", "pos": "verb", "base": "bill" }, { "w": "risk register", "bn": "ঝুঁকির তালিকা", "pos": "noun" }, { "w": "expected", "bn": "প্রত্যাশিত", "pos": "verb", "base": "expect" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Reflect on past decisions and their results",
+      "focusBn": "অতীতের সিদ্ধান্ত ও তার ফলাফল নিয়ে ভাবা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + had + past participle, would have + past participle. / If + had + past participle, would + verb (now).",
+          "tipBn": "অতীতের কাল্পনিক অবস্থায় If + had + past participle ও would have বসে; ফল বর্তমানে হলে would + verb বসে।",
+          "items": [
+            { "id": "01", "en": "If we had hired more testers in March, we would have caught these bugs much earlier.", "words": [{ "w": "hired", "bn": "নিয়োগ দিতাম", "pos": "verb", "base": "hire" }, { "w": "caught", "bn": "ধরতে পারতাম", "pos": "verb", "base": "catch" }] },
+            { "id": "02", "en": "If the client had approved the budget on time, the platform would be live by now.", "words": [{ "w": "live", "bn": "চালু", "pos": "adjective" }, { "w": "by now", "bn": "এতদিনে", "pos": "phrase" }] },
+            { "id": "03", "en": "Ayesha would have flown to London for the workshop if her visa had arrived in time.", "words": [{ "w": "flown", "bn": "বিমানে যেতেন", "pos": "verb", "base": "fly" }, { "w": "in time", "bn": "সময়মতো", "pos": "phrase" }] },
+            { "id": "04", "en": "If Mei had missed the error in the invoice, we would have lost a lot of money.", "words": [{ "w": "missed", "bn": "চোখ এড়িয়ে যেত", "pos": "verb", "base": "miss" }, { "w": "invoice", "bn": "বিল, চালান", "pos": "noun" }] },
+            { "id": "05", "en": "If I had accepted the job in Singapore, I would be working with Mei every day now.", "words": [{ "w": "accepted", "bn": "গ্রহণ করতাম", "pos": "verb", "base": "accept" }, { "w": "would be working", "bn": "এখন কাজ করতাম", "pos": "phrase" }] },
+            { "id": "06", "en": "Had we known about the new regulations, we would have planned the rollout differently.", "words": [{ "w": "Had we known", "bn": "যদি আমরা জানতাম", "pos": "phrase" }, { "w": "regulations", "bn": "বিধিমালা", "pos": "noun", "base": "regulation" }, { "w": "rollout", "bn": "ধাপে ধাপে চালু করা", "pos": "noun" }, { "w": "differently", "bn": "ভিন্নভাবে", "pos": "adverb" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + hadn't + past participle, wouldn't have + past participle / wouldn't + verb.",
+          "tipBn": "hadn't, wouldn't have বা wouldn't দিয়ে অতীত বা বর্তমানের না-বোধক কাল্পনিক ফল বোঝানো হয়।",
+          "items": [
+            { "id": "01", "en": "If Tariq hadn't stayed late on Friday, we wouldn't have met the release deadline.", "words": [{ "w": "stayed late", "bn": "দেরি পর্যন্ত থাকতেন", "pos": "phrase", "base": "stay late" }, { "w": "release deadline", "bn": "রিলিজের সময়সীমা", "pos": "noun" }] },
+            { "id": "02", "en": "We wouldn't be so far behind schedule if the requirements hadn't changed so often.", "words": [{ "w": "behind schedule", "bn": "নির্ধারিত সময়ের পিছনে", "pos": "phrase" }, { "w": "requirements", "bn": "চাহিদা, প্রয়োজনীয়তা", "pos": "noun", "base": "requirement" }] },
+            { "id": "03", "en": "If Daniel had read the report carefully, he wouldn't have questioned our figures in front of the client.", "words": [{ "w": "carefully", "bn": "মনোযোগ দিয়ে", "pos": "adverb" }, { "w": "questioned", "bn": "প্রশ্ন তুলতেন", "pos": "verb", "base": "question" }, { "w": "figures", "bn": "হিসাব, সংখ্যা", "pos": "noun", "base": "figure" }] },
+            { "id": "04", "en": "The client wouldn't have renewed the contract if we hadn't fixed the outage so quickly.", "words": [{ "w": "renewed", "bn": "নবায়ন করত", "pos": "verb", "base": "renew" }, { "w": "outage", "bn": "সেবা বন্ধ থাকা, বিভ্রাট", "pos": "noun" }] },
+            { "id": "05", "en": "If I hadn't taken on that difficult project last year, I wouldn't be a senior manager today.", "words": [{ "w": "taken on", "bn": "দায়িত্ব নিতাম", "pos": "phrasal verb", "base": "take on" }, { "w": "senior", "bn": "জ্যেষ্ঠ, সিনিয়র", "pos": "adjective" }] },
+            { "id": "06", "en": "Nobody would have noticed the mistake if the client hadn't asked for a detailed breakdown.", "words": [{ "w": "noticed", "bn": "লক্ষ করত", "pos": "verb", "base": "notice" }, { "w": "breakdown", "bn": "খাতওয়ারি হিসাব", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + would + subject + have + past participle + if + had ...?",
+          "tipBn": "Wh-প্রশ্নের পরে would have + past participle এবং If + had + past participle দিয়ে অতীতের কাল্পনিক অবস্থা জানতে চাওয়া হয়।",
+          "items": [
+            { "id": "01", "en": "What would you have done differently if you had managed the first phase?", "words": [{ "w": "differently", "bn": "ভিন্নভাবে", "pos": "adverb" }, { "w": "managed", "bn": "পরিচালনা করতেন", "pos": "verb", "base": "manage" }] },
+            { "id": "02", "en": "How would the client have reacted if we had missed the second deadline too?", "words": [{ "w": "reacted", "bn": "প্রতিক্রিয়া দেখাত", "pos": "verb", "base": "react" }, { "w": "missed", "bn": "পার করে ফেলতাম", "pos": "verb", "base": "miss" }] },
+            { "id": "03", "en": "Where would we be now if we hadn't moved the servers to the cloud?", "words": [{ "w": "moved", "bn": "সরিয়ে নিতাম", "pos": "verb", "base": "move" }, { "w": "cloud", "bn": "অনলাইন সার্ভার, ক্লাউড", "pos": "noun" }] },
+            { "id": "04", "en": "Which vendor would you have chosen if cost hadn't been an issue?", "words": [{ "w": "vendor", "bn": "সরবরাহকারী", "pos": "noun" }, { "w": "chosen", "bn": "বেছে নিতেন", "pos": "verb", "base": "choose" }, { "w": "issue", "bn": "বিবেচ্য বিষয়", "pos": "noun" }] },
+            { "id": "05", "en": "Why would Mei have approved the extra spending if she had known about the audit?", "words": [{ "w": "spending", "bn": "খরচ", "pos": "noun" }, { "w": "audit", "bn": "নিরীক্ষা", "pos": "noun" }] },
+            { "id": "06", "en": "How much money would we have saved if we had negotiated a fixed price?", "words": [{ "w": "negotiated", "bn": "দর-কষাকষি করে ঠিক করতাম", "pos": "verb", "base": "negotiate" }, { "w": "fixed price", "bn": "নির্দিষ্ট দাম", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A reflective text with third and mixed conditional sentences.",
+          "tipBn": "অতীতের সিদ্ধান্ত নিয়ে ভাবতে third conditional, আর তার ফল এখন পর্যন্ত থাকলে mixed conditional ব্যবহার হয়।",
+          "items": [
+            { "id": "01", "title": "Lessons from the project review", "en": "In our project review, we asked ourselves one honest question: what would have happened if we had acted sooner? If we had flagged the database risk in March, the client would have agreed to a later launch. If Daniel had joined the planning sessions, he would have understood the local challenges. And if we had built a stronger testing process from the start, we would not be fixing so many bugs today.", "words": [{ "w": "review", "bn": "পর্যালোচনা", "pos": "noun" }, { "w": "acted sooner", "bn": "আরও আগে পদক্ষেপ নিতাম", "pos": "phrase", "base": "act sooner" }, { "w": "flagged", "bn": "আগেভাগে জানাতাম", "pos": "verb", "base": "flag" }, { "w": "challenges", "bn": "প্রতিবন্ধকতা", "pos": "noun", "base": "challenge" }, { "w": "from the start", "bn": "শুরু থেকেই", "pos": "phrase" }] },
+            { "id": "02", "title": "Thanks after the negotiation", "en": "Hi Mei, thanks for your support during the price negotiation. If you hadn't prepared those cost scenarios, we would have accepted a much lower offer. I also think we would have closed the deal faster if we had involved the legal team earlier. Had the client pushed harder, we might have lost the contract altogether. Let's discuss what we can learn from this next week.", "words": [{ "w": "scenarios", "bn": "সম্ভাব্য পরিস্থিতি", "pos": "noun", "base": "scenario" }, { "w": "closed the deal", "bn": "চুক্তি চূড়ান্ত করতাম", "pos": "phrase", "base": "close the deal" }, { "w": "involved", "bn": "যুক্ত করতাম", "pos": "verb", "base": "involve" }, { "w": "pushed harder", "bn": "আরও চাপ দিত", "pos": "phrase", "base": "push harder" }, { "w": "altogether", "bn": "পুরোপুরি", "pos": "adverb" }] },
+            { "id": "03", "title": "A performance review conversation", "en": "During her review, Ayesha talked openly with Tariq about the past year. If he had asked for help earlier, some deadlines would not have slipped. Still, she pointed out that the team would be in a much weaker position today if he had not mentored the junior developers. If he had not handled the server crisis so calmly, the client might have walked away. She recommended him for a promotion.", "words": [{ "w": "openly", "bn": "খোলাখুলি", "pos": "adverb" }, { "w": "slipped", "bn": "পিছিয়ে যেত", "pos": "verb", "base": "slip" }, { "w": "pointed out", "bn": "উল্লেখ করলেন", "pos": "phrasal verb", "base": "point out" }, { "w": "crisis", "bn": "সংকট", "pos": "noun" }, { "w": "walked away", "bn": "সরে যেত", "pos": "phrasal verb", "base": "walk away" }, { "w": "recommended", "bn": "সুপারিশ করলেন", "pos": "verb", "base": "recommend" }] }
+          ]
+        }
+      ]
+    }
+  ]
+}

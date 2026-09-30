@@ -1,0 +1,134 @@
+{
+  "levels": [
+    {
+      "id": "starter",
+      "title": "Starter",
+      "titleBn": "শুরু",
+      "cefr": "A1",
+      "targetReps": 5,
+      "description": "Very short sentences with everyday words. Each sentence is repeated 5 times.",
+      "descriptionBn": "খুব ছোট বাক্য, প্রতিদিনের শব্দ। প্রতিটি বাক্য ৫ বার বলতে হবে।"
+    },
+    {
+      "id": "elementary",
+      "title": "Elementary",
+      "titleBn": "প্রাথমিক",
+      "cefr": "A2",
+      "targetReps": 4,
+      "description": "Longer sentences, negative questions and plans for the future.",
+      "descriptionBn": "একটু বড় বাক্য, না-বোধক প্রশ্ন এবং ভবিষ্যতের পরিকল্পনা।"
+    },
+    {
+      "id": "intermediate",
+      "title": "Intermediate",
+      "titleBn": "মধ্যম",
+      "cefr": "B1",
+      "targetReps": 3,
+      "description": "Perfect tenses, modals, conditionals and short paragraphs.",
+      "descriptionBn": "পুরাঘটিত কাল, মোডাল, শর্তবাক্য এবং ছোট অনুচ্ছেদ।"
+    },
+    {
+      "id": "advanced",
+      "title": "Advanced",
+      "titleBn": "উচ্চতর",
+      "cefr": "B2–C1",
+      "targetReps": 3,
+      "description": "Complex structures, passive voice, indirect questions and longer paragraphs.",
+      "descriptionBn": "জটিল গঠন, কর্মবাচ্য, পরোক্ষ প্রশ্ন এবং বড় অনুচ্ছেদ।"
+    }
+  ],
+  "topics": [
+    {
+      "id": "weather",
+      "title": "Weather",
+      "titleBn": "আবহাওয়া",
+      "icon": "cloud-sun",
+      "description": "Heat, rain, cold, seasons and forecasts. Many ways to talk about the sky."
+    },
+    {
+      "id": "household-chores",
+      "title": "Household Chores",
+      "titleBn": "ঘরের কাজ",
+      "icon": "house",
+      "description": "Cleaning, washing, cooking and sharing work at home."
+    },
+    {
+      "id": "office",
+      "title": "Office",
+      "titleBn": "অফিস",
+      "icon": "briefcase",
+      "description": "Meetings, emails, deadlines and talking with your team."
+    },
+    {
+      "id": "daily-routine",
+      "title": "Daily Routine",
+      "titleBn": "দৈনন্দিন রুটিন",
+      "icon": "sunrise",
+      "description": "From waking up to going to bed. The language of every day."
+    },
+    {
+      "id": "food-cooking",
+      "title": "Food & Cooking",
+      "titleBn": "খাবার ও রান্না",
+      "icon": "chef-hat",
+      "description": "Meals, recipes, restaurants and taste."
+    },
+    {
+      "id": "shopping",
+      "title": "Shopping",
+      "titleBn": "কেনাকাটা",
+      "icon": "shopping-bag",
+      "description": "Markets, prices, sizes, returns and online orders."
+    }
+  ],
+  "grammar": {
+    "present-simple": { "title": "Present Simple", "titleBn": "সাধারণ বর্তমান কাল" },
+    "present-continuous": { "title": "Present Continuous", "titleBn": "ঘটমান বর্তমান কাল" },
+    "present-perfect": { "title": "Present Perfect", "titleBn": "পুরাঘটিত বর্তমান কাল" },
+    "present-perfect-continuous": { "title": "Present Perfect Continuous", "titleBn": "পুরাঘটিত ঘটমান বর্তমান কাল" },
+    "past-simple": { "title": "Past Simple", "titleBn": "সাধারণ অতীত কাল" },
+    "past-continuous": { "title": "Past Continuous", "titleBn": "ঘটমান অতীত কাল" },
+    "past-perfect": { "title": "Past Perfect", "titleBn": "পুরাঘটিত অতীত কাল" },
+    "future-will": { "title": "Future with “will”", "titleBn": "সাধারণ ভবিষ্যৎ কাল (will)" },
+    "future-going-to": { "title": "Future with “going to”", "titleBn": "পরিকল্পিত ভবিষ্যৎ (going to)" },
+    "modals": { "title": "Modal Verbs", "titleBn": "মোডাল ক্রিয়া (should, must, might...)" },
+    "conditionals": { "title": "Conditionals", "titleBn": "শর্তসাপেক্ষ বাক্য (If...)" },
+    "passive": { "title": "Passive Voice", "titleBn": "কর্মবাচ্য" }
+  },
+  "sessionTypes": {
+    "affirmative": { "title": "Positive statements", "short": "Positive", "titleBn": "হ্যাঁ-বোধক বাক্য" },
+    "negative": { "title": "Negative statements", "short": "Negative", "titleBn": "না-বোধক বাক্য" },
+    "yes-no-question": { "title": "Yes / No questions", "short": "Yes/No ?", "titleBn": "হ্যাঁ/না প্রশ্ন" },
+    "negative-question": { "title": "Negative questions", "short": "Negative ?", "titleBn": "না-বোধক প্রশ্ন" },
+    "wh-question": { "title": "Wh- questions", "short": "Wh- ?", "titleBn": "Wh- প্রশ্ন (কী, কেন, কখন, কোথায়)" },
+    "tag-question": { "title": "Tag questions", "short": "Tag ?", "titleBn": "ট্যাগ প্রশ্ন (..., isn't it?)" },
+    "indirect-question": { "title": "Polite & indirect questions", "short": "Polite ?", "titleBn": "ভদ্র ও পরোক্ষ প্রশ্ন" },
+    "paragraph": { "title": "Short paragraphs", "short": "Paragraph", "titleBn": "ছোট অনুচ্ছেদ" }
+  },
+  "blueprint": {
+    "starter": [
+      { "grammar": "present-simple", "sessions": { "affirmative": 8, "negative": 6, "yes-no-question": 6, "wh-question": 6 } },
+      { "grammar": "present-continuous", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "wh-question": 6 } },
+      { "grammar": "past-simple", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "wh-question": 6 } },
+      { "grammar": "future-will", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "wh-question": 6 } }
+    ],
+    "elementary": [
+      { "grammar": "present-simple", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "negative-question": 6, "wh-question": 6 } },
+      { "grammar": "present-continuous", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "wh-question": 6 } },
+      { "grammar": "past-simple", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "negative-question": 6, "wh-question": 6 } },
+      { "grammar": "future-going-to", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "wh-question": 6 } }
+    ],
+    "intermediate": [
+      { "grammar": "present-perfect", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "wh-question": 6, "paragraph": 3 } },
+      { "grammar": "past-continuous", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "wh-question": 6, "paragraph": 3 } },
+      { "grammar": "modals", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "tag-question": 6, "paragraph": 3 } },
+      { "grammar": "conditionals", "sessions": { "affirmative": 6, "negative": 6, "wh-question": 6, "paragraph": 3 } }
+    ],
+    "advanced": [
+      { "grammar": "present-perfect-continuous", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "wh-question": 6, "paragraph": 3 } },
+      { "grammar": "past-perfect", "sessions": { "affirmative": 6, "negative": 6, "negative-question": 6, "wh-question": 6, "paragraph": 3 } },
+      { "grammar": "passive", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "indirect-question": 6, "paragraph": 3 } },
+      { "grammar": "conditionals", "sessions": { "affirmative": 6, "negative": 6, "wh-question": 6, "paragraph": 3 } }
+    ]
+  }
+}

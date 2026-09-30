@@ -1,0 +1,247 @@
+{
+  "topic": "weather",
+  "level": "starter",
+  "title": "Nila's Weather Diary",
+  "story": "Nila is ten years old and lives in Dhaka with her mom and her little brother Rafi. Every day she looks at the sky and writes about the weather in her diary. In winter, the family visits Grandma in Sylhet.",
+  "storyBn": "নীলার বয়স দশ বছর। সে মা আর ছোট ভাই রাফির সাথে ঢাকায় থাকে। প্রতিদিন সে আকাশের দিকে তাকায় আর ডায়েরিতে আবহাওয়ার কথা লেখে। শীতকালে পরিবারটি সিলেটে দাদির কাছে বেড়াতে যায়।",
+  "units": [
+    {
+      "grammar": "present-simple",
+      "focus": "Talk about a hot summer day",
+      "focusBn": "গরমের দিনের আবহাওয়া নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "It + is + adjective. / Subject + verb(s) + ...",
+          "tipBn": "আবহাওয়া বলতে It is ব্যবহার হয়; he, she বা it এর পরে verb-এর সাথে s যোগ হয়।",
+          "items": [
+            { "id": "01", "en": "It is hot today.", "words": [{ "w": "hot", "bn": "গরম", "pos": "adjective" }] },
+            { "id": "02", "en": "It is 35 degrees today.", "words": [{ "w": "degrees", "bn": "ডিগ্রি", "pos": "noun", "base": "degree" }] },
+            { "id": "03", "en": "The sun is very strong.", "words": [{ "w": "sun", "bn": "সূর্য, রোদ", "pos": "noun" }, { "w": "strong", "bn": "প্রখর, কড়া", "pos": "adjective" }] },
+            { "id": "04", "en": "It is very humid in Dhaka.", "words": [{ "w": "humid", "bn": "আর্দ্র, ভ্যাপসা", "pos": "adjective" }] },
+            { "id": "05", "en": "Nila wears a cap in the sun.", "words": [{ "w": "wears", "bn": "পরে", "pos": "verb", "base": "wear" }, { "w": "cap", "bn": "টুপি", "pos": "noun" }] },
+            { "id": "06", "en": "Rafi drinks a lot of water.", "words": [{ "w": "a lot of", "bn": "অনেক", "pos": "phrase" }] },
+            { "id": "07", "en": "Mom carries an umbrella every day.", "words": [{ "w": "carries", "bn": "সাথে রাখে", "pos": "verb", "base": "carry" }, { "w": "umbrella", "bn": "ছাতা", "pos": "noun" }] },
+            { "id": "08", "en": "We sweat a lot in summer.", "words": [{ "w": "sweat", "bn": "ঘামি", "pos": "verb" }, { "w": "summer", "bn": "গ্রীষ্মকাল", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "It + is not + adjective. / Subject + don't/doesn't + verb.",
+          "tipBn": "is এর পরে not বসে; অন্য verb-এর আগে don't বা doesn't বসে।",
+          "items": [
+            { "id": "01", "en": "It is not cold today.", "words": [{ "w": "cold", "bn": "ঠান্ডা", "pos": "adjective" }] },
+            { "id": "02", "en": "There is no wind today.", "words": [{ "w": "wind", "bn": "বাতাস", "pos": "noun" }] },
+            { "id": "03", "en": "Nila doesn't wear a jacket in summer.", "words": [{ "w": "doesn't wear", "bn": "পরে না", "pos": "phrase" }, { "w": "jacket", "bn": "জ্যাকেট", "pos": "noun" }] },
+            { "id": "04", "en": "Mom doesn't forget her umbrella.", "words": [{ "w": "forget", "bn": "ভুলে যাওয়া", "pos": "verb" }] },
+            { "id": "05", "en": "We don't go out at noon.", "words": [{ "w": "go out", "bn": "বাইরে যাওয়া", "pos": "phrasal verb" }, { "w": "noon", "bn": "দুপুর", "pos": "noun" }] },
+            { "id": "06", "en": "The fan never stops in summer.", "words": [{ "w": "fan", "bn": "পাখা", "pos": "noun" }, { "w": "never", "bn": "কখনো না", "pos": "adverb" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Is + it + adjective? / Do/Does + subject + verb?",
+          "tipBn": "প্রশ্ন করতে Is অথবা Do/Does বাক্যের শুরুতে বসে।",
+          "items": [
+            { "id": "01", "en": "Is it hot today?", "words": [{ "w": "hot", "bn": "গরম", "pos": "adjective" }] },
+            { "id": "02", "en": "Is it 35 degrees outside?", "words": [{ "w": "outside", "bn": "বাইরে", "pos": "adverb" }] },
+            { "id": "03", "en": "Is it humid in Sylhet too?", "words": [{ "w": "humid", "bn": "আর্দ্র, ভ্যাপসা", "pos": "adjective" }, { "w": "too", "bn": "ও, একইভাবে", "pos": "adverb" }] },
+            { "id": "04", "en": "Does Nila wear a cap?", "words": [{ "w": "wear", "bn": "পরা", "pos": "verb" }, { "w": "cap", "bn": "টুপি", "pos": "noun" }] },
+            { "id": "05", "en": "Do you like hot weather?", "words": [{ "w": "like", "bn": "পছন্দ করা", "pos": "verb" }, { "w": "weather", "bn": "আবহাওয়া", "pos": "noun" }] },
+            { "id": "06", "en": "Does it rain a lot in Sylhet?", "words": [{ "w": "rain", "bn": "বৃষ্টি হওয়া", "pos": "verb" }, { "w": "a lot", "bn": "অনেক", "pos": "phrase" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + is/do/does + subject ...?",
+          "tipBn": "What, How, Why ইত্যাদি প্রশ্নশব্দ শুরুতে বসে, তারপর is বা do/does।",
+          "items": [
+            { "id": "01", "en": "What is the weather like today?", "words": [{ "w": "weather", "bn": "আবহাওয়া", "pos": "noun" }, { "w": "like", "bn": "কেমন", "pos": "preposition" }] },
+            { "id": "02", "en": "How hot is it today?", "words": [{ "w": "How hot", "bn": "কতটা গরম", "pos": "phrase" }] },
+            { "id": "03", "en": "What is the temperature now?", "words": [{ "w": "temperature", "bn": "তাপমাত্রা", "pos": "noun" }] },
+            { "id": "04", "en": "Why does Rafi drink so much water?", "words": [{ "w": "so much", "bn": "এত বেশি", "pos": "phrase" }] },
+            { "id": "05", "en": "When does the monsoon start?", "words": [{ "w": "monsoon", "bn": "বর্ষাকাল", "pos": "noun" }, { "w": "start", "bn": "শুরু হওয়া", "pos": "verb" }] },
+            { "id": "06", "en": "What does Mom carry every day?", "words": [{ "w": "carry", "bn": "সাথে রাখা", "pos": "verb" }, { "w": "every day", "bn": "প্রতিদিন", "pos": "phrase" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "present-continuous",
+      "focus": "Say what is happening during a storm",
+      "focusBn": "ঝড়ের সময় এখন কী ঘটছে তা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + verb-ing.",
+          "tipBn": "এই মুহূর্তে যা ঘটছে তা বলতে am/is/are এর পরে verb-এর সাথে ing যোগ হয়।",
+          "items": [
+            { "id": "01", "en": "It is raining now.", "words": [{ "w": "raining", "bn": "বৃষ্টি হচ্ছে", "pos": "verb", "base": "rain" }] },
+            { "id": "02", "en": "The wind is blowing hard.", "words": [{ "w": "blowing", "bn": "বইছে", "pos": "verb", "base": "blow" }, { "w": "hard", "bn": "জোরে", "pos": "adverb" }] },
+            { "id": "03", "en": "Dark clouds are coming.", "words": [{ "w": "dark", "bn": "কালো, অন্ধকার", "pos": "adjective" }, { "w": "clouds", "bn": "মেঘ", "pos": "noun", "base": "cloud" }] },
+            { "id": "04", "en": "Rafi is closing the windows.", "words": [{ "w": "closing", "bn": "বন্ধ করছে", "pos": "verb", "base": "close" }, { "w": "windows", "bn": "জানালা", "pos": "noun", "base": "window" }] },
+            { "id": "05", "en": "Mom is bringing in the clothes.", "words": [{ "w": "bringing in", "bn": "ভেতরে আনছে", "pos": "phrasal verb", "base": "bring in" }, { "w": "clothes", "bn": "কাপড়", "pos": "noun" }] },
+            { "id": "06", "en": "Nila is watching the rain.", "words": [{ "w": "watching", "bn": "দেখছে", "pos": "verb", "base": "watch" }, { "w": "rain", "bn": "বৃষ্টি", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + verb-ing.",
+          "tipBn": "am/is/are এর পরে not বসিয়ে না-বোধক বাক্য হয়।",
+          "items": [
+            { "id": "01", "en": "It is not raining very hard.", "words": [{ "w": "raining", "bn": "বৃষ্টি হচ্ছে", "pos": "verb", "base": "rain" }, { "w": "hard", "bn": "জোরে", "pos": "adverb" }] },
+            { "id": "02", "en": "The sun isn't shining now.", "words": [{ "w": "shining", "bn": "আলো দিচ্ছে", "pos": "verb", "base": "shine" }] },
+            { "id": "03", "en": "Rafi isn't playing outside.", "words": [{ "w": "playing", "bn": "খেলছে", "pos": "verb", "base": "play" }, { "w": "outside", "bn": "বাইরে", "pos": "adverb" }] },
+            { "id": "04", "en": "Nila isn't watching TV now.", "words": [{ "w": "watching", "bn": "দেখছে", "pos": "verb", "base": "watch" }] },
+            { "id": "05", "en": "The clothes aren't drying today.", "words": [{ "w": "drying", "bn": "শুকাচ্ছে", "pos": "verb", "base": "dry" }] },
+            { "id": "06", "en": "The fan isn't working now.", "words": [{ "w": "fan", "bn": "পাখা", "pos": "noun" }, { "w": "working", "bn": "চলছে", "pos": "verb", "base": "work" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + verb-ing?",
+          "tipBn": "প্রশ্ন করতে am/is/are বাক্যের শুরুতে বসে।",
+          "items": [
+            { "id": "01", "en": "Is it raining now?", "words": [{ "w": "raining", "bn": "বৃষ্টি হচ্ছে", "pos": "verb", "base": "rain" }] },
+            { "id": "02", "en": "Is the wind blowing hard?", "words": [{ "w": "wind", "bn": "বাতাস", "pos": "noun" }, { "w": "blowing", "bn": "বইছে", "pos": "verb", "base": "blow" }] },
+            { "id": "03", "en": "Are the clouds getting darker?", "words": [{ "w": "getting darker", "bn": "আরও কালো হচ্ছে", "pos": "phrase" }] },
+            { "id": "04", "en": "Is Rafi closing the windows?", "words": [{ "w": "closing", "bn": "বন্ধ করছে", "pos": "verb", "base": "close" }] },
+            { "id": "05", "en": "Is it thundering outside?", "words": [{ "w": "thundering", "bn": "মেঘ ডাকছে", "pos": "verb", "base": "thunder" }] },
+            { "id": "06", "en": "Are you getting wet?", "words": [{ "w": "getting wet", "bn": "ভিজে যাচ্ছ", "pos": "phrase" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + verb-ing?",
+          "tipBn": "প্রশ্নশব্দের পরে am/is/are, তারপর subject ও verb-ing বসে।",
+          "items": [
+            { "id": "01", "en": "What is Nila watching?", "words": [{ "w": "watching", "bn": "দেখছে", "pos": "verb", "base": "watch" }] },
+            { "id": "02", "en": "Why is Rafi closing the windows?", "words": [{ "w": "closing", "bn": "বন্ধ করছে", "pos": "verb", "base": "close" }, { "w": "windows", "bn": "জানালা", "pos": "noun", "base": "window" }] },
+            { "id": "03", "en": "Where is Mom putting the clothes?", "words": [{ "w": "putting", "bn": "রাখছে", "pos": "verb", "base": "put" }] },
+            { "id": "04", "en": "How hard is it raining?", "words": [{ "w": "How hard", "bn": "কত জোরে", "pos": "phrase" }] },
+            { "id": "05", "en": "Which way is the wind blowing?", "words": [{ "w": "Which way", "bn": "কোন দিকে", "pos": "phrase" }, { "w": "blowing", "bn": "বইছে", "pos": "verb", "base": "blow" }] },
+            { "id": "06", "en": "What is happening outside?", "words": [{ "w": "happening", "bn": "ঘটছে", "pos": "verb", "base": "happen" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-simple",
+      "focus": "Talk about last night's storm",
+      "focusBn": "গত রাতের ঝড় নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb (past) + ... (yesterday / last night).",
+          "tipBn": "অতীতের কথা বলতে verb-এর past রূপ বসে, যেমন rain থেকে rained, go থেকে went।",
+          "items": [
+            { "id": "01", "en": "It rained a lot yesterday.", "words": [{ "w": "rained", "bn": "বৃষ্টি হয়েছিল", "pos": "verb", "base": "rain" }] },
+            { "id": "02", "en": "There was a big storm last night.", "words": [{ "w": "storm", "bn": "ঝড়", "pos": "noun" }, { "w": "last night", "bn": "গত রাতে", "pos": "phrase" }] },
+            { "id": "03", "en": "The wind broke a branch.", "words": [{ "w": "broke", "bn": "ভেঙে ফেলেছিল", "pos": "verb", "base": "break" }, { "w": "branch", "bn": "গাছের ডাল", "pos": "noun" }] },
+            { "id": "04", "en": "The power went out at eight.", "words": [{ "w": "power", "bn": "বিদ্যুৎ", "pos": "noun" }, { "w": "went out", "bn": "চলে গিয়েছিল", "pos": "phrasal verb", "base": "go out" }] },
+            { "id": "05", "en": "We stayed inside all evening.", "words": [{ "w": "stayed", "bn": "ছিলাম", "pos": "verb", "base": "stay" }, { "w": "inside", "bn": "ঘরের ভেতরে", "pos": "adverb" }] },
+            { "id": "06", "en": "Rafi was scared of the thunder.", "words": [{ "w": "scared", "bn": "ভীত", "pos": "adjective" }, { "w": "thunder", "bn": "বাজের শব্দ", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + didn't + verb (base). / was/were + not + ...",
+          "tipBn": "didn't এর পরে verb-এর মূল রূপ বসে; was/were এর পরে not বসে।",
+          "items": [
+            { "id": "01", "en": "It didn't rain in the morning.", "words": [{ "w": "rain", "bn": "বৃষ্টি হওয়া", "pos": "verb" }, { "w": "morning", "bn": "সকাল", "pos": "noun" }] },
+            { "id": "02", "en": "The storm wasn't very long.", "words": [{ "w": "storm", "bn": "ঝড়", "pos": "noun" }, { "w": "long", "bn": "দীর্ঘ", "pos": "adjective" }] },
+            { "id": "03", "en": "We didn't go outside.", "words": [{ "w": "go outside", "bn": "বাইরে যাওয়া", "pos": "phrase" }] },
+            { "id": "04", "en": "Nila didn't sleep well.", "words": [{ "w": "sleep well", "bn": "ভালো ঘুমানো", "pos": "phrase" }] },
+            { "id": "05", "en": "Rafi didn't like the loud thunder.", "words": [{ "w": "loud", "bn": "জোরালো", "pos": "adjective" }, { "w": "thunder", "bn": "বাজের শব্দ", "pos": "noun" }] },
+            { "id": "06", "en": "Mom didn't go to work.", "words": [{ "w": "work", "bn": "কাজ, অফিস", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Did + subject + verb (base)? / Was/Were + subject ...?",
+          "tipBn": "Did দিয়ে প্রশ্ন শুরু হলে verb মূল রূপে থাকে।",
+          "items": [
+            { "id": "01", "en": "Did it rain a lot yesterday?", "words": [{ "w": "a lot", "bn": "অনেক", "pos": "phrase" }, { "w": "yesterday", "bn": "গতকাল", "pos": "adverb" }] },
+            { "id": "02", "en": "Was there a storm last night?", "words": [{ "w": "storm", "bn": "ঝড়", "pos": "noun" }, { "w": "last night", "bn": "গত রাতে", "pos": "phrase" }] },
+            { "id": "03", "en": "Did the wind break the window?", "words": [{ "w": "break", "bn": "ভাঙা", "pos": "verb" }, { "w": "window", "bn": "জানালা", "pos": "noun" }] },
+            { "id": "04", "en": "Did the power go out?", "words": [{ "w": "power", "bn": "বিদ্যুৎ", "pos": "noun" }, { "w": "go out", "bn": "চলে যাওয়া", "pos": "phrasal verb" }] },
+            { "id": "05", "en": "Were you afraid of the thunder?", "words": [{ "w": "afraid", "bn": "ভীত", "pos": "adjective" }] },
+            { "id": "06", "en": "Did the streets flood?", "words": [{ "w": "streets", "bn": "রাস্তা", "pos": "noun", "base": "street" }, { "w": "flood", "bn": "পানিতে ডুবে যাওয়া", "pos": "verb" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + did + subject + verb (base)?",
+          "tipBn": "প্রশ্নশব্দের পরে did বসে এবং verb মূল রূপে থাকে।",
+          "items": [
+            { "id": "01", "en": "When did the storm start?", "words": [{ "w": "storm", "bn": "ঝড়", "pos": "noun" }, { "w": "start", "bn": "শুরু হওয়া", "pos": "verb" }] },
+            { "id": "02", "en": "How long did the rain last?", "words": [{ "w": "How long", "bn": "কতক্ষণ", "pos": "phrase" }, { "w": "last", "bn": "স্থায়ী হওয়া", "pos": "verb" }] },
+            { "id": "03", "en": "What did the wind break?", "words": [{ "w": "wind", "bn": "বাতাস", "pos": "noun" }, { "w": "break", "bn": "ভাঙা", "pos": "verb" }] },
+            { "id": "04", "en": "Why did the power go out?", "words": [{ "w": "go out", "bn": "চলে যাওয়া", "pos": "phrasal verb" }] },
+            { "id": "05", "en": "What did you do in the dark?", "words": [{ "w": "dark", "bn": "অন্ধকার", "pos": "noun" }] },
+            { "id": "06", "en": "How did Mom get home?", "words": [{ "w": "get home", "bn": "বাড়ি পৌঁছানো", "pos": "phrase" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "future-will",
+      "focus": "Talk about a winter trip to Sylhet",
+      "focusBn": "শীতে সিলেট ভ্রমণ নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + will + verb (base).",
+          "tipBn": "ভবিষ্যতের কথা বলতে will এর পরে verb-এর মূল রূপ বসে।",
+          "items": [
+            { "id": "01", "en": "It will be cold in Sylhet.", "words": [{ "w": "cold", "bn": "ঠান্ডা", "pos": "adjective" }] },
+            { "id": "02", "en": "It will be foggy in the morning.", "words": [{ "w": "foggy", "bn": "কুয়াশাচ্ছন্ন", "pos": "adjective" }] },
+            { "id": "03", "en": "Nila will take a warm jacket.", "words": [{ "w": "take", "bn": "সাথে নেওয়া", "pos": "verb" }, { "w": "warm", "bn": "গরম, উষ্ণ", "pos": "adjective" }] },
+            { "id": "04", "en": "Grandma will make hot tea for us.", "words": [{ "w": "Grandma", "bn": "দাদি", "pos": "noun" }, { "w": "make", "bn": "বানানো", "pos": "verb" }] },
+            { "id": "05", "en": "The temperature will drop at night.", "words": [{ "w": "temperature", "bn": "তাপমাত্রা", "pos": "noun" }, { "w": "drop", "bn": "কমে যাওয়া", "pos": "verb" }] },
+            { "id": "06", "en": "Rafi will wear a woolen hat.", "words": [{ "w": "woolen", "bn": "উলের, পশমি", "pos": "adjective" }, { "w": "hat", "bn": "টুপি", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + will not (won't) + verb (base).",
+          "tipBn": "will এর পরে not বসে; will not এর ছোট রূপ won't।",
+          "items": [
+            { "id": "01", "en": "It won't be hot in Sylhet.", "words": [{ "w": "hot", "bn": "গরম", "pos": "adjective" }] },
+            { "id": "02", "en": "The fog won't clear early.", "words": [{ "w": "fog", "bn": "কুয়াশা", "pos": "noun" }, { "w": "clear", "bn": "কেটে যাওয়া", "pos": "verb" }] },
+            { "id": "03", "en": "Nila won't forget her jacket.", "words": [{ "w": "forget", "bn": "ভুলে যাওয়া", "pos": "verb" }] },
+            { "id": "04", "en": "It will not rain this week.", "words": [{ "w": "rain", "bn": "বৃষ্টি হওয়া", "pos": "verb" }, { "w": "this week", "bn": "এই সপ্তাহে", "pos": "phrase" }] },
+            { "id": "05", "en": "We won't need the fan.", "words": [{ "w": "need", "bn": "দরকার হওয়া", "pos": "verb" }, { "w": "fan", "bn": "পাখা", "pos": "noun" }] },
+            { "id": "06", "en": "Rafi won't take a cold bath.", "words": [{ "w": "cold bath", "bn": "ঠান্ডা পানিতে গোসল", "pos": "phrase" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Will + subject + verb (base)?",
+          "tipBn": "প্রশ্ন করতে Will বাক্যের শুরুতে বসে।",
+          "items": [
+            { "id": "01", "en": "Will it be cold in Sylhet?", "words": [{ "w": "cold", "bn": "ঠান্ডা", "pos": "adjective" }] },
+            { "id": "02", "en": "Will it be foggy tomorrow?", "words": [{ "w": "foggy", "bn": "কুয়াশাচ্ছন্ন", "pos": "adjective" }, { "w": "tomorrow", "bn": "আগামীকাল", "pos": "adverb" }] },
+            { "id": "03", "en": "Will Grandma make hot tea?", "words": [{ "w": "Grandma", "bn": "দাদি", "pos": "noun" }, { "w": "make", "bn": "বানানো", "pos": "verb" }] },
+            { "id": "04", "en": "Will the train be late?", "words": [{ "w": "late", "bn": "দেরি", "pos": "adjective" }] },
+            { "id": "05", "en": "Will it snow in Sylhet?", "words": [{ "w": "snow", "bn": "তুষারপাত হওয়া", "pos": "verb" }] },
+            { "id": "06", "en": "Will you need gloves?", "words": [{ "w": "need", "bn": "দরকার হওয়া", "pos": "verb" }, { "w": "gloves", "bn": "হাতমোজা", "pos": "noun", "base": "glove" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + will + subject + verb (base)?",
+          "tipBn": "প্রশ্নশব্দের পরে will বসে, তারপর subject ও verb-এর মূল রূপ।",
+          "items": [
+            { "id": "01", "en": "What will the weather be like tomorrow?", "words": [{ "w": "weather", "bn": "আবহাওয়া", "pos": "noun" }, { "w": "like", "bn": "কেমন", "pos": "preposition" }] },
+            { "id": "02", "en": "How cold will it be tonight?", "words": [{ "w": "How cold", "bn": "কতটা ঠান্ডা", "pos": "phrase" }, { "w": "tonight", "bn": "আজ রাতে", "pos": "adverb" }] },
+            { "id": "03", "en": "When will the fog clear?", "words": [{ "w": "fog", "bn": "কুয়াশা", "pos": "noun" }, { "w": "clear", "bn": "কেটে যাওয়া", "pos": "verb" }] },
+            { "id": "04", "en": "What will Nila take to Sylhet?", "words": [{ "w": "take", "bn": "সাথে নেওয়া", "pos": "verb" }] },
+            { "id": "05", "en": "Where will the family stay?", "words": [{ "w": "family", "bn": "পরিবার", "pos": "noun" }, { "w": "stay", "bn": "থাকা", "pos": "verb" }] },
+            { "id": "06", "en": "How long will the cold last?", "words": [{ "w": "How long", "bn": "কতদিন", "pos": "phrase" }, { "w": "last", "bn": "স্থায়ী হওয়া", "pos": "verb" }] }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "topic": "weather",
+  "level": "intermediate",
+  "title": "The Weather Desk",
+  "story": "Farhana presents the weather on a TV channel in Dhaka. She works closely with Imran, a forecaster at the weather office. Every day they speak to viewers across Bangladesh, from rice farmers in Rajshahi to fishermen in Cox's Bazar.",
+  "storyBn": "ফারহানা ঢাকার একটি টিভি চ্যানেলে আবহাওয়ার খবর উপস্থাপন করেন। তিনি আবহাওয়া অফিসের পূর্বাভাসদাতা ইমরানের সাথে একসাথে কাজ করেন। প্রতিদিন তারা সারা দেশের দর্শকদের কাছে পৌঁছান, রাজশাহীর ধানচাষি থেকে কক্সবাজারের জেলে পর্যন্ত।",
+  "units": [
+    {
+      "grammar": "present-perfect",
+      "focus": "Report recent weather news",
+      "focusBn": "সাম্প্রতিক আবহাওয়ার খবর জানানো",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + has/have + past participle (+ just / already / for / since).",
+          "tipBn": "সদ্য ঘটে যাওয়া ঘটনা বা অভিজ্ঞতা বোঝাতে has/have + past participle ব্যবহার হয়।",
+          "items": [
+            { "id": "01", "en": "The temperature in Rajshahi has just reached 41 degrees.", "words": [{ "w": "just", "bn": "এইমাত্র", "pos": "adverb" }, { "w": "reached", "bn": "পৌঁছেছে", "pos": "verb", "base": "reach" }] },
+            { "id": "02", "en": "Imran has studied cyclones for more than fifteen years.", "words": [{ "w": "studied", "bn": "গবেষণা করেছেন", "pos": "verb", "base": "study" }, { "w": "cyclones", "bn": "ঘূর্ণিঝড়", "pos": "noun", "base": "cyclone" }] },
+            { "id": "03", "en": "Heavy rain has already flooded several roads in Chattogram.", "words": [{ "w": "already", "bn": "ইতিমধ্যে", "pos": "adverb" }, { "w": "flooded", "bn": "প্লাবিত করেছে", "pos": "verb", "base": "flood" }, { "w": "several", "bn": "কয়েকটি", "pos": "adjective" }] },
+            { "id": "04", "en": "Farhana has presented the evening weather report since 2019.", "words": [{ "w": "presented", "bn": "উপস্থাপন করেছেন", "pos": "verb", "base": "present" }, { "w": "report", "bn": "প্রতিবেদন", "pos": "noun" }] },
+            { "id": "05", "en": "The weather office has issued a heat warning for three districts.", "words": [{ "w": "issued", "bn": "জারি করেছে", "pos": "verb", "base": "issue" }, { "w": "heat warning", "bn": "তাপপ্রবাহ সতর্কতা", "pos": "phrase" }, { "w": "districts", "bn": "জেলা", "pos": "noun", "base": "district" }] },
+            { "id": "06", "en": "Many viewers have sent photos of dry, cracked fields.", "words": [{ "w": "viewers", "bn": "দর্শক", "pos": "noun", "base": "viewer" }, { "w": "cracked", "bn": "ফেটে যাওয়া", "pos": "adjective" }, { "w": "fields", "bn": "খেত, মাঠ", "pos": "noun", "base": "field" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + has/have + not (never) + past participle (+ yet).",
+          "tipBn": "has/have এর পরে not বা never বসে; yet সাধারণত বাক্যের শেষে বসে।",
+          "items": [
+            { "id": "01", "en": "It hasn't rained in Rajshahi for over a month.", "words": [{ "w": "rained", "bn": "বৃষ্টি হয়েছে", "pos": "verb", "base": "rain" }, { "w": "for over a month", "bn": "এক মাসেরও বেশি সময় ধরে", "pos": "phrase" }] },
+            { "id": "02", "en": "The monsoon hasn't reached the southern coast yet.", "words": [{ "w": "southern", "bn": "দক্ষিণের", "pos": "adjective" }, { "w": "coast", "bn": "উপকূল", "pos": "noun" }, { "w": "yet", "bn": "এখনো", "pos": "adverb" }] },
+            { "id": "03", "en": "Farhana has never seen such a long heatwave in April.", "words": [{ "w": "such", "bn": "এমন", "pos": "adjective" }, { "w": "heatwave", "bn": "তাপপ্রবাহ", "pos": "noun" }] },
+            { "id": "04", "en": "The weather office hasn't lifted the heat warning.", "words": [{ "w": "lifted", "bn": "প্রত্যাহার করেছে", "pos": "verb", "base": "lift" }, { "w": "heat warning", "bn": "তাপপ্রবাহ সতর্কতা", "pos": "phrase" }] },
+            { "id": "05", "en": "Imran hasn't had a day off since the heatwave began.", "words": [{ "w": "day off", "bn": "ছুটির দিন", "pos": "phrase" }, { "w": "began", "bn": "শুরু হয়েছিল", "pos": "verb", "base": "begin" }] },
+            { "id": "06", "en": "The farmers haven't been able to plant their rice.", "words": [{ "w": "been able to", "bn": "পেরেছে, সক্ষম হয়েছে", "pos": "phrase" }, { "w": "plant", "bn": "রোপণ করা", "pos": "verb" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Has/Have + subject + (ever) + past participle ...?",
+          "tipBn": "Has/Have বাক্যের শুরুতে বসে; অভিজ্ঞতা জানতে ever ব্যবহার হয়।",
+          "items": [
+            { "id": "01", "en": "Have you ever experienced a temperature of 40 degrees?", "words": [{ "w": "ever", "bn": "কখনো", "pos": "adverb" }, { "w": "experienced", "bn": "অভিজ্ঞতা হয়েছে", "pos": "verb", "base": "experience" }] },
+            { "id": "02", "en": "Has the weather office extended the heat warning?", "words": [{ "w": "extended", "bn": "মেয়াদ বাড়িয়েছে", "pos": "verb", "base": "extend" }, { "w": "heat warning", "bn": "তাপপ্রবাহ সতর্কতা", "pos": "phrase" }] },
+            { "id": "03", "en": "Has it rained anywhere in the north this week?", "words": [{ "w": "anywhere", "bn": "কোথাও", "pos": "adverb" }, { "w": "north", "bn": "উত্তরাঞ্চল", "pos": "noun" }] },
+            { "id": "04", "en": "Have the schools in Dhaka closed because of the heat?", "words": [{ "w": "because of", "bn": "কারণে", "pos": "phrase" }, { "w": "heat", "bn": "গরম, তাপ", "pos": "noun" }] },
+            { "id": "05", "en": "Has Imran ever tracked a cyclone at sea?", "words": [{ "w": "tracked", "bn": "গতিপথ পর্যবেক্ষণ করেছেন", "pos": "verb", "base": "track" }, { "w": "at sea", "bn": "সাগরে", "pos": "phrase" }] },
+            { "id": "06", "en": "Have you drunk enough water since this morning?", "words": [{ "w": "drunk", "bn": "পান করেছ", "pos": "verb", "base": "drink" }, { "w": "enough", "bn": "যথেষ্ট", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + has/have + subject + past participle ...?",
+          "tipBn": "প্রশ্নশব্দের পরে has/have, তারপর subject ও past participle বসে।",
+          "items": [
+            { "id": "01", "en": "How long has the heatwave lasted so far?", "words": [{ "w": "lasted", "bn": "স্থায়ী হয়েছে", "pos": "verb", "base": "last" }, { "w": "so far", "bn": "এ পর্যন্ত", "pos": "phrase" }] },
+            { "id": "02", "en": "What advice has the weather office given to farmers?", "words": [{ "w": "advice", "bn": "পরামর্শ", "pos": "noun" }, { "w": "given", "bn": "দিয়েছে", "pos": "verb", "base": "give" }] },
+            { "id": "03", "en": "Which districts have recorded the highest temperatures this week?", "words": [{ "w": "recorded", "bn": "রেকর্ড করেছে", "pos": "verb", "base": "record" }, { "w": "highest", "bn": "সর্বোচ্চ", "pos": "adjective" }] },
+            { "id": "04", "en": "Why has the monsoon arrived so late this year?", "words": [{ "w": "arrived", "bn": "এসেছে", "pos": "verb", "base": "arrive" }, { "w": "so late", "bn": "এত দেরিতে", "pos": "phrase" }] },
+            { "id": "05", "en": "How many patients have come to hospitals with heatstroke?", "words": [{ "w": "patients", "bn": "রোগী", "pos": "noun", "base": "patient" }, { "w": "heatstroke", "bn": "হিটস্ট্রোক, সর্দিগর্মি", "pos": "noun" }] },
+            { "id": "06", "en": "Where have you seen the worst effects of the heat?", "words": [{ "w": "worst", "bn": "সবচেয়ে খারাপ", "pos": "adjective" }, { "w": "effects", "bn": "প্রভাব", "pos": "noun", "base": "effect" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences, mostly has/have + past participle.",
+          "tipBn": "অনুচ্ছেদের বেশিরভাগ বাক্যে has/have + past participle ব্যবহার করে সাম্প্রতিক অবস্থা বলা হয়েছে।",
+          "items": [
+            {
+              "id": "01",
+              "title": "A long dry spell",
+              "en": "It hasn't rained in Rajshahi for five weeks, and the temperature has stayed above 40 degrees. The ponds have dried up and the fields have cracked. Many farmers have lost their early crops. The weather office has asked people to stay indoors at midday.",
+              "words": [
+                { "w": "dried up", "bn": "শুকিয়ে গেছে", "pos": "phrasal verb", "base": "dry up" },
+                { "w": "cracked", "bn": "ফেটে গেছে", "pos": "verb", "base": "crack" },
+                { "w": "crops", "bn": "ফসল", "pos": "noun", "base": "crop" },
+                { "w": "indoors", "bn": "ঘরের ভেতরে", "pos": "adverb" },
+                { "w": "midday", "bn": "ভরদুপুর", "pos": "noun" }
+              ]
+            },
+            {
+              "id": "02",
+              "title": "The monsoon arrives",
+              "en": "The monsoon has finally arrived in Dhaka. It has rained every day this week, and the temperature has dropped to 30 degrees. Street vendors have started selling umbrellas and raincoats. However, the heavy rain has also caused waterlogging in many parts of the city.",
+              "words": [
+                { "w": "finally", "bn": "অবশেষে", "pos": "adverb" },
+                { "w": "dropped", "bn": "কমেছে", "pos": "verb", "base": "drop" },
+                { "w": "street vendors", "bn": "হকার, ফেরিওয়ালা", "pos": "phrase" },
+                { "w": "waterlogging", "bn": "জলাবদ্ধতা", "pos": "noun" }
+              ]
+            },
+            {
+              "id": "03",
+              "title": "Lessons from the coast",
+              "en": "Farhana has reported on many storms, but she has never forgotten her first cyclone. She has told the story to her viewers several times. Since then, she has always checked the warning signals before traveling to the coast.",
+              "words": [
+                { "w": "reported on", "bn": "খবর প্রচার করেছেন", "pos": "phrasal verb", "base": "report on" },
+                { "w": "forgotten", "bn": "ভুলে গেছেন", "pos": "verb", "base": "forget" },
+                { "w": "viewers", "bn": "দর্শক", "pos": "noun", "base": "viewer" },
+                { "w": "warning signals", "bn": "সতর্কসংকেত", "pos": "phrase" },
+                { "w": "coast", "bn": "উপকূল", "pos": "noun" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-continuous",
+      "focus": "Describe what was happening when the storm hit",
+      "focusBn": "ঝড় আঘাত হানার সময় কী ঘটছিল তা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + was/were + verb-ing (+ when / while ...).",
+          "tipBn": "অতীতের কোনো সময়ে চলছিল এমন কাজ বোঝাতে was/were + verb-ing বসে; মাঝে হঠাৎ ঘটা কাজটি past simple-এ থাকে।",
+          "items": [
+            { "id": "01", "en": "Farhana was reading the evening forecast when the lights went out.", "words": [{ "w": "forecast", "bn": "পূর্বাভাস", "pos": "noun" }, { "w": "went out", "bn": "নিভে গেল", "pos": "phrasal verb", "base": "go out" }] },
+            { "id": "02", "en": "A strong wind was blowing from the northwest all afternoon.", "words": [{ "w": "blowing", "bn": "বইছিল", "pos": "verb", "base": "blow" }, { "w": "northwest", "bn": "উত্তর-পশ্চিম", "pos": "noun" }] },
+            { "id": "03", "en": "While Imran was checking the radar, he noticed a huge storm cloud.", "words": [{ "w": "checking", "bn": "পরীক্ষা করছিলেন", "pos": "verb", "base": "check" }, { "w": "noticed", "bn": "লক্ষ করলেন", "pos": "verb", "base": "notice" }, { "w": "huge", "bn": "বিশাল", "pos": "adjective" }] },
+            { "id": "04", "en": "People were running for shelter as hailstones began to fall.", "words": [{ "w": "shelter", "bn": "আশ্রয়", "pos": "noun" }, { "w": "hailstones", "bn": "শিলা", "pos": "noun", "base": "hailstone" }] },
+            { "id": "05", "en": "Rickshaw pullers were waiting under the flyover while the rain was pouring down.", "words": [{ "w": "rickshaw pullers", "bn": "রিকশাচালক", "pos": "phrase" }, { "w": "flyover", "bn": "উড়ালসড়ক", "pos": "noun" }, { "w": "pouring down", "bn": "মুষলধারে পড়ছিল", "pos": "phrasal verb", "base": "pour down" }] },
+            { "id": "06", "en": "Lightning was flashing across the sky for nearly an hour.", "words": [{ "w": "lightning", "bn": "বিদ্যুৎ চমক", "pos": "noun" }, { "w": "flashing", "bn": "ঝলসে উঠছিল", "pos": "verb", "base": "flash" }, { "w": "nearly", "bn": "প্রায়", "pos": "adverb" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + was/were + not + verb-ing ...",
+          "tipBn": "was/were এর পরে not বসিয়ে ঘটমান অতীতের না-বোধক বাক্য হয়।",
+          "items": [
+            { "id": "01", "en": "Farhana wasn't expecting such a violent storm that evening.", "words": [{ "w": "expecting", "bn": "আশা করছিলেন", "pos": "verb", "base": "expect" }, { "w": "violent", "bn": "প্রচণ্ড", "pos": "adjective" }] },
+            { "id": "02", "en": "The traffic lights weren't working because of the power cut.", "words": [{ "w": "traffic lights", "bn": "ট্রাফিক বাতি", "pos": "phrase" }, { "w": "power cut", "bn": "বিদ্যুৎবিভ্রাট, লোডশেডিং", "pos": "phrase" }] },
+            { "id": "03", "en": "Nobody in the studio was paying attention to the clock.", "words": [{ "w": "Nobody", "bn": "কেউ না", "pos": "pronoun" }, { "w": "paying attention", "bn": "মনোযোগ দেওয়া", "pos": "phrase" }] },
+            { "id": "04", "en": "The ferries weren't running because the river was too rough.", "words": [{ "w": "ferries", "bn": "ফেরি", "pos": "noun", "base": "ferry" }, { "w": "running", "bn": "চলছিল", "pos": "verb", "base": "run" }, { "w": "rough", "bn": "উত্তাল", "pos": "adjective" }] },
+            { "id": "05", "en": "Farhana's daughter wasn't feeling scared during the thunderstorm.", "words": [{ "w": "scared", "bn": "ভীত", "pos": "adjective" }, { "w": "thunderstorm", "bn": "বজ্রঝড়", "pos": "noun" }] },
+            { "id": "06", "en": "Flights weren't landing at Dhaka airport during the storm.", "words": [{ "w": "Flights", "bn": "বিমান, ফ্লাইট", "pos": "noun", "base": "flight" }, { "w": "landing", "bn": "অবতরণ করছিল", "pos": "verb", "base": "land" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Was/Were + subject + verb-ing ...?",
+          "tipBn": "Was/Were বাক্যের শুরুতে বসিয়ে ঘটমান অতীতের প্রশ্ন করা হয়।",
+          "items": [
+            { "id": "01", "en": "Were you driving home when the storm started?", "words": [{ "w": "driving home", "bn": "গাড়ি চালিয়ে বাড়ি ফেরা", "pos": "phrase" }, { "w": "storm", "bn": "ঝড়", "pos": "noun" }] },
+            { "id": "02", "en": "Was the wind still blowing hard at midnight?", "words": [{ "w": "blowing hard", "bn": "জোরে বইছিল", "pos": "phrase" }, { "w": "midnight", "bn": "মধ্যরাত", "pos": "noun" }] },
+            { "id": "03", "en": "Was Imran watching the radar during the whole storm?", "words": [{ "w": "during", "bn": "চলাকালে", "pos": "preposition" }, { "w": "whole", "bn": "পুরো", "pos": "adjective" }] },
+            { "id": "04", "en": "Were the children playing outside when the hail started?", "words": [{ "w": "outside", "bn": "বাইরে", "pos": "adverb" }, { "w": "hail", "bn": "শিলাবৃষ্টি", "pos": "noun" }] },
+            { "id": "05", "en": "Was it also raining heavily in Gazipur at that time?", "words": [{ "w": "heavily", "bn": "প্রবলভাবে", "pos": "adverb" }, { "w": "at that time", "bn": "সেই সময়ে", "pos": "phrase" }] },
+            { "id": "06", "en": "Were the TV crews filming the damage the next morning?", "words": [{ "w": "crews", "bn": "কর্মীদল", "pos": "noun", "base": "crew" }, { "w": "filming", "bn": "ভিডিও করছিল", "pos": "verb", "base": "film" }, { "w": "damage", "bn": "ক্ষয়ক্ষতি", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + was/were + subject + verb-ing ...?",
+          "tipBn": "প্রশ্নশব্দের পরে was/were, তারপর subject ও verb-ing বসে।",
+          "items": [
+            { "id": "01", "en": "What was Farhana doing when the lights went out?", "words": [{ "w": "lights", "bn": "বাতি", "pos": "noun", "base": "light" }, { "w": "went out", "bn": "নিভে গেল", "pos": "phrasal verb", "base": "go out" }] },
+            { "id": "02", "en": "Where were you standing when the tree fell?", "words": [{ "w": "standing", "bn": "দাঁড়িয়ে ছিলে", "pos": "verb", "base": "stand" }, { "w": "fell", "bn": "পড়ে গেল", "pos": "verb", "base": "fall" }] },
+            { "id": "03", "en": "Which way was the storm moving around six o'clock?", "words": [{ "w": "Which way", "bn": "কোন দিকে", "pos": "phrase" }, { "w": "moving", "bn": "এগোচ্ছিল", "pos": "verb", "base": "move" }] },
+            { "id": "04", "en": "Why were so many people crowding into the shops on Mirpur Road?", "words": [{ "w": "so many", "bn": "এত বেশি", "pos": "phrase" }, { "w": "crowding into", "bn": "ভিড় করছিল", "pos": "phrasal verb", "base": "crowd into" }] },
+            { "id": "05", "en": "How fast was the wind blowing at its peak?", "words": [{ "w": "How fast", "bn": "কত দ্রুত", "pos": "phrase" }, { "w": "peak", "bn": "সর্বোচ্চ পর্যায়", "pos": "noun" }] },
+            { "id": "06", "en": "Who was answering the phones at the weather office that night?", "words": [{ "w": "answering the phones", "bn": "ফোন ধরা", "pos": "phrase" }, { "w": "weather office", "bn": "আবহাওয়া অফিস", "pos": "phrase" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences, mostly was/were + verb-ing.",
+          "tipBn": "অনুচ্ছেদে was/were + verb-ing দিয়ে পটভূমির কাজ, আর past simple দিয়ে হঠাৎ ঘটা ঘটনা বলা হয়েছে।",
+          "items": [
+            {
+              "id": "01",
+              "title": "Live on air",
+              "en": "Farhana was presenting the evening weather when the storm hit Dhaka. The wind was howling outside, and rain was beating against the studio windows. Suddenly the lights began to flicker. Farhana was smiling calmly, but her heart was racing.",
+              "words": [
+                { "w": "presenting", "bn": "উপস্থাপন করছিলেন", "pos": "verb", "base": "present" },
+                { "w": "howling", "bn": "গর্জন করছিল", "pos": "verb", "base": "howl" },
+                { "w": "beating against", "bn": "আছড়ে পড়ছিল", "pos": "phrasal verb", "base": "beat against" },
+                { "w": "flicker", "bn": "মিটমিট করা", "pos": "verb" },
+                { "w": "her heart was racing", "bn": "বুক ধড়ফড় করছিল", "pos": "idiom" }
+              ]
+            },
+            {
+              "id": "02",
+              "title": "A long night at the office",
+              "en": "While the city was sleeping, Imran was still working at the weather office. He was watching the radar and updating the warnings every hour. Outside, the river was rising slowly. By morning, he was feeling exhausted but relieved.",
+              "words": [
+                { "w": "updating", "bn": "হালনাগাদ করছিলেন", "pos": "verb", "base": "update" },
+                { "w": "warnings", "bn": "সতর্কবার্তা", "pos": "noun", "base": "warning" },
+                { "w": "rising", "bn": "বাড়ছিল", "pos": "verb", "base": "rise" },
+                { "w": "exhausted", "bn": "ক্লান্ত, অবসন্ন", "pos": "adjective" },
+                { "w": "relieved", "bn": "স্বস্তি পাওয়া", "pos": "adjective" }
+              ]
+            },
+            {
+              "id": "03",
+              "title": "A ride through the rain",
+              "en": "Farhana was riding a rickshaw through Dhanmondi when the rain started. The water was rising fast, and the road was disappearing under it. She was holding her bag above her head. The rickshaw puller was pedaling slowly and carefully.",
+              "words": [
+                { "w": "riding", "bn": "চড়ে যাচ্ছিলেন", "pos": "verb", "base": "ride" },
+                { "w": "disappearing", "bn": "হারিয়ে যাচ্ছিল", "pos": "verb", "base": "disappear" },
+                { "w": "rickshaw puller", "bn": "রিকশাচালক", "pos": "phrase" },
+                { "w": "pedaling", "bn": "প্যাডেল মারছিলেন", "pos": "verb", "base": "pedal" },
+                { "w": "carefully", "bn": "সাবধানে", "pos": "adverb" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "modals",
+      "focus": "Give weather advice and warnings",
+      "focusBn": "আবহাওয়া নিয়ে পরামর্শ ও সতর্কতা দেওয়া",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + should / must / have to / might / could + verb (base).",
+          "tipBn": "পরামর্শে should, বাধ্যবাধকতায় must বা have to, আর সম্ভাবনায় might বা could বসে; এরপর verb মূল রূপে থাকে।",
+          "items": [
+            { "id": "01", "en": "You should carry an umbrella because it might rain after lunch.", "words": [{ "w": "should", "bn": "উচিত", "pos": "verb" }, { "w": "might", "bn": "হয়তো ... পারে", "pos": "verb" }] },
+            { "id": "02", "en": "Fishing boats must return to the shore before the cyclone arrives.", "words": [{ "w": "must", "bn": "অবশ্যই করতে হবে", "pos": "verb" }, { "w": "shore", "bn": "তীর", "pos": "noun" }, { "w": "cyclone", "bn": "ঘূর্ণিঝড়", "pos": "noun" }] },
+            { "id": "03", "en": "People with heart problems should stay indoors during the heatwave.", "words": [{ "w": "heart problems", "bn": "হৃদরোগ", "pos": "phrase" }, { "w": "indoors", "bn": "ঘরের ভেতরে", "pos": "adverb" }, { "w": "heatwave", "bn": "তাপপ্রবাহ", "pos": "noun" }] },
+            { "id": "04", "en": "Farmers in Rajshahi may need to water their fields twice a day.", "words": [{ "w": "may need to", "bn": "প্রয়োজন হতে পারে", "pos": "phrase" }, { "w": "water", "bn": "সেচ দেওয়া", "pos": "verb" }, { "w": "twice", "bn": "দুবার", "pos": "adverb" }] },
+            { "id": "05", "en": "The temperature could drop to 8 degrees in the north next week.", "words": [{ "w": "could", "bn": "হতে পারে", "pos": "verb" }, { "w": "drop", "bn": "নেমে যাওয়া", "pos": "verb" }] },
+            { "id": "06", "en": "Drivers have to use fog lights on the highway in the early morning.", "words": [{ "w": "have to", "bn": "করতেই হয়", "pos": "phrase" }, { "w": "fog lights", "bn": "কুয়াশা বাতি", "pos": "phrase" }, { "w": "highway", "bn": "মহাসড়ক", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + shouldn't / mustn't / don't have to / might not / needn't + verb (base).",
+          "tipBn": "mustn't মানে নিষেধ, কিন্তু don't have to বা needn't মানে দরকার নেই; shouldn't দিয়ে উচিত নয় বোঝায়।",
+          "items": [
+            { "id": "01", "en": "You shouldn't stand under a tree during a thunderstorm.", "words": [{ "w": "shouldn't", "bn": "উচিত নয়", "pos": "verb" }, { "w": "thunderstorm", "bn": "বজ্রঝড়", "pos": "noun" }] },
+            { "id": "02", "en": "Fishermen mustn't go out to sea until the warning ends.", "words": [{ "w": "mustn't", "bn": "কিছুতেই যাবে না, নিষেধ", "pos": "verb" }, { "w": "until", "bn": "যতক্ষণ না", "pos": "conjunction" }] },
+            { "id": "03", "en": "Farmers don't have to water their fields this week because heavy rain is on the way.", "words": [{ "w": "don't have to", "bn": "দরকার নেই", "pos": "phrase" }, { "w": "on the way", "bn": "আসছে", "pos": "phrase" }] },
+            { "id": "04", "en": "The rain might not stop until late tonight.", "words": [{ "w": "might not", "bn": "হয়তো ... না", "pos": "phrase" }, { "w": "late tonight", "bn": "আজ অনেক রাতে", "pos": "phrase" }] },
+            { "id": "05", "en": "You mustn't touch fallen electric wires after a storm.", "words": [{ "w": "fallen", "bn": "ছিঁড়ে পড়া", "pos": "adjective" }, { "w": "electric wires", "bn": "বিদ্যুতের তার", "pos": "phrase" }] },
+            { "id": "06", "en": "Office workers needn't come in if the roads are flooded.", "words": [{ "w": "needn't", "bn": "প্রয়োজন নেই", "pos": "verb" }, { "w": "come in", "bn": "অফিসে আসা", "pos": "phrasal verb" }, { "w": "flooded", "bn": "পানিতে তলিয়ে যাওয়া", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Should / Can / Could / Do + subject + (have to) + verb (base)?",
+          "tipBn": "প্রশ্ন করতে modal verb বাক্যের শুরুতে বসে, তারপর subject ও verb মূল রূপে থাকে।",
+          "items": [
+            { "id": "01", "en": "Should I pack a warm jacket for Sreemangal in January?", "words": [{ "w": "pack", "bn": "ব্যাগে গুছিয়ে নেওয়া", "pos": "verb" }, { "w": "warm", "bn": "গরম", "pos": "adjective" }] },
+            { "id": "02", "en": "Can the weather office predict a cyclone a week ahead?", "words": [{ "w": "predict", "bn": "পূর্বাভাস দেওয়া", "pos": "verb" }, { "w": "ahead", "bn": "আগে থেকে", "pos": "adverb" }] },
+            { "id": "03", "en": "Do we have to cancel the cricket match if it rains?", "words": [{ "w": "have to", "bn": "করতে হবে", "pos": "phrase" }, { "w": "cancel", "bn": "বাতিল করা", "pos": "verb" }] },
+            { "id": "04", "en": "Could the storm change direction before it reaches the coast?", "words": [{ "w": "change direction", "bn": "দিক বদলানো", "pos": "phrase" }, { "w": "coast", "bn": "উপকূল", "pos": "noun" }] },
+            { "id": "05", "en": "Should farmers harvest their rice before the heavy rain comes?", "words": [{ "w": "harvest", "bn": "ফসল কাটা", "pos": "verb" }, { "w": "heavy rain", "bn": "ভারী বৃষ্টি", "pos": "phrase" }] },
+            { "id": "06", "en": "Should schools close when the temperature goes above 40 degrees?", "words": [{ "w": "temperature", "bn": "তাপমাত্রা", "pos": "noun" }, { "w": "goes above", "bn": "ছাড়িয়ে যায়", "pos": "phrasal verb", "base": "go above" }] }
+          ]
+        },
+        {
+          "type": "tag-question",
+          "pattern": "Statement with a modal, + opposite modal + pronoun?",
+          "tipBn": "হ্যাঁ-বোধক বাক্যের শেষে না-বোধক ট্যাগ, আর না-বোধক বাক্যের শেষে হ্যাঁ-বোধক ট্যাগ বসে।",
+          "items": [
+            { "id": "01", "en": "We should leave early because of the fog, shouldn't we?", "words": [{ "w": "leave early", "bn": "আগে আগে রওনা হওয়া", "pos": "phrase" }, { "w": "fog", "bn": "কুয়াশা", "pos": "noun" }] },
+            { "id": "02", "en": "The fishermen have to stay on shore today, don't they?", "words": [{ "w": "have to", "bn": "বাধ্য, করতেই হবে", "pos": "phrase" }, { "w": "on shore", "bn": "তীরে", "pos": "phrase" }] },
+            { "id": "03", "en": "The rain could last all week, couldn't it?", "words": [{ "w": "last", "bn": "স্থায়ী হওয়া", "pos": "verb" }, { "w": "all week", "bn": "সারা সপ্তাহ", "pos": "phrase" }] },
+            { "id": "04", "en": "You can't swim in the sea during a storm warning, can you?", "words": [{ "w": "swim", "bn": "সাঁতার কাটা", "pos": "verb" }, { "w": "storm warning", "bn": "ঝড়ের সতর্কসংকেত", "pos": "phrase" }] },
+            { "id": "05", "en": "Farhana shouldn't go to the coast alone, should she?", "words": [{ "w": "coast", "bn": "উপকূল", "pos": "noun" }, { "w": "alone", "bn": "একা", "pos": "adverb" }] },
+            { "id": "06", "en": "We don't have to wear sweaters in Dhaka in March, do we?", "words": [{ "w": "don't have to", "bn": "দরকার নেই", "pos": "phrase" }, { "w": "sweaters", "bn": "সোয়েটার", "pos": "noun", "base": "sweater" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences of advice with should, must, have to, might, could.",
+          "tipBn": "অনুচ্ছেদে should, must, have to, might ও could দিয়ে পরামর্শ, নিয়ম ও সম্ভাবনা বলা হয়েছে।",
+          "items": [
+            {
+              "id": "01",
+              "title": "Farhana's heatwave tips",
+              "en": "During a heatwave, you should drink water often, even if you don't feel thirsty. You shouldn't go out between noon and four o'clock. Elderly people must stay in cool rooms. If possible, you could also take a cold shower in the evening.",
+              "words": [
+                { "w": "heatwave", "bn": "তাপপ্রবাহ", "pos": "noun" },
+                { "w": "thirsty", "bn": "তৃষ্ণার্ত", "pos": "adjective" },
+                { "w": "noon", "bn": "দুপুর", "pos": "noun" },
+                { "w": "elderly", "bn": "বয়স্ক", "pos": "adjective" },
+                { "w": "take a cold shower", "bn": "ঠান্ডা পানিতে গোসল করা", "pos": "phrase" }
+              ]
+            },
+            {
+              "id": "02",
+              "title": "Before the cyclone",
+              "en": "A cyclone might hit the coast on Friday night. Families near the sea must move to cyclone shelters before dark. They should take drinking water, dry food and important papers with them. Fishermen have to bring their boats back to the shore immediately.",
+              "words": [
+                { "w": "coast", "bn": "উপকূল", "pos": "noun" },
+                { "w": "cyclone shelters", "bn": "ঘূর্ণিঝড় আশ্রয়কেন্দ্র", "pos": "phrase" },
+                { "w": "before dark", "bn": "অন্ধকার হওয়ার আগে", "pos": "phrase" },
+                { "w": "important papers", "bn": "জরুরি কাগজপত্র", "pos": "phrase" },
+                { "w": "immediately", "bn": "অবিলম্বে", "pos": "adverb" }
+              ]
+            },
+            {
+              "id": "03",
+              "title": "A winter trip north",
+              "en": "Imran's family wants to visit Panchagarh in January. It could be very cold there, so they must pack warm clothes. The trains might be late because of thick fog. They should also check the forecast before they leave.",
+              "words": [
+                { "w": "pack", "bn": "গুছিয়ে নেওয়া", "pos": "verb" },
+                { "w": "warm clothes", "bn": "গরম কাপড়", "pos": "phrase" },
+                { "w": "thick fog", "bn": "ঘন কুয়াশা", "pos": "phrase" },
+                { "w": "forecast", "bn": "পূর্বাভাস", "pos": "noun" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Talk about real and imaginary weather situations",
+      "focusBn": "বাস্তব ও কাল্পনিক আবহাওয়া পরিস্থিতি নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + present simple, will + verb. / If + past simple, would + verb.",
+          "tipBn": "সম্ভাব্য অবস্থায় If + present simple এবং ফলাফলে will বসে; কাল্পনিক অবস্থায় If + past simple এবং ফলাফলে would বসে।",
+          "items": [
+            { "id": "01", "en": "If it rains tomorrow, the cricket match will start late.", "words": [{ "w": "match", "bn": "খেলা, ম্যাচ", "pos": "noun" }, { "w": "start late", "bn": "দেরিতে শুরু হওয়া", "pos": "phrase" }] },
+            { "id": "02", "en": "If the cyclone gets stronger, the government will open more shelters.", "words": [{ "w": "gets stronger", "bn": "আরও শক্তিশালী হয়", "pos": "phrase" }, { "w": "shelters", "bn": "আশ্রয়কেন্দ্র", "pos": "noun", "base": "shelter" }] },
+            { "id": "03", "en": "Farmers will lose their crops if the flood water stays for a week.", "words": [{ "w": "lose", "bn": "হারানো", "pos": "verb" }, { "w": "crops", "bn": "ফসল", "pos": "noun", "base": "crop" }, { "w": "flood water", "bn": "বন্যার পানি", "pos": "phrase" }] },
+            { "id": "04", "en": "If I lived in Sylhet, I would buy a good pair of rain boots.", "words": [{ "w": "pair", "bn": "জোড়া", "pos": "noun" }, { "w": "rain boots", "bn": "বৃষ্টির জুতা", "pos": "phrase" }] },
+            { "id": "05", "en": "If we left now, we would reach Cox's Bazar before the storm.", "words": [{ "w": "left", "bn": "রওনা দিতাম", "pos": "verb", "base": "leave" }, { "w": "reach", "bn": "পৌঁছানো", "pos": "verb" }] },
+            { "id": "06", "en": "If it snowed in Dhaka, children would run outside to play.", "words": [{ "w": "snowed", "bn": "তুষারপাত হতো", "pos": "verb", "base": "snow" }, { "w": "outside", "bn": "বাইরে", "pos": "adverb" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + don't/didn't ..., won't/wouldn't + verb.",
+          "tipBn": "শর্তের অংশে don't বা didn't, আর ফলাফলের অংশে won't বা wouldn't বসিয়ে না-বোধক শর্তবাক্য হয়।",
+          "items": [
+            { "id": "01", "en": "If it doesn't rain soon, the rice fields will dry up.", "words": [{ "w": "rice fields", "bn": "ধানখেত", "pos": "phrase" }, { "w": "dry up", "bn": "শুকিয়ে যাওয়া", "pos": "phrasal verb" }] },
+            { "id": "02", "en": "The ferry won't leave if the wind is too strong.", "words": [{ "w": "ferry", "bn": "ফেরি", "pos": "noun" }, { "w": "leave", "bn": "ছেড়ে যাওয়া", "pos": "verb" }] },
+            { "id": "03", "en": "If people don't move to the shelters, they won't be safe.", "words": [{ "w": "shelters", "bn": "আশ্রয়কেন্দ্র", "pos": "noun", "base": "shelter" }, { "w": "safe", "bn": "নিরাপদ", "pos": "adjective" }] },
+            { "id": "04", "en": "If I didn't have an air conditioner, I couldn't sleep in May.", "words": [{ "w": "air conditioner", "bn": "এসি, শীতাতপ যন্ত্র", "pos": "noun" }, { "w": "couldn't", "bn": "পারতাম না", "pos": "verb" }] },
+            { "id": "05", "en": "If the forecasts weren't accurate, fishermen wouldn't trust them.", "words": [{ "w": "accurate", "bn": "নির্ভুল", "pos": "adjective" }, { "w": "trust", "bn": "বিশ্বাস করা", "pos": "verb" }] },
+            { "id": "06", "en": "If the drains weren't blocked, the streets wouldn't flood so quickly.", "words": [{ "w": "drains", "bn": "নর্দমা", "pos": "noun", "base": "drain" }, { "w": "blocked", "bn": "আটকে থাকা", "pos": "adjective" }, { "w": "flood", "bn": "পানিতে ডুবে যাওয়া", "pos": "verb" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + will/would + subject + verb + if ...?",
+          "tipBn": "প্রশ্নশব্দের পরে will বা would বসে, আর শর্তটি If দিয়ে যুক্ত হয়।",
+          "items": [
+            { "id": "01", "en": "What will you do if the storm reaches the city tonight?", "words": [{ "w": "storm", "bn": "ঝড়", "pos": "noun" }, { "w": "reaches", "bn": "পৌঁছায়", "pos": "verb", "base": "reach" }] },
+            { "id": "02", "en": "Where will the fishermen go if the cyclone hits the coast?", "words": [{ "w": "hits", "bn": "আঘাত হানে", "pos": "verb", "base": "hit" }, { "w": "coast", "bn": "উপকূল", "pos": "noun" }] },
+            { "id": "03", "en": "How would you feel if the temperature reached 45 degrees?", "words": [{ "w": "feel", "bn": "অনুভব করা", "pos": "verb" }, { "w": "reached", "bn": "পৌঁছাত", "pos": "verb", "base": "reach" }] },
+            { "id": "04", "en": "What would happen to Dhaka if the sea level rose by one meter?", "words": [{ "w": "sea level", "bn": "সমুদ্রপৃষ্ঠের উচ্চতা", "pos": "phrase" }, { "w": "rose", "bn": "বেড়ে যেত", "pos": "verb", "base": "rise" }] },
+            { "id": "05", "en": "Which city would you choose if you wanted cooler weather?", "words": [{ "w": "choose", "bn": "বেছে নেওয়া", "pos": "verb" }, { "w": "cooler", "bn": "আরও ঠান্ডা", "pos": "adjective" }] },
+            { "id": "06", "en": "Why will farmers suffer if the monsoon comes late this year?", "words": [{ "w": "suffer", "bn": "ক্ষতিগ্রস্ত হওয়া", "pos": "verb" }, { "w": "monsoon", "bn": "বর্ষা", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences with first and second conditionals.",
+          "tipBn": "অনুচ্ছেদে If দিয়ে বাস্তব সম্ভাবনা (will) ও কাল্পনিক অবস্থা (would) দুটোই দেখানো হয়েছে।",
+          "items": [
+            {
+              "id": "01",
+              "title": "If the rain comes",
+              "en": "If the rain comes on Friday, the farmers in Rajshahi will finally plant their rice. If it doesn't come, they will have to pump water from deep wells, and that will cost a lot. If Imran's forecast is right, the whole region will breathe a sigh of relief.",
+              "words": [
+                { "w": "plant", "bn": "রোপণ করা", "pos": "verb" },
+                { "w": "pump", "bn": "পাম্প করে তোলা", "pos": "verb" },
+                { "w": "deep wells", "bn": "গভীর নলকূপ", "pos": "phrase" },
+                { "w": "region", "bn": "অঞ্চল", "pos": "noun" },
+                { "w": "breathe a sigh of relief", "bn": "স্বস্তির নিঃশ্বাস ফেলা", "pos": "idiom" }
+              ]
+            },
+            {
+              "id": "02",
+              "title": "Farhana's dream job",
+              "en": "If Farhana could choose any job, she would still present the weather. If she didn't work in television, she would study storms like Imran. She would travel to the coast every monsoon if she had more free time.",
+              "words": [
+                { "w": "choose", "bn": "বেছে নেওয়া", "pos": "verb" },
+                { "w": "present", "bn": "উপস্থাপন করা", "pos": "verb" },
+                { "w": "study", "bn": "গবেষণা করা", "pos": "verb" },
+                { "w": "coast", "bn": "উপকূল", "pos": "noun" },
+                { "w": "free time", "bn": "অবসর সময়", "pos": "phrase" }
+              ]
+            },
+            {
+              "id": "03",
+              "title": "A greener Dhaka",
+              "en": "If Dhaka had more trees and lakes, the summer heat would be easier to bear. People wouldn't need to run air conditioners all night. The air would be cleaner, and children would play outside more. If the city plants trees now, the next generation will feel the difference.",
+              "words": [
+                { "w": "bear", "bn": "সহ্য করা", "pos": "verb" },
+                { "w": "air conditioners", "bn": "এসি", "pos": "noun", "base": "air conditioner" },
+                { "w": "cleaner", "bn": "আরও পরিষ্কার", "pos": "adjective" },
+                { "w": "generation", "bn": "প্রজন্ম", "pos": "noun" },
+                { "w": "difference", "bn": "পার্থক্য", "pos": "noun" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "topic": "shopping",
+  "level": "starter",
+  "title": "Shopping at New Market",
+  "story": "Nila lives in Dhaka with her mother and her little brother Tanim. They often go shopping at New Market. Karim has a small clothes shop there, and Mom always bargains with him.",
+  "storyBn": "নীলা ঢাকায় মা আর ছোট ভাই তানিমের সঙ্গে থাকে। তারা প্রায়ই নিউ মার্কেটে কেনাকাটা করতে যায়। সেখানে করিমের একটি ছোট কাপড়ের দোকান আছে, আর মা সবসময় তার সঙ্গে দরদাম করেন।",
+  "units": [
+    {
+      "grammar": "present-simple",
+      "focus": "Talk about shops, prices and what we like",
+      "focusBn": "দোকান, দাম আর পছন্দের কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb(s) ... / Subject + is/are + ...",
+          "tipBn": "অভ্যাস বা সাধারণ সত্য বোঝাতে verb-এর মূল রূপ বসে; he, she, it হলে verb-এর সাথে s বা es যোগ হয়।",
+          "items": [
+            { "id": "01", "en": "New Market is big and busy.", "words": [{ "w": "busy", "bn": "ব্যস্ত, জমজমাট", "pos": "adjective" }] },
+            { "id": "02", "en": "Karim sells shirts and shoes.", "words": [{ "w": "sells", "bn": "বিক্রি করে", "pos": "verb", "base": "sell" }] },
+            { "id": "03", "en": "This red shirt costs 500 taka.", "words": [{ "w": "costs", "bn": "দাম পড়ে", "pos": "verb", "base": "cost" }] },
+            { "id": "04", "en": "Nila likes blue dresses.", "words": [{ "w": "dresses", "bn": "জামা", "pos": "noun", "base": "dress" }] },
+            { "id": "05", "en": "Mom always bargains with Karim.", "words": [{ "w": "bargains", "bn": "দরদাম করেন", "pos": "verb", "base": "bargain" }, { "w": "always", "bn": "সবসময়", "pos": "adverb" }] },
+            { "id": "06", "en": "The shops open at 10 o'clock.", "words": [{ "w": "open", "bn": "খোলে", "pos": "verb" }] },
+            { "id": "07", "en": "Tanim wants a new cap.", "words": [{ "w": "cap", "bn": "টুপি", "pos": "noun" }, { "w": "wants", "bn": "চায়", "pos": "verb", "base": "want" }] },
+            { "id": "08", "en": "We pay in cash.", "words": [{ "w": "pay", "bn": "দাম দিই", "pos": "verb" }, { "w": "in cash", "bn": "নগদে", "pos": "phrase" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + do/does + not + verb ... / Subject + is + not + ...",
+          "tipBn": "না-বোধক করতে verb-এর আগে do not বা does not বসে; is বা are-এর পরে not বসে।",
+          "items": [
+            { "id": "01", "en": "Karim does not sell toys.", "words": [{ "w": "toys", "bn": "খেলনা", "pos": "noun", "base": "toy" }] },
+            { "id": "02", "en": "Nila doesn't like green dresses.", "words": [{ "w": "green", "bn": "সবুজ", "pos": "adjective" }] },
+            { "id": "03", "en": "The shops do not open on Tuesday.", "words": [{ "w": "Tuesday", "bn": "মঙ্গলবার", "pos": "noun" }] },
+            { "id": "04", "en": "Mom does not pay the first price.", "words": [{ "w": "first price", "bn": "প্রথমে চাওয়া দাম", "pos": "phrase" }] },
+            { "id": "05", "en": "This bag is not expensive.", "words": [{ "w": "expensive", "bn": "দামি", "pos": "adjective" }] },
+            { "id": "06", "en": "We don't have much money today.", "words": [{ "w": "money", "bn": "টাকা-পয়সা", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Do/Does + subject + verb ...? / Is + subject + ...?",
+          "tipBn": "প্রশ্ন করতে Do, Does বা Is, Are বাক্যের শুরুতে বসে।",
+          "items": [
+            { "id": "01", "en": "Does Karim sell shoes?", "words": [{ "w": "sell", "bn": "বিক্রি করা", "pos": "verb" }] },
+            { "id": "02", "en": "Is New Market busy today?", "words": [{ "w": "busy", "bn": "ব্যস্ত, ভিড়ে ভরা", "pos": "adjective" }] },
+            { "id": "03", "en": "Does this shirt cost 500 taka?", "words": [{ "w": "cost", "bn": "দাম পড়া", "pos": "verb" }] },
+            { "id": "04", "en": "Do you have a smaller size?", "words": [{ "w": "smaller", "bn": "আরও ছোট", "pos": "adjective", "base": "small" }, { "w": "size", "bn": "মাপ, সাইজ", "pos": "noun" }] },
+            { "id": "05", "en": "Is this shop open now?", "words": [{ "w": "open", "bn": "খোলা", "pos": "adjective" }] },
+            { "id": "06", "en": "Do you accept cards?", "words": [{ "w": "accept", "bn": "নেওয়া, গ্রহণ করা", "pos": "verb" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + do/does/is + subject ...?",
+          "tipBn": "Wh-শব্দ প্রথমে বসে, তারপর do, does বা is এবং subject আসে।",
+          "items": [
+            { "id": "01", "en": "How much is this shirt?", "words": [{ "w": "How much", "bn": "কত দাম", "pos": "phrase" }] },
+            { "id": "02", "en": "What does Karim sell?", "words": [{ "w": "sell", "bn": "বিক্রি করা", "pos": "verb" }] },
+            { "id": "03", "en": "When do the shops open?", "words": [{ "w": "open", "bn": "খোলে", "pos": "verb" }] },
+            { "id": "04", "en": "Which color does Nila like?", "words": [{ "w": "color", "bn": "রং", "pos": "noun" }] },
+            { "id": "05", "en": "Where do you buy vegetables?", "words": [{ "w": "vegetables", "bn": "শাকসবজি", "pos": "noun", "base": "vegetable" }] },
+            { "id": "06", "en": "What size is this dress?", "words": [{ "w": "size", "bn": "মাপ, সাইজ", "pos": "noun" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "present-continuous",
+      "focus": "Say what people are doing in the market right now",
+      "focusBn": "এই মুহূর্তে বাজারে কে কী করছে তা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + verb-ing ...",
+          "tipBn": "এখন ঘটছে এমন কাজ বোঝাতে am, is বা are-এর পরে verb-এর সাথে ing বসে।",
+          "items": [
+            { "id": "01", "en": "Mom is buying fresh fish.", "words": [{ "w": "fresh", "bn": "তাজা", "pos": "adjective" }, { "w": "buying", "bn": "কিনছেন", "pos": "verb", "base": "buy" }] },
+            { "id": "02", "en": "Tanim is trying on new shoes.", "words": [{ "w": "trying on", "bn": "পরে দেখছে", "pos": "phrasal verb", "base": "try on" }] },
+            { "id": "03", "en": "Karim is folding the shirts.", "words": [{ "w": "folding", "bn": "ভাঁজ করছে", "pos": "verb", "base": "fold" }] },
+            { "id": "04", "en": "We are standing in a long line.", "words": [{ "w": "line", "bn": "লাইন, সারি", "pos": "noun" }, { "w": "standing", "bn": "দাঁড়িয়ে আছি", "pos": "verb", "base": "stand" }] },
+            { "id": "05", "en": "Nila is holding the shopping bags.", "words": [{ "w": "holding", "bn": "ধরে আছে", "pos": "verb", "base": "hold" }, { "w": "shopping bags", "bn": "বাজারের ব্যাগ", "pos": "noun" }] },
+            { "id": "06", "en": "The seller is weighing the potatoes.", "words": [{ "w": "weighing", "bn": "ওজন করছে", "pos": "verb", "base": "weigh" }, { "w": "potatoes", "bn": "আলু", "pos": "noun", "base": "potato" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + verb-ing ...",
+          "tipBn": "am, is বা are-এর পরে not বসিয়ে চলমান কাজকে না-বোধক করা হয়।",
+          "items": [
+            { "id": "01", "en": "Mom is not buying meat today.", "words": [{ "w": "meat", "bn": "মাংস", "pos": "noun" }] },
+            { "id": "02", "en": "Tanim isn't trying on the sandals.", "words": [{ "w": "trying on", "bn": "পরে দেখছে", "pos": "phrasal verb", "base": "try on" }, { "w": "sandals", "bn": "স্যান্ডেল", "pos": "noun", "base": "sandal" }] },
+            { "id": "03", "en": "The seller isn't weighing the onions.", "words": [{ "w": "weighing", "bn": "ওজন করছে", "pos": "verb", "base": "weigh" }, { "w": "onions", "bn": "পেঁয়াজ", "pos": "noun", "base": "onion" }] },
+            { "id": "04", "en": "We are not spending much money.", "words": [{ "w": "spending", "bn": "খরচ করছি", "pos": "verb", "base": "spend" }] },
+            { "id": "05", "en": "The card machine is not working.", "words": [{ "w": "card machine", "bn": "কার্ড মেশিন", "pos": "noun" }, { "w": "working", "bn": "চলছে, কাজ করছে", "pos": "verb", "base": "work" }] },
+            { "id": "06", "en": "Nila isn't carrying her purse.", "words": [{ "w": "carrying", "bn": "সাথে নিচ্ছে", "pos": "verb", "base": "carry" }, { "w": "purse", "bn": "টাকার ব্যাগ", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে am, is বা are বাক্যের শুরুতে চলে আসে।",
+          "items": [
+            { "id": "01", "en": "Is Mom buying fresh fish?", "words": [{ "w": "fresh", "bn": "তাজা", "pos": "adjective" }] },
+            { "id": "02", "en": "Is Tanim trying on new shoes?", "words": [{ "w": "trying on", "bn": "পরে দেখছে", "pos": "phrasal verb", "base": "try on" }] },
+            { "id": "03", "en": "Are you looking for something?", "words": [{ "w": "looking for", "bn": "খুঁজছেন", "pos": "phrasal verb", "base": "look for" }] },
+            { "id": "04", "en": "Is Karim folding the shirts?", "words": [{ "w": "folding", "bn": "ভাঁজ করছে", "pos": "verb", "base": "fold" }] },
+            { "id": "05", "en": "Are they selling mangoes today?", "words": [{ "w": "selling", "bn": "বিক্রি করছে", "pos": "verb", "base": "sell" }, { "w": "mangoes", "bn": "আম", "pos": "noun", "base": "mango" }] },
+            { "id": "06", "en": "Is the shop closing now?", "words": [{ "w": "closing", "bn": "বন্ধ হচ্ছে", "pos": "verb", "base": "close" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + am/is/are + subject + verb-ing?",
+          "tipBn": "Wh-শব্দের পরে am, is বা are, তারপর subject আর verb-ing বসে।",
+          "items": [
+            { "id": "01", "en": "What is Mom buying?", "words": [{ "w": "buying", "bn": "কিনছেন", "pos": "verb", "base": "buy" }] },
+            { "id": "02", "en": "Which shop are we visiting next?", "words": [{ "w": "visiting", "bn": "যাচ্ছি", "pos": "verb", "base": "visit" }, { "w": "next", "bn": "এরপর", "pos": "adverb" }] },
+            { "id": "03", "en": "Why is everyone rushing today?", "words": [{ "w": "rushing", "bn": "তাড়াহুড়া করছে", "pos": "verb", "base": "rush" }] },
+            { "id": "04", "en": "What is Tanim trying on?", "words": [{ "w": "trying on", "bn": "পরে দেখছে", "pos": "phrasal verb", "base": "try on" }] },
+            { "id": "05", "en": "Who is weighing the potatoes?", "words": [{ "w": "weighing", "bn": "ওজন করছে", "pos": "verb", "base": "weigh" }] },
+            { "id": "06", "en": "How much are you paying?", "words": [{ "w": "paying", "bn": "দাম দিচ্ছ", "pos": "verb", "base": "pay" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-simple",
+      "focus": "Talk about yesterday's shopping trip",
+      "focusBn": "গতকালের কেনাকাটার কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb (past) ...",
+          "tipBn": "অতীতের কাজ বোঝাতে verb-এর past রূপ বসে, যেমন buy থেকে bought।",
+          "items": [
+            { "id": "01", "en": "We went to New Market yesterday.", "words": [{ "w": "went", "bn": "গিয়েছিলাম", "pos": "verb", "base": "go" }, { "w": "yesterday", "bn": "গতকাল", "pos": "adverb" }] },
+            { "id": "02", "en": "Mom bought a green sari.", "words": [{ "w": "bought", "bn": "কিনেছিলেন", "pos": "verb", "base": "buy" }, { "w": "sari", "bn": "শাড়ি", "pos": "noun" }] },
+            { "id": "03", "en": "Nila paid 300 taka for a bag.", "words": [{ "w": "paid", "bn": "দিয়েছিল", "pos": "verb", "base": "pay" }] },
+            { "id": "04", "en": "Karim gave us a small discount.", "words": [{ "w": "discount", "bn": "ছাড়, মূল্যছাড়", "pos": "noun" }, { "w": "gave", "bn": "দিয়েছিল", "pos": "verb", "base": "give" }] },
+            { "id": "05", "en": "Tanim chose a black cap.", "words": [{ "w": "chose", "bn": "বেছে নিয়েছিল", "pos": "verb", "base": "choose" }] },
+            { "id": "06", "en": "We carried four heavy bags home.", "words": [{ "w": "carried", "bn": "বয়ে এনেছিলাম", "pos": "verb", "base": "carry" }, { "w": "heavy", "bn": "ভারী", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + did not (didn't) + verb (base) ...",
+          "tipBn": "অতীতের না-বোধক বাক্যে did not বসে এবং verb তার মূল রূপে ফিরে যায়।",
+          "items": [
+            { "id": "01", "en": "We didn't go to the supermarket.", "words": [{ "w": "supermarket", "bn": "সুপারশপ", "pos": "noun" }] },
+            { "id": "02", "en": "Mom didn't buy a red sari.", "words": [{ "w": "sari", "bn": "শাড়ি", "pos": "noun" }] },
+            { "id": "03", "en": "Nila didn't pay by card.", "words": [{ "w": "by card", "bn": "কার্ডে", "pos": "phrase" }] },
+            { "id": "04", "en": "Karim did not give us a receipt.", "words": [{ "w": "receipt", "bn": "রসিদ", "pos": "noun" }] },
+            { "id": "05", "en": "The shoes did not fit Tanim.", "words": [{ "w": "fit", "bn": "মাপে হওয়া", "pos": "verb" }] },
+            { "id": "06", "en": "The seller didn't lower the price.", "words": [{ "w": "lower", "bn": "কমানো", "pos": "verb" }, { "w": "price", "bn": "দাম", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Did + subject + verb (base) ...?",
+          "tipBn": "অতীতের প্রশ্নে Did শুরুতে বসে এবং verb তার মূল রূপে থাকে।",
+          "items": [
+            { "id": "01", "en": "Did you go to New Market yesterday?", "words": [{ "w": "yesterday", "bn": "গতকাল", "pos": "adverb" }] },
+            { "id": "02", "en": "Did Mom buy a green sari?", "words": [{ "w": "buy", "bn": "কেনা", "pos": "verb" }] },
+            { "id": "03", "en": "Did Karim give you a discount?", "words": [{ "w": "discount", "bn": "ছাড়", "pos": "noun" }] },
+            { "id": "04", "en": "Did the shoes fit, Tanim?", "words": [{ "w": "fit", "bn": "মাপে হওয়া", "pos": "verb" }] },
+            { "id": "05", "en": "Did you keep the receipt?", "words": [{ "w": "keep", "bn": "রেখে দেওয়া", "pos": "verb" }, { "w": "receipt", "bn": "রসিদ", "pos": "noun" }] },
+            { "id": "06", "en": "Was the market very crowded?", "words": [{ "w": "crowded", "bn": "ভিড়ে ভরা", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + did + subject + verb (base)?",
+          "tipBn": "Wh-শব্দের পরে did বসে, আর verb তার মূল রূপে থাকে।",
+          "items": [
+            { "id": "01", "en": "What did Mom buy yesterday?", "words": [{ "w": "buy", "bn": "কেনা", "pos": "verb" }] },
+            { "id": "02", "en": "How much did you pay for the bag?", "words": [{ "w": "pay for", "bn": "দাম দেওয়া", "pos": "phrasal verb" }] },
+            { "id": "03", "en": "Which cap did Tanim choose?", "words": [{ "w": "choose", "bn": "বেছে নেওয়া", "pos": "verb" }] },
+            { "id": "04", "en": "Where did you buy these sandals?", "words": [{ "w": "sandals", "bn": "স্যান্ডেল", "pos": "noun", "base": "sandal" }] },
+            { "id": "05", "en": "Who carried the heavy bags?", "words": [{ "w": "carried", "bn": "বয়ে এনেছিল", "pos": "verb", "base": "carry" }] },
+            { "id": "06", "en": "When did the shop close?", "words": [{ "w": "close", "bn": "বন্ধ হওয়া", "pos": "verb" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "future-will",
+      "focus": "Make quick decisions and promises in the shop",
+      "focusBn": "দোকানে তাৎক্ষণিক সিদ্ধান্ত ও প্রতিশ্রুতি দেওয়া",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + will ('ll) + verb (base) ...",
+          "tipBn": "হঠাৎ নেওয়া সিদ্ধান্ত, প্রতিশ্রুতি বা অনুমান বোঝাতে will-এর পরে verb-এর মূল রূপ বসে।",
+          "items": [
+            { "id": "01", "en": "I will take the blue one.", "words": [{ "w": "take", "bn": "নেব", "pos": "verb" }] },
+            { "id": "02", "en": "Mom will pay by mobile banking.", "words": [{ "w": "mobile banking", "bn": "মোবাইল ব্যাংকিং", "pos": "noun" }] },
+            { "id": "03", "en": "Karim will wrap the gift.", "words": [{ "w": "wrap", "bn": "মোড়ানো", "pos": "verb" }, { "w": "gift", "bn": "উপহার", "pos": "noun" }] },
+            { "id": "04", "en": "We will come back tomorrow.", "words": [{ "w": "come back", "bn": "ফিরে আসা", "pos": "phrasal verb" }] },
+            { "id": "05", "en": "Prices will go up before Eid.", "words": [{ "w": "go up", "bn": "বেড়ে যাওয়া", "pos": "phrasal verb" }, { "w": "prices", "bn": "দাম", "pos": "noun", "base": "price" }] },
+            { "id": "06", "en": "I'll carry the bags, Mom.", "words": [{ "w": "carry", "bn": "বয়ে নেওয়া", "pos": "verb" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + will not (won't) + verb (base) ...",
+          "tipBn": "will not বা won't দিয়ে ভবিষ্যতের না-বোধক বাক্য তৈরি হয়।",
+          "items": [
+            { "id": "01", "en": "I won't take the red one.", "words": [{ "w": "won't", "bn": "করব না", "pos": "other" }] },
+            { "id": "02", "en": "Mom will not pay the full price.", "words": [{ "w": "full price", "bn": "পুরো দাম", "pos": "phrase" }] },
+            { "id": "03", "en": "Karim won't give a bigger discount.", "words": [{ "w": "bigger", "bn": "আরও বড়", "pos": "adjective", "base": "big" }, { "w": "discount", "bn": "ছাড়", "pos": "noun" }] },
+            { "id": "04", "en": "We won't come back today.", "words": [{ "w": "come back", "bn": "ফিরে আসা", "pos": "phrasal verb" }] },
+            { "id": "05", "en": "Prices won't go down this week.", "words": [{ "w": "go down", "bn": "কমে যাওয়া", "pos": "phrasal verb" }] },
+            { "id": "06", "en": "I will not spend all my money.", "words": [{ "w": "spend", "bn": "খরচ করা", "pos": "verb" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Will + subject + verb (base) ...?",
+          "tipBn": "ভবিষ্যতের প্রশ্নে Will বাক্যের শুরুতে বসে।",
+          "items": [
+            { "id": "01", "en": "Will you take the blue one?", "words": [{ "w": "take", "bn": "নেওয়া", "pos": "verb" }] },
+            { "id": "02", "en": "Will Karim wrap the gift?", "words": [{ "w": "wrap", "bn": "মোড়ানো", "pos": "verb" }] },
+            { "id": "03", "en": "Will you come back tomorrow?", "words": [{ "w": "come back", "bn": "ফিরে আসা", "pos": "phrasal verb" }] },
+            { "id": "04", "en": "Will the shop be open on Friday?", "words": [{ "w": "open", "bn": "খোলা", "pos": "adjective" }] },
+            { "id": "05", "en": "Will you carry this bag for me?", "words": [{ "w": "carry", "bn": "বয়ে নেওয়া", "pos": "verb" }] },
+            { "id": "06", "en": "Will the new dresses arrive soon?", "words": [{ "w": "arrive", "bn": "আসা, পৌঁছানো", "pos": "verb" }, { "w": "soon", "bn": "শীঘ্রই", "pos": "adverb" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + will + subject + verb (base)?",
+          "tipBn": "Wh-শব্দের পরে will, তারপর subject আর verb-এর মূল রূপ বসে।",
+          "items": [
+            { "id": "01", "en": "Which one will you take?", "words": [{ "w": "Which one", "bn": "কোনটা", "pos": "phrase" }] },
+            { "id": "02", "en": "How will you pay?", "words": [{ "w": "pay", "bn": "দাম দেওয়া", "pos": "verb" }] },
+            { "id": "03", "en": "When will you come back?", "words": [{ "w": "come back", "bn": "ফিরে আসা", "pos": "phrasal verb" }] },
+            { "id": "04", "en": "What will you buy for Eid?", "words": [{ "w": "buy", "bn": "কেনা", "pos": "verb" }] },
+            { "id": "05", "en": "Where will we meet later?", "words": [{ "w": "meet", "bn": "দেখা করা", "pos": "verb" }, { "w": "later", "bn": "পরে", "pos": "adverb" }] },
+            { "id": "06", "en": "How much will ten mangoes cost?", "words": [{ "w": "cost", "bn": "দাম পড়া", "pos": "verb" }] }
+          ]
+        }
+      ]
+    }
+  ]
+}

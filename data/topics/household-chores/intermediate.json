@@ -1,0 +1,272 @@
+{
+  "topic": "household-chores",
+  "level": "intermediate",
+  "title": "A New Home in Dhanmondi",
+  "story": "Sabbir and Nusrat have just moved into an old flat in Dhanmondi with their daughter, Ayesha. They both work full time, so they share the housework. Rahima, their part-time helper, comes three mornings a week, and the old flat keeps everyone busy with repairs.",
+  "storyBn": "সাব্বির ও নুসরাত মেয়ে আয়েশাকে নিয়ে সম্প্রতি ধানমন্ডির একটি পুরনো ফ্ল্যাটে উঠেছে। দুজনেই পূর্ণকালীন চাকরি করে, তাই ঘরের কাজ ভাগ করে নেয়। খণ্ডকালীন সহকারী রহিমা সপ্তাহে তিন দিন সকালে আসেন, আর পুরনো ফ্ল্যাটের মেরামতের কাজে সবাই ব্যস্ত থাকে।",
+  "units": [
+    {
+      "grammar": "present-perfect",
+      "focus": "Talk about chores done so far and recent changes",
+      "focusBn": "এ পর্যন্ত কী কাজ হয়েছে ও সাম্প্রতিক পরিবর্তন বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + have/has + past participle (+ just / already / since / for).",
+          "tipBn": "অতীতে হওয়া কাজের প্রভাব এখনো আছে বোঝাতে have/has + past participle বসে।",
+          "items": [
+            { "id": "01", "en": "Sabbir has just unpacked the last box of kitchen things.", "words": [{ "w": "just", "bn": "এইমাত্র", "pos": "adverb" }, { "w": "unpacked", "bn": "বাক্স খুলে বের করেছে", "pos": "verb", "base": "unpack" }] },
+            { "id": "02", "en": "Nusrat has already scrubbed the old stains off the bathroom tiles.", "words": [{ "w": "already", "bn": "ইতিমধ্যে", "pos": "adverb" }, { "w": "scrubbed", "bn": "ঘষে তুলেছে", "pos": "verb", "base": "scrub" }, { "w": "tiles", "bn": "টাইলস", "pos": "noun" }] },
+            { "id": "03", "en": "Rahima has cleaned for the family since they moved in last month.", "words": [{ "w": "since", "bn": "থেকে", "pos": "conjunction" }, { "w": "moved in", "bn": "নতুন বাসায় উঠেছে", "pos": "phrasal verb", "base": "move in" }] },
+            { "id": "04", "en": "Ayesha has learned to fold her own clothes neatly.", "words": [{ "w": "fold", "bn": "ভাঁজ করা", "pos": "verb" }, { "w": "neatly", "bn": "পরিপাটি করে", "pos": "adverb" }] },
+            { "id": "05", "en": "We've replaced every light bulb in the flat with energy-saving ones.", "words": [{ "w": "replaced", "bn": "বদলে ফেলেছি", "pos": "verb", "base": "replace" }, { "w": "energy-saving", "bn": "বিদ্যুৎ-সাশ্রয়ী", "pos": "adjective" }] },
+            { "id": "06", "en": "The kitchen has become much brighter since we painted the walls.", "words": [{ "w": "brighter", "bn": "আরও উজ্জ্বল", "pos": "adjective", "base": "bright" }, { "w": "painted", "bn": "রং করেছি", "pos": "verb", "base": "paint" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + haven't/hasn't + past participle (+ yet). / Subject + has never + past participle.",
+          "tipBn": "haven't বা hasn't দিয়ে বোঝায় কাজটি এখনো হয়নি; yet সাধারণত বাক্যের শেষে বসে।",
+          "items": [
+            { "id": "01", "en": "Sabbir hasn't hung the curtains in the bedroom yet.", "words": [{ "w": "hung", "bn": "ঝুলিয়েছে", "pos": "verb", "base": "hang" }, { "w": "yet", "bn": "এখনো", "pos": "adverb" }] },
+            { "id": "02", "en": "We haven't found a good place for the washing machine.", "words": [{ "w": "found", "bn": "খুঁজে পেয়েছি", "pos": "verb", "base": "find" }, { "w": "washing machine", "bn": "কাপড় ধোয়ার মেশিন", "pos": "noun" }] },
+            { "id": "03", "en": "Nusrat has never cleaned such a dusty ceiling fan before.", "words": [{ "w": "dusty", "bn": "ধুলোমাখা", "pos": "adjective" }, { "w": "ceiling fan", "bn": "ছাদের পাখা", "pos": "noun" }] },
+            { "id": "04", "en": "The landlord hasn't fixed the leaking tap in the kitchen.", "words": [{ "w": "landlord", "bn": "বাড়িওয়ালা", "pos": "noun" }, { "w": "leaking", "bn": "চুঁইয়ে পড়া", "pos": "adjective" }] },
+            { "id": "05", "en": "Ayesha hasn't made her bed once this week.", "words": [{ "w": "made her bed", "bn": "বিছানা গুছিয়েছে", "pos": "phrase" }, { "w": "once", "bn": "একবারও", "pos": "adverb" }] },
+            { "id": "06", "en": "Rahima hasn't missed a single day of work since she started.", "words": [{ "w": "missed", "bn": "কামাই করেছে", "pos": "verb", "base": "miss" }, { "w": "single", "bn": "একটিও", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Have/Has + subject + past participle ... (yet / ever)?",
+          "tipBn": "প্রশ্ন করতে Have বা Has শুরুতে বসে; সাথে প্রায়ই ever বা yet থাকে।",
+          "items": [
+            { "id": "01", "en": "Have you taken out the kitchen trash yet?", "words": [{ "w": "taken out", "bn": "বাইরে ফেলেছ", "pos": "phrasal verb", "base": "take out" }, { "w": "trash", "bn": "ময়লা", "pos": "noun" }] },
+            { "id": "02", "en": "Has Rahima ever used a steam iron before?", "words": [{ "w": "ever", "bn": "কখনো", "pos": "adverb" }, { "w": "steam iron", "bn": "বাষ্পের ইস্ত্রি", "pos": "noun" }] },
+            { "id": "03", "en": "Has the plumber called back about the blocked drain?", "words": [{ "w": "called back", "bn": "ফিরতি ফোন করেছে", "pos": "phrasal verb", "base": "call back" }, { "w": "drain", "bn": "পানি যাওয়ার নালা", "pos": "noun" }] },
+            { "id": "04", "en": "Have we paid Rahima for this month yet?", "words": [{ "w": "paid", "bn": "টাকা দিয়েছি", "pos": "verb", "base": "pay" }, { "w": "yet", "bn": "এখনো", "pos": "adverb" }] },
+            { "id": "05", "en": "Has Ayesha fed the fish and watered her plants today?", "words": [{ "w": "fed", "bn": "খাবার দিয়েছে", "pos": "verb", "base": "feed" }, { "w": "watered", "bn": "পানি দিয়েছে", "pos": "verb", "base": "water" }] },
+            { "id": "06", "en": "Have you ever tried vinegar for cleaning glass?", "words": [{ "w": "tried", "bn": "ব্যবহার করে দেখেছ", "pos": "verb", "base": "try" }, { "w": "vinegar", "bn": "সিরকা", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + have/has + subject + past participle ...?",
+          "tipBn": "প্রশ্নবোধক শব্দের পরে have/has, তারপর subject ও past participle বসে।",
+          "items": [
+            { "id": "01", "en": "How long have you had this old vacuum cleaner?", "words": [{ "w": "How long", "bn": "কত দিন ধরে", "pos": "phrase" }, { "w": "vacuum cleaner", "bn": "ধুলা টানার যন্ত্র", "pos": "noun" }] },
+            { "id": "02", "en": "What have you done with the spare keys?", "words": [{ "w": "done with", "bn": "কী করেছ, কোথায় রেখেছ", "pos": "phrase" }, { "w": "spare", "bn": "বাড়তি, অতিরিক্ত", "pos": "adjective" }] },
+            { "id": "03", "en": "Where have you put the new packet of detergent?", "words": [{ "w": "packet", "bn": "প্যাকেট", "pos": "noun" }, { "w": "detergent", "bn": "কাপড় কাচার গুঁড়া সাবান", "pos": "noun" }] },
+            { "id": "04", "en": "Why hasn't anyone emptied the kitchen dustbin today?", "words": [{ "w": "anyone", "bn": "কেউ", "pos": "pronoun" }, { "w": "emptied", "bn": "খালি করেছে", "pos": "verb", "base": "empty" }, { "w": "dustbin", "bn": "ময়লার ঝুড়ি", "pos": "noun" }] },
+            { "id": "05", "en": "Who has left wet towels on the bed again?", "words": [{ "w": "left", "bn": "ফেলে রেখেছে", "pos": "verb", "base": "leave" }, { "w": "towels", "bn": "তোয়ালে", "pos": "noun" }] },
+            { "id": "06", "en": "How many times has the washing machine broken down this year?", "words": [{ "w": "How many times", "bn": "কতবার", "pos": "phrase" }, { "w": "broken down", "bn": "নষ্ট হয়েছে", "pos": "phrasal verb", "base": "break down" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short text in the present perfect: have/has + past participle.",
+          "tipBn": "অনুচ্ছেদের বেশিরভাগ বাক্য present perfect এ, এ পর্যন্ত কী হয়েছে তা বলে।",
+          "items": [
+            { "id": "01", "title": "Our first week", "en": "We have lived in this flat for only a week, but we have already done a lot. Sabbir has unpacked most of the boxes, and I have cleaned every cupboard in the kitchen. Ayesha has arranged her books on the new shelf. We haven't hung any pictures yet, but the place already feels like home.", "words": [{ "w": "unpacked", "bn": "বাক্স খুলে বের করেছে", "pos": "verb", "base": "unpack" }, { "w": "cupboard", "bn": "আলমারি", "pos": "noun" }, { "w": "arranged", "bn": "সাজিয়েছে", "pos": "verb", "base": "arrange" }, { "w": "feels like home", "bn": "নিজের বাড়ির মতো লাগে", "pos": "phrase" }] },
+            { "id": "02", "title": "Rahima's help", "en": "Rahima has worked with us since we moved in. She has made a huge difference to our daily routine. She has taught Ayesha how to sweep properly, and she has shown me a quick way to clean the windows. Honestly, I have never met anyone so hardworking.", "words": [{ "w": "made a huge difference", "bn": "বড় পরিবর্তন এনেছে", "pos": "phrase" }, { "w": "properly", "bn": "ঠিকভাবে", "pos": "adverb" }, { "w": "shown", "bn": "দেখিয়েছে", "pos": "verb", "base": "show" }, { "w": "hardworking", "bn": "পরিশ্রমী", "pos": "adjective" }] },
+            { "id": "03", "title": "Repairs so far", "en": "The flat is old, so several things have broken since we arrived. The kitchen tap has leaked twice, and a light switch in the bedroom has stopped working. Sabbir has fixed the switch himself, but we have called a plumber for the tap. So far, repairs have cost us about 3,000 taka.", "words": [{ "w": "leaked", "bn": "চুঁইয়ে পড়েছে", "pos": "verb", "base": "leak" }, { "w": "switch", "bn": "সুইচ", "pos": "noun" }, { "w": "plumber", "bn": "কলের মিস্ত্রি", "pos": "noun" }, { "w": "So far", "bn": "এ পর্যন্ত", "pos": "phrase" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-continuous",
+      "focus": "Describe what was happening when something went wrong",
+      "focusBn": "কোনো সমস্যা হওয়ার সময় কী চলছিল তা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + was/were + verb-ing + when / while ...",
+          "tipBn": "অতীতে চলমান কাজ বোঝাতে was/were + verb-ing বসে; মাঝখানে ঘটা ঘটনা past simple এ থাকে।",
+          "items": [
+            { "id": "01", "en": "Nusrat was mopping the kitchen floor when the doorbell rang.", "words": [{ "w": "mopping", "bn": "মুছছিল", "pos": "verb", "base": "mop" }, { "w": "doorbell", "bn": "কলিংবেল", "pos": "noun" }] },
+            { "id": "02", "en": "While Sabbir was washing the dishes, a glass slipped from his hands.", "words": [{ "w": "While", "bn": "যখন", "pos": "conjunction" }, { "w": "slipped", "bn": "পিছলে পড়ল", "pos": "verb", "base": "slip" }] },
+            { "id": "03", "en": "Ayesha was watering the balcony plants when it started to rain.", "words": [{ "w": "watering", "bn": "পানি দিচ্ছিল", "pos": "verb", "base": "water" }, { "w": "balcony", "bn": "বারান্দা", "pos": "noun" }] },
+            { "id": "04", "en": "Rahima was humming a song while she was ironing the shirts.", "words": [{ "w": "humming", "bn": "গুনগুন করছিল", "pos": "verb", "base": "hum" }, { "w": "ironing", "bn": "ইস্ত্রি করছিল", "pos": "verb", "base": "iron" }] },
+            { "id": "05", "en": "At nine o'clock last night, we were still clearing up after dinner.", "words": [{ "w": "still", "bn": "তখনো", "pos": "adverb" }, { "w": "clearing up", "bn": "গুছিয়ে পরিষ্কার করছিলাম", "pos": "phrasal verb", "base": "clear up" }] },
+            { "id": "06", "en": "The washing machine was shaking loudly while it was spinning the clothes.", "words": [{ "w": "shaking", "bn": "কাঁপছিল", "pos": "verb", "base": "shake" }, { "w": "loudly", "bn": "জোরে শব্দ করে", "pos": "adverb" }, { "w": "spinning", "bn": "ঘোরাচ্ছিল", "pos": "verb", "base": "spin" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + wasn't/weren't + verb-ing ... / Nobody + was + verb-ing ...",
+          "tipBn": "wasn't বা weren't দিয়ে বোঝায় সেই সময় কাজটি চলছিল না।",
+          "items": [
+            { "id": "01", "en": "Sabbir wasn't paying attention when the milk boiled over.", "words": [{ "w": "paying attention", "bn": "মনোযোগ দিচ্ছিল", "pos": "phrase" }, { "w": "boiled over", "bn": "উথলে পড়ল", "pos": "phrasal verb", "base": "boil over" }] },
+            { "id": "02", "en": "Ayesha wasn't tidying her room when I checked on her.", "words": [{ "w": "tidying", "bn": "গোছাচ্ছিল", "pos": "verb", "base": "tidy" }, { "w": "checked on", "bn": "খোঁজ নিলাম", "pos": "phrasal verb", "base": "check on" }] },
+            { "id": "03", "en": "We weren't expecting guests, so the living room was a mess.", "words": [{ "w": "expecting", "bn": "আশা করছিলাম", "pos": "verb", "base": "expect" }, { "w": "mess", "bn": "এলোমেলো অবস্থা", "pos": "noun" }] },
+            { "id": "04", "en": "The fridge wasn't working properly when we moved in.", "words": [{ "w": "properly", "bn": "ঠিকমতো", "pos": "adverb" }, { "w": "moved in", "bn": "বাসায় উঠলাম", "pos": "phrasal verb", "base": "move in" }] },
+            { "id": "05", "en": "Rahima wasn't feeling well, so she left early that day.", "words": [{ "w": "feeling well", "bn": "সুস্থ বোধ করা", "pos": "phrase" }, { "w": "left early", "bn": "তাড়াতাড়ি চলে গেল", "pos": "phrase" }] },
+            { "id": "06", "en": "Nobody was watching the rice, and it burned.", "words": [{ "w": "watching", "bn": "খেয়াল রাখছিল", "pos": "verb", "base": "watch" }, { "w": "burned", "bn": "পুড়ে গেল", "pos": "verb", "base": "burn" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Was/Were + subject + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে was বা were শুরুতে বসে, তারপর subject ও verb-ing।",
+          "items": [
+            { "id": "01", "en": "Were you vacuuming when I called you earlier?", "words": [{ "w": "vacuuming", "bn": "ধুলা টানার যন্ত্র চালাচ্ছিলে", "pos": "verb", "base": "vacuum" }, { "w": "earlier", "bn": "একটু আগে", "pos": "adverb" }] },
+            { "id": "02", "en": "Was Ayesha doing her chores while you were cooking?", "words": [{ "w": "chores", "bn": "ঘরের কাজ", "pos": "noun" }, { "w": "while", "bn": "যখন", "pos": "conjunction" }] },
+            { "id": "03", "en": "Was the water still running when you left the bathroom?", "words": [{ "w": "running", "bn": "পড়ছিল, চলছিল", "pos": "verb", "base": "run" }, { "w": "left", "bn": "বের হলে", "pos": "verb", "base": "leave" }] },
+            { "id": "04", "en": "Was Sabbir fixing the shelf when it fell down?", "words": [{ "w": "fixing", "bn": "ঠিক করছিল", "pos": "verb", "base": "fix" }, { "w": "fell down", "bn": "পড়ে গেল", "pos": "phrasal verb", "base": "fall down" }] },
+            { "id": "05", "en": "Was it raining when you hung the laundry outside?", "words": [{ "w": "hung", "bn": "মেলে দিলে", "pos": "verb", "base": "hang" }, { "w": "laundry", "bn": "ধোয়া কাপড়", "pos": "noun" }] },
+            { "id": "06", "en": "Were you two arguing about the dishes last night?", "words": [{ "w": "arguing", "bn": "তর্ক করছিলে", "pos": "verb", "base": "argue" }, { "w": "dishes", "bn": "থালাবাসন", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + was/were + subject + verb-ing ...?",
+          "tipBn": "প্রশ্নবোধক শব্দের পরে was/were, তারপর subject ও verb-ing বসে।",
+          "items": [
+            { "id": "01", "en": "What were you cooking when the smoke alarm went off?", "words": [{ "w": "smoke alarm", "bn": "ধোঁয়ার সতর্ক-ঘণ্টা", "pos": "noun" }, { "w": "went off", "bn": "বেজে উঠল", "pos": "phrasal verb", "base": "go off" }] },
+            { "id": "02", "en": "Why was Ayesha sweeping under her bed at midnight?", "words": [{ "w": "sweeping", "bn": "ঝাড়ু দিচ্ছিল", "pos": "verb", "base": "sweep" }, { "w": "midnight", "bn": "মধ্যরাত", "pos": "noun" }] },
+            { "id": "03", "en": "Where was Rahima standing when the cupboard door fell off?", "words": [{ "w": "cupboard", "bn": "আলমারি", "pos": "noun" }, { "w": "fell off", "bn": "খুলে পড়ল", "pos": "phrasal verb", "base": "fall off" }] },
+            { "id": "04", "en": "Who was using the iron before it stopped working?", "words": [{ "w": "iron", "bn": "ইস্ত্রি", "pos": "noun" }, { "w": "stopped working", "bn": "নষ্ট হয়ে গেল", "pos": "phrase" }] },
+            { "id": "05", "en": "Which room were you painting when the paint ran out?", "words": [{ "w": "painting", "bn": "রং করছিলে", "pos": "verb", "base": "paint" }, { "w": "ran out", "bn": "ফুরিয়ে গেল", "pos": "phrasal verb", "base": "run out" }] },
+            { "id": "06", "en": "What was making that strange noise in the kitchen last night?", "words": [{ "w": "strange", "bn": "অদ্ভুত", "pos": "adjective" }, { "w": "noise", "bn": "শব্দ", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short text in the past continuous: was/were + verb-ing.",
+          "tipBn": "অনুচ্ছেদে অতীতের চলমান কাজ was/were + verb-ing এ, আর হঠাৎ ঘটা ঘটনা past simple এ থাকে।",
+          "items": [
+            { "id": "01", "title": "The power cut", "en": "Last Friday evening, everyone was busy. I was cooking dinner, Sabbir was folding the laundry, and Ayesha was sweeping the balcony. Suddenly, the power went out and the whole flat went dark. We were still looking for candles when the lights came back on.", "words": [{ "w": "laundry", "bn": "ধোয়া কাপড়", "pos": "noun" }, { "w": "Suddenly", "bn": "হঠাৎ", "pos": "adverb" }, { "w": "power went out", "bn": "বিদ্যুৎ চলে গেল", "pos": "phrase" }, { "w": "candles", "bn": "মোমবাতি", "pos": "noun" }, { "w": "came back on", "bn": "আবার জ্বলে উঠল", "pos": "phrasal verb", "base": "come back on" }] },
+            { "id": "02", "title": "Water on the floor", "en": "On Tuesday morning, Rahima was cleaning the bathroom while I was getting ready for work. The old pipe under the sink was leaking badly, and water was spreading across the floor. We were trying to stop it with towels when the plumber finally arrived.", "words": [{ "w": "leaking", "bn": "চুঁইয়ে পড়ছিল", "pos": "verb", "base": "leak" }, { "w": "spreading", "bn": "ছড়িয়ে পড়ছিল", "pos": "verb", "base": "spread" }, { "w": "plumber", "bn": "কলের মিস্ত্রি", "pos": "noun" }, { "w": "finally", "bn": "অবশেষে", "pos": "adverb" }] },
+            { "id": "03", "title": "Ayesha's secret", "en": "Yesterday afternoon, Ayesha was acting strangely. While we were resting, she was quietly moving around the kitchen. She was washing all the dirty cups and wiping the counter by herself. She was planning a surprise for my birthday!", "words": [{ "w": "acting strangely", "bn": "অদ্ভুত আচরণ করছিল", "pos": "phrase" }, { "w": "quietly", "bn": "চুপচাপ", "pos": "adverb" }, { "w": "wiping", "bn": "মুছছিল", "pos": "verb", "base": "wipe" }, { "w": "by herself", "bn": "নিজে নিজে", "pos": "phrase" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "modals",
+      "focus": "Give advice, rules and duties for housework",
+      "focusBn": "ঘরের কাজে পরামর্শ, নিয়ম ও দায়িত্ব বোঝানো",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + should / must / have to / might / could + verb (base).",
+          "tipBn": "should পরামর্শ, must ও have to বাধ্যবাধকতা, might ও could সম্ভাবনা বোঝায়; পরে verb মূল রূপে বসে।",
+          "items": [
+            { "id": "01", "en": "You should rinse the plates before you put them in the rack.", "words": [{ "w": "rinse", "bn": "হালকা ধুয়ে নেওয়া", "pos": "verb" }, { "w": "rack", "bn": "থালা রাখার তাক", "pos": "noun" }] },
+            { "id": "02", "en": "We must always turn off the gas stove after cooking.", "words": [{ "w": "turn off", "bn": "বন্ধ করা", "pos": "phrasal verb" }, { "w": "gas stove", "bn": "গ্যাসের চুলা", "pos": "noun" }] },
+            { "id": "03", "en": "Ayesha has to feed the fish every morning before school.", "words": [{ "w": "has to", "bn": "করতেই হয়", "pos": "phrase" }, { "w": "feed", "bn": "খাবার দেওয়া", "pos": "verb" }] },
+            { "id": "04", "en": "The landlord might send someone to fix the tap tomorrow.", "words": [{ "w": "might", "bn": "হয়তো", "pos": "verb" }, { "w": "landlord", "bn": "বাড়িওয়ালা", "pos": "noun" }] },
+            { "id": "05", "en": "You could use baking soda to remove that smell.", "words": [{ "w": "baking soda", "bn": "খাবার সোডা", "pos": "noun" }, { "w": "remove", "bn": "দূর করা", "pos": "verb" }, { "w": "smell", "bn": "গন্ধ", "pos": "noun" }] },
+            { "id": "06", "en": "Rahima may need to take a few days off next month.", "words": [{ "w": "may", "bn": "হয়তো", "pos": "verb" }, { "w": "take a few days off", "bn": "কয়েক দিন ছুটি নেওয়া", "pos": "phrase" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + shouldn't / mustn't / can't / don't have to + verb (base).",
+          "tipBn": "mustn't মানে করা নিষেধ, কিন্তু don't have to মানে করার দরকার নেই।",
+          "items": [
+            { "id": "01", "en": "You shouldn't mix bleach with other cleaning products.", "words": [{ "w": "mix", "bn": "মেশানো", "pos": "verb" }, { "w": "bleach", "bn": "ব্লিচ", "pos": "noun" }, { "w": "cleaning products", "bn": "পরিষ্কারক পণ্য", "pos": "noun" }] },
+            { "id": "02", "en": "Ayesha mustn't touch the electric sockets with wet hands.", "words": [{ "w": "mustn't", "bn": "কিছুতেই উচিত নয়", "pos": "verb" }, { "w": "sockets", "bn": "বিদ্যুতের সকেট", "pos": "noun" }] },
+            { "id": "03", "en": "You don't have to iron the bedsheets every week.", "words": [{ "w": "don't have to", "bn": "দরকার নেই", "pos": "phrase" }, { "w": "bedsheets", "bn": "বিছানার চাদর", "pos": "noun" }] },
+            { "id": "04", "en": "We can't leave the windows open during the rainy season.", "words": [{ "w": "leave", "bn": "রেখে দেওয়া", "pos": "verb" }, { "w": "rainy season", "bn": "বর্ষাকাল", "pos": "noun" }] },
+            { "id": "05", "en": "The plumber might not come until Sunday afternoon.", "words": [{ "w": "might not", "bn": "হয়তো না", "pos": "phrase" }, { "w": "until", "bn": "পর্যন্ত", "pos": "preposition" }] },
+            { "id": "06", "en": "Sabbir doesn't need to buy another mop because we already have two.", "words": [{ "w": "doesn't need to", "bn": "প্রয়োজন নেই", "pos": "phrase" }, { "w": "another", "bn": "আরেকটি", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Should / Can / Could / May + subject + verb (base) ...? / Do + subject + have to ...?",
+          "tipBn": "modal দিয়ে প্রশ্নে modal শুরুতে বসে; have to এর প্রশ্নে Do বা Does লাগে।",
+          "items": [
+            { "id": "01", "en": "Should we hire someone to deep-clean the kitchen?", "words": [{ "w": "hire", "bn": "কাজে রাখা", "pos": "verb" }, { "w": "deep-clean", "bn": "খুঁটিয়ে পরিষ্কার করা", "pos": "verb" }] },
+            { "id": "02", "en": "Do I have to wear gloves when I use this spray?", "words": [{ "w": "have to", "bn": "বাধ্য হওয়া, লাগা", "pos": "phrase" }, { "w": "gloves", "bn": "দস্তানা", "pos": "noun" }] },
+            { "id": "03", "en": "Can you help me move the fridge away from the wall?", "words": [{ "w": "move", "bn": "সরানো", "pos": "verb" }, { "w": "away from", "bn": "থেকে দূরে", "pos": "preposition" }] },
+            { "id": "04", "en": "Could Rahima possibly come on Saturday instead of Sunday?", "words": [{ "w": "possibly", "bn": "কোনোভাবে", "pos": "adverb" }, { "w": "instead of", "bn": "এর বদলে", "pos": "preposition" }] },
+            { "id": "05", "en": "Should Ayesha get pocket money for doing chores?", "words": [{ "w": "pocket money", "bn": "হাতখরচ", "pos": "noun" }, { "w": "chores", "bn": "ঘরের কাজ", "pos": "noun" }] },
+            { "id": "06", "en": "May I borrow your ladder to change the bulb?", "words": [{ "w": "borrow", "bn": "ধার নেওয়া", "pos": "verb" }, { "w": "ladder", "bn": "মই", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "tag-question",
+          "pattern": "Statement with a modal, + opposite tag (modal + pronoun)?",
+          "tipBn": "হ্যাঁ-বোধক বাক্যের পরে না-বোধক tag, আর না-বোধক বাক্যের পরে হ্যাঁ-বোধক tag বসে।",
+          "items": [
+            { "id": "01", "en": "We should defrost the fridge this weekend, shouldn't we?", "words": [{ "w": "defrost", "bn": "জমা বরফ গলানো", "pos": "verb" }, { "w": "shouldn't we", "bn": "তাই না?", "pos": "phrase" }] },
+            { "id": "02", "en": "Ayesha can make her own bed now, can't she?", "words": [{ "w": "make her own bed", "bn": "নিজের বিছানা নিজে গোছানো", "pos": "phrase" }, { "w": "can't she", "bn": "পারে না?", "pos": "phrase" }] },
+            { "id": "03", "en": "You have to separate the whites from the colors, don't you?", "words": [{ "w": "separate", "bn": "আলাদা করা", "pos": "verb" }, { "w": "whites", "bn": "সাদা কাপড়", "pos": "noun" }] },
+            { "id": "04", "en": "Rahima shouldn't lift heavy furniture alone, should she?", "words": [{ "w": "lift", "bn": "তোলা", "pos": "verb" }, { "w": "furniture", "bn": "আসবাবপত্র", "pos": "noun" }] },
+            { "id": "05", "en": "The landlord has to repair the leaking roof, doesn't he?", "words": [{ "w": "repair", "bn": "মেরামত করা", "pos": "verb" }, { "w": "roof", "bn": "ছাদ", "pos": "noun" }] },
+            { "id": "06", "en": "We could ask the neighbors to lend us a drill, couldn't we?", "words": [{ "w": "lend", "bn": "ধার দেওয়া", "pos": "verb" }, { "w": "drill", "bn": "ড্রিল মেশিন", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short text with modals: should, must, have to, might, could.",
+          "tipBn": "অনুচ্ছেদে পরামর্শ, নিয়ম ও সম্ভাবনা বোঝাতে বিভিন্ন modal ব্যবহার হয়েছে।",
+          "items": [
+            { "id": "01", "title": "House rules", "en": "In our home, everyone has to do something. Ayesha must put her toys away before bed, and she should help me set the table. Sabbir has to take out the trash every night. I don't have to cook on weekends because Sabbir likes to make breakfast.", "words": [{ "w": "must", "bn": "অবশ্যই করতে হবে", "pos": "verb" }, { "w": "set the table", "bn": "খাবার টেবিল সাজানো", "pos": "phrase" }, { "w": "take out", "bn": "বাইরে ফেলা", "pos": "phrasal verb" }, { "w": "don't have to", "bn": "দরকার নেই", "pos": "phrase" }] },
+            { "id": "02", "title": "Rahima's tips", "en": "Rahima gave me some useful tips. You should always dust the shelves before you sweep the floor, because dust falls down. You shouldn't use too much detergent, or the clothes might feel stiff. And you must open the windows when you use strong cleaners.", "words": [{ "w": "tips", "bn": "পরামর্শ", "pos": "noun" }, { "w": "dust", "bn": "ধুলা ঝাড়া", "pos": "verb" }, { "w": "detergent", "bn": "কাপড় কাচার গুঁড়া সাবান", "pos": "noun" }, { "w": "stiff", "bn": "শক্ত, খসখসে", "pos": "adjective" }, { "w": "cleaners", "bn": "পরিষ্কারক", "pos": "noun" }] },
+            { "id": "03", "title": "A dripping tap", "en": "The kitchen tap is dripping again, and it could waste a lot of water. Sabbir thinks he can fix it himself, but I'm not sure. He might need a new washer, and he should turn off the main water supply first. Otherwise, we may have to call a plumber.", "words": [{ "w": "dripping", "bn": "ফোঁটা ফোঁটা পড়ছে", "pos": "verb", "base": "drip" }, { "w": "waste", "bn": "অপচয় করা", "pos": "verb" }, { "w": "washer", "bn": "রাবারের ওয়াশার", "pos": "noun" }, { "w": "main water supply", "bn": "পানির মূল লাইন", "pos": "noun" }, { "w": "Otherwise", "bn": "তা না হলে", "pos": "adverb" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Talk about real and imagined situations at home",
+      "focusBn": "ঘরের বাস্তব ও কাল্পনিক পরিস্থিতি নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + present, will + verb. / If + past, would + verb.",
+          "tipBn": "বাস্তব সম্ভাবনায় If + present ও will, আর কাল্পনিক অবস্থায় If + past ও would বসে।",
+          "items": [
+            { "id": "01", "en": "If you soak the pan overnight, it will be easy to clean.", "words": [{ "w": "soak", "bn": "ভিজিয়ে রাখা", "pos": "verb" }, { "w": "overnight", "bn": "সারা রাত", "pos": "adverb" }] },
+            { "id": "02", "en": "If Ayesha tidies her room without being asked, we'll order pizza tonight.", "words": [{ "w": "tidies", "bn": "গোছায়", "pos": "verb", "base": "tidy" }, { "w": "without being asked", "bn": "কেউ বলার আগেই", "pos": "phrase" }] },
+            { "id": "03", "en": "If we had a bigger balcony, we would dry our clothes there.", "words": [{ "w": "bigger", "bn": "আরও বড়", "pos": "adjective", "base": "big" }, { "w": "dry", "bn": "শুকানো", "pos": "verb" }] },
+            { "id": "04", "en": "If I were you, I would call the landlord today.", "words": [{ "w": "If I were you", "bn": "আমি তোমার জায়গায় হলে", "pos": "phrase" }, { "w": "landlord", "bn": "বাড়িওয়ালা", "pos": "noun" }] },
+            { "id": "05", "en": "If Rahima comes early tomorrow, she will wash the curtains.", "words": [{ "w": "early", "bn": "সকাল সকাল", "pos": "adverb" }, { "w": "curtains", "bn": "পর্দা", "pos": "noun" }] },
+            { "id": "06", "en": "We would buy a dishwasher if the kitchen had more space.", "words": [{ "w": "dishwasher", "bn": "থালা ধোয়ার মেশিন", "pos": "noun" }, { "w": "space", "bn": "জায়গা", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + don't/didn't ..., will/would ... / ... won't/wouldn't ... if ...",
+          "tipBn": "শর্ত বা ফলাফলের যেকোনো অংশে not বসিয়ে না-বোধক শর্তবাক্য হয়।",
+          "items": [
+            { "id": "01", "en": "If you don't dry the floor, someone will slip.", "words": [{ "w": "dry", "bn": "শুকানো", "pos": "verb" }, { "w": "slip", "bn": "পিছলে পড়া", "pos": "verb" }] },
+            { "id": "02", "en": "If we didn't share the chores, I wouldn't have any free time.", "words": [{ "w": "share", "bn": "ভাগ করা", "pos": "verb" }, { "w": "free time", "bn": "অবসর সময়", "pos": "noun" }] },
+            { "id": "03", "en": "The stain won't come out if you use cold water.", "words": [{ "w": "stain", "bn": "দাগ", "pos": "noun" }, { "w": "come out", "bn": "উঠে যাওয়া", "pos": "phrasal verb" }] },
+            { "id": "04", "en": "If the landlord doesn't repair the roof, water will leak in again.", "words": [{ "w": "repair", "bn": "মেরামত করা", "pos": "verb" }, { "w": "leak in", "bn": "চুঁইয়ে ভেতরে ঢোকা", "pos": "phrasal verb" }] },
+            { "id": "05", "en": "Ayesha wouldn't complain so much if the chores were more fun.", "words": [{ "w": "complain", "bn": "অভিযোগ করা", "pos": "verb" }, { "w": "fun", "bn": "মজার", "pos": "adjective" }] },
+            { "id": "06", "en": "If I didn't have Rahima's help, I couldn't manage work and housework.", "words": [{ "w": "manage", "bn": "সামলানো", "pos": "verb" }, { "w": "housework", "bn": "ঘরের কাজ", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh-word + will/would + subject + verb + if ...?",
+          "tipBn": "প্রশ্নবোধক শব্দ দিয়ে শুরু করে will বা would এর পরে if অংশ যোগ হয়।",
+          "items": [
+            { "id": "01", "en": "What will you do if the washing machine breaks down again?", "words": [{ "w": "washing machine", "bn": "কাপড় ধোয়ার মেশিন", "pos": "noun" }, { "w": "breaks down", "bn": "নষ্ট হয়ে যায়", "pos": "phrasal verb", "base": "break down" }] },
+            { "id": "02", "en": "What would you change if you could redesign our kitchen?", "words": [{ "w": "change", "bn": "বদলানো", "pos": "verb" }, { "w": "redesign", "bn": "নতুন করে সাজানো", "pos": "verb" }] },
+            { "id": "03", "en": "Who will look after the plants if we go away next week?", "words": [{ "w": "look after", "bn": "যত্ন নেওয়া", "pos": "phrasal verb" }, { "w": "go away", "bn": "বাইরে বেড়াতে যাওয়া", "pos": "phrasal verb" }] },
+            { "id": "04", "en": "Where would we keep the bicycle if we moved to a smaller flat?", "words": [{ "w": "keep", "bn": "রাখা", "pos": "verb" }, { "w": "moved", "bn": "বাসা বদলাতাম", "pos": "verb", "base": "move" }] },
+            { "id": "05", "en": "How would you feel if Ayesha did all the dishes by herself?", "words": [{ "w": "feel", "bn": "অনুভব করা", "pos": "verb" }, { "w": "by herself", "bn": "নিজে নিজে", "pos": "phrase" }] },
+            { "id": "06", "en": "Which chore would you give up if you could?", "words": [{ "w": "chore", "bn": "ঘরের কাজ", "pos": "noun" }, { "w": "give up", "bn": "ছেড়ে দেওয়া", "pos": "phrasal verb" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short text with first or second conditional sentences.",
+          "tipBn": "অনুচ্ছেদে If দিয়ে বাস্তব বা কাল্পনিক শর্ত এবং তার ফলাফল বলা হয়েছে।",
+          "items": [
+            { "id": "01", "title": "Rahima's kitchen rule", "en": "Rahima has a simple rule for the kitchen. If you wash the pots right after cooking, the grease will come off easily. If you leave them until morning, you will need hot water and a lot of scrubbing. So she always cleans as she cooks.", "words": [{ "w": "pots", "bn": "হাঁড়িপাতিল", "pos": "noun" }, { "w": "grease", "bn": "তেল-চর্বি", "pos": "noun" }, { "w": "come off", "bn": "উঠে যাওয়া", "pos": "phrasal verb" }, { "w": "scrubbing", "bn": "ঘষামাজা", "pos": "noun" }] },
+            { "id": "02", "title": "A dream kitchen", "en": "Our kitchen is tiny and dark. If it were bigger, I would put a dining table in the corner. If we had more money, we would install a proper chimney to take away the smoke. And if I had a dishwasher, I would never complain about the dishes again.", "words": [{ "w": "tiny", "bn": "খুব ছোট", "pos": "adjective" }, { "w": "install", "bn": "লাগানো, বসানো", "pos": "verb" }, { "w": "proper", "bn": "ঠিকঠাক, মানসম্মত", "pos": "adjective" }, { "w": "chimney", "bn": "রান্নাঘরের চিমনি", "pos": "noun" }] },
+            { "id": "03", "title": "A trip to Sylhet", "en": "We want to visit my parents in Sylhet next month. If we go for a week, Rahima will water the plants and check the flat. If it rains heavily, she will close all the windows. And if anything breaks, she will call Sabbir's cousin, who lives nearby.", "words": [{ "w": "check", "bn": "দেখে যাওয়া", "pos": "verb" }, { "w": "heavily", "bn": "প্রবলভাবে", "pos": "adverb" }, { "w": "breaks", "bn": "নষ্ট হয়ে যায়", "pos": "verb", "base": "break" }, { "w": "nearby", "bn": "কাছেই", "pos": "adverb" }] }
+          ]
+        }
+      ]
+    }
+  ]
+}

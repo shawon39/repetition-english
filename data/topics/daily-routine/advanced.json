@@ -1,0 +1,272 @@
+{
+  "topic": "daily-routine",
+  "level": "advanced",
+  "title": "A Remote Life in Toronto",
+  "story": "Farhana Rahman, a data analyst from Dhaka, moved to Toronto three years ago. She works remotely for a company in London, so her day is shaped by time zones. Her husband Arif is a nurse who often works night shifts, and together they are trying to build healthier habits.",
+  "storyBn": "ঢাকার মেয়ে ফারহানা রহমান একজন ডেটা অ্যানালিস্ট; তিন বছর আগে সে টরন্টোতে চলে এসেছে। সে লন্ডনের একটি কোম্পানির হয়ে দূর থেকে কাজ করে, তাই তার দিন চলে সময়ের ব্যবধানের হিসাবে। তার স্বামী আরিফ একজন নার্স, প্রায়ই রাতের শিফটে কাজ করে। দুজনে মিলে তারা স্বাস্থ্যকর অভ্যাস গড়ে তোলার চেষ্টা করছে।",
+  "units": [
+    {
+      "grammar": "present-perfect-continuous",
+      "focus": "Habits and efforts that have been going on for a while",
+      "focusBn": "কিছুদিন ধরে চলতে থাকা অভ্যাস ও প্রচেষ্টা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + have / has been + verb-ing (+ for / since / lately).",
+          "tipBn": "অতীতে শুরু হয়ে এখনো চলছে এমন কাজ বোঝাতে have/has been + verb-ing হয়, সাথে প্রায়ই for বা since থাকে।",
+          "items": [
+            { "id": "01", "en": "Farhana has been waking up at 5:30 for three months so that she can overlap with her London team.", "words": [{ "w": "waking up", "bn": "ঘুম থেকে ওঠা", "pos": "phrasal verb", "base": "wake up" }, { "w": "so that", "bn": "যাতে", "pos": "conjunction" }, { "w": "overlap with", "bn": "কাজের সময় মেলানো", "pos": "phrasal verb" }] },
+            { "id": "02", "en": "She has been keeping a sleep diary since her doctor mentioned signs of burnout.", "words": [{ "w": "keeping", "bn": "রাখছে", "pos": "verb", "base": "keep" }, { "w": "sleep diary", "bn": "ঘুমের ডায়েরি", "pos": "noun" }, { "w": "burnout", "bn": "কাজের চাপে অবসাদ", "pos": "noun" }] },
+            { "id": "03", "en": "Arif has been working night shifts at the hospital all month, so they barely see each other.", "words": [{ "w": "barely", "bn": "খুব কমই", "pos": "adverb" }, { "w": "each other", "bn": "একে অপরকে", "pos": "pronoun" }] },
+            { "id": "04", "en": "Lately, Farhana has been blocking two hours every morning for deep, uninterrupted work.", "words": [{ "w": "lately", "bn": "ইদানীং", "pos": "adverb" }, { "w": "blocking", "bn": "আলাদা করে রাখছে", "pos": "verb", "base": "block" }, { "w": "uninterrupted", "bn": "নিরবচ্ছিন্ন", "pos": "adjective" }] },
+            { "id": "05", "en": "The couple has been experimenting with a digital curfew after 10 o'clock at night.", "words": [{ "w": "experimenting with", "bn": "পরীক্ষা করে দেখছে", "pos": "phrasal verb", "base": "experiment with" }, { "w": "digital curfew", "bn": "রাতে স্ক্রিন বন্ধের নিয়ম", "pos": "noun" }] },
+            { "id": "06", "en": "She has been drinking far less coffee since she noticed how badly it affected her sleep.", "words": [{ "w": "far less", "bn": "অনেক কম", "pos": "phrase" }, { "w": "affected", "bn": "প্রভাব ফেলেছিল", "pos": "verb", "base": "affect" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + haven't / hasn't been + verb-ing (+ for / since / lately).",
+          "tipBn": "কিছুদিন ধরে কোনো কাজ হচ্ছে না বোঝাতে haven't/hasn't been + verb-ing হয়।",
+          "items": [
+            { "id": "01", "en": "Farhana hasn't been sleeping well since the clocks went back in November.", "words": [{ "w": "sleeping well", "bn": "ভালো ঘুম হওয়া", "pos": "phrase", "base": "sleep well" }, { "w": "clocks went back", "bn": "ঘড়ির সময় পিছিয়েছে", "pos": "phrase", "base": "clocks go back" }] },
+            { "id": "02", "en": "She hasn't been taking proper lunch breaks, which explains her afternoon headaches.", "words": [{ "w": "proper", "bn": "ঠিকঠাক", "pos": "adjective" }, { "w": "explains", "bn": "ব্যাখ্যা করে", "pos": "verb", "base": "explain" }, { "w": "headaches", "bn": "মাথাব্যথা", "pos": "noun", "base": "headache" }] },
+            { "id": "03", "en": "Arif hasn't been getting enough daylight because he sleeps through most of the day.", "words": [{ "w": "daylight", "bn": "দিনের আলো", "pos": "noun" }, { "w": "sleeps through", "bn": "ঘুমিয়ে কাটায়", "pos": "phrasal verb", "base": "sleep through" }] },
+            { "id": "04", "en": "They haven't been eating dinner together as often as they used to.", "words": [{ "w": "as often as", "bn": "যত ঘন ঘন", "pos": "phrase" }, { "w": "used to", "bn": "আগে করত", "pos": "phrase" }] },
+            { "id": "05", "en": "Her team hasn't been respecting her working hours; messages keep arriving at four in the morning.", "words": [{ "w": "respecting", "bn": "মেনে চলছে", "pos": "verb", "base": "respect" }, { "w": "keep arriving", "bn": "আসতেই থাকে", "pos": "phrase" }] },
+            { "id": "06", "en": "Farhana hasn't been going to the gym lately, but she has been walking along the lakeshore instead.", "words": [{ "w": "lately", "bn": "ইদানীং", "pos": "adverb" }, { "w": "lakeshore", "bn": "হ্রদের তীর", "pos": "noun" }, { "w": "instead", "bn": "তার বদলে", "pos": "adverb" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Have / Has + subject + been + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে Have/Has শুরুতে বসে, তারপর subject, been ও verb-ing।",
+          "items": [
+            { "id": "01", "en": "Have you been using that habit-tracking app you downloaded back in January?", "words": [{ "w": "habit-tracking", "bn": "অভ্যাসের হিসাব রাখার", "pos": "adjective" }, { "w": "downloaded", "bn": "ডাউনলোড করেছিলে", "pos": "verb", "base": "download" }] },
+            { "id": "02", "en": "Has Arif been sleeping any better since he bought blackout curtains for the bedroom?", "words": [{ "w": "any better", "bn": "একটু ভালো", "pos": "phrase" }, { "w": "blackout curtains", "bn": "আলো আটকানো পর্দা", "pos": "noun" }] },
+            { "id": "03", "en": "Has Farhana been answering work messages on weekends again, even though she promised to stop?", "words": [{ "w": "even though", "bn": "যদিও", "pos": "conjunction" }, { "w": "promised", "bn": "কথা দিয়েছিল", "pos": "verb", "base": "promise" }] },
+            { "id": "04", "en": "Have you two been talking about moving to a city with a shorter commute?", "words": [{ "w": "you two", "bn": "তোমরা দুজন", "pos": "phrase" }, { "w": "commute", "bn": "যাতায়াত", "pos": "noun" }] },
+            { "id": "05", "en": "Has the new standing desk been helping with the back pain you mentioned last month?", "words": [{ "w": "standing desk", "bn": "দাঁড়িয়ে কাজ করার ডেস্ক", "pos": "noun" }, { "w": "mentioned", "bn": "উল্লেখ করেছিলে", "pos": "verb", "base": "mention" }] },
+            { "id": "06", "en": "Have you been meditating every morning, or only when you feel stressed?", "words": [{ "w": "meditating", "bn": "ধ্যান করা", "pos": "verb", "base": "meditate" }, { "w": "stressed", "bn": "মানসিক চাপে", "pos": "adjective" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + have / has + subject + been + verb-ing?",
+          "tipBn": "How long দিয়ে জানতে চাওয়া হয় কাজটি কতদিন ধরে চলছে।",
+          "items": [
+            { "id": "01", "en": "How long have you been working from home, and do you still enjoy it?", "words": [{ "w": "working from home", "bn": "বাসা থেকে কাজ করা", "pos": "phrase" }, { "w": "enjoy", "bn": "উপভোগ করা", "pos": "verb" }] },
+            { "id": "02", "en": "Why has Farhana been feeling so drained by the end of each week?", "words": [{ "w": "drained", "bn": "নিঃশেষ, অবসন্ন", "pos": "adjective" }, { "w": "by the end of", "bn": "শেষ নাগাদ", "pos": "phrase" }] },
+            { "id": "03", "en": "What have you been doing to switch off after a long day of video calls?", "words": [{ "w": "switch off", "bn": "কাজ থেকে মন সরানো", "pos": "phrasal verb" }, { "w": "video calls", "bn": "ভিডিও কল", "pos": "noun", "base": "video call" }] },
+            { "id": "04", "en": "Who has been picking up the groceries since Arif switched to night shifts?", "words": [{ "w": "picking up", "bn": "কিনে আনা", "pos": "phrasal verb", "base": "pick up" }, { "w": "groceries", "bn": "বাজার-সদাই", "pos": "noun" }, { "w": "switched to", "bn": "বদলে নিয়েছে", "pos": "phrasal verb", "base": "switch to" }] },
+            { "id": "05", "en": "How much sleep have you actually been getting on weeknights since the project began?", "words": [{ "w": "actually", "bn": "আসলে", "pos": "adverb" }, { "w": "weeknights", "bn": "কাজের দিনের রাত", "pos": "noun", "base": "weeknight" }] },
+            { "id": "06", "en": "Which productivity methods have you been trying, and which ones have actually worked?", "words": [{ "w": "productivity", "bn": "কাজের দক্ষতা", "pos": "noun" }, { "w": "methods", "bn": "পদ্ধতি", "pos": "noun", "base": "method" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4 to 6 sentences, mostly have / has been + verb-ing.",
+          "tipBn": "অনুচ্ছেদে কিছুদিন ধরে চলা অভ্যাস ও চেষ্টা বর্ণনা করতে বেশিরভাগ বাক্যে present perfect continuous থাকে।",
+          "items": [
+            { "id": "01", "title": "The early shift", "en": "For the past three months, Farhana has been starting her day before sunrise. Because her company is based in London, she has been scheduling her most important calls for the early morning. She has been going to bed by 9:30, which has meant turning down evening invitations from friends. Surprisingly, she has been feeling more focused than ever. Still, she wonders how long she can keep it up.", "words": [{ "w": "sunrise", "bn": "সূর্যোদয়", "pos": "noun" }, { "w": "scheduling", "bn": "সময় ঠিক করছে", "pos": "verb", "base": "schedule" }, { "w": "turning down", "bn": "ফিরিয়ে দেওয়া", "pos": "phrasal verb", "base": "turn down" }, { "w": "invitations", "bn": "দাওয়াত", "pos": "noun", "base": "invitation" }, { "w": "focused", "bn": "মনোযোগী", "pos": "adjective" }, { "w": "keep it up", "bn": "চালিয়ে যাওয়া", "pos": "idiom" }] },
+            { "id": "02", "title": "Two schedules, one home", "en": "Arif has been working nights at a Toronto hospital since September. He has been coming home at eight in the morning, just as Farhana is finishing her first meeting. They have been leaving sticky notes on the fridge to stay in touch. On his days off, they have been trying to share at least one meal. It hasn't been easy, but they have been learning to value small moments together.", "words": [{ "w": "working nights", "bn": "রাতে কাজ করা", "pos": "phrase", "base": "work nights" }, { "w": "sticky notes", "bn": "আঠালো চিরকুট", "pos": "noun", "base": "sticky note" }, { "w": "stay in touch", "bn": "যোগাযোগ রাখা", "pos": "phrase" }, { "w": "days off", "bn": "ছুটির দিন", "pos": "noun", "base": "day off" }, { "w": "value", "bn": "মূল্য দেওয়া", "pos": "verb" }] },
+            { "id": "03", "title": "Breaking the scroll habit", "en": "Farhana has been trying to break her habit of scrolling through social media in bed. For two weeks, she has been charging her phone in the kitchen instead of on her nightstand. She has been reading paper books again, and she has been falling asleep noticeably faster. Arif, meanwhile, has been teasing her about her old-fashioned alarm clock.", "words": [{ "w": "break her habit", "bn": "অভ্যাস ছাড়া", "pos": "phrase", "base": "break a habit" }, { "w": "nightstand", "bn": "বিছানার পাশের টেবিল", "pos": "noun" }, { "w": "noticeably", "bn": "লক্ষণীয়ভাবে", "pos": "adverb" }, { "w": "meanwhile", "bn": "এদিকে", "pos": "adverb" }, { "w": "teasing", "bn": "খেপাচ্ছে", "pos": "verb", "base": "tease" }, { "w": "old-fashioned", "bn": "সেকেলে", "pos": "adjective" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-perfect",
+      "focus": "What had already happened before key moments of the day",
+      "focusBn": "দিনের গুরুত্বপূর্ণ মুহূর্তের আগেই যা ঘটে গিয়েছিল",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + had + past participle (+ by the time / before / after / when ...).",
+          "tipBn": "অতীতের দুটি ঘটনার মধ্যে যেটি আগে ঘটেছিল, সেটিতে had + past participle হয়।",
+          "items": [
+            { "id": "01", "en": "By the time Farhana woke up, her London colleagues had already sent dozens of messages.", "words": [{ "w": "by the time", "bn": "যতক্ষণে", "pos": "phrase" }, { "w": "colleagues", "bn": "সহকর্মী", "pos": "noun", "base": "colleague" }, { "w": "dozens of", "bn": "অনেকগুলো, ডজন ডজন", "pos": "phrase" }] },
+            { "id": "02", "en": "Arif had just fallen asleep when the construction work started next door.", "words": [{ "w": "fallen asleep", "bn": "ঘুমিয়ে পড়েছিল", "pos": "phrase", "base": "fall asleep" }, { "w": "construction", "bn": "নির্মাণ", "pos": "noun" }, { "w": "next door", "bn": "পাশের বাড়িতে", "pos": "adverb" }] },
+            { "id": "03", "en": "She realized she had left her laptop charger at the co-working space.", "words": [{ "w": "realized", "bn": "বুঝতে পারল", "pos": "verb", "base": "realize" }, { "w": "co-working space", "bn": "যৌথ কর্মস্থল", "pos": "noun" }] },
+            { "id": "04", "en": "After she had finished her morning run, she felt ready for the toughest meeting of the week.", "words": [{ "w": "run", "bn": "দৌড়", "pos": "noun" }, { "w": "toughest", "bn": "সবচেয়ে কঠিন", "pos": "adjective", "base": "tough" }] },
+            { "id": "05", "en": "Before moving to Canada, Farhana had worked in a busy Dhaka office with a two-hour commute.", "words": [{ "w": "moving to", "bn": "চলে যাওয়া", "pos": "phrase", "base": "move to" }, { "w": "commute", "bn": "যাতায়াত", "pos": "noun" }] },
+            { "id": "06", "en": "Arif had set three alarms because he had overslept the week before.", "words": [{ "w": "overslept", "bn": "বেশি ঘুমিয়ে দেরি করেছিল", "pos": "verb", "base": "oversleep" }, { "w": "the week before", "bn": "তার আগের সপ্তাহে", "pos": "phrase" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hadn't / had never + past participle.",
+          "tipBn": "অতীতের কোনো সময়ের আগে কাজটি হয়নি বোঝাতে hadn't বা had never + past participle হয়।",
+          "items": [
+            { "id": "01", "en": "Farhana hadn't eaten anything by noon, so she felt dizzy during the client call.", "words": [{ "w": "dizzy", "bn": "মাথা ঘোরা", "pos": "adjective" }, { "w": "client", "bn": "ক্লায়েন্ট, গ্রাহক", "pos": "noun" }] },
+            { "id": "02", "en": "Arif hadn't slept properly for days when he finally took a sick day.", "words": [{ "w": "properly", "bn": "ঠিকমতো", "pos": "adverb" }, { "w": "sick day", "bn": "অসুস্থতার ছুটি", "pos": "noun" }] },
+            { "id": "03", "en": "She hadn't realized how much time she wasted on email until she tracked it.", "words": [{ "w": "realized", "bn": "বুঝতে পেরেছিল", "pos": "verb", "base": "realize" }, { "w": "wasted", "bn": "নষ্ট করত", "pos": "verb", "base": "waste" }, { "w": "tracked", "bn": "হিসাব রেখেছিল", "pos": "verb", "base": "track" }] },
+            { "id": "04", "en": "Before their first Canadian winter, they had never experienced such short, gloomy afternoons.", "words": [{ "w": "experienced", "bn": "অভিজ্ঞতা পেয়েছিল", "pos": "verb", "base": "experience" }, { "w": "gloomy", "bn": "বিষণ্ণ, অন্ধকারাচ্ছন্ন", "pos": "adjective" }] },
+            { "id": "05", "en": "Nobody had told her that the meeting had been moved to 6 o'clock.", "words": [{ "w": "nobody", "bn": "কেউ না", "pos": "pronoun" }, { "w": "moved", "bn": "সরানো হয়েছিল", "pos": "verb", "base": "move" }] },
+            { "id": "06", "en": "She hadn't taken a proper vacation in two years before last winter's trip to Sylhet.", "words": [{ "w": "proper vacation", "bn": "ঠিকঠাক ছুটি", "pos": "noun" }, { "w": "trip", "bn": "ভ্রমণ", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Hadn't + subject + (already / just) + past participle ...?",
+          "tipBn": "Hadn't দিয়ে প্রশ্ন করে বোঝানো হয় যে বক্তা ধরে নিয়েছিল কাজটি আগেই হয়ে গিয়েছিল।",
+          "items": [
+            { "id": "01", "en": "Hadn't you already finished the report before your manager extended the deadline?", "words": [{ "w": "extended", "bn": "বাড়িয়েছিলেন", "pos": "verb", "base": "extend" }, { "w": "deadline", "bn": "শেষ সময়সীমা", "pos": "noun" }] },
+            { "id": "02", "en": "Hadn't Arif just come home when the hospital called him back in?", "words": [{ "w": "just", "bn": "সবে", "pos": "adverb" }, { "w": "called him back in", "bn": "আবার কাজে ডেকেছিল", "pos": "phrasal verb", "base": "call back in" }] },
+            { "id": "03", "en": "Hadn't you tried working from a cafe before you rented the co-working desk?", "words": [{ "w": "rented", "bn": "ভাড়া নিয়েছিলে", "pos": "verb", "base": "rent" }, { "w": "co-working desk", "bn": "যৌথ অফিসের ডেস্ক", "pos": "noun" }] },
+            { "id": "04", "en": "Hadn't she promised herself that she would stop working after 6 o'clock every day?", "words": [{ "w": "promised herself", "bn": "নিজেকে কথা দিয়েছিল", "pos": "phrase", "base": "promise oneself" }, { "w": "stop working", "bn": "কাজ থামানো", "pos": "phrase" }] },
+            { "id": "05", "en": "Hadn't they agreed to keep phones out of the bedroom before the argument started?", "words": [{ "w": "agreed", "bn": "রাজি হয়েছিল", "pos": "verb", "base": "agree" }, { "w": "argument", "bn": "তর্ক", "pos": "noun" }] },
+            { "id": "06", "en": "Hadn't the power come back by the time you started your first call?", "words": [{ "w": "power", "bn": "বিদ্যুৎ", "pos": "noun" }, { "w": "come back", "bn": "ফিরে আসা", "pos": "phrasal verb" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + had + subject + past participle ...?",
+          "tipBn": "Wh- শব্দের পরে had, তারপর subject ও past participle বসে।",
+          "items": [
+            { "id": "01", "en": "What had Farhana already done by the time Arif got home from his shift?", "words": [{ "w": "already", "bn": "ইতিমধ্যে", "pos": "adverb" }, { "w": "shift", "bn": "পালা, শিফট", "pos": "noun" }] },
+            { "id": "02", "en": "Why had she stopped exercising before her doctor gave her that warning?", "words": [{ "w": "exercising", "bn": "ব্যায়াম করা", "pos": "verb", "base": "exercise" }, { "w": "warning", "bn": "সতর্কবার্তা", "pos": "noun" }] },
+            { "id": "03", "en": "How many hours had Arif slept before he had to go back to the ward?", "words": [{ "w": "go back", "bn": "ফিরে যাওয়া", "pos": "phrasal verb" }, { "w": "ward", "bn": "হাসপাতালের ওয়ার্ড", "pos": "noun" }] },
+            { "id": "04", "en": "Where had they lived before they found their apartment near the lake?", "words": [{ "w": "found", "bn": "খুঁজে পেয়েছিল", "pos": "verb", "base": "find" }, { "w": "apartment", "bn": "ফ্ল্যাট", "pos": "noun" }] },
+            { "id": "05", "en": "Which habits had you already changed before the new year officially began?", "words": [{ "w": "habits", "bn": "অভ্যাস", "pos": "noun", "base": "habit" }, { "w": "officially", "bn": "আনুষ্ঠানিকভাবে", "pos": "adverb" }] },
+            { "id": "06", "en": "When had you last taken a full day off before this long weekend?", "words": [{ "w": "full day off", "bn": "পুরো দিনের ছুটি", "pos": "noun" }, { "w": "long weekend", "bn": "লম্বা সাপ্তাহিক ছুটি", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4 to 6 sentences, mostly had + past participle.",
+          "tipBn": "অনুচ্ছেদে কোনো ঘটনার আগে কী ঘটে গিয়েছিল তা বোঝাতে বেশিরভাগ বাক্যে past perfect থাকে।",
+          "items": [
+            { "id": "01", "title": "A rough Monday", "en": "By the time Farhana opened her laptop on Monday, her London team had already held two meetings without her. She had slept through her alarm because she had stayed up late watching a series. Worse, she hadn't prepared the slides she had promised. She apologized and presented anyway. By lunchtime, she had learned a hard lesson about Sunday nights.", "words": [{ "w": "held", "bn": "করেছিল", "pos": "verb", "base": "hold" }, { "w": "slept through", "bn": "টের না পেয়ে ঘুমিয়েছিল", "pos": "phrasal verb", "base": "sleep through" }, { "w": "stayed up late", "bn": "রাত জেগেছিল", "pos": "phrase", "base": "stay up late" }, { "w": "apologized", "bn": "ক্ষমা চেয়েছিল", "pos": "verb", "base": "apologize" }, { "w": "anyway", "bn": "তবুও", "pos": "adverb" }] },
+            { "id": "02", "title": "Why the new routine worked", "en": "Farhana's new routine worked because she had prepared for it carefully. Before starting, she had moved her desk next to the window and had deleted three social media apps. Arif had agreed to take over the evening cooking. She had also told her manager about her new focus hours. By the end of the first month, she had finished every project on time.", "words": [{ "w": "carefully", "bn": "যত্ন করে", "pos": "adverb" }, { "w": "deleted", "bn": "মুছে ফেলেছিল", "pos": "verb", "base": "delete" }, { "w": "take over", "bn": "দায়িত্ব নেওয়া", "pos": "phrasal verb" }, { "w": "focus hours", "bn": "মনোযোগ দিয়ে কাজের সময়", "pos": "noun" }, { "w": "on time", "bn": "সময়মতো", "pos": "phrase" }] },
+            { "id": "03", "title": "Arif's long night", "en": "When Arif finally got home at nine in the morning, he had been awake for nearly twenty hours. The emergency room had been unusually busy, and two nurses had called in sick. He hadn't eaten since midnight. Farhana had left a plate of rice and dal on the table with a note. He smiled, ate quickly and fell asleep before he had even taken off his socks.", "words": [{ "w": "awake", "bn": "জেগে", "pos": "adjective" }, { "w": "nearly", "bn": "প্রায়", "pos": "adverb" }, { "w": "emergency room", "bn": "জরুরি বিভাগ", "pos": "noun" }, { "w": "unusually", "bn": "অস্বাভাবিকভাবে", "pos": "adverb" }, { "w": "called in sick", "bn": "অসুস্থ বলে ছুটি নিয়েছিল", "pos": "phrase", "base": "call in sick" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "passive",
+      "focus": "How routines, schedules and systems are organized",
+      "focusBn": "রুটিন, সময়সূচি ও কাজের ব্যবস্থা কীভাবে সাজানো হয়",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + be (is / was / has been / will be / is being) + past participle (+ by ...).",
+          "tipBn": "কে কাজটি করে তার চেয়ে কাজটি বেশি গুরুত্বপূর্ণ হলে be + past participle দিয়ে কর্মবাচ্য হয়।",
+          "items": [
+            { "id": "01", "en": "Almost all of the team's meetings are scheduled around London business hours.", "words": [{ "w": "scheduled", "bn": "সময় নির্ধারিত হয়", "pos": "verb", "base": "schedule" }, { "w": "business hours", "bn": "অফিস সময়", "pos": "noun" }] },
+            { "id": "02", "en": "Farhana's weekly tasks are organized in a shared online planner every Monday.", "words": [{ "w": "organized", "bn": "সাজানো হয়", "pos": "verb", "base": "organize" }, { "w": "planner", "bn": "পরিকল্পনার তালিকা", "pos": "noun" }] },
+            { "id": "03", "en": "Arif's shift schedule for December was released only two days in advance.", "words": [{ "w": "released", "bn": "প্রকাশ করা হয়েছিল", "pos": "verb", "base": "release" }, { "w": "in advance", "bn": "আগে থেকে", "pos": "phrase" }] },
+            { "id": "04", "en": "Her standing desk has finally been delivered, three weeks after she ordered it.", "words": [{ "w": "delivered", "bn": "পৌঁছে দেওয়া হয়েছে", "pos": "verb", "base": "deliver" }, { "w": "ordered", "bn": "অর্ডার দিয়েছিল", "pos": "verb", "base": "order" }] },
+            { "id": "05", "en": "Employees will be encouraged to log off by 6 o'clock under the new policy.", "words": [{ "w": "encouraged", "bn": "উৎসাহিত করা হবে", "pos": "verb", "base": "encourage" }, { "w": "log off", "bn": "লগ অফ করা", "pos": "phrasal verb" }, { "w": "policy", "bn": "নীতি", "pos": "noun" }] },
+            { "id": "06", "en": "Her sleep patterns are being tracked by a smartwatch for a research study.", "words": [{ "w": "patterns", "bn": "ধরন", "pos": "noun", "base": "pattern" }, { "w": "tracked", "bn": "পর্যবেক্ষণ করা হচ্ছে", "pos": "verb", "base": "track" }, { "w": "research study", "bn": "গবেষণা", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + be + not + past participle.",
+          "tipBn": "কর্মবাচ্যে not বসে be-এর পরে, যেমন aren't expected, weren't delivered।",
+          "items": [
+            { "id": "01", "en": "Remote workers aren't expected to reply to messages outside their working hours.", "words": [{ "w": "expected", "bn": "আশা করা হয়", "pos": "verb", "base": "expect" }, { "w": "outside", "bn": "এর বাইরে", "pos": "preposition" }] },
+            { "id": "02", "en": "The weekly groceries weren't delivered on Saturday because of the heavy snowstorm.", "words": [{ "w": "groceries", "bn": "বাজার-সদাই", "pos": "noun" }, { "w": "snowstorm", "bn": "তুষারঝড়", "pos": "noun" }] },
+            { "id": "03", "en": "Farhana's request for a four-day week hasn't been approved by HR yet.", "words": [{ "w": "request", "bn": "অনুরোধ", "pos": "noun" }, { "w": "four-day week", "bn": "চার দিনের কর্মসপ্তাহ", "pos": "noun" }, { "w": "approved", "bn": "অনুমোদন করা হয়েছে", "pos": "verb", "base": "approve" }] },
+            { "id": "04", "en": "Night-shift nurses at Arif's hospital are not given enough time to recover between shifts.", "words": [{ "w": "recover", "bn": "ধকল কাটিয়ে ওঠা", "pos": "verb" }, { "w": "between", "bn": "মাঝে", "pos": "preposition" }] },
+            { "id": "05", "en": "The late-night notifications won't be sent anymore once the new settings are saved.", "words": [{ "w": "notifications", "bn": "নোটিফিকেশন, বিজ্ঞপ্তি", "pos": "noun", "base": "notification" }, { "w": "anymore", "bn": "আর", "pos": "adverb" }, { "w": "settings", "bn": "সেটিংস", "pos": "noun" }] },
+            { "id": "06", "en": "None of her lunch breaks were interrupted last week, which felt like a small miracle.", "words": [{ "w": "interrupted", "bn": "বাধাগ্রস্ত হয়েছিল", "pos": "verb", "base": "interrupt" }, { "w": "miracle", "bn": "অলৌকিক ঘটনা", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Is / Was / Has / Will + subject + (been / be) + past participle ...?",
+          "tipBn": "কর্মবাচ্যের প্রশ্নে is/was/has/will শুরুতে বসে, আর মূল verb থাকে past participle রূপে।",
+          "items": [
+            { "id": "01", "en": "Are all team meetings recorded for people in different time zones?", "words": [{ "w": "recorded", "bn": "রেকর্ড করা হয়", "pos": "verb", "base": "record" }, { "w": "time zones", "bn": "সময় অঞ্চল", "pos": "noun", "base": "time zone" }] },
+            { "id": "02", "en": "Was the stand-up meeting moved to a later time because of Farhana's complaint?", "words": [{ "w": "stand-up meeting", "bn": "প্রতিদিনের ছোট মিটিং", "pos": "noun" }, { "w": "complaint", "bn": "অভিযোগ", "pos": "noun" }] },
+            { "id": "03", "en": "Has Arif been told whether he will be moved to day shifts next month?", "words": [{ "w": "told", "bn": "জানানো হয়েছে", "pos": "verb", "base": "tell" }, { "w": "whether", "bn": "কি না", "pos": "conjunction" }] },
+            { "id": "04", "en": "Will her new ergonomic chair be delivered before the end of the month?", "words": [{ "w": "ergonomic", "bn": "শরীরের জন্য আরামদায়ক", "pos": "adjective" }, { "w": "delivered", "bn": "পৌঁছে দেওয়া হবে", "pos": "verb", "base": "deliver" }] },
+            { "id": "05", "en": "Is overtime paid when Arif is asked to stay after his shift?", "words": [{ "w": "overtime", "bn": "অতিরিক্ত কাজের সময়", "pos": "noun" }, { "w": "asked", "bn": "বলা হয়", "pos": "verb", "base": "ask" }] },
+            { "id": "06", "en": "Were you affected by the power outage that hit the neighborhood last night?", "words": [{ "w": "affected", "bn": "প্রভাবিত", "pos": "verb", "base": "affect" }, { "w": "power outage", "bn": "বিদ্যুৎ বিভ্রাট", "pos": "noun" }] }
+          ]
+        },
+        {
+          "type": "indirect-question",
+          "pattern": "Could you tell me / Do you know / I wonder + wh- word / if / whether + subject + passive verb ...",
+          "tipBn": "পরোক্ষ প্রশ্নে সাধারণ বাক্যের মতো subject আগে আর verb পরে বসে; is/was সামনে চলে আসে না।",
+          "items": [
+            { "id": "01", "en": "Could you tell me when the weekly schedule is usually shared with the team?", "words": [{ "w": "usually", "bn": "সাধারণত", "pos": "adverb" }, { "w": "shared", "bn": "জানানো হয়", "pos": "verb", "base": "share" }] },
+            { "id": "02", "en": "Do you know whether lunch breaks are counted as working hours at your company?", "words": [{ "w": "whether", "bn": "কি না", "pos": "conjunction" }, { "w": "counted as", "bn": "হিসেবে ধরা হয়", "pos": "phrase", "base": "count as" }] },
+            { "id": "03", "en": "I wonder if Arif will be given any time off during the holidays.", "words": [{ "w": "I wonder if", "bn": "ভাবছি ... কি না", "pos": "phrase" }, { "w": "time off", "bn": "ছুটি", "pos": "noun" }] },
+            { "id": "04", "en": "Would you mind telling me how the new flexible-hours policy was decided?", "words": [{ "w": "would you mind", "bn": "কিছু মনে করবেন কি", "pos": "phrase" }, { "w": "flexible-hours", "bn": "নমনীয় সময়ের", "pos": "adjective" }] },
+            { "id": "05", "en": "Can you find out whether a desk has been reserved for me at the co-working space?", "words": [{ "w": "find out", "bn": "জেনে নেওয়া", "pos": "phrasal verb" }, { "w": "reserved", "bn": "বুক করা হয়েছে", "pos": "verb", "base": "reserve" }] },
+            { "id": "06", "en": "I'd like to know why my afternoon emails are always answered the next morning.", "words": [{ "w": "I'd like to know", "bn": "আমি জানতে চাই", "pos": "phrase" }, { "w": "answered", "bn": "উত্তর দেওয়া হয়", "pos": "verb", "base": "answer" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4 to 6 sentences, mostly passive verbs in different tenses.",
+          "tipBn": "অনুচ্ছেদে কাজ কীভাবে করা হয় তা বোঝাতে বিভিন্ন কালের কর্মবাচ্য ব্যবহার হয়।",
+          "items": [
+            { "id": "01", "title": "Working across time zones", "en": "Farhana's team is spread across three countries, so its day is carefully planned. Important decisions are made during a short window when everyone is online. All calls are recorded, and short summaries are posted in a shared channel. Tasks are assigned every Monday, and progress is reviewed on Thursdays. Because of this system, nobody is expected to work late.", "words": [{ "w": "spread across", "bn": "ছড়িয়ে আছে", "pos": "phrase" }, { "w": "decisions", "bn": "সিদ্ধান্ত", "pos": "noun", "base": "decision" }, { "w": "window", "bn": "নির্দিষ্ট সময়টুকু", "pos": "noun" }, { "w": "summaries", "bn": "সারসংক্ষেপ", "pos": "noun", "base": "summary" }, { "w": "assigned", "bn": "ভাগ করে দেওয়া হয়", "pos": "verb", "base": "assign" }, { "w": "reviewed", "bn": "পর্যালোচনা করা হয়", "pos": "verb", "base": "review" }] },
+            { "id": "02", "title": "A night on the ward", "en": "At Arif's hospital, the night shift is organized very strictly. Patients are checked every two hours, and all medicines are recorded on a tablet. At six in the morning, the day team is briefed about every patient. Arif was praised last week because a serious problem was noticed early during his shift. Small moments like that make the long nights worthwhile.", "words": [{ "w": "strictly", "bn": "কড়াভাবে", "pos": "adverb" }, { "w": "briefed", "bn": "অবহিত করা হয়", "pos": "verb", "base": "brief" }, { "w": "praised", "bn": "প্রশংসা করা হয়েছিল", "pos": "verb", "base": "praise" }, { "w": "noticed", "bn": "ধরা পড়েছিল", "pos": "verb", "base": "notice" }, { "w": "worthwhile", "bn": "সার্থক", "pos": "adjective" }] },
+            { "id": "03", "title": "The new flexible policy", "en": "Last month, a new flexible-hours policy was introduced at Farhana's company. Core hours have been reduced to four, and the rest of the day can be arranged freely. Meetings will no longer be booked on Friday afternoons. Employees are being asked to share their preferred schedules by the end of the week. So far, the change has been welcomed by almost everyone.", "words": [{ "w": "introduced", "bn": "চালু করা হয়েছিল", "pos": "verb", "base": "introduce" }, { "w": "core hours", "bn": "মূল কাজের সময়", "pos": "noun" }, { "w": "reduced", "bn": "কমানো হয়েছে", "pos": "verb", "base": "reduce" }, { "w": "arranged", "bn": "সাজানো", "pos": "verb", "base": "arrange" }, { "w": "preferred", "bn": "পছন্দের", "pos": "adjective" }, { "w": "welcomed", "bn": "স্বাগত জানানো হয়েছে", "pos": "verb", "base": "welcome" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Past choices and their effects on today's routine",
+      "focusBn": "অতীতের সিদ্ধান্ত ও আজকের রুটিনে তার প্রভাব",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + had + past participle, would have + past participle. / If + had + past participle, would + verb (now).",
+          "tipBn": "অতীতে যা ঘটেনি তার কল্পনায় third conditional, আর অতীতের কারণে বর্তমানের ফল বোঝাতে mixed conditional ব্যবহার হয়।",
+          "items": [
+            { "id": "01", "en": "If Farhana had set clearer boundaries earlier, she would have avoided burning out last spring.", "words": [{ "w": "boundaries", "bn": "সীমারেখা", "pos": "noun", "base": "boundary" }, { "w": "burning out", "bn": "কাজের চাপে নিঃশেষ হওয়া", "pos": "phrasal verb", "base": "burn out" }] },
+            { "id": "02", "en": "If Arif had taken that clinic job two years ago, he would be sleeping at normal hours now.", "words": [{ "w": "clinic", "bn": "ক্লিনিক", "pos": "noun" }, { "w": "normal hours", "bn": "স্বাভাবিক সময়ে", "pos": "phrase" }] },
+            { "id": "03", "en": "If they had stayed in Dhaka, they would probably spend three hours a day in traffic.", "words": [{ "w": "stayed", "bn": "থেকে যেত", "pos": "verb", "base": "stay" }, { "w": "probably", "bn": "সম্ভবত", "pos": "adverb" }] },
+            { "id": "04", "en": "Had she known about the time difference, she would have negotiated different working hours.", "words": [{ "w": "had she known", "bn": "সে যদি জানত", "pos": "phrase" }, { "w": "time difference", "bn": "সময়ের পার্থক্য", "pos": "noun" }, { "w": "negotiated", "bn": "আলোচনা করে ঠিক করত", "pos": "verb", "base": "negotiate" }] },
+            { "id": "05", "en": "If I had gone to bed at ten last night, I would feel much sharper this morning.", "words": [{ "w": "gone to bed", "bn": "ঘুমাতে যেতাম", "pos": "phrase", "base": "go to bed" }, { "w": "sharper", "bn": "বেশি সতেজ ও সজাগ", "pos": "adjective", "base": "sharp" }] },
+            { "id": "06", "en": "She would have joined the call on time if her alarm had gone off at 5:30.", "words": [{ "w": "joined", "bn": "যোগ দিত", "pos": "verb", "base": "join" }, { "w": "gone off", "bn": "বেজে উঠত", "pos": "phrasal verb", "base": "go off" }] }
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + hadn't + past participle, wouldn't have + past participle / wouldn't + verb.",
+          "tipBn": "যেকোনো অংশে hadn't বা wouldn't বসিয়ে কল্পিত অতীত বা বর্তমানকে না-বোধক করা যায়।",
+          "items": [
+            { "id": "01", "en": "If Farhana hadn't started walking every evening, she wouldn't have discovered the lakeshore trail.", "words": [{ "w": "discovered", "bn": "খুঁজে পেত", "pos": "verb", "base": "discover" }, { "w": "trail", "bn": "পায়ে চলা পথ", "pos": "noun" }] },
+            { "id": "02", "en": "Arif wouldn't be so exhausted now if he hadn't agreed to cover an extra shift.", "words": [{ "w": "exhausted", "bn": "ভীষণ ক্লান্ত", "pos": "adjective" }, { "w": "cover", "bn": "অন্যের হয়ে কাজ করা", "pos": "verb" }] },
+            { "id": "03", "en": "If she hadn't moved abroad, she wouldn't have learned to cook for herself.", "words": [{ "w": "abroad", "bn": "বিদেশে", "pos": "adverb" }, { "w": "for herself", "bn": "নিজের জন্য", "pos": "phrase" }] },
+            { "id": "04", "en": "If they hadn't bought blackout curtains, Arif wouldn't be able to sleep during the day.", "words": [{ "w": "blackout curtains", "bn": "আলো আটকানো পর্দা", "pos": "noun" }, { "w": "be able to", "bn": "পারা", "pos": "phrase" }] },
+            { "id": "05", "en": "Farhana wouldn't have missed the deadline if she hadn't been checking her phone every five minutes.", "words": [{ "w": "missed the deadline", "bn": "সময়সীমা পার করে ফেলা", "pos": "phrase", "base": "miss the deadline" }, { "w": "checking", "bn": "দেখছিল", "pos": "verb", "base": "check" }] },
+            { "id": "06", "en": "If she had never tracked her screen time, she would never have noticed the problem.", "words": [{ "w": "screen time", "bn": "স্ক্রিনে কাটানো সময়", "pos": "noun" }, { "w": "noticed", "bn": "খেয়াল করত", "pos": "verb", "base": "notice" }] }
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + would (have) + subject + verb ... + if + had + past participle?",
+          "tipBn": "would have দিয়ে অতীতের কল্পিত ফল, আর would দিয়ে বর্তমানের কল্পিত ফল জানতে চাওয়া হয়।",
+          "items": [
+            { "id": "01", "en": "What would you have done if your company hadn't allowed remote work?", "words": [{ "w": "allowed", "bn": "অনুমতি দিত", "pos": "verb", "base": "allow" }, { "w": "remote work", "bn": "দূর থেকে কাজ", "pos": "noun" }] },
+            { "id": "02", "en": "How would your life be different now if you had stayed in Dhaka?", "words": [{ "w": "different", "bn": "আলাদা", "pos": "adjective" }, { "w": "stayed", "bn": "থেকে যেতে", "pos": "verb", "base": "stay" }] },
+            { "id": "03", "en": "Where would Farhana be working today if she hadn't accepted the London offer?", "words": [{ "w": "accepted", "bn": "গ্রহণ করত", "pos": "verb", "base": "accept" }, { "w": "offer", "bn": "প্রস্তাব", "pos": "noun" }] },
+            { "id": "04", "en": "Which habit would you have started sooner if you had known its benefits?", "words": [{ "w": "sooner", "bn": "আরও আগে", "pos": "adverb" }, { "w": "benefits", "bn": "উপকারিতা", "pos": "noun", "base": "benefit" }] },
+            { "id": "05", "en": "Who would have looked after the plants if you had gone to Sylhet for a month?", "words": [{ "w": "looked after", "bn": "যত্ন নিত", "pos": "phrasal verb", "base": "look after" }, { "w": "plants", "bn": "গাছপালা", "pos": "noun", "base": "plant" }] },
+            { "id": "06", "en": "How much more rested would you feel today if you had switched off your laptop at seven?", "words": [{ "w": "rested", "bn": "ঝরঝরে, বিশ্রাম পাওয়া", "pos": "adjective" }, { "w": "switched off", "bn": "বন্ধ করতে", "pos": "phrasal verb", "base": "switch off" }] }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4 to 6 sentences with third and mixed conditionals.",
+          "tipBn": "অনুচ্ছেদে অতীতের সিদ্ধান্ত নিয়ে ভাবতে third ও mixed conditional ব্যবহার হয়।",
+          "items": [
+            { "id": "01", "title": "Lessons from burnout", "en": "Last spring, Farhana worked twelve-hour days for two months and eventually burned out. If she had taken regular breaks, she might have noticed the warning signs sooner. If her manager had checked in more often, the problem would have been spotted earlier. Looking back, she believes that if she had said no to one big project, she would be healthier today. Now she protects her evenings carefully.", "words": [{ "w": "eventually", "bn": "শেষ পর্যন্ত", "pos": "adverb" }, { "w": "burned out", "bn": "নিঃশেষ হয়ে পড়েছিল", "pos": "phrasal verb", "base": "burn out" }, { "w": "warning signs", "bn": "সতর্কসংকেত", "pos": "noun", "base": "warning sign" }, { "w": "checked in", "bn": "খোঁজখবর নিতেন", "pos": "phrasal verb", "base": "check in" }, { "w": "spotted", "bn": "ধরা পড়ত", "pos": "verb", "base": "spot" }, { "w": "looking back", "bn": "পেছন ফিরে তাকালে", "pos": "phrase" }] },
+            { "id": "02", "title": "The job Arif almost took", "en": "Two years ago, Arif was offered a day job at a small clinic, but he turned it down for a higher salary. If he had accepted it, he would be having breakfast with Farhana every morning now. On the other hand, he wouldn't have met the colleagues who have become his closest friends. He often wonders which choice would have made him happier.", "words": [{ "w": "turned it down", "bn": "ফিরিয়ে দিয়েছিল", "pos": "phrasal verb", "base": "turn down" }, { "w": "salary", "bn": "বেতন", "pos": "noun" }, { "w": "on the other hand", "bn": "অন্যদিকে", "pos": "phrase" }, { "w": "colleagues", "bn": "সহকর্মী", "pos": "noun", "base": "colleague" }, { "w": "wonders", "bn": "ভাবে", "pos": "verb", "base": "wonder" }] },
+            { "id": "03", "title": "One small decision", "en": "Three years ago, Farhana almost stayed in her Dhaka job. If she hadn't applied for the remote position, she would still be sitting in traffic every evening. She wouldn't have discovered how much she loves early mornings. And if Arif hadn't encouraged her, she would never have taken the risk. Sometimes one small decision shapes an entire daily routine.", "words": [{ "w": "applied for", "bn": "আবেদন করত", "pos": "phrasal verb", "base": "apply for" }, { "w": "position", "bn": "পদ", "pos": "noun" }, { "w": "encouraged", "bn": "উৎসাহ দিত", "pos": "verb", "base": "encourage" }, { "w": "taken the risk", "bn": "ঝুঁকি নিত", "pos": "phrase", "base": "take the risk" }, { "w": "shapes", "bn": "গড়ে দেয়", "pos": "verb", "base": "shape" }, { "w": "entire", "bn": "পুরো", "pos": "adjective" }] }
+          ]
+        }
+      ]
+    }
+  ]
+}
