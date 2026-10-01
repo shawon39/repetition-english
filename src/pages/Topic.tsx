@@ -4,7 +4,12 @@ import { Link, useParams } from 'react-router-dom';
 import { getLevel, getTopic, getTrack, grammarLabel, practicePath, sessionRefs, typeLabel } from '../lib/content';
 import { sessionStatus, trackProgress } from '../lib/progress';
 import { useStore } from '../lib/store';
+import type { SessionType } from '../lib/types';
 import { Bn, Page, rise, stagger } from '../components/ui';
+
+// Statements read as one word; question and paragraph types keep their full name.
+const pillLabel = (type: SessionType) =>
+  type === 'affirmative' || type === 'negative' ? typeLabel(type).short : typeLabel(type).title;
 
 export function Topic() {
   const { topic: topicId = '', level: levelId = '' } = useParams();
@@ -25,7 +30,7 @@ export function Topic() {
   const p = trackProgress(state, track);
 
   return (
-    <Page>
+    <Page className="page topic">
       <Link to="/topics" className="back">
         <ArrowLeft size={16} strokeWidth={1.5} /> Topics
       </Link>
@@ -68,7 +73,7 @@ export function Topic() {
                   return (
                     <Link key={ref.key} to={practicePath(ref.key, status === 'due' ? '?review=1' : '')} className={`pill ${cls}`}>
                       {status === 'done' && <Check size={14} strokeWidth={2} />}
-                      {typeLabel(ref.session.type).title}
+                      {pillLabel(ref.session.type)}
                       {status === 'due' && ' · due'}
                       {status === 'in-progress' && (
                         <span className="pill-count">

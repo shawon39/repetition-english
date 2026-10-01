@@ -1,10 +1,9 @@
 import { Settings as SettingsIcon } from 'lucide-react';
-import { motion } from 'motion/react';
 import { Link, NavLink, Outlet, useLocation } from 'react-router-dom';
 import { getLevel } from '../lib/content';
 import { isDue } from '../lib/srs';
 import { useStore } from '../lib/store';
-import { EASE_OUT, Mark } from './ui';
+import { Mark } from './ui';
 
 const LINKS = [
   { to: '/', label: 'Home', end: true },
@@ -29,16 +28,8 @@ export function Layout() {
         <nav className="nav-links">
           {LINKS.map(({ to, label, end }) => (
             <NavLink key={to} to={to} end={end} className={({ isActive }) => `nav-link${isActive || (to === '/topics' && pathname.startsWith('/topic/')) ? ' active' : ''}`}>
-              {({ isActive: exact }) => {
-                const isActive = exact || (to === '/topics' && pathname.startsWith('/topic/'));
-                return (
-                <>
-                  {label}
-                  {label === 'Review' && due && <span className="due-dot" aria-label="Reviews due" />}
-                  {isActive && <motion.span layoutId="nav-underline" className="nav-underline" transition={{ duration: 0.32, ease: EASE_OUT }} />}
-                </>
-                );
-              }}
+              {label}
+              {label === 'Review' && due && <span className="due-dot" aria-label="Reviews due" />}
             </NavLink>
           ))}
         </nav>

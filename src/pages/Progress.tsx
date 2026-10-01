@@ -133,13 +133,6 @@ function Heatmap({ days, goal }: { days: Record<string, number>; goal: number })
           </span>
         )}
       </div>
-      <div className="heat-legend" style={{ marginTop: 12 }}>
-        Less
-        {[0, 1, 2, 3, 4].map((b) => (
-          <span key={b} className={`heat h${b}`} />
-        ))}
-        More
-      </div>
     </div>
   );
 }

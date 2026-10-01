@@ -167,7 +167,7 @@ function PracticeRun({ sessionKey, kind }: { sessionKey: string; kind: Kind }) {
   const hidden = !settings.fade || complete ? 0 : kind === 'chain' ? 0.75 : fadeFraction(done, target, kind === 'review' ? 0.5 : 0);
 
   if (finishedAt) {
-    return <Summary sessionKey={sessionKey} kind={kind} counts={counts} target={target} elapsed={finishedAt - startedAt} />;
+    return <Summary sessionKey={sessionKey} kind={kind} counts={counts} elapsed={finishedAt - startedAt} />;
   }
 
   const mainButton = complete ? (
@@ -337,7 +337,7 @@ function PracticeRun({ sessionKey, kind }: { sessionKey: string; kind: Kind }) {
           {complete ? (
             mode === 'read' ? (
               <button className="btn btn-quiet" onClick={repeat}>
-                <RotateCcw size={16} strokeWidth={1.5} /> Once more
+                <RotateCcw size={16} strokeWidth={1.5} /> Repeat again
               </button>
             ) : (
               <span />
@@ -358,7 +358,7 @@ function PracticeRun({ sessionKey, kind }: { sessionKey: string; kind: Kind }) {
   );
 }
 
-function Summary({ sessionKey, kind, counts, target, elapsed }: { sessionKey: string; kind: Kind; counts: number[]; target: number; elapsed: number }) {
+function Summary({ sessionKey, kind, counts, elapsed }: { sessionKey: string; kind: Kind; counts: number[]; elapsed: number }) {
   const ref = findSession(sessionKey)!;
   const { state } = useStore();
   const next = nextSessionRef(sessionKey);
@@ -439,11 +439,6 @@ function Summary({ sessionKey, kind, counts, target, elapsed }: { sessionKey: st
           ) : (
             <Link to={topicUrl} className="btn btn-primary btn-lg">
               Back to topic
-            </Link>
-          )}
-          {kind !== 'chain' && target > 1 && (
-            <Link to={practicePath(sessionKey, '?chain=1')} className="btn btn-quiet">
-              One round from memory
             </Link>
           )}
           {next && (

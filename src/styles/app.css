@@ -212,7 +212,7 @@ button:disabled {
 .seg button {
   position: relative;
   height: 34px;
-  padding: 0 16px;
+  padding: 0 18px;
   border: 0;
   border-radius: var(--radius-full);
   background: transparent;
@@ -359,15 +359,6 @@ button:disabled {
 .nav-link.active {
   color: var(--ink);
 }
-.nav-underline {
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: -1px;
-  height: 2px;
-  border-radius: 2px;
-  background: var(--ink);
-}
 .due-dot {
   width: 6px;
   height: 6px;
@@ -392,6 +383,10 @@ button:disabled {
   color: var(--ink-muted);
   transition: border-color 0.16s, color 0.16s;
 }
+.nav-end .icon-btn {
+  width: 36px;
+  height: 36px;
+}
 .level-pill:hover {
   border-color: var(--ink-faint);
   color: var(--ink);
@@ -404,6 +399,10 @@ button:disabled {
   display: flex;
   flex-direction: column;
   gap: 40px;
+}
+.page.topic {
+  padding-top: 48px;
+  gap: 32px;
 }
 .page.narrow {
   width: min(640px, calc(100% - 80px));
@@ -714,7 +713,7 @@ button:disabled {
 }
 .sentence.size-xl {
   font-size: 56px;
-  line-height: 70px;
+  line-height: 68px;
   letter-spacing: -0.035em;
   max-width: 20ch;
 }
@@ -788,7 +787,7 @@ button:disabled {
   z-index: 30;
   top: calc(100% + 12px);
   left: 50%;
-  width: 232px;
+  width: 220px;
   display: flex;
   flex-direction: column;
   gap: 4px;
@@ -846,7 +845,7 @@ button:disabled {
   border-radius: var(--radius-md);
   background: var(--accent-soft);
   font-size: 22px;
-  line-height: 36px;
+  line-height: 34px;
   color: var(--ink);
   text-align: center;
 }
@@ -1134,7 +1133,7 @@ button:disabled {
 }
 .bar-row {
   display: grid;
-  grid-template-columns: 160px minmax(0, 1fr) 56px;
+  grid-template-columns: 160px minmax(0, 1fr) 48px;
   align-items: center;
   gap: 16px;
   font-size: 14px;

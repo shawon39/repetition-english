@@ -82,53 +82,257 @@
     }
   ],
   "grammar": {
-    "present-simple": { "title": "Present Simple", "titleBn": "সাধারণ বর্তমান কাল" },
-    "present-continuous": { "title": "Present Continuous", "titleBn": "ঘটমান বর্তমান কাল" },
-    "present-perfect": { "title": "Present Perfect", "titleBn": "পুরাঘটিত বর্তমান কাল" },
-    "present-perfect-continuous": { "title": "Present Perfect Continuous", "titleBn": "পুরাঘটিত ঘটমান বর্তমান কাল" },
-    "past-simple": { "title": "Past Simple", "titleBn": "সাধারণ অতীত কাল" },
-    "past-continuous": { "title": "Past Continuous", "titleBn": "ঘটমান অতীত কাল" },
-    "past-perfect": { "title": "Past Perfect", "titleBn": "পুরাঘটিত অতীত কাল" },
-    "future-will": { "title": "Future with “will”", "titleBn": "সাধারণ ভবিষ্যৎ কাল (will)" },
-    "future-going-to": { "title": "Future with “going to”", "titleBn": "পরিকল্পিত ভবিষ্যৎ (going to)" },
-    "modals": { "title": "Modal Verbs", "titleBn": "মোডাল ক্রিয়া (should, must, might...)" },
-    "conditionals": { "title": "Conditionals", "titleBn": "শর্তসাপেক্ষ বাক্য (If...)" },
-    "passive": { "title": "Passive Voice", "titleBn": "কর্মবাচ্য" }
+    "present-simple": {
+      "title": "Present simple",
+      "titleBn": "সাধারণ বর্তমান কাল"
+    },
+    "present-continuous": {
+      "title": "Present continuous",
+      "titleBn": "ঘটমান বর্তমান কাল"
+    },
+    "present-perfect": {
+      "title": "Present perfect",
+      "titleBn": "পুরাঘটিত বর্তমান কাল"
+    },
+    "present-perfect-continuous": {
+      "title": "Present perfect continuous",
+      "titleBn": "পুরাঘটিত ঘটমান বর্তমান কাল"
+    },
+    "past-simple": {
+      "title": "Past simple",
+      "titleBn": "সাধারণ অতীত কাল"
+    },
+    "past-continuous": {
+      "title": "Past continuous",
+      "titleBn": "ঘটমান অতীত কাল"
+    },
+    "past-perfect": {
+      "title": "Past perfect",
+      "titleBn": "পুরাঘটিত অতীত কাল"
+    },
+    "future-will": {
+      "title": "Future with will",
+      "titleBn": "সাধারণ ভবিষ্যৎ কাল (will)"
+    },
+    "future-going-to": {
+      "title": "Future with going to",
+      "titleBn": "পরিকল্পিত ভবিষ্যৎ (going to)"
+    },
+    "modals": {
+      "title": "Modal verbs",
+      "titleBn": "মোডাল ক্রিয়া (should, must, might...)"
+    },
+    "conditionals": {
+      "title": "Conditionals",
+      "titleBn": "শর্তসাপেক্ষ বাক্য (If...)"
+    },
+    "passive": {
+      "title": "Passive voice",
+      "titleBn": "কর্মবাচ্য"
+    }
   },
   "sessionTypes": {
-    "affirmative": { "title": "Positive statements", "short": "Positive", "titleBn": "হ্যাঁ-বোধক বাক্য" },
-    "negative": { "title": "Negative statements", "short": "Negative", "titleBn": "না-বোধক বাক্য" },
-    "yes-no-question": { "title": "Yes / No questions", "short": "Yes/No ?", "titleBn": "হ্যাঁ/না প্রশ্ন" },
-    "negative-question": { "title": "Negative questions", "short": "Negative ?", "titleBn": "না-বোধক প্রশ্ন" },
-    "wh-question": { "title": "Wh- questions", "short": "Wh- ?", "titleBn": "Wh- প্রশ্ন (কী, কেন, কখন, কোথায়)" },
-    "tag-question": { "title": "Tag questions", "short": "Tag ?", "titleBn": "ট্যাগ প্রশ্ন (..., isn't it?)" },
-    "indirect-question": { "title": "Polite & indirect questions", "short": "Polite ?", "titleBn": "ভদ্র ও পরোক্ষ প্রশ্ন" },
-    "paragraph": { "title": "Short paragraphs", "short": "Paragraph", "titleBn": "ছোট অনুচ্ছেদ" }
+    "affirmative": {
+      "title": "Positive statements",
+      "short": "Positive",
+      "titleBn": "হ্যাঁ-বোধক বাক্য"
+    },
+    "negative": {
+      "title": "Negative statements",
+      "short": "Negative",
+      "titleBn": "না-বোধক বাক্য"
+    },
+    "yes-no-question": {
+      "title": "Yes / No questions",
+      "short": "Yes/No ?",
+      "titleBn": "হ্যাঁ/না প্রশ্ন"
+    },
+    "negative-question": {
+      "title": "Negative questions",
+      "short": "Negative ?",
+      "titleBn": "না-বোধক প্রশ্ন"
+    },
+    "wh-question": {
+      "title": "Wh- questions",
+      "short": "Wh- ?",
+      "titleBn": "Wh- প্রশ্ন (কী, কেন, কখন, কোথায়)"
+    },
+    "tag-question": {
+      "title": "Tag questions",
+      "short": "Tag ?",
+      "titleBn": "ট্যাগ প্রশ্ন (..., isn't it?)"
+    },
+    "indirect-question": {
+      "title": "Polite & indirect questions",
+      "short": "Polite ?",
+      "titleBn": "ভদ্র ও পরোক্ষ প্রশ্ন"
+    },
+    "paragraph": {
+      "title": "Short paragraphs",
+      "short": "Paragraph",
+      "titleBn": "ছোট অনুচ্ছেদ"
+    }
   },
   "blueprint": {
     "starter": [
-      { "grammar": "present-simple", "sessions": { "affirmative": 8, "negative": 6, "yes-no-question": 6, "wh-question": 6 } },
-      { "grammar": "present-continuous", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "wh-question": 6 } },
-      { "grammar": "past-simple", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "wh-question": 6 } },
-      { "grammar": "future-will", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "wh-question": 6 } }
+      {
+        "grammar": "present-simple",
+        "sessions": {
+          "affirmative": 8,
+          "negative": 6,
+          "yes-no-question": 6,
+          "wh-question": 6
+        }
+      },
+      {
+        "grammar": "present-continuous",
+        "sessions": {
+          "affirmative": 6,
+          "negative": 6,
+          "yes-no-question": 6,
+          "wh-question": 6
+        }
+      },
+      {
+        "grammar": "past-simple",
+        "sessions": {
+          "affirmative": 6,
+          "negative": 6,
+          "yes-no-question": 6,
+          "wh-question": 6
+        }
+      },
+      {
+        "grammar": "future-will",
+        "sessions": {
+          "affirmative": 6,
+          "negative": 6,
+          "yes-no-question": 6,
+          "wh-question": 6
+        }
+      }
     ],
     "elementary": [
-      { "grammar": "present-simple", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "negative-question": 6, "wh-question": 6 } },
-      { "grammar": "present-continuous", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "wh-question": 6 } },
-      { "grammar": "past-simple", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "negative-question": 6, "wh-question": 6 } },
-      { "grammar": "future-going-to", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "wh-question": 6 } }
+      {
+        "grammar": "present-simple",
+        "sessions": {
+          "affirmative": 6,
+          "negative": 6,
+          "yes-no-question": 6,
+          "negative-question": 6,
+          "wh-question": 6
+        }
+      },
+      {
+        "grammar": "present-continuous",
+        "sessions": {
+          "affirmative": 6,
+          "negative": 6,
+          "yes-no-question": 6,
+          "wh-question": 6
+        }
+      },
+      {
+        "grammar": "past-simple",
+        "sessions": {
+          "affirmative": 6,
+          "negative": 6,
+          "yes-no-question": 6,
+          "negative-question": 6,
+          "wh-question": 6
+        }
+      },
+      {
+        "grammar": "future-going-to",
+        "sessions": {
+          "affirmative": 6,
+          "negative": 6,
+          "yes-no-question": 6,
+          "wh-question": 6
+        }
+      }
     ],
     "intermediate": [
-      { "grammar": "present-perfect", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "wh-question": 6, "paragraph": 3 } },
-      { "grammar": "past-continuous", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "wh-question": 6, "paragraph": 3 } },
-      { "grammar": "modals", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "tag-question": 6, "paragraph": 3 } },
-      { "grammar": "conditionals", "sessions": { "affirmative": 6, "negative": 6, "wh-question": 6, "paragraph": 3 } }
+      {
+        "grammar": "present-perfect",
+        "sessions": {
+          "affirmative": 6,
+          "negative": 6,
+          "yes-no-question": 6,
+          "wh-question": 6,
+          "paragraph": 3
+        }
+      },
+      {
+        "grammar": "past-continuous",
+        "sessions": {
+          "affirmative": 6,
+          "negative": 6,
+          "yes-no-question": 6,
+          "wh-question": 6,
+          "paragraph": 3
+        }
+      },
+      {
+        "grammar": "modals",
+        "sessions": {
+          "affirmative": 6,
+          "negative": 6,
+          "yes-no-question": 6,
+          "tag-question": 6,
+          "paragraph": 3
+        }
+      },
+      {
+        "grammar": "conditionals",
+        "sessions": {
+          "affirmative": 6,
+          "negative": 6,
+          "wh-question": 6,
+          "paragraph": 3
+        }
+      }
     ],
     "advanced": [
-      { "grammar": "present-perfect-continuous", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "wh-question": 6, "paragraph": 3 } },
-      { "grammar": "past-perfect", "sessions": { "affirmative": 6, "negative": 6, "negative-question": 6, "wh-question": 6, "paragraph": 3 } },
-      { "grammar": "passive", "sessions": { "affirmative": 6, "negative": 6, "yes-no-question": 6, "indirect-question": 6, "paragraph": 3 } },
-      { "grammar": "conditionals", "sessions": { "affirmative": 6, "negative": 6, "wh-question": 6, "paragraph": 3 } }
+      {
+        "grammar": "present-perfect-continuous",
+        "sessions": {
+          "affirmative": 6,
+          "negative": 6,
+          "yes-no-question": 6,
+          "wh-question": 6,
+          "paragraph": 3
+        }
+      },
+      {
+        "grammar": "past-perfect",
+        "sessions": {
+          "affirmative": 6,
+          "negative": 6,
+          "negative-question": 6,
+          "wh-question": 6,
+          "paragraph": 3
+        }
+      },
+      {
+        "grammar": "passive",
+        "sessions": {
+          "affirmative": 6,
+          "negative": 6,
+          "yes-no-question": 6,
+          "indirect-question": 6,
+          "paragraph": 3
+        }
+      },
+      {
+        "grammar": "conditionals",
+        "sessions": {
+          "affirmative": 6,
+          "negative": 6,
+          "wh-question": 6,
+          "paragraph": 3
+        }
+      }
     ]
   }
 }

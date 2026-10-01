@@ -1,7 +1,7 @@
 import { ArrowRight } from 'lucide-react';
 import { motion } from 'motion/react';
 import { Link } from 'react-router-dom';
-import { findSession, grammarLabel, levelTracks, practicePath, typeLabel } from '../lib/content';
+import { findSession, grammarLabel, levelTracks, practicePath } from '../lib/content';
 import { trackProgress } from '../lib/progress';
 import { dayKey, isDue } from '../lib/srs';
 import { useStore } from '../lib/store';
@@ -31,7 +31,7 @@ export function Home() {
       <motion.div className="page-head" variants={stagger} initial="hidden" animate="show">
         <div>
           <motion.span variants={rise} className="small muted">
-            {new Date().toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long' })}
+            {new Date().toLocaleDateString('en-GB', { weekday: 'long' })}, {new Date().toLocaleDateString('en-GB', { day: 'numeric', month: 'long' })}
           </motion.span>
           <motion.h1 variants={rise} className="title">
             {greeting()}
@@ -51,7 +51,7 @@ export function Home() {
         >
           <div className="continue-text">
             <span className="label">
-              {ref.topic.title} · {grammarLabel(ref.unit.grammar).title} · {typeLabel(ref.session.type).short}
+              {ref.topic.title} · {grammarLabel(ref.unit.grammar).title}
             </span>
             <p className="continue-sentence">{item.title ?? item.en}</p>
             {!item.title && <Bn className="continue-bn">{item.bn}</Bn>}
