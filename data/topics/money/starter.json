@@ -1,0 +1,247 @@
+{
+  "topic": "money",
+  "level": "starter",
+  "title": "Tania's Piggy Bank",
+  "story": "Tania is eleven and lives in Mymensingh with her parents and her little brother Sabbir. Her dad is a cashier at a bank, and her mom pays the family bills with bKash. Tania keeps her pocket money in a clay piggy bank and dreams of a new bicycle.",
+  "storyBn": "তানিয়ার বয়স এগারো বছর। সে মা-বাবা আর ছোট ভাই সাব্বিরের সাথে ময়মনসিংহে থাকে। তার বাবা একটা ব্যাংকের ক্যাশিয়ার, আর মা বিকাশ দিয়ে সংসারের বিল দেন। তানিয়া তার হাতখরচের টাকা একটা মাটির ব্যাংকে জমায় আর একটা নতুন সাইকেলের স্বপ্ন দেখে।",
+  "units": [
+    {
+      "grammar": "present-simple",
+      "focus": "Talk about everyday money at home",
+      "focusBn": "ঘরের প্রতিদিনের টাকা-পয়সা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + is/has + ... / Subject + verb(s) + ...",
+          "tipBn": "he, she বা কোনো একজনের নামের পরে verb-এর সাথে s বা es যোগ হয়।",
+          "items": [
+            {"id":"01","en":"Tania has a clay piggy bank.","bn":"তানিয়ার একটা মাটির ব্যাংক আছে।","words":[{"w":"clay","bn":"মাটির","pos":"adjective"},{"w":"piggy bank","bn":"টাকা জমানোর ব্যাংক","pos":"noun"}]},
+            {"id":"02","en":"Her pocket money is 20 taka a day.","bn":"তার হাতখরচ দিনে ২০ টাকা।","words":[{"w":"pocket money","bn":"হাতখরচ","pos":"noun"}]},
+            {"id":"03","en":"She saves 10 taka every day.","bn":"সে প্রতিদিন ১০ টাকা জমায়।","words":[{"w":"saves","bn":"জমায়","pos":"verb","base":"save"}]},
+            {"id":"04","en":"A pen costs 15 taka.","bn":"একটা কলমের দাম ১৫ টাকা।","words":[{"w":"costs","bn":"দাম পড়ে","pos":"verb","base":"cost"}]},
+            {"id":"05","en":"Dad is a cashier at a bank.","bn":"বাবা একটা ব্যাংকের ক্যাশিয়ার।","words":[{"w":"cashier","bn":"ক্যাশিয়ার, টাকা লেনদেনকারী","pos":"noun"},{"w":"bank","bn":"ব্যাংক","pos":"noun"}]},
+            {"id":"06","en":"Mom pays the bills with bKash.","bn":"মা বিকাশ দিয়ে বিল দেন।","words":[{"w":"pays","bn":"পরিশোধ করেন","pos":"verb","base":"pay"},{"w":"bills","bn":"বিল","pos":"noun","base":"bill"}]},
+            {"id":"07","en":"Tania keeps her coins in a box.","bn":"তানিয়া তার কয়েনগুলো একটা বাক্সে রাখে।","words":[{"w":"keeps","bn":"রাখে","pos":"verb","base":"keep"},{"w":"coins","bn":"কয়েন, পয়সা","pos":"noun","base":"coin"}]},
+            {"id":"08","en":"Sabbir spends all his money on sweets.","bn":"সাব্বির তার সব টাকা মিষ্টি কিনে খরচ করে।","words":[{"w":"spends","bn":"খরচ করে","pos":"verb","base":"spend"},{"w":"sweets","bn":"মিষ্টি, চকলেট","pos":"noun","base":"sweet"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + is not + ... / Subject + don't/doesn't + verb ...",
+          "tipBn": "is-এর পরে not বসে; অন্য verb-এর আগে don't বা doesn't বসে।",
+          "items": [
+            {"id":"01","en":"Tania doesn't spend all her money.","bn":"তানিয়া তার সব টাকা খরচ করে না।","words":[{"w":"spend","bn":"খরচ করা","pos":"verb"}]},
+            {"id":"02","en":"A pen doesn't cost 50 taka.","bn":"একটা কলমের দাম ৫০ টাকা না।","words":[{"w":"cost","bn":"দাম পড়া","pos":"verb"}]},
+            {"id":"03","en":"Dad is not a shopkeeper.","bn":"বাবা দোকানদার নন।","words":[{"w":"shopkeeper","bn":"দোকানদার","pos":"noun"}]},
+            {"id":"04","en":"Mom doesn't carry much cash.","bn":"মা বেশি নগদ টাকা সাথে রাখেন না।","words":[{"w":"carry","bn":"সাথে রাখা","pos":"verb"},{"w":"cash","bn":"নগদ টাকা","pos":"noun"}]},
+            {"id":"05","en":"Sabbir never saves his coins.","bn":"সাব্বির কখনো তার কয়েন জমায় না।","words":[{"w":"never","bn":"কখনো না","pos":"adverb"},{"w":"saves","bn":"জমায়","pos":"verb","base":"save"}]},
+            {"id":"06","en":"The ATM is not far from our house.","bn":"এটিএমটা আমাদের বাসা থেকে দূরে না।","words":[{"w":"ATM","bn":"এটিএম, টাকা তোলার যন্ত্র","pos":"noun"},{"w":"far","bn":"দূরে","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Is + subject + ...? / Do/Does + subject + verb ...?",
+          "tipBn": "প্রশ্ন করতে Is অথবা Do/Does বাক্যের শুরুতে বসে, আর verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Does Tania have a piggy bank?","bn":"তানিয়ার কি টাকা জমানোর ব্যাংক আছে?","words":[{"w":"piggy bank","bn":"টাকা জমানোর ব্যাংক","pos":"noun"}]},
+            {"id":"02","en":"Is her pocket money 20 taka?","bn":"তার হাতখরচ কি ২০ টাকা?","words":[{"w":"pocket money","bn":"হাতখরচ","pos":"noun"}]},
+            {"id":"03","en":"Does Mom pay the bills with bKash?","bn":"মা কি বিকাশ দিয়ে বিল দেন?","words":[{"w":"pay","bn":"পরিশোধ করা","pos":"verb"},{"w":"bills","bn":"বিল","pos":"noun","base":"bill"}]},
+            {"id":"04","en":"Do you save money every week?","bn":"তুমি কি প্রতি সপ্তাহে টাকা জমাও?","words":[{"w":"save","bn":"জমানো","pos":"verb"}]},
+            {"id":"05","en":"Is the bank open on Friday?","bn":"শুক্রবারে কি ব্যাংক খোলা থাকে?","words":[{"w":"open","bn":"খোলা","pos":"adjective"}]},
+            {"id":"06","en":"Does Dad use a debit card?","bn":"বাবা কি ডেবিট কার্ড ব্যবহার করেন?","words":[{"w":"debit card","bn":"ডেবিট কার্ড","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + is/do/does + subject ...?",
+          "tipBn": "How much, Where, Why ইত্যাদি প্রশ্নশব্দ শুরুতে বসে, তারপর is বা do/does।",
+          "items": [
+            {"id":"01","en":"How much is this notebook?","bn":"এই খাতাটার দাম কত?","words":[{"w":"How much","bn":"কত","pos":"phrase"},{"w":"notebook","bn":"খাতা","pos":"noun"}]},
+            {"id":"02","en":"Where does Tania keep her coins?","bn":"তানিয়া তার কয়েনগুলো কোথায় রাখে?","words":[{"w":"keep","bn":"রাখা","pos":"verb"},{"w":"coins","bn":"কয়েন, পয়সা","pos":"noun","base":"coin"}]},
+            {"id":"03","en":"Why does Sabbir spend so much?","bn":"সাব্বির এত বেশি খরচ করে কেন?","words":[{"w":"spend","bn":"খরচ করা","pos":"verb"},{"w":"so much","bn":"এত বেশি","pos":"phrase"}]},
+            {"id":"04","en":"What does Dad do at the bank?","bn":"বাবা ব্যাংকে কী কাজ করেন?","words":[{"w":"bank","bn":"ব্যাংক","pos":"noun"}]},
+            {"id":"05","en":"When does Mom pay the electricity bill?","bn":"মা কখন বিদ্যুৎ বিল দেন?","words":[{"w":"electricity bill","bn":"বিদ্যুৎ বিল","pos":"noun"}]},
+            {"id":"06","en":"How much money do you have?","bn":"তোমার কাছে কত টাকা আছে?","words":[{"w":"money","bn":"টাকা","pos":"noun"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "present-continuous",
+      "focus": "Say what people are doing with money now",
+      "focusBn": "এখন কে টাকা দিয়ে কী করছে তা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + verb-ing ...",
+          "tipBn": "এখন ঘটছে এমন কাজ বলতে am/is/are-এর পরে verb-এর সাথে ing বসে।",
+          "items": [
+            {"id":"01","en":"Tania is counting her coins.","bn":"তানিয়া তার কয়েনগুলো গুনছে।","words":[{"w":"counting","bn":"গুনছে","pos":"verb","base":"count"},{"w":"coins","bn":"কয়েন, পয়সা","pos":"noun","base":"coin"}]},
+            {"id":"02","en":"Mom is sending money to Grandma.","bn":"মা নানুকে টাকা পাঠাচ্ছেন।","words":[{"w":"sending","bn":"পাঠাচ্ছে","pos":"verb","base":"send"},{"w":"Grandma","bn":"নানি, দাদি","pos":"noun"}]},
+            {"id":"03","en":"Dad is working at the bank counter.","bn":"বাবা ব্যাংকের কাউন্টারে কাজ করছেন।","words":[{"w":"counter","bn":"কাউন্টার","pos":"noun"}]},
+            {"id":"04","en":"Sabbir is buying an ice cream.","bn":"সাব্বির একটা আইসক্রিম কিনছে।","words":[{"w":"buying","bn":"কিনছে","pos":"verb","base":"buy"}]},
+            {"id":"05","en":"We are waiting at the ATM.","bn":"আমরা এটিএমের সামনে অপেক্ষা করছি।","words":[{"w":"waiting","bn":"অপেক্ষা করছি","pos":"verb","base":"wait"},{"w":"ATM","bn":"এটিএম","pos":"noun"}]},
+            {"id":"06","en":"Tania is paying the shopkeeper now.","bn":"তানিয়া এখন দোকানদারকে টাকা দিচ্ছে।","words":[{"w":"paying","bn":"টাকা দিচ্ছে","pos":"verb","base":"pay"},{"w":"shopkeeper","bn":"দোকানদার","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + verb-ing ...",
+          "tipBn": "am/is/are-এর পরে not বসিয়ে না-বোধক করা হয়; isn't, aren't সংক্ষিপ্ত রূপ।",
+          "items": [
+            {"id":"01","en":"Tania isn't spending her savings.","bn":"তানিয়া তার জমানো টাকা খরচ করছে না।","words":[{"w":"spending","bn":"খরচ করছে","pos":"verb","base":"spend"},{"w":"savings","bn":"জমানো টাকা","pos":"noun"}]},
+            {"id":"02","en":"Mom isn't using cash right now.","bn":"মা এখন নগদ টাকা ব্যবহার করছেন না।","words":[{"w":"cash","bn":"নগদ টাকা","pos":"noun"},{"w":"right now","bn":"এই মুহূর্তে","pos":"phrase"}]},
+            {"id":"03","en":"Dad isn't working at the counter today.","bn":"বাবা আজ কাউন্টারে কাজ করছেন না।","words":[{"w":"counter","bn":"কাউন্টার","pos":"noun"}]},
+            {"id":"04","en":"We aren't waiting in a long line.","bn":"আমরা লম্বা লাইনে অপেক্ষা করছি না।","words":[{"w":"line","bn":"লাইন, সারি","pos":"noun"}]},
+            {"id":"05","en":"The ATM is not working.","bn":"এটিএমটা চলছে না।","words":[{"w":"working","bn":"চলছে, কাজ করছে","pos":"verb","base":"work"}]},
+            {"id":"06","en":"Prices are not going down.","bn":"দাম কমছে না।","words":[{"w":"Prices","bn":"দাম","pos":"noun","base":"price"},{"w":"going down","bn":"কমছে","pos":"phrasal verb","base":"go down"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে am/is/are বাক্যের শুরুতে চলে আসে।",
+          "items": [
+            {"id":"01","en":"Is Tania counting her coins?","bn":"তানিয়া কি তার কয়েনগুলো গুনছে?","words":[{"w":"counting","bn":"গুনছে","pos":"verb","base":"count"}]},
+            {"id":"02","en":"Is Mom sending money to Grandma?","bn":"মা কি নানুকে টাকা পাঠাচ্ছেন?","words":[{"w":"sending","bn":"পাঠাচ্ছে","pos":"verb","base":"send"}]},
+            {"id":"03","en":"Are you paying by card?","bn":"তুমি কি কার্ডে টাকা দিচ্ছ?","words":[{"w":"paying","bn":"টাকা দিচ্ছ","pos":"verb","base":"pay"},{"w":"card","bn":"কার্ড","pos":"noun"}]},
+            {"id":"04","en":"Is the ATM working now?","bn":"এটিএমটা কি এখন চলছে?","words":[{"w":"working","bn":"চলছে, কাজ করছে","pos":"verb","base":"work"}]},
+            {"id":"05","en":"Are prices going up this month?","bn":"এই মাসে কি দাম বাড়ছে?","words":[{"w":"prices","bn":"দাম","pos":"noun","base":"price"},{"w":"going up","bn":"বাড়ছে","pos":"phrasal verb","base":"go up"}]},
+            {"id":"06","en":"Is Sabbir buying an ice cream?","bn":"সাব্বির কি একটা আইসক্রিম কিনছে?","words":[{"w":"buying","bn":"কিনছে","pos":"verb","base":"buy"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + verb-ing ...?",
+          "tipBn": "প্রশ্নশব্দ শুরুতে বসে, তারপর am/is/are আর verb-ing।",
+          "items": [
+            {"id":"01","en":"What is Tania doing with her coins?","bn":"তানিয়া তার কয়েনগুলো দিয়ে কী করছে?","words":[{"w":"coins","bn":"কয়েন, পয়সা","pos":"noun","base":"coin"}]},
+            {"id":"02","en":"Who is sending money to Grandma?","bn":"নানুকে কে টাকা পাঠাচ্ছে?","words":[{"w":"sending","bn":"পাঠাচ্ছে","pos":"verb","base":"send"}]},
+            {"id":"03","en":"Why are you waiting at the ATM?","bn":"তুমি এটিএমের সামনে অপেক্ষা করছ কেন?","words":[{"w":"waiting","bn":"অপেক্ষা করছ","pos":"verb","base":"wait"}]},
+            {"id":"04","en":"How much is Sabbir spending today?","bn":"সাব্বির আজ কত টাকা খরচ করছে?","words":[{"w":"How much","bn":"কত","pos":"phrase"},{"w":"spending","bn":"খরচ করছে","pos":"verb","base":"spend"}]},
+            {"id":"05","en":"Where is Dad going with the money?","bn":"বাবা টাকাটা নিয়ে কোথায় যাচ্ছেন?","words":[{"w":"money","bn":"টাকা","pos":"noun"}]},
+            {"id":"06","en":"Which card is Mom using?","bn":"মা কোন কার্ডটা ব্যবহার করছেন?","words":[{"w":"Which","bn":"কোনটা","pos":"pronoun"},{"w":"card","bn":"কার্ড","pos":"noun"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-simple",
+      "focus": "Tell what happened at the bank",
+      "focusBn": "ব্যাংকে কী ঘটেছিল তা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb (past) + ... (+ time word).",
+          "tipBn": "অতীতের কাজ বলতে verb-এর past রূপ বসে, যেমন opened, paid, lost।",
+          "items": [
+            {"id":"01","en":"Tania opened a bank account last week.","bn":"তানিয়া গত সপ্তাহে একটা ব্যাংক অ্যাকাউন্ট খুলেছে।","words":[{"w":"opened","bn":"খুলেছে","pos":"verb","base":"open"},{"w":"bank account","bn":"ব্যাংক অ্যাকাউন্ট, ব্যাংক হিসাব","pos":"noun"}]},
+            {"id":"02","en":"Dad took her to the bank.","bn":"বাবা তাকে ব্যাংকে নিয়ে গিয়েছিলেন।","words":[{"w":"took","bn":"নিয়ে গিয়েছিলেন","pos":"verb","base":"take"}]},
+            {"id":"03","en":"She saved 500 taka last month.","bn":"সে গত মাসে ৫০০ টাকা জমিয়েছিল।","words":[{"w":"saved","bn":"জমিয়েছিল","pos":"verb","base":"save"}]},
+            {"id":"04","en":"Sabbir lost 50 taka yesterday.","bn":"সাব্বির গতকাল ৫০ টাকা হারিয়েছে।","words":[{"w":"lost","bn":"হারিয়েছে","pos":"verb","base":"lose"}]},
+            {"id":"05","en":"Mom paid the gas bill on Sunday.","bn":"মা রবিবারে গ্যাসের বিল দিয়েছিলেন।","words":[{"w":"paid","bn":"পরিশোধ করেছিলেন","pos":"verb","base":"pay"},{"w":"gas bill","bn":"গ্যাসের বিল","pos":"noun"}]},
+            {"id":"06","en":"Grandma got the money in an hour.","bn":"নানু এক ঘণ্টার মধ্যে টাকাটা পেয়েছিলেন।","words":[{"w":"got","bn":"পেয়েছিলেন","pos":"verb","base":"get"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + didn't + verb (base) ... / was not ...",
+          "tipBn": "অতীতের না-বোধক বাক্যে didn't বসে আর verb মূল রূপে ফিরে যায়।",
+          "items": [
+            {"id":"01","en":"Tania didn't go to the bank alone.","bn":"তানিয়া একা ব্যাংকে যায়নি।","words":[{"w":"alone","bn":"একা","pos":"adverb"}]},
+            {"id":"02","en":"She didn't spend her savings last month.","bn":"সে গত মাসে তার জমানো টাকা খরচ করেনি।","words":[{"w":"spend","bn":"খরচ করা","pos":"verb"},{"w":"savings","bn":"জমানো টাকা","pos":"noun"}]},
+            {"id":"03","en":"Sabbir didn't find his 50 taka.","bn":"সাব্বির তার ৫০ টাকা খুঁজে পায়নি।","words":[{"w":"find","bn":"খুঁজে পাওয়া","pos":"verb"}]},
+            {"id":"04","en":"Mom didn't pay the bill late.","bn":"মা দেরিতে বিল দেননি।","words":[{"w":"late","bn":"দেরিতে","pos":"adverb"}]},
+            {"id":"05","en":"The bank was not busy yesterday.","bn":"গতকাল ব্যাংকে ভিড় ছিল না।","words":[{"w":"busy","bn":"ব্যস্ত, ভিড়","pos":"adjective"}]},
+            {"id":"06","en":"Dad didn't use the ATM yesterday.","bn":"বাবা গতকাল এটিএম ব্যবহার করেননি।","words":[{"w":"use","bn":"ব্যবহার করা","pos":"verb"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Did + subject + verb (base) ...? / Was + subject ...?",
+          "tipBn": "অতীতের প্রশ্নে Did শুরুতে বসে এবং verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Did Tania open a bank account?","bn":"তানিয়া কি ব্যাংক অ্যাকাউন্ট খুলেছে?","words":[{"w":"open","bn":"খোলা","pos":"verb"},{"w":"bank account","bn":"ব্যাংক অ্যাকাউন্ট","pos":"noun"}]},
+            {"id":"02","en":"Did Dad take her to the bank?","bn":"বাবা কি তাকে ব্যাংকে নিয়ে গিয়েছিলেন?","words":[{"w":"take","bn":"নিয়ে যাওয়া","pos":"verb"}]},
+            {"id":"03","en":"Did Sabbir lose his money?","bn":"সাব্বির কি তার টাকা হারিয়েছে?","words":[{"w":"lose","bn":"হারানো","pos":"verb"}]},
+            {"id":"04","en":"Did Grandma get the money?","bn":"নানু কি টাকাটা পেয়েছিলেন?","words":[{"w":"get","bn":"পাওয়া","pos":"verb"}]},
+            {"id":"05","en":"Was the bank crowded?","bn":"ব্যাংকে কি ভিড় ছিল?","words":[{"w":"crowded","bn":"ভিড়","pos":"adjective"}]},
+            {"id":"06","en":"Did you check your balance yesterday?","bn":"তুমি কি গতকাল তোমার ব্যালান্স দেখেছিলে?","words":[{"w":"check","bn":"দেখা, যাচাই করা","pos":"verb"},{"w":"balance","bn":"ব্যালান্স, জমা টাকা","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + did + subject + verb (base) ...?",
+          "tipBn": "প্রশ্নশব্দের পরে did বসে, আর verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"When did Tania open her account?","bn":"তানিয়া কবে তার অ্যাকাউন্ট খুলেছে?","words":[{"w":"account","bn":"অ্যাকাউন্ট, হিসাব","pos":"noun"}]},
+            {"id":"02","en":"How much did she save last month?","bn":"গত মাসে সে কত টাকা জমিয়েছিল?","words":[{"w":"How much","bn":"কত","pos":"phrase"},{"w":"save","bn":"জমানো","pos":"verb"}]},
+            {"id":"03","en":"Where did Sabbir lose his money?","bn":"সাব্বির তার টাকা কোথায় হারিয়েছে?","words":[{"w":"lose","bn":"হারানো","pos":"verb"}]},
+            {"id":"04","en":"Who paid the gas bill?","bn":"গ্যাসের বিল কে দিয়েছিল?","words":[{"w":"gas bill","bn":"গ্যাসের বিল","pos":"noun"}]},
+            {"id":"05","en":"What did the bank officer give Tania?","bn":"ব্যাংক কর্মকর্তা তানিয়াকে কী দিয়েছিলেন?","words":[{"w":"bank officer","bn":"ব্যাংক কর্মকর্তা","pos":"noun"}]},
+            {"id":"06","en":"How did Grandma get the money?","bn":"নানু টাকাটা কীভাবে পেয়েছিলেন?","words":[{"w":"How","bn":"কীভাবে","pos":"adverb"},{"w":"get","bn":"পাওয়া","pos":"verb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "future-will",
+      "focus": "Make money plans and promises",
+      "focusBn": "টাকা নিয়ে পরিকল্পনা ও প্রতিশ্রুতি দেওয়া",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + will + verb (base) ...",
+          "tipBn": "ভবিষ্যতের কথা, প্রতিশ্রুতি বা অনুমান বলতে will-এর পরে verb মূল রূপে বসে।",
+          "items": [
+            {"id":"01","en":"Tania will buy a bicycle next year.","bn":"তানিয়া আগামী বছর একটা সাইকেল কিনবে।","words":[{"w":"bicycle","bn":"সাইকেল","pos":"noun"},{"w":"next year","bn":"আগামী বছর","pos":"phrase"}]},
+            {"id":"02","en":"I will save 20 taka every day.","bn":"আমি প্রতিদিন ২০ টাকা জমাব।","words":[{"w":"save","bn":"জমানো","pos":"verb"}]},
+            {"id":"03","en":"Dad will help me with my savings.","bn":"বাবা আমাকে টাকা জমাতে সাহায্য করবেন।","words":[{"w":"help","bn":"সাহায্য করা","pos":"verb"},{"w":"savings","bn":"জমানো টাকা","pos":"noun"}]},
+            {"id":"04","en":"Prices will go up in Ramadan.","bn":"রমজানে দাম বাড়বে।","words":[{"w":"go up","bn":"বাড়া","pos":"phrasal verb"},{"w":"Ramadan","bn":"রমজান","pos":"noun"}]},
+            {"id":"05","en":"Mom will send Grandma 2,000 taka.","bn":"মা নানুকে ২,০০০ টাকা পাঠাবেন।","words":[{"w":"send","bn":"পাঠানো","pos":"verb"}]},
+            {"id":"06","en":"Sabbir will pay back the money tomorrow.","bn":"সাব্বির কাল টাকাটা ফেরত দেবে।","words":[{"w":"pay back","bn":"ফেরত দেওয়া","pos":"phrasal verb"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + won't (will not) + verb (base) ...",
+          "tipBn": "will not বা won't-এর পরে verb মূল রূপে বসে।",
+          "items": [
+            {"id":"01","en":"Tania won't buy a bicycle this year.","bn":"তানিয়া এই বছর সাইকেল কিনবে না।","words":[{"w":"won't","bn":"করবে না","pos":"verb","base":"will not"},{"w":"bicycle","bn":"সাইকেল","pos":"noun"}]},
+            {"id":"02","en":"I won't waste my money.","bn":"আমি আমার টাকা নষ্ট করব না।","words":[{"w":"waste","bn":"নষ্ট করা","pos":"verb"}]},
+            {"id":"03","en":"Prices won't go down soon.","bn":"শিগগিরই দাম কমবে না।","words":[{"w":"go down","bn":"কমা","pos":"phrasal verb"},{"w":"soon","bn":"শিগগিরই","pos":"adverb"}]},
+            {"id":"04","en":"Sabbir won't borrow money again.","bn":"সাব্বির আর কখনো টাকা ধার নেবে না।","words":[{"w":"borrow","bn":"ধার নেওয়া","pos":"verb"}]},
+            {"id":"05","en":"The bank will not open on Friday.","bn":"শুক্রবারে ব্যাংক খুলবে না।","words":[{"w":"open","bn":"খোলা","pos":"verb"}]},
+            {"id":"06","en":"I won't share my PIN with anyone.","bn":"আমি কাউকে আমার পিন বলব না।","words":[{"w":"share","bn":"বলা, শেয়ার করা","pos":"verb"},{"w":"PIN","bn":"পিন, গোপন নম্বর","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Will + subject + verb (base) ...?",
+          "tipBn": "ভবিষ্যতের প্রশ্নে Will বাক্যের শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Will Tania buy a bicycle next year?","bn":"তানিয়া কি আগামী বছর একটা সাইকেল কিনবে?","words":[{"w":"bicycle","bn":"সাইকেল","pos":"noun"}]},
+            {"id":"02","en":"Will Mom send Grandma 2,000 taka?","bn":"মা কি নানুকে ২,০০০ টাকা পাঠাবেন?","words":[{"w":"send","bn":"পাঠানো","pos":"verb"}]},
+            {"id":"03","en":"Will Sabbir pay back the money?","bn":"সাব্বির কি টাকাটা ফেরত দেবে?","words":[{"w":"pay back","bn":"ফেরত দেওয়া","pos":"phrasal verb"}]},
+            {"id":"04","en":"Will prices go up in Ramadan?","bn":"রমজানে কি দাম বাড়বে?","words":[{"w":"go up","bn":"বাড়া","pos":"phrasal verb"}]},
+            {"id":"05","en":"Will you lend me 100 taka?","bn":"তুমি কি আমাকে ১০০ টাকা ধার দেবে?","words":[{"w":"lend","bn":"ধার দেওয়া","pos":"verb"}]},
+            {"id":"06","en":"Will Dad get his salary on Thursday?","bn":"বাবা কি বৃহস্পতিবারে তাঁর বেতন পাবেন?","words":[{"w":"salary","bn":"বেতন","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + will + subject + verb (base) ...?",
+          "tipBn": "প্রশ্নশব্দের পরে will বসে, তারপর subject আর verb-এর মূল রূপ।",
+          "items": [
+            {"id":"01","en":"What will Tania buy with her savings?","bn":"তানিয়া তার জমানো টাকা দিয়ে কী কিনবে?","words":[{"w":"savings","bn":"জমানো টাকা","pos":"noun"}]},
+            {"id":"02","en":"How much will you save next month?","bn":"তুমি আগামী মাসে কত টাকা জমাবে?","words":[{"w":"How much","bn":"কত","pos":"phrase"},{"w":"save","bn":"জমানো","pos":"verb"}]},
+            {"id":"03","en":"When will Sabbir pay back the money?","bn":"সাব্বির কবে টাকাটা ফেরত দেবে?","words":[{"w":"pay back","bn":"ফেরত দেওয়া","pos":"phrasal verb"}]},
+            {"id":"04","en":"Who will help Tania with her savings?","bn":"তানিয়াকে টাকা জমাতে কে সাহায্য করবে?","words":[{"w":"help","bn":"সাহায্য করা","pos":"verb"}]},
+            {"id":"05","en":"How will Mom send the money?","bn":"মা টাকাটা কীভাবে পাঠাবেন?","words":[{"w":"How","bn":"কীভাবে","pos":"adverb"},{"w":"send","bn":"পাঠানো","pos":"verb"}]},
+            {"id":"06","en":"Which bank will you choose?","bn":"তুমি কোন ব্যাংকটা বেছে নেবে?","words":[{"w":"choose","bn":"বেছে নেওয়া","pos":"verb"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

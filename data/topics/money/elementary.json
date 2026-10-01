@@ -1,0 +1,271 @@
+{
+  "topic": "money",
+  "level": "elementary",
+  "title": "Rafiq's First Salary",
+  "story": "Rafiq is 23 and has his first job in the office of a garment factory in Gazipur. He shares a small rented room with his friend Jamil. Every month he sends money home to his mother and his younger sister Mitu in a village near Rangpur.",
+  "storyBn": "রফিকের বয়স ২৩। গাজীপুরের একটা গার্মেন্টস কারখানার অফিসে এটা তার প্রথম চাকরি। সে বন্ধু জামিলের সাথে একটা ছোট ভাড়া রুমে থাকে। প্রতি মাসে সে রংপুরের কাছের এক গ্রামে মা আর ছোট বোন মিতুর কাছে টাকা পাঠায়।",
+  "units": [
+    {
+      "grammar": "present-simple",
+      "focus": "Talk about Rafiq's monthly income and costs",
+      "focusBn": "রফিকের মাসিক আয় ও খরচ নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb(s) + ... (+ every month / a month).",
+          "tipBn": "নিয়মিত ঘটে এমন কাজ বলতে present simple বসে; he বা she-এর পরে verb-এ s যোগ হয়।",
+          "items": [
+            {"id":"01","en":"Rafiq earns 18,000 taka a month.","bn":"রফিক মাসে ১৮,০০০ টাকা আয় করে।","words":[{"w":"earns","bn":"আয় করে","pos":"verb","base":"earn"}]},
+            {"id":"02","en":"He gets his salary at the end of every month.","bn":"সে প্রতি মাসের শেষে বেতন পায়।","words":[{"w":"salary","bn":"বেতন","pos":"noun"},{"w":"at the end of","bn":"শেষে","pos":"phrase"}]},
+            {"id":"03","en":"He sends 6,000 taka home every month.","bn":"সে প্রতি মাসে বাড়িতে ৬,০০০ টাকা পাঠায়।","words":[{"w":"sends","bn":"পাঠায়","pos":"verb","base":"send"}]},
+            {"id":"04","en":"His mother uses bKash in the village.","bn":"তার মা গ্রামে বিকাশ ব্যবহার করেন।","words":[{"w":"uses","bn":"ব্যবহার করেন","pos":"verb","base":"use"},{"w":"village","bn":"গ্রাম","pos":"noun"}]},
+            {"id":"05","en":"The rent for his room is 4,000 taka.","bn":"তার রুমের ভাড়া ৪,০০০ টাকা।","words":[{"w":"rent","bn":"ভাড়া","pos":"noun"}]},
+            {"id":"06","en":"Rafiq writes down every expense in a notebook.","bn":"রফিক প্রতিটা খরচ একটা খাতায় লিখে রাখে।","words":[{"w":"writes down","bn":"লিখে রাখে","pos":"phrasal verb","base":"write down"},{"w":"expense","bn":"খরচ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + don't/doesn't + verb (base) ... / is not ...",
+          "tipBn": "he বা she হলে doesn't, অন্যদের জন্য don't বসে; তখন verb-এ আর s থাকে না।",
+          "items": [
+            {"id":"01","en":"Rafiq doesn't earn much money yet.","bn":"রফিক এখনও বেশি টাকা আয় করে না।","words":[{"w":"earn","bn":"আয় করা","pos":"verb"},{"w":"yet","bn":"এখনও","pos":"adverb"}]},
+            {"id":"02","en":"He doesn't spend money on fancy clothes.","bn":"সে দামি জামাকাপড়ের পেছনে টাকা খরচ করে না।","words":[{"w":"spend","bn":"খরচ করা","pos":"verb"},{"w":"fancy","bn":"দামি, শৌখিন","pos":"adjective"}]},
+            {"id":"03","en":"His mother doesn't have a bank account.","bn":"তার মায়ের কোনো ব্যাংক অ্যাকাউন্ট নেই।","words":[{"w":"bank account","bn":"ব্যাংক অ্যাকাউন্ট","pos":"noun"}]},
+            {"id":"04","en":"The rent isn't cheap in Gazipur.","bn":"গাজীপুরে ভাড়া সস্তা না।","words":[{"w":"rent","bn":"ভাড়া","pos":"noun"},{"w":"cheap","bn":"সস্তা","pos":"adjective"}]},
+            {"id":"05","en":"Jamil never writes down his expenses.","bn":"জামিল কখনো তার খরচ লিখে রাখে না।","words":[{"w":"writes down","bn":"লিখে রাখে","pos":"phrasal verb","base":"write down"},{"w":"expenses","bn":"খরচ","pos":"noun","base":"expense"}]},
+            {"id":"06","en":"Rafiq doesn't keep much cash in his wallet.","bn":"রফিক মানিব্যাগে বেশি নগদ টাকা রাখে না।","words":[{"w":"cash","bn":"নগদ টাকা","pos":"noun"},{"w":"wallet","bn":"মানিব্যাগ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Do/Does + subject + verb (base) ...? / Is + subject ...?",
+          "tipBn": "প্রশ্ন করতে Do/Does বা Is শুরুতে বসে, আর verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Does Rafiq send money home every month?","bn":"রফিক কি প্রতি মাসে বাড়িতে টাকা পাঠায়?","words":[{"w":"send","bn":"পাঠানো","pos":"verb"}]},
+            {"id":"02","en":"Does his mother use bKash in the village?","bn":"তার মা কি গ্রামে বিকাশ ব্যবহার করেন?","words":[{"w":"use","bn":"ব্যবহার করা","pos":"verb"},{"w":"village","bn":"গ্রাম","pos":"noun"}]},
+            {"id":"03","en":"Is the rent for his room 4,000 taka?","bn":"তার রুমের ভাড়া কি ৪,০০০ টাকা?","words":[{"w":"rent","bn":"ভাড়া","pos":"noun"}]},
+            {"id":"04","en":"Do you get your salary in cash?","bn":"তুমি কি নগদে বেতন পাও?","words":[{"w":"salary","bn":"বেতন","pos":"noun"},{"w":"in cash","bn":"নগদে","pos":"phrase"}]},
+            {"id":"05","en":"Does Jamil share the electricity bill?","bn":"জামিল কি বিদ্যুৎ বিল ভাগ করে দেয়?","words":[{"w":"share","bn":"ভাগ করা","pos":"verb"},{"w":"electricity bill","bn":"বিদ্যুৎ বিল","pos":"noun"}]},
+            {"id":"06","en":"Is there an ATM near the factory?","bn":"কারখানার কাছে কি কোনো এটিএম আছে?","words":[{"w":"ATM","bn":"এটিএম","pos":"noun"},{"w":"factory","bn":"কারখানা","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Don't/Doesn't/Isn't + subject + ...?",
+          "tipBn": "অবাক হয়ে বা নিশ্চিত হতে প্রশ্ন করলে Don't, Doesn't বা Isn't শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Doesn't Rafiq earn enough for his family?","bn":"রফিক কি তার পরিবারের জন্য যথেষ্ট আয় করে না?","words":[{"w":"earn","bn":"আয় করা","pos":"verb"},{"w":"enough","bn":"যথেষ্ট","pos":"adverb"}]},
+            {"id":"02","en":"Don't you keep a monthly budget?","bn":"তুমি কি মাসিক বাজেট করে চলো না?","words":[{"w":"monthly","bn":"মাসিক","pos":"adjective"},{"w":"budget","bn":"বাজেট, খরচের হিসাব","pos":"noun"}]},
+            {"id":"03","en":"Isn't the rent too high for one small room?","bn":"একটা ছোট রুমের জন্য ভাড়াটা কি খুব বেশি না?","words":[{"w":"rent","bn":"ভাড়া","pos":"noun"},{"w":"too high","bn":"খুব বেশি","pos":"phrase"}]},
+            {"id":"04","en":"Doesn't Jamil pay half the rent?","bn":"জামিল কি অর্ধেক ভাড়া দেয় না?","words":[{"w":"half","bn":"অর্ধেক","pos":"noun"}]},
+            {"id":"05","en":"Doesn't your bank charge a yearly fee?","bn":"তোমার ব্যাংক কি বছরে একটা ফি কেটে নেয় না?","words":[{"w":"charge","bn":"টাকা কেটে নেওয়া","pos":"verb"},{"w":"yearly","bn":"বার্ষিক","pos":"adjective"},{"w":"fee","bn":"ফি, মাশুল","pos":"noun"}]},
+            {"id":"06","en":"Isn't bKash easy to use?","bn":"বিকাশ ব্যবহার করা কি সহজ না?","words":[{"w":"easy","bn":"সহজ","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + do/does + subject + verb (base) ...?",
+          "tipBn": "প্রশ্নশব্দের পরে do বা does বসে, তারপর subject আর verb-এর মূল রূপ।",
+          "items": [
+            {"id":"01","en":"How much does Rafiq earn a month?","bn":"রফিক মাসে কত টাকা আয় করে?","words":[{"w":"How much","bn":"কত","pos":"phrase"},{"w":"earn","bn":"আয় করা","pos":"verb"}]},
+            {"id":"02","en":"When does he get his salary?","bn":"সে কখন বেতন পায়?","words":[{"w":"salary","bn":"বেতন","pos":"noun"}]},
+            {"id":"03","en":"Who shares the room with Rafiq?","bn":"রফিকের সাথে রুমে কে থাকে?","words":[{"w":"shares","bn":"ভাগাভাগি করে","pos":"verb","base":"share"}]},
+            {"id":"04","en":"Why does he write down every expense?","bn":"সে প্রতিটা খরচ লিখে রাখে কেন?","words":[{"w":"write down","bn":"লিখে রাখা","pos":"phrasal verb"},{"w":"expense","bn":"খরচ","pos":"noun"}]},
+            {"id":"05","en":"How does his mother receive the money?","bn":"তার মা টাকাটা কীভাবে পান?","words":[{"w":"receive","bn":"পাওয়া, গ্রহণ করা","pos":"verb"}]},
+            {"id":"06","en":"What does Mitu do with her pocket money?","bn":"মিতু তার হাতখরচের টাকা দিয়ে কী করে?","words":[{"w":"pocket money","bn":"হাতখরচ","pos":"noun"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "present-continuous",
+      "focus": "Describe what is happening on payday",
+      "focusBn": "বেতনের দিনে কী ঘটছে তা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + verb-ing ... (now / this month).",
+          "tipBn": "এখন বা এই সময়ে চলছে এমন কাজ বলতে am/is/are + verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"Rafiq is standing in line at the ATM.","bn":"রফিক এটিএমের সামনে লাইনে দাঁড়িয়ে আছে।","words":[{"w":"standing in line","bn":"লাইনে দাঁড়িয়ে আছে","pos":"phrase","base":"stand in line"}]},
+            {"id":"02","en":"He is withdrawing 5,000 taka from his account.","bn":"সে তার অ্যাকাউন্ট থেকে ৫,০০০ টাকা তুলছে।","words":[{"w":"withdrawing","bn":"তুলছে","pos":"verb","base":"withdraw"},{"w":"account","bn":"অ্যাকাউন্ট","pos":"noun"}]},
+            {"id":"03","en":"Jamil is checking his balance on the app.","bn":"জামিল অ্যাপে তার ব্যালান্স দেখছে।","words":[{"w":"checking","bn":"দেখছে, যাচাই করছে","pos":"verb","base":"check"},{"w":"balance","bn":"ব্যালান্স","pos":"noun"}]},
+            {"id":"04","en":"Mitu is saving for her college admission.","bn":"মিতু তার কলেজে ভর্তির জন্য টাকা জমাচ্ছে।","words":[{"w":"saving","bn":"জমাচ্ছে","pos":"verb","base":"save"},{"w":"admission","bn":"ভর্তি","pos":"noun"}]},
+            {"id":"05","en":"Prices are rising fast this year.","bn":"এই বছর দাম দ্রুত বাড়ছে।","words":[{"w":"rising","bn":"বাড়ছে","pos":"verb","base":"rise"}]},
+            {"id":"06","en":"Rafiq is trying to spend less this month.","bn":"রফিক এই মাসে কম খরচ করার চেষ্টা করছে।","words":[{"w":"trying","bn":"চেষ্টা করছে","pos":"verb","base":"try"},{"w":"spend less","bn":"কম খরচ করা","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + verb-ing ...",
+          "tipBn": "am/is/are-এর পরে not বসে; isn't আর aren't হলো সংক্ষিপ্ত রূপ।",
+          "items": [
+            {"id":"01","en":"Rafiq isn't withdrawing all his salary.","bn":"রফিক তার পুরো বেতন তুলছে না।","words":[{"w":"withdrawing","bn":"তুলছে","pos":"verb","base":"withdraw"},{"w":"salary","bn":"বেতন","pos":"noun"}]},
+            {"id":"02","en":"Jamil isn't paying attention to his spending.","bn":"জামিল তার খরচের দিকে খেয়াল রাখছে না।","words":[{"w":"paying attention","bn":"খেয়াল রাখছে","pos":"phrase","base":"pay attention"},{"w":"spending","bn":"খরচ","pos":"noun"}]},
+            {"id":"03","en":"Mitu isn't wasting her pocket money.","bn":"মিতু তার হাতখরচের টাকা নষ্ট করছে না।","words":[{"w":"wasting","bn":"নষ্ট করছে","pos":"verb","base":"waste"}]},
+            {"id":"04","en":"Prices aren't coming down this year.","bn":"এই বছর দাম কমছে না।","words":[{"w":"coming down","bn":"কমছে","pos":"phrasal verb","base":"come down"}]},
+            {"id":"05","en":"Rafiq isn't eating out this month.","bn":"রফিক এই মাসে বাইরে খাচ্ছে না।","words":[{"w":"eating out","bn":"বাইরে খাওয়া","pos":"phrasal verb","base":"eat out"}]},
+            {"id":"06","en":"The ATM near the gate isn't working today.","bn":"গেটের কাছের এটিএমটা আজ চলছে না।","words":[{"w":"gate","bn":"গেট, ফটক","pos":"noun"},{"w":"working","bn":"চলছে","pos":"verb","base":"work"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে am/is/are বাক্যের শুরুতে চলে আসে।",
+          "items": [
+            {"id":"01","en":"Is Rafiq standing in line at the ATM?","bn":"রফিক কি এটিএমের সামনে লাইনে দাঁড়িয়ে আছে?","words":[{"w":"standing in line","bn":"লাইনে দাঁড়িয়ে থাকা","pos":"phrase","base":"stand in line"}]},
+            {"id":"02","en":"Is he withdrawing 5,000 taka?","bn":"সে কি ৫,০০০ টাকা তুলছে?","words":[{"w":"withdrawing","bn":"তুলছে","pos":"verb","base":"withdraw"}]},
+            {"id":"03","en":"Are prices rising fast this year?","bn":"এই বছর কি দাম দ্রুত বাড়ছে?","words":[{"w":"prices","bn":"দাম","pos":"noun","base":"price"},{"w":"rising","bn":"বাড়ছে","pos":"verb","base":"rise"}]},
+            {"id":"04","en":"Is Mitu saving for college?","bn":"মিতু কি কলেজের জন্য টাকা জমাচ্ছে?","words":[{"w":"saving","bn":"জমাচ্ছে","pos":"verb","base":"save"}]},
+            {"id":"05","en":"Are you using the bank app right now?","bn":"তুমি কি এখন ব্যাংকের অ্যাপ ব্যবহার করছ?","words":[{"w":"app","bn":"অ্যাপ","pos":"noun"},{"w":"right now","bn":"এই মুহূর্তে","pos":"phrase"}]},
+            {"id":"06","en":"Is Jamil borrowing money again?","bn":"জামিল কি আবার টাকা ধার নিচ্ছে?","words":[{"w":"borrowing","bn":"ধার নিচ্ছে","pos":"verb","base":"borrow"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + verb-ing ...?",
+          "tipBn": "প্রশ্নশব্দ শুরুতে বসে, তারপর am/is/are, subject আর verb-ing।",
+          "items": [
+            {"id":"01","en":"What is Rafiq doing at the ATM?","bn":"রফিক এটিএমে কী করছে?","words":[{"w":"ATM","bn":"এটিএম","pos":"noun"}]},
+            {"id":"02","en":"How much money is he withdrawing today?","bn":"সে আজ কত টাকা তুলছে?","words":[{"w":"How much","bn":"কত","pos":"phrase"},{"w":"withdrawing","bn":"তুলছে","pos":"verb","base":"withdraw"}]},
+            {"id":"03","en":"Why is Jamil borrowing money again?","bn":"জামিল আবার টাকা ধার নিচ্ছে কেন?","words":[{"w":"borrowing","bn":"ধার নিচ্ছে","pos":"verb","base":"borrow"}]},
+            {"id":"04","en":"What is Mitu saving for?","bn":"মিতু কীসের জন্য টাকা জমাচ্ছে?","words":[{"w":"saving","bn":"জমাচ্ছে","pos":"verb","base":"save"}]},
+            {"id":"05","en":"Where are you keeping your savings now?","bn":"তুমি এখন তোমার জমানো টাকা কোথায় রাখছ?","words":[{"w":"keeping","bn":"রাখছ","pos":"verb","base":"keep"},{"w":"savings","bn":"জমানো টাকা","pos":"noun"}]},
+            {"id":"06","en":"How is Rafiq cutting his costs this month?","bn":"রফিক এই মাসে কীভাবে খরচ কমাচ্ছে?","words":[{"w":"cutting","bn":"কমাচ্ছে","pos":"verb","base":"cut"},{"w":"costs","bn":"খরচ","pos":"noun","base":"cost"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-simple",
+      "focus": "Tell the story of opening a bank account",
+      "focusBn": "ব্যাংক অ্যাকাউন্ট খোলার গল্প বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb (past) + ... (+ last month / in March).",
+          "tipBn": "অতীতের কাজ বলতে verb-এর past রূপ বসে, যেমন opened, gave, lent।",
+          "items": [
+            {"id":"01","en":"Rafiq opened a savings account last month.","bn":"রফিক গত মাসে একটা সঞ্চয়ী অ্যাকাউন্ট খুলেছে।","words":[{"w":"opened","bn":"খুলেছে","pos":"verb","base":"open"},{"w":"savings account","bn":"সঞ্চয়ী হিসাব","pos":"noun"}]},
+            {"id":"02","en":"He showed his NID card at the bank.","bn":"সে ব্যাংকে তার জাতীয় পরিচয়পত্র দেখিয়েছিল।","words":[{"w":"showed","bn":"দেখিয়েছিল","pos":"verb","base":"show"},{"w":"NID card","bn":"জাতীয় পরিচয়পত্র","pos":"noun"}]},
+            {"id":"03","en":"The bank officer gave him a debit card.","bn":"ব্যাংক কর্মকর্তা তাকে একটা ডেবিট কার্ড দিয়েছিলেন।","words":[{"w":"bank officer","bn":"ব্যাংক কর্মকর্তা","pos":"noun"},{"w":"debit card","bn":"ডেবিট কার্ড","pos":"noun"}]},
+            {"id":"04","en":"He deposited 3,000 taka on the first day.","bn":"প্রথম দিন সে ৩,০০০ টাকা জমা দিয়েছিল।","words":[{"w":"deposited","bn":"জমা দিয়েছিল","pos":"verb","base":"deposit"}]},
+            {"id":"05","en":"Jamil lent him 1,000 taka in March.","bn":"মার্চ মাসে জামিল তাকে ১,০০০ টাকা ধার দিয়েছিল।","words":[{"w":"lent","bn":"ধার দিয়েছিল","pos":"verb","base":"lend"}]},
+            {"id":"06","en":"Rafiq paid him back after two weeks.","bn":"রফিক দুই সপ্তাহ পরে তাকে টাকাটা ফেরত দিয়েছিল।","words":[{"w":"paid him back","bn":"তাকে ফেরত দিয়েছিল","pos":"phrasal verb","base":"pay back"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + didn't + verb (base) ...",
+          "tipBn": "অতীতের না-বোধক বাক্যে didn't বসে, আর verb মূল রূপে ফিরে যায়।",
+          "items": [
+            {"id":"01","en":"Rafiq didn't open a current account.","bn":"রফিক চলতি হিসাব খোলেনি।","words":[{"w":"current account","bn":"চলতি হিসাব","pos":"noun"}]},
+            {"id":"02","en":"He didn't bring his NID card the first time.","bn":"প্রথমবার সে তার জাতীয় পরিচয়পত্র নিয়ে আসেনি।","words":[{"w":"bring","bn":"নিয়ে আসা","pos":"verb"},{"w":"the first time","bn":"প্রথমবার","pos":"phrase"}]},
+            {"id":"03","en":"The bank didn't charge him any fee.","bn":"ব্যাংক তার কাছ থেকে কোনো ফি নেয়নি।","words":[{"w":"charge","bn":"টাকা কেটে নেওয়া","pos":"verb"},{"w":"fee","bn":"ফি","pos":"noun"}]},
+            {"id":"04","en":"He didn't deposit much money at first.","bn":"প্রথমে সে বেশি টাকা জমা দেয়নি।","words":[{"w":"deposit","bn":"জমা দেওয়া","pos":"verb"},{"w":"at first","bn":"প্রথমে","pos":"phrase"}]},
+            {"id":"05","en":"Jamil didn't ask for any interest.","bn":"জামিল কোনো সুদ চায়নি।","words":[{"w":"ask for","bn":"চাওয়া","pos":"phrasal verb"},{"w":"interest","bn":"সুদ","pos":"noun"}]},
+            {"id":"06","en":"Rafiq didn't miss a single payment.","bn":"রফিক একটা কিস্তিও বাদ দেয়নি।","words":[{"w":"miss","bn":"বাদ দেওয়া","pos":"verb"},{"w":"payment","bn":"কিস্তি, পরিশোধ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Did + subject + verb (base) ...? / Was + subject ...?",
+          "tipBn": "অতীতের প্রশ্নে Did শুরুতে বসে আর verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Did Rafiq open a savings account?","bn":"রফিক কি একটা সঞ্চয়ী অ্যাকাউন্ট খুলেছে?","words":[{"w":"savings account","bn":"সঞ্চয়ী হিসাব","pos":"noun"}]},
+            {"id":"02","en":"Did he show his NID card at the bank?","bn":"সে কি ব্যাংকে তার জাতীয় পরিচয়পত্র দেখিয়েছিল?","words":[{"w":"show","bn":"দেখানো","pos":"verb"},{"w":"NID card","bn":"জাতীয় পরিচয়পত্র","pos":"noun"}]},
+            {"id":"03","en":"Did the officer give him a debit card?","bn":"কর্মকর্তা কি তাকে একটা ডেবিট কার্ড দিয়েছিলেন?","words":[{"w":"officer","bn":"কর্মকর্তা","pos":"noun"},{"w":"debit card","bn":"ডেবিট কার্ড","pos":"noun"}]},
+            {"id":"04","en":"Did Jamil lend him money in March?","bn":"জামিল কি মার্চে তাকে টাকা ধার দিয়েছিল?","words":[{"w":"lend","bn":"ধার দেওয়া","pos":"verb"}]},
+            {"id":"05","en":"Did you get an SMS from the bank?","bn":"তুমি কি ব্যাংক থেকে কোনো এসএমএস পেয়েছিলে?","words":[{"w":"SMS","bn":"এসএমএস, মোবাইল বার্তা","pos":"noun"}]},
+            {"id":"06","en":"Was the bank crowded that day?","bn":"সেদিন কি ব্যাংকে ভিড় ছিল?","words":[{"w":"crowded","bn":"ভিড়","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Didn't/Wasn't + subject + ...?",
+          "tipBn": "অতীত নিয়ে অবাক হয়ে বা নিশ্চিত হতে প্রশ্ন করলে Didn't বা Wasn't শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Didn't Rafiq pay Jamil back on time?","bn":"রফিক কি সময়মতো জামিলকে টাকা ফেরত দেয়নি?","words":[{"w":"pay","bn":"দেওয়া","pos":"verb"},{"w":"on time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"02","en":"Didn't you get your salary yesterday?","bn":"তুমি কি গতকাল বেতন পাওনি?","words":[{"w":"salary","bn":"বেতন","pos":"noun"}]},
+            {"id":"03","en":"Didn't the bank send you a message?","bn":"ব্যাংক কি তোমাকে কোনো বার্তা পাঠায়নি?","words":[{"w":"message","bn":"বার্তা","pos":"noun"}]},
+            {"id":"04","en":"Wasn't the form difficult to fill in?","bn":"ফর্মটা পূরণ করা কি কঠিন ছিল না?","words":[{"w":"form","bn":"ফর্ম","pos":"noun"},{"w":"fill in","bn":"পূরণ করা","pos":"phrasal verb"}]},
+            {"id":"05","en":"Didn't Mitu receive the money last night?","bn":"মিতু কি গতকাল রাতে টাকাটা পায়নি?","words":[{"w":"receive","bn":"পাওয়া","pos":"verb"}]},
+            {"id":"06","en":"Didn't the officer explain the rules?","bn":"কর্মকর্তা কি নিয়মগুলো বুঝিয়ে বলেননি?","words":[{"w":"explain","bn":"বুঝিয়ে বলা","pos":"verb"},{"w":"rules","bn":"নিয়ম","pos":"noun","base":"rule"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + did + subject + verb (base) ...?",
+          "tipBn": "প্রশ্নশব্দের পরে did বসে, আর verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"When did Rafiq open his account?","bn":"রফিক কবে তার অ্যাকাউন্ট খুলেছে?","words":[{"w":"account","bn":"অ্যাকাউন্ট","pos":"noun"}]},
+            {"id":"02","en":"Which documents did he bring to the bank?","bn":"সে ব্যাংকে কোন কোন কাগজপত্র নিয়ে গিয়েছিল?","words":[{"w":"documents","bn":"কাগজপত্র","pos":"noun","base":"document"}]},
+            {"id":"03","en":"How much did he deposit on the first day?","bn":"প্রথম দিন সে কত টাকা জমা দিয়েছিল?","words":[{"w":"deposit","bn":"জমা দেওয়া","pos":"verb"}]},
+            {"id":"04","en":"Why did Jamil lend him money?","bn":"জামিল কেন তাকে টাকা ধার দিয়েছিল?","words":[{"w":"lend","bn":"ধার দেওয়া","pos":"verb"}]},
+            {"id":"05","en":"Who helped him fill in the form?","bn":"ফর্ম পূরণ করতে কে তাকে সাহায্য করেছিল?","words":[{"w":"fill in","bn":"পূরণ করা","pos":"phrasal verb"}]},
+            {"id":"06","en":"How long did the whole process take?","bn":"পুরো প্রক্রিয়াটায় কত সময় লেগেছিল?","words":[{"w":"How long","bn":"কত সময়","pos":"phrase"},{"w":"process","bn":"প্রক্রিয়া","pos":"noun"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "future-going-to",
+      "focus": "Talk about Rafiq's money plans",
+      "focusBn": "রফিকের টাকা-পয়সার পরিকল্পনা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + going to + verb (base) ...",
+          "tipBn": "আগে থেকে ঠিক করা পরিকল্পনা বা চোখে দেখা প্রমাণ থেকে অনুমান বলতে going to বসে।",
+          "items": [
+            {"id":"01","en":"Rafiq is going to save 2,000 taka every month.","bn":"রফিক প্রতি মাসে ২,০০০ টাকা জমাবে।","words":[{"w":"is going to","bn":"করতে যাচ্ছে","pos":"phrase","base":"be going to"},{"w":"save","bn":"জমানো","pos":"verb"}]},
+            {"id":"02","en":"He is going to buy a smartphone in December.","bn":"সে ডিসেম্বরে একটা স্মার্টফোন কিনবে।","words":[{"w":"smartphone","bn":"স্মার্টফোন","pos":"noun"}]},
+            {"id":"03","en":"Mitu is going to start college next year.","bn":"মিতু আগামী বছর কলেজে ভর্তি হবে।","words":[{"w":"start","bn":"শুরু করা","pos":"verb"}]},
+            {"id":"04","en":"Rafiq is going to pay her college fees.","bn":"রফিক তার কলেজের বেতন দেবে।","words":[{"w":"fees","bn":"বেতন, ফি","pos":"noun","base":"fee"}]},
+            {"id":"05","en":"This electricity bill is going to be very high.","bn":"এই বিদ্যুৎ বিলটা অনেক বেশি আসবে।","words":[{"w":"electricity bill","bn":"বিদ্যুৎ বিল","pos":"noun"},{"w":"high","bn":"বেশি","pos":"adjective"}]},
+            {"id":"06","en":"Jamil is going to make a monthly budget.","bn":"জামিল একটা মাসিক বাজেট বানাবে।","words":[{"w":"monthly","bn":"মাসিক","pos":"adjective"},{"w":"budget","bn":"বাজেট, খরচের হিসাব","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + going to + verb (base) ...",
+          "tipBn": "am/is/are-এর পরে not বসে, তারপর going to আর verb-এর মূল রূপ।",
+          "items": [
+            {"id":"01","en":"Rafiq isn't going to buy an expensive phone.","bn":"রফিক দামি ফোন কিনবে না।","words":[{"w":"expensive","bn":"দামি","pos":"adjective"}]},
+            {"id":"02","en":"He isn't going to borrow money from anyone.","bn":"সে কারও কাছ থেকে টাকা ধার নেবে না।","words":[{"w":"borrow","bn":"ধার নেওয়া","pos":"verb"}]},
+            {"id":"03","en":"Rafiq isn't going to touch his savings.","bn":"রফিক তার জমানো টাকায় হাত দেবে না।","words":[{"w":"touch","bn":"হাত দেওয়া","pos":"verb"},{"w":"savings","bn":"জমানো টাকা","pos":"noun"}]},
+            {"id":"04","en":"Jamil isn't going to waste money on games.","bn":"জামিল গেমের পেছনে টাকা নষ্ট করবে না।","words":[{"w":"waste","bn":"নষ্ট করা","pos":"verb"}]},
+            {"id":"05","en":"We aren't going to eat out this month.","bn":"আমরা এই মাসে বাইরে খাব না।","words":[{"w":"eat out","bn":"বাইরে খাওয়া","pos":"phrasal verb"}]},
+            {"id":"06","en":"The electricity bill isn't going to be cheap.","bn":"বিদ্যুৎ বিলটা কম আসবে না।","words":[{"w":"cheap","bn":"সস্তা, কম","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + going to + verb (base) ...?",
+          "tipBn": "প্রশ্ন করতে am/is/are শুরুতে বসে, তারপর subject আর going to।",
+          "items": [
+            {"id":"01","en":"Is Rafiq going to save 2,000 taka every month?","bn":"রফিক কি প্রতি মাসে ২,০০০ টাকা জমাবে?","words":[{"w":"save","bn":"জমানো","pos":"verb"}]},
+            {"id":"02","en":"Is he going to buy a smartphone in December?","bn":"সে কি ডিসেম্বরে একটা স্মার্টফোন কিনবে?","words":[{"w":"smartphone","bn":"স্মার্টফোন","pos":"noun"}]},
+            {"id":"03","en":"Is Jamil going to make a budget?","bn":"জামিল কি একটা বাজেট বানাবে?","words":[{"w":"budget","bn":"বাজেট","pos":"noun"}]},
+            {"id":"04","en":"Are you going to send extra money for Eid?","bn":"তুমি কি ঈদের জন্য বাড়তি টাকা পাঠাবে?","words":[{"w":"extra","bn":"বাড়তি","pos":"adjective"},{"w":"Eid","bn":"ঈদ","pos":"noun"}]},
+            {"id":"05","en":"Is Mitu going to get a scholarship?","bn":"মিতু কি বৃত্তি পাবে?","words":[{"w":"scholarship","bn":"বৃত্তি","pos":"noun"}]},
+            {"id":"06","en":"Is the landlord going to raise the rent?","bn":"বাড়িওয়ালা কি ভাড়া বাড়াবেন?","words":[{"w":"landlord","bn":"বাড়িওয়ালা","pos":"noun"},{"w":"raise","bn":"বাড়ানো","pos":"verb"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + going to + verb (base) ...?",
+          "tipBn": "প্রশ্নশব্দ শুরুতে বসে, তারপর am/is/are, subject, going to আর verb।",
+          "items": [
+            {"id":"01","en":"How much is Rafiq going to save?","bn":"রফিক কত টাকা জমাবে?","words":[{"w":"How much","bn":"কত","pos":"phrase"},{"w":"save","bn":"জমানো","pos":"verb"}]},
+            {"id":"02","en":"When is he going to buy the phone?","bn":"সে কবে ফোনটা কিনবে?","words":[{"w":"When","bn":"কবে","pos":"adverb"}]},
+            {"id":"03","en":"Who is going to pay Mitu's college fees?","bn":"মিতুর কলেজের বেতন কে দেবে?","words":[{"w":"fees","bn":"বেতন, ফি","pos":"noun","base":"fee"}]},
+            {"id":"04","en":"What are you going to buy with your Eid bonus?","bn":"তুমি ঈদের বোনাস দিয়ে কী কিনবে?","words":[{"w":"bonus","bn":"বোনাস","pos":"noun"}]},
+            {"id":"05","en":"Which bank is Jamil going to use?","bn":"জামিল কোন ব্যাংক ব্যবহার করবে?","words":[{"w":"Which","bn":"কোন","pos":"pronoun"}]},
+            {"id":"06","en":"How long is it going to take to save 20,000 taka?","bn":"২০,০০০ টাকা জমাতে কত সময় লাগবে?","words":[{"w":"How long","bn":"কত সময়","pos":"phrase"},{"w":"take","bn":"সময় লাগা","pos":"verb"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

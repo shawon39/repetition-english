@@ -1,0 +1,272 @@
+{
+  "topic": "money",
+  "level": "intermediate",
+  "title": "The Hossain Family Budget",
+  "story": "Nasrin Hossain teaches at a girls' school in Chattogram. Her husband Imran runs a small pharmacy, and their son Arif is in class ten. Imran's younger brother Sohel works as an electrician in Dubai and sends money home every month. Nasrin manages the family budget and tries to keep everyone safe from online scams.",
+  "storyBn": "নাসরিন হোসেন চট্টগ্রামের একটা বালিকা বিদ্যালয়ে পড়ান। তাঁর স্বামী ইমরান একটা ছোট ফার্মেসি চালান, আর তাঁদের ছেলে আরিফ দশম শ্রেণিতে পড়ে। ইমরানের ছোট ভাই সোহেল দুবাইতে ইলেকট্রিশিয়ানের কাজ করেন এবং প্রতি মাসে বাড়িতে টাকা পাঠান। নাসরিন পরিবারের বাজেট সামলান এবং সবাইকে অনলাইন প্রতারণা থেকে নিরাপদ রাখার চেষ্টা করেন।",
+  "units": [
+    {
+      "grammar": "present-perfect",
+      "focus": "Talk about the family's money so far this year",
+      "focusBn": "এ বছর এখন পর্যন্ত পরিবারের টাকা-পয়সা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + have/has + past participle ... (just / already / since / for).",
+          "tipBn": "অতীতে শুরু হয়ে এখনও প্রভাব আছে এমন কাজ বলতে have/has-এর পরে verb-এর past participle বসে।",
+          "items": [
+            {"id":"01","en":"Nasrin has managed the family budget for fifteen years.","bn":"নাসরিন পনেরো বছর ধরে পরিবারের বাজেট সামলে আসছেন।","words":[{"w":"managed","bn":"সামলেছেন","pos":"verb","base":"manage"},{"w":"budget","bn":"বাজেট, আয়-ব্যয়ের হিসাব","pos":"noun"}]},
+            {"id":"02","en":"Imran has just paid the electricity bill through the bank app.","bn":"ইমরান এইমাত্র ব্যাংকের অ্যাপের মাধ্যমে বিদ্যুৎ বিল দিয়েছেন।","words":[{"w":"just","bn":"এইমাত্র","pos":"adverb"},{"w":"through","bn":"মাধ্যমে","pos":"preposition"},{"w":"electricity bill","bn":"বিদ্যুৎ বিল","pos":"noun"}]},
+            {"id":"03","en":"Sohel has sent money from Dubai every month since 2019.","bn":"সোহেল ২০১৯ সাল থেকে প্রতি মাসে দুবাই থেকে টাকা পাঠিয়ে আসছেন।","words":[{"w":"sent","bn":"পাঠিয়েছেন","pos":"verb","base":"send"},{"w":"since","bn":"থেকে","pos":"preposition"}]},
+            {"id":"04","en":"We have already spent half of this month's budget.","bn":"আমরা ইতিমধ্যে এই মাসের বাজেটের অর্ধেক খরচ করে ফেলেছি।","words":[{"w":"already","bn":"ইতিমধ্যে","pos":"adverb"},{"w":"spent","bn":"খরচ করেছি","pos":"verb","base":"spend"}]},
+            {"id":"05","en":"Arif has saved enough money for a second-hand laptop.","bn":"আরিফ একটা পুরোনো ল্যাপটপ কেনার মতো যথেষ্ট টাকা জমিয়েছে।","words":[{"w":"saved","bn":"জমিয়েছে","pos":"verb","base":"save"},{"w":"second-hand","bn":"পুরোনো, ব্যবহৃত","pos":"adjective"}]},
+            {"id":"06","en":"The price of cooking oil has gone up three times this year.","bn":"এ বছর ভোজ্য তেলের দাম তিনবার বেড়েছে।","words":[{"w":"cooking oil","bn":"ভোজ্য তেল","pos":"noun"},{"w":"gone up","bn":"বেড়েছে","pos":"phrasal verb","base":"go up"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + haven't/hasn't + past participle ... (yet). / have never + past participle",
+          "tipBn": "না-বোধক করতে have/has-এর পরে not বা never বসে; yet সাধারণত বাক্যের শেষে বসে।",
+          "items": [
+            {"id":"01","en":"Imran hasn't checked the pharmacy accounts this week.","bn":"ইমরান এই সপ্তাহে ফার্মেসির হিসাবপত্র দেখেননি।","words":[{"w":"checked","bn":"দেখেছেন, যাচাই করেছেন","pos":"verb","base":"check"},{"w":"accounts","bn":"হিসাবপত্র","pos":"noun","base":"account"}]},
+            {"id":"02","en":"Nasrin has never taken a loan from a bank.","bn":"নাসরিন কখনো ব্যাংক থেকে ঋণ নেননি।","words":[{"w":"never","bn":"কখনো না","pos":"adverb"},{"w":"taken a loan","bn":"ঋণ নিয়েছেন","pos":"phrase","base":"take a loan"}]},
+            {"id":"03","en":"Sohel's money hasn't arrived yet this month.","bn":"এই মাসে সোহেলের টাকা এখনও এসে পৌঁছায়নি।","words":[{"w":"arrived","bn":"পৌঁছেছে","pos":"verb","base":"arrive"},{"w":"yet","bn":"এখনও","pos":"adverb"}]},
+            {"id":"04","en":"We haven't paid Arif's school fees for March yet.","bn":"আমরা এখনও আরিফের মার্চ মাসের স্কুলের বেতন দিইনি।","words":[{"w":"paid","bn":"পরিশোধ করেছি","pos":"verb","base":"pay"},{"w":"school fees","bn":"স্কুলের বেতন","pos":"noun"}]},
+            {"id":"05","en":"Arif hasn't touched his savings since January.","bn":"জানুয়ারি থেকে আরিফ তার জমানো টাকায় হাত দেয়নি।","words":[{"w":"touched","bn":"হাত দিয়েছে","pos":"verb","base":"touch"},{"w":"savings","bn":"জমানো টাকা","pos":"noun"}]},
+            {"id":"06","en":"Our salaries haven't kept up with rising prices.","bn":"আমাদের বেতন বাড়তে থাকা দামের সাথে তাল মিলিয়ে বাড়েনি।","words":[{"w":"kept up with","bn":"তাল মিলিয়ে চলেছে","pos":"phrasal verb","base":"keep up with"},{"w":"rising","bn":"বাড়তে থাকা","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Have/Has + subject + past participle ... (yet / ever)?",
+          "tipBn": "প্রশ্ন করতে Have বা Has শুরুতে বসে; ever ও yet প্রশ্নে বেশি ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"Has Sohel's money arrived from Dubai yet?","bn":"সোহেলের টাকা কি দুবাই থেকে এসে পৌঁছেছে?","words":[{"w":"arrived","bn":"পৌঁছেছে","pos":"verb","base":"arrive"},{"w":"yet","bn":"এর মধ্যে","pos":"adverb"}]},
+            {"id":"02","en":"Have you ever used internet banking to pay a bill?","bn":"তুমি কি কখনো বিল দিতে ইন্টারনেট ব্যাংকিং ব্যবহার করেছ?","words":[{"w":"ever","bn":"কখনো","pos":"adverb"},{"w":"internet banking","bn":"ইন্টারনেট ব্যাংকিং","pos":"noun"}]},
+            {"id":"03","en":"Has Imran paid the rent for the pharmacy this month?","bn":"ইমরান কি এই মাসে ফার্মেসির ভাড়া দিয়েছেন?","words":[{"w":"rent","bn":"ভাড়া","pos":"noun"},{"w":"pharmacy","bn":"ওষুধের দোকান","pos":"noun"}]},
+            {"id":"04","en":"Have food prices gone up again since last Eid?","bn":"গত ঈদের পর থেকে কি খাবারের দাম আবার বেড়েছে?","words":[{"w":"gone up","bn":"বেড়েছে","pos":"phrasal verb","base":"go up"},{"w":"since","bn":"থেকে","pos":"preposition"}]},
+            {"id":"05","en":"Has Arif saved enough money for his laptop?","bn":"আরিফ কি তার ল্যাপটপের জন্য যথেষ্ট টাকা জমিয়েছে?","words":[{"w":"saved","bn":"জমিয়েছে","pos":"verb","base":"save"},{"w":"enough","bn":"যথেষ্ট","pos":"adjective"}]},
+            {"id":"06","en":"Has the bank approved your loan application yet?","bn":"ব্যাংক কি এর মধ্যে তোমার ঋণের আবেদন অনুমোদন করেছে?","words":[{"w":"approved","bn":"অনুমোদন করেছে","pos":"verb","base":"approve"},{"w":"loan application","bn":"ঋণের আবেদন","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + have/has + subject + past participle ...?",
+          "tipBn": "প্রশ্নশব্দের পরে have বা has বসে, তারপর subject আর past participle।",
+          "items": [
+            {"id":"01","en":"How much have we spent on groceries this month?","bn":"এই মাসে আমরা বাজার-সদাইয়ে কত টাকা খরচ করেছি?","words":[{"w":"spent","bn":"খরচ করেছি","pos":"verb","base":"spend"},{"w":"groceries","bn":"বাজার-সদাই","pos":"noun"}]},
+            {"id":"02","en":"Why hasn't the bank replied to our loan application?","bn":"ব্যাংক এখনও আমাদের ঋণের আবেদনের উত্তর দেয়নি কেন?","words":[{"w":"replied","bn":"উত্তর দিয়েছে","pos":"verb","base":"reply"},{"w":"loan application","bn":"ঋণের আবেদন","pos":"noun"}]},
+            {"id":"03","en":"How long has Sohel worked as an electrician in Dubai?","bn":"সোহেল কত দিন ধরে দুবাইতে ইলেকট্রিশিয়ানের কাজ করছেন?","words":[{"w":"How long","bn":"কত দিন ধরে","pos":"phrase"},{"w":"electrician","bn":"বিদ্যুৎ মিস্ত্রি","pos":"noun"}]},
+            {"id":"04","en":"What has Nasrin bought with her teaching bonus?","bn":"নাসরিন তাঁর শিক্ষকতার বোনাস দিয়ে কী কিনেছেন?","words":[{"w":"bought","bn":"কিনেছেন","pos":"verb","base":"buy"},{"w":"bonus","bn":"বোনাস","pos":"noun"}]},
+            {"id":"05","en":"Where have you put the old bank statements?","bn":"তুমি পুরোনো ব্যাংক স্টেটমেন্টগুলো কোথায় রেখেছ?","words":[{"w":"put","bn":"রেখেছ","pos":"verb"},{"w":"bank statements","bn":"ব্যাংকের হিসাব বিবরণী","pos":"noun","base":"bank statement"}]},
+            {"id":"06","en":"How many times has the price of rice changed this year?","bn":"এ বছর চালের দাম কতবার বদলেছে?","words":[{"w":"How many times","bn":"কতবার","pos":"phrase"},{"w":"changed","bn":"বদলেছে","pos":"verb","base":"change"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short text mostly in the present perfect.",
+          "tipBn": "অনুচ্ছেদের বেশির ভাগ বাক্যে have/has + past participle ব্যবহার হয়েছে।",
+          "items": [
+            {"id":"01","title":"A careful manager","en":"Nasrin has managed the family's money since her wedding. She has kept a notebook of every expense, and she has never missed a bill. This year, prices have risen sharply, so she has cut some small luxuries. Still, the family has saved a little every month.","bn":"বিয়ের পর থেকে নাসরিন পরিবারের টাকা-পয়সা সামলে আসছেন। তিনি প্রতিটা খরচের হিসাব একটা খাতায় লিখে রেখেছেন, আর কখনো কোনো বিল দিতে ভোলেননি। এ বছর দাম অনেক বেড়ে গেছে, তাই তিনি কিছু ছোটখাটো শখের খরচ বাদ দিয়েছেন। তবুও পরিবারটি প্রতি মাসে কিছু টাকা জমিয়েছে।","words":[{"w":"expense","bn":"খরচ","pos":"noun"},{"w":"missed","bn":"বাদ পড়েছে, ভুলেছেন","pos":"verb","base":"miss"},{"w":"sharply","bn":"অনেক বেশি, দ্রুত","pos":"adverb"},{"w":"luxuries","bn":"শখের জিনিস, বিলাসিতা","pos":"noun","base":"luxury"},{"w":"Still","bn":"তবুও","pos":"adverb"}]},
+            {"id":"02","title":"Money from Dubai","en":"Sohel has lived in Dubai for six years. He has sent money home every month, and his parents have built a new room with it. He has also opened a savings account in Chattogram. Recently, he has started using a mobile app to send money faster.","bn":"সোহেল ছয় বছর ধরে দুবাইতে থাকেন। তিনি প্রতি মাসে বাড়িতে টাকা পাঠিয়েছেন, আর সেই টাকা দিয়ে তাঁর মা-বাবা একটা নতুন ঘর তুলেছেন। তিনি চট্টগ্রামে একটা সঞ্চয়ী অ্যাকাউন্টও খুলেছেন। সম্প্রতি তিনি আরও দ্রুত টাকা পাঠাতে একটা মোবাইল অ্যাপ ব্যবহার করা শুরু করেছেন।","words":[{"w":"built","bn":"তৈরি করেছেন","pos":"verb","base":"build"},{"w":"savings account","bn":"সঞ্চয়ী হিসাব","pos":"noun"},{"w":"Recently","bn":"সম্প্রতি","pos":"adverb"},{"w":"faster","bn":"আরও দ্রুত","pos":"adverb","base":"fast"}]},
+            {"id":"03","title":"Arif's laptop fund","en":"Arif has wanted a laptop for a long time. Since last year, he has saved most of his pocket money and some money from tutoring. He has compared prices online and has found a good second-hand one. His parents have promised to pay the rest.","bn":"আরিফ অনেক দিন ধরে একটা ল্যাপটপ চেয়ে আসছে। গত বছর থেকে সে তার হাতখরচের বেশির ভাগ টাকা আর টিউশনির কিছু টাকা জমিয়েছে। সে অনলাইনে দাম তুলনা করে দেখেছে এবং একটা ভালো পুরোনো ল্যাপটপ খুঁজে পেয়েছে। তার মা-বাবা বাকি টাকাটা দেওয়ার প্রতিশ্রুতি দিয়েছেন।","words":[{"w":"tutoring","bn":"টিউশনি","pos":"noun"},{"w":"compared","bn":"তুলনা করেছে","pos":"verb","base":"compare"},{"w":"second-hand","bn":"পুরোনো, ব্যবহৃত","pos":"adjective"},{"w":"the rest","bn":"বাকিটা","pos":"phrase"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-continuous",
+      "focus": "Describe what was happening during money moments",
+      "focusBn": "টাকা-পয়সার বিশেষ মুহূর্তে কী চলছিল তা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + was/were + verb-ing ... (when / while + past).",
+          "tipBn": "অতীতে কোনো সময় চলছিল এমন কাজ বলতে was/were + verb-ing বসে; মাঝখানে যা ঘটল তা past simple-এ থাকে।",
+          "items": [
+            {"id":"01","en":"Nasrin was checking her bank balance when the phone rang.","bn":"নাসরিন যখন তাঁর ব্যাংক ব্যালান্স দেখছিলেন, তখন ফোনটা বেজে উঠল।","words":[{"w":"balance","bn":"ব্যালান্স, জমা টাকা","pos":"noun"},{"w":"rang","bn":"বেজে উঠল","pos":"verb","base":"ring"}]},
+            {"id":"02","en":"A stranger was pretending to be an officer from her bank.","bn":"একজন অপরিচিত লোক তাঁর ব্যাংকের কর্মকর্তা সাজার ভান করছিল।","words":[{"w":"stranger","bn":"অপরিচিত লোক","pos":"noun"},{"w":"pretending","bn":"ভান করছিল","pos":"verb","base":"pretend"}]},
+            {"id":"03","en":"The man was asking for her card number and her PIN.","bn":"লোকটা তাঁর কার্ড নম্বর আর পিন চাইছিল।","words":[{"w":"asking for","bn":"চাইছিল","pos":"phrasal verb","base":"ask for"},{"w":"PIN","bn":"পিন, গোপন নম্বর","pos":"noun"}]},
+            {"id":"04","en":"Imran was counting the day's cash in the pharmacy at nine o'clock.","bn":"রাত ৯টায় ইমরান ফার্মেসিতে সারাদিনের নগদ টাকা গুনছিলেন।","words":[{"w":"counting","bn":"গুনছিলেন","pos":"verb","base":"count"},{"w":"cash","bn":"নগদ টাকা","pos":"noun"}]},
+            {"id":"05","en":"Arif was waiting at the ATM while his friends were shopping.","bn":"আরিফ যখন এটিএমে অপেক্ষা করছিল, তার বন্ধুরা তখন কেনাকাটা করছিল।","words":[{"w":"waiting","bn":"অপেক্ষা করছিল","pos":"verb","base":"wait"},{"w":"while","bn":"যখন","pos":"conjunction"}]},
+            {"id":"06","en":"Thousands of people were sending money home before Eid last year.","bn":"গত বছর ঈদের আগে হাজার হাজার মানুষ বাড়িতে টাকা পাঠাচ্ছিল।","words":[{"w":"Thousands of","bn":"হাজার হাজার","pos":"phrase"},{"w":"sending","bn":"পাঠাচ্ছিল","pos":"verb","base":"send"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + wasn't/weren't + verb-ing ...",
+          "tipBn": "was বা were-এর পরে not বসে; wasn't আর weren't সংক্ষিপ্ত রূপ।",
+          "items": [
+            {"id":"01","en":"Nasrin wasn't paying attention when the strange message arrived.","bn":"অদ্ভুত বার্তাটা যখন এল, নাসরিন তখন খেয়াল করছিলেন না।","words":[{"w":"paying attention","bn":"খেয়াল করছিলেন","pos":"phrase","base":"pay attention"},{"w":"strange","bn":"অদ্ভুত, সন্দেহজনক","pos":"adjective"}]},
+            {"id":"02","en":"The caller wasn't telling the truth about the bank.","bn":"ফোনকারী ব্যাংক সম্পর্কে সত্যি কথা বলছিল না।","words":[{"w":"caller","bn":"ফোনকারী","pos":"noun"},{"w":"telling the truth","bn":"সত্যি বলছিল","pos":"phrase","base":"tell the truth"}]},
+            {"id":"03","en":"Imran wasn't keeping proper records of his sales last year.","bn":"গত বছর ইমরান তাঁর বিক্রির সঠিক হিসাব রাখছিলেন না।","words":[{"w":"proper","bn":"সঠিক","pos":"adjective"},{"w":"records","bn":"হিসাব, নথি","pos":"noun","base":"record"},{"w":"sales","bn":"বিক্রি","pos":"noun","base":"sale"}]},
+            {"id":"04","en":"The ATM wasn't working when Arif got there.","bn":"আরিফ যখন সেখানে পৌঁছাল, তখন এটিএমটা চলছিল না।","words":[{"w":"working","bn":"চলছিল","pos":"verb","base":"work"},{"w":"got there","bn":"সেখানে পৌঁছাল","pos":"phrase","base":"get there"}]},
+            {"id":"05","en":"We weren't saving any money while we were renting the old flat.","bn":"আমরা যখন পুরোনো ফ্ল্যাটটায় ভাড়া থাকছিলাম, তখন কোনো টাকা জমাচ্ছিলাম না।","words":[{"w":"saving","bn":"জমাচ্ছিলাম","pos":"verb","base":"save"},{"w":"renting","bn":"ভাড়া থাকছিলাম","pos":"verb","base":"rent"}]},
+            {"id":"06","en":"Sohel wasn't earning much when he first arrived in Dubai.","bn":"সোহেল যখন প্রথম দুবাই গেলেন, তখন তিনি খুব বেশি আয় করছিলেন না।","words":[{"w":"earning","bn":"আয় করছিলেন","pos":"verb","base":"earn"},{"w":"first","bn":"প্রথম","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Was/Were + subject + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে Was বা Were বাক্যের শুরুতে চলে আসে।",
+          "items": [
+            {"id":"01","en":"Was the caller really asking for your PIN?","bn":"ফোনকারী কি সত্যিই তোমার পিন চাইছিল?","words":[{"w":"caller","bn":"ফোনকারী","pos":"noun"},{"w":"really","bn":"সত্যিই","pos":"adverb"}]},
+            {"id":"02","en":"Were you using public Wi-Fi when you logged in to your account?","bn":"তুমি যখন অ্যাকাউন্টে লগ ইন করলে, তখন কি পাবলিক ওয়াই-ফাই ব্যবহার করছিলে?","words":[{"w":"public Wi-Fi","bn":"পাবলিক ওয়াই-ফাই","pos":"noun"},{"w":"logged in","bn":"লগ ইন করলে","pos":"phrasal verb","base":"log in"}]},
+            {"id":"03","en":"Was Imran counting the cash when the power went out?","bn":"বিদ্যুৎ চলে যাওয়ার সময় ইমরান কি টাকা গুনছিলেন?","words":[{"w":"counting","bn":"গুনছিলেন","pos":"verb","base":"count"},{"w":"power went out","bn":"বিদ্যুৎ চলে গেল","pos":"phrase","base":"power go out"}]},
+            {"id":"04","en":"Were prices rising this fast at the same time last year?","bn":"গত বছর এই সময়েও কি দাম এত দ্রুত বাড়ছিল?","words":[{"w":"rising","bn":"বাড়ছিল","pos":"verb","base":"rise"},{"w":"at the same time","bn":"একই সময়ে","pos":"phrase"}]},
+            {"id":"05","en":"Was Arif waiting for his turn at the bank counter?","bn":"আরিফ কি ব্যাংকের কাউন্টারে তার পালার জন্য অপেক্ষা করছিল?","words":[{"w":"turn","bn":"পালা","pos":"noun"},{"w":"counter","bn":"কাউন্টার","pos":"noun"}]},
+            {"id":"06","en":"Was Sohel working two jobs when he started saving?","bn":"সোহেল যখন টাকা জমানো শুরু করেন, তখন কি তিনি দুটো চাকরি করছিলেন?","words":[{"w":"two jobs","bn":"দুটো চাকরি","pos":"phrase"},{"w":"saving","bn":"টাকা জমানো","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + was/were + subject + verb-ing ...?",
+          "tipBn": "প্রশ্নশব্দ শুরুতে বসে, তারপর was/were, subject আর verb-ing।",
+          "items": [
+            {"id":"01","en":"What were you doing when the fake call came?","bn":"ভুয়া ফোনটা যখন এল, তখন তুমি কী করছিলে?","words":[{"w":"fake","bn":"ভুয়া","pos":"adjective"},{"w":"call","bn":"ফোন কল","pos":"noun"}]},
+            {"id":"02","en":"Who was talking to the bank manager when I arrived?","bn":"আমি যখন পৌঁছালাম, তখন ব্যাংক ম্যানেজারের সাথে কে কথা বলছিল?","words":[{"w":"bank manager","bn":"ব্যাংক ব্যবস্থাপক","pos":"noun"},{"w":"arrived","bn":"পৌঁছালাম","pos":"verb","base":"arrive"}]},
+            {"id":"03","en":"Why was the stranger asking so many questions about your card?","bn":"অপরিচিত লোকটা তোমার কার্ড নিয়ে এত প্রশ্ন করছিল কেন?","words":[{"w":"stranger","bn":"অপরিচিত লোক","pos":"noun"},{"w":"so many","bn":"এত বেশি","pos":"phrase"}]},
+            {"id":"04","en":"Where was Imran keeping the cash before he opened a business account?","bn":"ব্যবসার অ্যাকাউন্ট খোলার আগে ইমরান নগদ টাকা কোথায় রাখছিলেন?","words":[{"w":"keeping","bn":"রাখছিলেন","pos":"verb","base":"keep"},{"w":"business account","bn":"ব্যবসায়িক হিসাব","pos":"noun"}]},
+            {"id":"05","en":"How much were you paying for rent at that time?","bn":"সেই সময় তুমি কত টাকা ভাড়া দিচ্ছিলে?","words":[{"w":"rent","bn":"ভাড়া","pos":"noun"},{"w":"at that time","bn":"সেই সময়","pos":"phrase"}]},
+            {"id":"06","en":"Which app was Sohel using to send the money?","bn":"সোহেল টাকা পাঠাতে কোন অ্যাপ ব্যবহার করছিলেন?","words":[{"w":"Which","bn":"কোন","pos":"pronoun"},{"w":"app","bn":"অ্যাপ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short text mostly in the past continuous.",
+          "tipBn": "অনুচ্ছেদে বেশির ভাগ বাক্য was/were + verb-ing; হঠাৎ ঘটা কাজগুলো past simple-এ আছে।",
+          "items": [
+            {"id":"01","title":"The fake call","en":"Nasrin was marking exam papers when her phone rang. A man was speaking very politely, and he was claiming to be from her bank. He was asking for the OTP code on her phone. While he was talking, Nasrin remembered the bank's warning and hung up.","bn":"নাসরিন যখন পরীক্ষার খাতা দেখছিলেন, তখন তাঁর ফোন বেজে উঠল। একজন লোক খুব ভদ্রভাবে কথা বলছিল এবং নিজেকে তাঁর ব্যাংকের লোক বলে দাবি করছিল। সে তাঁর ফোনে আসা ওটিপি কোডটা চাইছিল। লোকটা কথা বলার মাঝেই নাসরিনের ব্যাংকের সতর্কবার্তার কথা মনে পড়ল, আর তিনি ফোন কেটে দিলেন।","words":[{"w":"marking","bn":"খাতা দেখছিলেন","pos":"verb","base":"mark"},{"w":"politely","bn":"ভদ্রভাবে","pos":"adverb"},{"w":"claiming","bn":"দাবি করছিল","pos":"verb","base":"claim"},{"w":"warning","bn":"সতর্কবার্তা","pos":"noun"},{"w":"hung up","bn":"ফোন রেখে দিলেন","pos":"phrasal verb","base":"hang up"}]},
+            {"id":"02","title":"A busy night at the pharmacy","en":"It was raining heavily, but customers were still coming into the pharmacy. Imran was serving them while his assistant was counting the cash. Many people were paying with bKash, so the cash drawer was nearly empty. At ten o'clock, they were still writing down the day's sales.","bn":"মুষলধারে বৃষ্টি হচ্ছিল, তবুও ক্রেতারা ফার্মেসিতে আসছিলেন। ইমরান তাঁদের ওষুধ দিচ্ছিলেন, আর তাঁর সহকারী টাকা গুনছিল। অনেকেই বিকাশে টাকা দিচ্ছিলেন, তাই ক্যাশ ড্রয়ার প্রায় খালি ছিল। রাত ১০টাতেও তাঁরা সারাদিনের বিক্রির হিসাব লিখছিলেন।","words":[{"w":"heavily","bn":"মুষলধারে","pos":"adverb"},{"w":"serving","bn":"সেবা দিচ্ছিলেন","pos":"verb","base":"serve"},{"w":"assistant","bn":"সহকারী","pos":"noun"},{"w":"cash drawer","bn":"টাকা রাখার ড্রয়ার","pos":"noun"},{"w":"sales","bn":"বিক্রি","pos":"noun","base":"sale"}]},
+            {"id":"03","title":"The week before Eid","en":"Last year, the whole city was preparing for Eid. Sohel was sending extra money home, and his mother was buying new clothes for everyone. The banks were staying open late, and long lines were forming at every ATM. Everyone was spending more than usual.","bn":"গত বছর পুরো শহর ঈদের প্রস্তুতি নিচ্ছিল। সোহেল বাড়িতে বাড়তি টাকা পাঠাচ্ছিলেন, আর তাঁর মা সবার জন্য নতুন জামাকাপড় কিনছিলেন। ব্যাংকগুলো অনেক রাত পর্যন্ত খোলা থাকছিল, আর প্রতিটা এটিএমের সামনে লম্বা লাইন পড়ছিল। সবাই স্বাভাবিকের চেয়ে বেশি খরচ করছিল।","words":[{"w":"preparing","bn":"প্রস্তুতি নিচ্ছিল","pos":"verb","base":"prepare"},{"w":"extra","bn":"বাড়তি","pos":"adjective"},{"w":"forming","bn":"তৈরি হচ্ছিল","pos":"verb","base":"form"},{"w":"than usual","bn":"স্বাভাবিকের চেয়ে","pos":"phrase"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "modals",
+      "focus": "Give rules and advice for safe, smart money",
+      "focusBn": "নিরাপদ ও বুদ্ধিমানের মতো টাকা ব্যবহারের নিয়ম ও পরামর্শ দেওয়া",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + should/must/have to/might/can/need to + verb (base) ...",
+          "tipBn": "should পরামর্শ, must ও have to বাধ্যবাধকতা, might সম্ভাবনা আর can সামর্থ্য বোঝায়; এদের পরে verb মূল রূপে বসে।",
+          "items": [
+            {"id":"01","en":"You should keep your PIN secret from everyone, even your family.","bn":"তোমার পিন সবার কাছ থেকে গোপন রাখা উচিত, এমনকি পরিবারের কাছ থেকেও।","words":[{"w":"should","bn":"উচিত","pos":"verb"},{"w":"secret","bn":"গোপন","pos":"adjective"}]},
+            {"id":"02","en":"We must pay the gas bill before the tenth of every month.","bn":"প্রতি মাসের ১০ তারিখের আগে আমাদের অবশ্যই গ্যাসের বিল দিতে হবে।","words":[{"w":"must","bn":"অবশ্যই করতে হবে","pos":"verb"},{"w":"gas bill","bn":"গ্যাসের বিল","pos":"noun"}]},
+            {"id":"03","en":"Arif has to show his student ID card to open an account.","bn":"অ্যাকাউন্ট খুলতে আরিফকে তার ছাত্র পরিচয়পত্র দেখাতে হবে।","words":[{"w":"has to","bn":"করতে হবে","pos":"phrase","base":"have to"},{"w":"student ID card","bn":"ছাত্র পরিচয়পত্র","pos":"noun"}]},
+            {"id":"04","en":"Imran might take a small loan to expand the pharmacy.","bn":"ফার্মেসিটা বড় করতে ইমরান হয়তো একটা ছোট ঋণ নেবেন।","words":[{"w":"might","bn":"হয়তো","pos":"verb"},{"w":"expand","bn":"বড় করা, সম্প্রসারণ করা","pos":"verb"}]},
+            {"id":"05","en":"You can transfer money to any bank with this app.","bn":"এই অ্যাপ দিয়ে তুমি যেকোনো ব্যাংকে টাকা পাঠাতে পারো।","words":[{"w":"can","bn":"পারা","pos":"verb"},{"w":"transfer","bn":"পাঠানো, স্থানান্তর করা","pos":"verb"}]},
+            {"id":"06","en":"Sohel needs to send the money before the bank closes on Thursday.","bn":"বৃহস্পতিবার ব্যাংক বন্ধ হওয়ার আগেই সোহেলকে টাকাটা পাঠাতে হবে।","words":[{"w":"needs to","bn":"করা দরকার","pos":"phrase","base":"need to"},{"w":"closes","bn":"বন্ধ হয়","pos":"verb","base":"close"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + shouldn't/mustn't/can't/don't have to/may not + verb (base) ...",
+          "tipBn": "mustn't মানে করা নিষেধ, কিন্তু don't have to মানে করার দরকার নেই।",
+          "items": [
+            {"id":"01","en":"You shouldn't click on links in strange text messages.","bn":"সন্দেহজনক মেসেজের লিংকে তোমার ক্লিক করা উচিত না।","words":[{"w":"shouldn't","bn":"উচিত না","pos":"verb","base":"should not"},{"w":"links","bn":"লিংক","pos":"noun","base":"link"}]},
+            {"id":"02","en":"We mustn't spend the money we saved for Arif's exam fees.","bn":"আরিফের পরীক্ষার ফি-এর জন্য জমানো টাকা আমাদের কিছুতেই খরচ করা যাবে না।","words":[{"w":"mustn't","bn":"কিছুতেই করা যাবে না","pos":"verb","base":"must not"},{"w":"exam fees","bn":"পরীক্ষার ফি","pos":"noun"}]},
+            {"id":"03","en":"You don't have to pay any card fee for the first year.","bn":"প্রথম বছর তোমাকে কার্ডের কোনো ফি দিতে হবে না।","words":[{"w":"don't have to","bn":"করতে হবে না","pos":"phrase","base":"not have to"},{"w":"fee","bn":"ফি, মাশুল","pos":"noun"}]},
+            {"id":"04","en":"Imran can't get a business loan without a trade license.","bn":"ট্রেড লাইসেন্স ছাড়া ইমরান ব্যবসায়িক ঋণ পাবেন না।","words":[{"w":"can't","bn":"পারবে না","pos":"verb","base":"cannot"},{"w":"trade license","bn":"ট্রেড লাইসেন্স, ব্যবসার অনুমতিপত্র","pos":"noun"}]},
+            {"id":"05","en":"You shouldn't keep large amounts of cash at home.","bn":"বাসায় বেশি পরিমাণ নগদ টাকা রাখা তোমার উচিত না।","words":[{"w":"large amounts","bn":"বেশি পরিমাণ","pos":"phrase","base":"large amount"},{"w":"cash","bn":"নগদ টাকা","pos":"noun"}]},
+            {"id":"06","en":"Students may not withdraw more than 5,000 taka a day.","bn":"শিক্ষার্থীরা দিনে ৫,০০০ টাকার বেশি তুলতে পারবে না।","words":[{"w":"may not","bn":"অনুমতি নেই","pos":"phrase"},{"w":"withdraw","bn":"টাকা তোলা","pos":"verb"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Should/Can/Must/Could + subject + verb (base) ...? / Do + subject + have to ...?",
+          "tipBn": "প্রশ্ন করতে modal শুরুতে বসে; have to-এর প্রশ্নে Do বা Does লাগে।",
+          "items": [
+            {"id":"01","en":"Should we open a fixed deposit for Arif's university fees?","bn":"আরিফের বিশ্ববিদ্যালয়ের খরচের জন্য কি আমাদের একটা ফিক্সড ডিপোজিট খোলা উচিত?","words":[{"w":"fixed deposit","bn":"স্থায়ী আমানত","pos":"noun"},{"w":"university fees","bn":"বিশ্ববিদ্যালয়ের খরচ","pos":"noun"}]},
+            {"id":"02","en":"Can I pay the electricity bill with Nagad?","bn":"আমি কি নগদ দিয়ে বিদ্যুৎ বিল দিতে পারি?","words":[{"w":"Can","bn":"পারা","pos":"verb"},{"w":"electricity bill","bn":"বিদ্যুৎ বিল","pos":"noun"}]},
+            {"id":"03","en":"Do we have to pay tax on the interest from our savings?","bn":"আমাদের সঞ্চয়ের সুদের ওপর কি কর দিতে হয়?","words":[{"w":"tax","bn":"কর","pos":"noun"},{"w":"interest","bn":"সুদ","pos":"noun"}]},
+            {"id":"04","en":"Must I bring my passport to open a foreign currency account?","bn":"বৈদেশিক মুদ্রার অ্যাকাউন্ট খুলতে কি আমাকে অবশ্যই পাসপোর্ট আনতে হবে?","words":[{"w":"passport","bn":"পাসপোর্ট","pos":"noun"},{"w":"foreign currency","bn":"বৈদেশিক মুদ্রা","pos":"noun"}]},
+            {"id":"05","en":"Could you lend me 2,000 taka until the end of the month?","bn":"তুমি কি মাসের শেষ পর্যন্ত আমাকে ২,০০০ টাকা ধার দিতে পারবে?","words":[{"w":"lend","bn":"ধার দেওয়া","pos":"verb"},{"w":"until","bn":"পর্যন্ত","pos":"preposition"}]},
+            {"id":"06","en":"Should Imran borrow from the bank or from a relative?","bn":"ইমরানের কি ব্যাংক থেকে ধার নেওয়া উচিত, নাকি কোনো আত্মীয়ের কাছ থেকে?","words":[{"w":"borrow","bn":"ধার নেওয়া","pos":"verb"},{"w":"relative","bn":"আত্মীয়","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "tag-question",
+          "pattern": "Statement with a modal, + opposite tag (shouldn't we? / can you?)",
+          "tipBn": "হ্যাঁ-বোধক বাক্যের শেষে না-বোধক ট্যাগ আর না-বোধক বাক্যের শেষে হ্যাঁ-বোধক ট্যাগ বসে।",
+          "items": [
+            {"id":"01","en":"We should start saving for Arif's university, shouldn't we?","bn":"আরিফের বিশ্ববিদ্যালয়ের জন্য আমাদের এখনই টাকা জমানো শুরু করা উচিত, তাই না?","words":[{"w":"start saving","bn":"জমানো শুরু করা","pos":"phrase"},{"w":"university","bn":"বিশ্ববিদ্যালয়","pos":"noun"}]},
+            {"id":"02","en":"You can't withdraw money from the ATM without your card, can you?","bn":"কার্ড ছাড়া তুমি এটিএম থেকে টাকা তুলতে পারো না, তাই না?","words":[{"w":"withdraw","bn":"টাকা তোলা","pos":"verb"},{"w":"without","bn":"ছাড়া","pos":"preposition"}]},
+            {"id":"03","en":"Imran has to repay the loan every month, doesn't he?","bn":"ইমরানকে প্রতি মাসে ঋণের কিস্তি শোধ করতে হয়, তাই না?","words":[{"w":"has to","bn":"করতে হয়","pos":"phrase","base":"have to"},{"w":"repay","bn":"শোধ করা","pos":"verb"}]},
+            {"id":"04","en":"We shouldn't trust messages from unknown numbers, should we?","bn":"অচেনা নম্বর থেকে আসা মেসেজ আমাদের বিশ্বাস করা উচিত না, তাই না?","words":[{"w":"trust","bn":"বিশ্বাস করা","pos":"verb"},{"w":"unknown","bn":"অচেনা","pos":"adjective"}]},
+            {"id":"05","en":"Sohel could send the money through the bank instead, couldn't he?","bn":"সোহেল চাইলে বরং ব্যাংকের মাধ্যমে টাকাটা পাঠাতে পারতেন, তাই না?","words":[{"w":"through","bn":"মাধ্যমে","pos":"preposition"},{"w":"instead","bn":"বরং, এর বদলে","pos":"adverb"}]},
+            {"id":"06","en":"I don't need to pay a fee for this transfer, do I?","bn":"এই টাকা পাঠানোর জন্য আমাকে কোনো ফি দিতে হবে না, তাই না?","words":[{"w":"need to","bn":"দরকার হওয়া","pos":"phrase"},{"w":"transfer","bn":"টাকা পাঠানো, স্থানান্তর","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short text with modal verbs for rules and advice.",
+          "tipBn": "অনুচ্ছেদে must, should, can, might, have to দিয়ে নিয়ম, পরামর্শ আর সম্ভাবনা বোঝানো হয়েছে।",
+          "items": [
+            {"id":"01","title":"Staying safe online","en":"Nasrin tells her students that they must protect their bank details. They should never share an OTP, even with a close friend. If a message looks strange, they shouldn't click on the link. Instead, they can call the bank's official number to check.","bn":"নাসরিন তাঁর ছাত্রীদের বলেন যে তাদের অবশ্যই নিজেদের ব্যাংকের তথ্য সুরক্ষিত রাখতে হবে। তাদের কখনো কাউকে ওটিপি বলা উচিত না, এমনকি কাছের বন্ধুকেও না। কোনো মেসেজ সন্দেহজনক মনে হলে লিংকে ক্লিক করা উচিত না। তার বদলে তারা যাচাই করতে ব্যাংকের অফিশিয়াল নম্বরে ফোন করতে পারে।","words":[{"w":"protect","bn":"সুরক্ষিত রাখা","pos":"verb"},{"w":"details","bn":"তথ্য","pos":"noun","base":"detail"},{"w":"Instead","bn":"তার বদলে","pos":"adverb"},{"w":"official","bn":"দাপ্তরিক, অফিশিয়াল","pos":"adjective"}]},
+            {"id":"02","title":"A loan for the pharmacy","en":"Imran wants to open a second pharmacy, so he might need a loan. First, he has to collect his trade license and tax papers. The bank may also ask for a guarantor. He should compare interest rates carefully before he signs anything.","bn":"ইমরান দ্বিতীয় একটা ফার্মেসি খুলতে চান, তাই তাঁর হয়তো ঋণ লাগতে পারে। প্রথমে তাঁকে ট্রেড লাইসেন্স আর করের কাগজপত্র জোগাড় করতে হবে। ব্যাংক একজন জামিনদারও চাইতে পারে। কোনো কিছুতে সই করার আগে তাঁর মনোযোগ দিয়ে সুদের হার তুলনা করা উচিত।","words":[{"w":"collect","bn":"জোগাড় করা","pos":"verb"},{"w":"guarantor","bn":"জামিনদার","pos":"noun"},{"w":"interest rates","bn":"সুদের হার","pos":"noun","base":"interest rate"},{"w":"signs","bn":"সই করে","pos":"verb","base":"sign"}]},
+            {"id":"03","title":"Arif's spending rules","en":"Arif has to manage his own pocket money now. He can spend some of it on snacks, but he must save at least a third. He doesn't have to tell his parents about every small purchase. However, he should write everything down in a notebook.","bn":"আরিফকে এখন নিজের হাতখরচ নিজেকেই সামলাতে হয়। সে এর কিছুটা নাশতার পেছনে খরচ করতে পারে, কিন্তু কমপক্ষে তিন ভাগের এক ভাগ অবশ্যই জমাতে হবে। প্রতিটা ছোট কেনাকাটার কথা মা-বাবাকে জানানোর দরকার নেই। তবে সবকিছু একটা খাতায় লিখে রাখা তার উচিত।","words":[{"w":"manage","bn":"সামলানো","pos":"verb"},{"w":"at least","bn":"কমপক্ষে","pos":"phrase"},{"w":"a third","bn":"তিন ভাগের এক ভাগ","pos":"phrase"},{"w":"purchase","bn":"কেনাকাটা","pos":"noun"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Talk about real and imagined money situations",
+      "focusBn": "বাস্তব ও কাল্পনিক টাকা-পয়সার পরিস্থিতি নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + present, will + verb. / If + past, would + verb.",
+          "tipBn": "সম্ভাব্য বাস্তব শর্তে If + present আর will; কাল্পনিক শর্তে If + past আর would বসে।",
+          "items": [
+            {"id":"01","en":"If Sohel sends the money today, it will arrive by evening.","bn":"সোহেল আজ টাকা পাঠালে সন্ধ্যার মধ্যে পৌঁছে যাবে।","words":[{"w":"arrive","bn":"পৌঁছানো","pos":"verb"},{"w":"by evening","bn":"সন্ধ্যার মধ্যে","pos":"phrase"}]},
+            {"id":"02","en":"If we save 5,000 taka a month, we will have 60,000 taka in a year.","bn":"আমরা মাসে ৫,০০০ টাকা জমালে এক বছরে আমাদের ৬০,০০০ টাকা হবে।","words":[{"w":"save","bn":"জমানো","pos":"verb"},{"w":"in a year","bn":"এক বছরে","pos":"phrase"}]},
+            {"id":"03","en":"If Imran had more money, he would open a second pharmacy.","bn":"ইমরানের কাছে আরও টাকা থাকলে তিনি দ্বিতীয় একটা ফার্মেসি খুলতেন।","words":[{"w":"would","bn":"করতেন","pos":"verb"},{"w":"second","bn":"দ্বিতীয়","pos":"adjective"}]},
+            {"id":"04","en":"If you lose your card, the bank will block it immediately.","bn":"তুমি কার্ড হারিয়ে ফেললে ব্যাংক সঙ্গে সঙ্গে সেটা বন্ধ করে দেবে।","words":[{"w":"block","bn":"বন্ধ করা","pos":"verb"},{"w":"immediately","bn":"সঙ্গে সঙ্গে","pos":"adverb"}]},
+            {"id":"05","en":"If prices keep rising, we will have to cut our spending.","bn":"দাম যদি বাড়তেই থাকে, তাহলে আমাদের খরচ কমাতে হবে।","words":[{"w":"keep rising","bn":"বাড়তেই থাকে","pos":"phrase","base":"keep rise"},{"w":"cut","bn":"কমানো","pos":"verb"}]},
+            {"id":"06","en":"If I were you, I would pay off the credit card first.","bn":"আমি তোমার জায়গায় থাকলে আগে ক্রেডিট কার্ডের পুরো টাকা শোধ করতাম।","words":[{"w":"If I were you","bn":"আমি তোমার জায়গায় থাকলে","pos":"phrase"},{"w":"pay off","bn":"পুরো শোধ করা","pos":"phrasal verb"},{"w":"credit card","bn":"ক্রেডিট কার্ড","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + don't/didn't ..., won't/wouldn't ... (one or both parts negative).",
+          "tipBn": "শর্তবাক্যের যেকোনো অংশে বা দুই অংশেই not বসিয়ে না-বোধক করা যায়।",
+          "items": [
+            {"id":"01","en":"If we don't pay the bill on time, we will pay a late fee.","bn":"আমরা সময়মতো বিল না দিলে বিলম্ব ফি দিতে হবে।","words":[{"w":"on time","bn":"সময়মতো","pos":"phrase"},{"w":"late fee","bn":"বিলম্ব ফি, জরিমানা","pos":"noun"}]},
+            {"id":"02","en":"If Arif didn't spend so much on snacks, he would save more.","bn":"আরিফ নাশতার পেছনে এত খরচ না করলে আরও বেশি জমাতে পারত।","words":[{"w":"spend","bn":"খরচ করা","pos":"verb"},{"w":"snacks","bn":"নাশতা, হালকা খাবার","pos":"noun","base":"snack"}]},
+            {"id":"03","en":"If you don't have an account, you can't use online banking.","bn":"তোমার অ্যাকাউন্ট না থাকলে তুমি অনলাইন ব্যাংকিং ব্যবহার করতে পারবে না।","words":[{"w":"account","bn":"অ্যাকাউন্ট","pos":"noun"},{"w":"online banking","bn":"অনলাইন ব্যাংকিং","pos":"noun"}]},
+            {"id":"04","en":"The bank won't give Imran a loan if his papers aren't ready.","bn":"ইমরানের কাগজপত্র তৈরি না থাকলে ব্যাংক তাঁকে ঋণ দেবে না।","words":[{"w":"loan","bn":"ঋণ","pos":"noun"},{"w":"papers","bn":"কাগজপত্র","pos":"noun","base":"paper"}]},
+            {"id":"05","en":"If Sohel didn't work abroad, the family wouldn't have a new room.","bn":"সোহেল বিদেশে কাজ না করলে পরিবারের নতুন ঘরটা হতো না।","words":[{"w":"abroad","bn":"বিদেশে","pos":"adverb"},{"w":"wouldn't","bn":"হতো না","pos":"verb","base":"would not"}]},
+            {"id":"06","en":"I wouldn't share my OTP even if the caller sounded very friendly.","bn":"ফোনকারী খুব বন্ধুসুলভভাবে কথা বললেও আমি আমার ওটিপি বলতাম না।","words":[{"w":"even if","bn":"এমনকি যদি","pos":"conjunction"},{"w":"sounded","bn":"শোনাত","pos":"verb","base":"sound"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + will/would + subject + verb + if ...?",
+          "tipBn": "প্রশ্নশব্দের পরে will বা would বসে, আর শর্তটা if দিয়ে যুক্ত হয়।",
+          "items": [
+            {"id":"01","en":"What will you do if the ATM keeps your card?","bn":"এটিএম তোমার কার্ড আটকে রাখলে তুমি কী করবে?","words":[{"w":"keeps","bn":"আটকে রাখে","pos":"verb","base":"keep"},{"w":"card","bn":"কার্ড","pos":"noun"}]},
+            {"id":"02","en":"What would you buy if you got a big bonus?","bn":"বড় একটা বোনাস পেলে তুমি কী কিনতে?","words":[{"w":"would","bn":"করতে","pos":"verb"},{"w":"bonus","bn":"বোনাস","pos":"noun"}]},
+            {"id":"03","en":"How will we pay the school fees if the money doesn't arrive?","bn":"টাকা না এলে আমরা স্কুলের বেতন কীভাবে দেব?","words":[{"w":"school fees","bn":"স্কুলের বেতন","pos":"noun"},{"w":"arrive","bn":"আসা, পৌঁছানো","pos":"verb"}]},
+            {"id":"04","en":"Where would you invest if you had 100,000 taka?","bn":"তোমার কাছে ১ লাখ টাকা থাকলে তুমি কোথায় বিনিয়োগ করতে?","words":[{"w":"invest","bn":"বিনিয়োগ করা","pos":"verb"},{"w":"if you had","bn":"তোমার কাছে থাকলে","pos":"phrase"}]},
+            {"id":"05","en":"Who will help us if the bank refuses the loan?","bn":"ব্যাংক ঋণ দিতে রাজি না হলে কে আমাদের সাহায্য করবে?","words":[{"w":"refuses","bn":"প্রত্যাখ্যান করে","pos":"verb","base":"refuse"},{"w":"loan","bn":"ঋণ","pos":"noun"}]},
+            {"id":"06","en":"Why would anyone share their PIN if they knew about these scams?","bn":"এসব প্রতারণার কথা জানলে কেউ কেন নিজের পিন বলে দিত?","words":[{"w":"share","bn":"বলে দেওয়া","pos":"verb"},{"w":"scams","bn":"প্রতারণা","pos":"noun","base":"scam"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short text with first and second conditionals.",
+          "tipBn": "অনুচ্ছেদে বাস্তব শর্তের জন্য If + present ও will, আর কাল্পনিক শর্তের জন্য If + past ও would ব্যবহার হয়েছে।",
+          "items": [
+            {"id":"01","title":"Nasrin's golden rule","en":"Nasrin has a simple rule about money. If the family saves a little every month, they will be ready for emergencies. If they spend everything, one hospital bill will put them in trouble. So she puts some money aside as soon as the salaries arrive.","bn":"টাকা নিয়ে নাসরিনের একটা সহজ নিয়ম আছে। পরিবারটি প্রতি মাসে অল্প অল্প জমালে বিপদের সময়ের জন্য তারা প্রস্তুত থাকবে। সব টাকা খরচ করে ফেললে একটা হাসপাতালের বিলই তাদের বিপদে ফেলে দেবে। তাই বেতন আসার সাথে সাথেই তিনি কিছু টাকা আলাদা করে রাখেন।","words":[{"w":"emergencies","bn":"জরুরি অবস্থা, বিপদ","pos":"noun","base":"emergency"},{"w":"in trouble","bn":"বিপদে","pos":"phrase"},{"w":"puts some money aside","bn":"কিছু টাকা আলাদা করে রাখেন","pos":"phrase","base":"put money aside"},{"w":"as soon as","bn":"সাথে সাথেই","pos":"conjunction"}]},
+            {"id":"02","title":"Imran's dream","en":"Imran often thinks about the future. If he had enough money, he would open a bigger pharmacy near the hospital. He would hire two assistants and stay open all night. But if the bank doesn't approve the loan this year, he will wait a little longer.","bn":"ইমরান প্রায়ই ভবিষ্যৎ নিয়ে ভাবেন। যথেষ্ট টাকা থাকলে তিনি হাসপাতালের কাছে একটা বড় ফার্মেসি খুলতেন। তিনি দুজন সহকারী রাখতেন এবং সারা রাত দোকান খোলা রাখতেন। কিন্তু এ বছর ব্যাংক ঋণ অনুমোদন না করলে তিনি আরও কিছু দিন অপেক্ষা করবেন।","words":[{"w":"enough","bn":"যথেষ্ট","pos":"adjective"},{"w":"hire","bn":"কাজে রাখা, নিয়োগ দেওয়া","pos":"verb"},{"w":"stay open","bn":"খোলা থাকা","pos":"phrase"},{"w":"approve","bn":"অনুমোদন করা","pos":"verb"}]},
+            {"id":"03","title":"Sohel's choice","en":"Sohel sometimes asks himself a hard question. If he lived in Bangladesh, would he earn enough for his family? He would be closer to his parents, but he would earn much less. For now, if his contract continues, he will stay in Dubai for two more years.","bn":"সোহেল মাঝে মাঝে নিজেকে একটা কঠিন প্রশ্ন করেন। তিনি বাংলাদেশে থাকলে কি পরিবারের জন্য যথেষ্ট আয় করতে পারতেন? তিনি মা-বাবার কাছাকাছি থাকতেন, কিন্তু আয় অনেক কম হতো। আপাতত চুক্তি চলতে থাকলে তিনি আরও দুই বছর দুবাইতে থাকবেন।","words":[{"w":"closer","bn":"কাছাকাছি","pos":"adjective","base":"close"},{"w":"For now","bn":"আপাতত","pos":"phrase"},{"w":"contract","bn":"চুক্তি","pos":"noun"},{"w":"continues","bn":"চলতে থাকে","pos":"verb","base":"continue"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

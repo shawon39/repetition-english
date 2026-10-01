@@ -1,0 +1,272 @@
+{
+  "topic": "money",
+  "level": "advanced",
+  "title": "Building a Secure Future",
+  "story": "Farhana Ahmed is a software engineer in Dhaka, and her husband Tanvir runs a small garment export business. They have a six-year-old daughter, Ayra. With advice from Farhana's university friend Daniel, a financial adviser in London, they are planning their investments, taxes and a large business loan, while helping Tanvir's uncle Jalal recover from a bank scam.",
+  "storyBn": "ফারহানা আহমেদ ঢাকার একজন সফটওয়্যার প্রকৌশলী, আর তাঁর স্বামী তানভীর একটা ছোট পোশাক রপ্তানির ব্যবসা চালান। তাঁদের ছয় বছরের একটা মেয়ে আছে, নাম আইরা। লন্ডনের আর্থিক উপদেষ্টা, ফারহানার বিশ্ববিদ্যালয়ের বন্ধু ড্যানিয়েলের পরামর্শ নিয়ে তাঁরা বিনিয়োগ, কর আর ব্যবসার জন্য একটা বড় ঋণের পরিকল্পনা করছেন। পাশাপাশি তাঁরা তানভীরের চাচা জালালকে একটা ব্যাংক প্রতারণার ধাক্কা সামলাতে সাহায্য করছেন।",
+  "units": [
+    {
+      "grammar": "present-perfect-continuous",
+      "focus": "Describe long-running money efforts up to now",
+      "focusBn": "এখন পর্যন্ত চলতে থাকা আর্থিক প্রচেষ্টা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + has/have been + verb-ing ... (for / since / lately).",
+          "tipBn": "অতীতে শুরু হয়ে এখনও চলছে এমন কাজের স্থায়িত্ব বোঝাতে has/have been + verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"Farhana has been putting part of her salary into savings certificates for six years.","bn":"ফারহানা ছয় বছর ধরে তাঁর বেতনের একটা অংশ সঞ্চয়পত্রে রেখে আসছেন।","words":[{"w":"putting","bn":"রাখছেন, বিনিয়োগ করছেন","pos":"verb","base":"put"},{"w":"savings certificates","bn":"সঞ্চয়পত্র","pos":"noun","base":"savings certificate"}]},
+            {"id":"02","en":"Inflation has been eating into our savings since the beginning of last year.","bn":"গত বছরের শুরু থেকে মূল্যস্ফীতি আমাদের সঞ্চয় একটু একটু করে খেয়ে ফেলছে।","words":[{"w":"Inflation","bn":"মূল্যস্ফীতি","pos":"noun"},{"w":"eating into","bn":"ক্ষয় করছে, কমিয়ে দিচ্ছে","pos":"phrasal verb","base":"eat into"}]},
+            {"id":"03","en":"Tanvir has been negotiating with three banks to get a better interest rate on his business loan.","bn":"ব্যবসার ঋণে আরও ভালো সুদের হার পেতে তানভীর তিনটা ব্যাংকের সাথে দর-কষাকষি করে যাচ্ছেন।","words":[{"w":"negotiating","bn":"দর-কষাকষি করছেন","pos":"verb","base":"negotiate"},{"w":"interest rate","bn":"সুদের হার","pos":"noun"}]},
+            {"id":"04","en":"They have been tracking every household expense in a shared spreadsheet since they got married.","bn":"বিয়ের পর থেকে তাঁরা একটা যৌথ স্প্রেডশিটে সংসারের প্রতিটা খরচের হিসাব রেখে আসছেন।","words":[{"w":"tracking","bn":"হিসাব রাখছেন","pos":"verb","base":"track"},{"w":"household expense","bn":"সংসারের খরচ","pos":"noun"},{"w":"spreadsheet","bn":"হিসাবের শিট","pos":"noun"}]},
+            {"id":"05","en":"Lately, Farhana has been reading a lot about index funds and long-term investing.","bn":"ইদানীং ফারহানা ইনডেক্স ফান্ড আর দীর্ঘমেয়াদি বিনিয়োগ নিয়ে অনেক পড়াশোনা করছেন।","words":[{"w":"Lately","bn":"ইদানীং","pos":"adverb"},{"w":"index funds","bn":"ইনডেক্স ফান্ড","pos":"noun","base":"index fund"},{"w":"long-term","bn":"দীর্ঘমেয়াদি","pos":"adjective"}]},
+            {"id":"06","en":"The prices of everyday goods have been climbing steadily for almost two years now.","bn":"প্রায় দুই বছর ধরে নিত্যপ্রয়োজনীয় জিনিসের দাম ক্রমাগত বেড়েই চলেছে।","words":[{"w":"everyday goods","bn":"নিত্যপ্রয়োজনীয় পণ্য","pos":"noun"},{"w":"climbing","bn":"বাড়ছে","pos":"verb","base":"climb"},{"w":"steadily","bn":"ক্রমাগত","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hasn't/haven't been + verb-ing ...",
+          "tipBn": "has বা have-এর পরে not বসে, তারপর been + verb-ing।",
+          "items": [
+            {"id":"01","en":"Tanvir hasn't been keeping proper receipts for his business expenses, which worries his accountant.","bn":"তানভীর তাঁর ব্যবসার খরচের ঠিকঠাক রসিদ রাখছেন না, যা নিয়ে তাঁর হিসাবরক্ষক চিন্তিত।","words":[{"w":"receipts","bn":"রসিদ","pos":"noun","base":"receipt"},{"w":"worries","bn":"চিন্তায় ফেলে","pos":"verb","base":"worry"},{"w":"accountant","bn":"হিসাবরক্ষক","pos":"noun"}]},
+            {"id":"02","en":"Farhana hasn't been checking her credit card statements as carefully as she used to.","bn":"ফারহানা আগে যেমন মনোযোগ দিয়ে ক্রেডিট কার্ডের স্টেটমেন্ট দেখতেন, ইদানীং তেমন দেখছেন না।","words":[{"w":"statements","bn":"হিসাব বিবরণী","pos":"noun","base":"statement"},{"w":"used to","bn":"আগে করতেন","pos":"phrase"}]},
+            {"id":"03","en":"Their income hasn't been growing nearly as fast as their monthly costs.","bn":"তাঁদের আয় মাসিক খরচের মতো অত দ্রুত বাড়ছে না।","words":[{"w":"income","bn":"আয়","pos":"noun"},{"w":"nearly as fast as","bn":"প্রায় ততটা দ্রুত","pos":"phrase"}]},
+            {"id":"04","en":"We haven't been saving enough for retirement, and that really needs to change.","bn":"আমরা অবসরের জন্য যথেষ্ট টাকা জমাচ্ছি না, আর এটা সত্যিই বদলানো দরকার।","words":[{"w":"retirement","bn":"অবসর","pos":"noun"},{"w":"needs to change","bn":"বদলানো দরকার","pos":"phrase"}]},
+            {"id":"05","en":"The Dhaka stock market hasn't been performing well since the elections were announced.","bn":"নির্বাচন ঘোষণার পর থেকে ঢাকার শেয়ারবাজারের অবস্থা ভালো যাচ্ছে না।","words":[{"w":"stock market","bn":"শেয়ারবাজার","pos":"noun"},{"w":"performing","bn":"ফল দিচ্ছে, চলছে","pos":"verb","base":"perform"}]},
+            {"id":"06","en":"Two of Tanvir's biggest clients haven't been paying their invoices on time for months.","bn":"মাসের পর মাস ধরে তানভীরের সবচেয়ে বড় দুই ক্রেতা সময়মতো তাঁদের বিল পরিশোধ করছেন না।","words":[{"w":"clients","bn":"ক্রেতা, মক্কেল","pos":"noun","base":"client"},{"w":"invoices","bn":"বিল, চালান","pos":"noun","base":"invoice"},{"w":"for months","bn":"মাসের পর মাস","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Has/Have + subject + been + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে Has বা Have শুরুতে বসে, তারপর subject, been আর verb-ing।",
+          "items": [
+            {"id":"01","en":"Have you been contributing to your company's provident fund since you joined?","bn":"যোগ দেওয়ার পর থেকে কি তুমি তোমার কোম্পানির প্রভিডেন্ট ফান্ডে টাকা দিয়ে আসছ?","words":[{"w":"contributing","bn":"অংশ দিচ্ছ, টাকা দিচ্ছ","pos":"verb","base":"contribute"},{"w":"provident fund","bn":"ভবিষ্য তহবিল","pos":"noun"}]},
+            {"id":"02","en":"Has inflation been pushing up the price of your raw materials, Tanvir?","bn":"তানভীর, মূল্যস্ফীতি কি তোমার কাঁচামালের দাম বাড়িয়ে দিচ্ছে?","words":[{"w":"pushing up","bn":"বাড়িয়ে দিচ্ছে","pos":"phrasal verb","base":"push up"},{"w":"raw materials","bn":"কাঁচামাল","pos":"noun","base":"raw material"}]},
+            {"id":"03","en":"Has Farhana been comparing the returns on different investment options this month?","bn":"ফারহানা কি এই মাসে বিভিন্ন বিনিয়োগের বিকল্পে মুনাফার তুলনা করছেন?","words":[{"w":"returns","bn":"মুনাফা, আয়","pos":"noun","base":"return"},{"w":"investment options","bn":"বিনিয়োগের বিকল্প","pos":"noun","base":"investment option"}]},
+            {"id":"04","en":"Have the banks been offering lower interest rates to small businesses this year?","bn":"এ বছর ব্যাংকগুলো কি ছোট ব্যবসাগুলোকে কম সুদে ঋণ দিচ্ছে?","words":[{"w":"offering","bn":"দিচ্ছে, প্রস্তাব করছে","pos":"verb","base":"offer"},{"w":"interest rates","bn":"সুদের হার","pos":"noun","base":"interest rate"}]},
+            {"id":"05","en":"Has your accountant been helping you prepare this year's income tax return?","bn":"তোমার হিসাবরক্ষক কি এ বছরের আয়কর রিটার্ন তৈরিতে তোমাকে সাহায্য করছেন?","words":[{"w":"accountant","bn":"হিসাবরক্ষক","pos":"noun"},{"w":"income tax return","bn":"আয়কর রিটার্ন","pos":"noun"}]},
+            {"id":"06","en":"Have you and Tanvir been arguing about household spending more often lately?","bn":"তুমি আর তানভীর কি ইদানীং সংসারের খরচ নিয়ে আগের চেয়ে বেশি তর্ক করছ?","words":[{"w":"arguing","bn":"তর্ক করছ","pos":"verb","base":"argue"},{"w":"household spending","bn":"সংসারের খরচ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + has/have + subject + been + verb-ing ...?",
+          "tipBn": "প্রশ্নশব্দের পরে has বা have বসে, তারপর subject, been আর verb-ing।",
+          "items": [
+            {"id":"01","en":"How long have you been investing in the Dhaka stock market?","bn":"তুমি কত দিন ধরে ঢাকার শেয়ারবাজারে বিনিয়োগ করছ?","words":[{"w":"How long","bn":"কত দিন ধরে","pos":"phrase"},{"w":"investing","bn":"বিনিয়োগ করছ","pos":"verb","base":"invest"}]},
+            {"id":"02","en":"Why has the taka been losing value against the dollar for so long?","bn":"এত দিন ধরে ডলারের বিপরীতে টাকার মান কমছে কেন?","words":[{"w":"losing value","bn":"মান হারাচ্ছে","pos":"phrase","base":"lose value"},{"w":"against","bn":"বিপরীতে","pos":"preposition"}]},
+            {"id":"03","en":"What have you been doing to protect your savings from rising inflation?","bn":"বাড়তে থাকা মূল্যস্ফীতি থেকে তোমার সঞ্চয় রক্ষা করতে তুমি কী করছ?","words":[{"w":"protect","bn":"রক্ষা করা","pos":"verb"},{"w":"rising","bn":"বাড়তে থাকা","pos":"adjective"}]},
+            {"id":"04","en":"Which bank has Tanvir been negotiating with for the expansion loan?","bn":"ব্যবসা সম্প্রসারণের ঋণের জন্য তানভীর কোন ব্যাংকের সাথে দর-কষাকষি করছেন?","words":[{"w":"negotiating","bn":"দর-কষাকষি করছেন","pos":"verb","base":"negotiate"},{"w":"expansion","bn":"সম্প্রসারণ","pos":"noun"}]},
+            {"id":"05","en":"How much have you been setting aside each month for Ayra's education?","bn":"আইরার পড়াশোনার জন্য তুমি প্রতি মাসে কত টাকা আলাদা করে রাখছ?","words":[{"w":"setting aside","bn":"আলাদা করে রাখছ","pos":"phrasal verb","base":"set aside"},{"w":"education","bn":"পড়াশোনা, শিক্ষা","pos":"noun"}]},
+            {"id":"06","en":"Who has been handling the paperwork for your income tax since your old accountant retired?","bn":"তোমার পুরোনো হিসাবরক্ষক অবসরে যাওয়ার পর থেকে তোমার আয়করের কাগজপত্র কে সামলাচ্ছে?","words":[{"w":"handling","bn":"সামলাচ্ছে","pos":"verb","base":"handle"},{"w":"paperwork","bn":"কাগজপত্রের কাজ","pos":"noun"},{"w":"retired","bn":"অবসরে গেছেন","pos":"verb","base":"retire"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A longer text mostly in the present perfect continuous.",
+          "tipBn": "অনুচ্ছেদে has/have been + verb-ing দিয়ে এখন পর্যন্ত চলতে থাকা কাজ বোঝানো হয়েছে।",
+          "items": [
+            {"id":"01","title":"Fighting inflation","en":"For the past two years, Farhana has been watching prices rise faster than her salary. She has been cutting unnecessary subscriptions and cooking at home more often. At the same time, she has been moving some of her savings into investments that usually beat inflation. It has been a slow process, but she has been feeling more in control of her money.","bn":"গত দুই বছর ধরে ফারহানা দেখছেন যে তাঁর বেতনের চেয়ে দাম দ্রুত বাড়ছে। তিনি অপ্রয়োজনীয় সাবস্ক্রিপশন বাদ দিচ্ছেন এবং আগের চেয়ে বেশি বাসায় রান্না করছেন। একই সাথে তিনি তাঁর সঞ্চয়ের কিছু অংশ এমন বিনিয়োগে সরিয়ে নিচ্ছেন, যেগুলো সাধারণত মূল্যস্ফীতির চেয়ে বেশি মুনাফা দেয়। প্রক্রিয়াটা ধীর, কিন্তু নিজের টাকার ওপর তিনি আগের চেয়ে বেশি নিয়ন্ত্রণ অনুভব করছেন।","words":[{"w":"unnecessary","bn":"অপ্রয়োজনীয়","pos":"adjective"},{"w":"subscriptions","bn":"নিয়মিত চাঁদার সেবা","pos":"noun","base":"subscription"},{"w":"beat inflation","bn":"মূল্যস্ফীতিকে ছাড়িয়ে যায়","pos":"phrase"},{"w":"process","bn":"প্রক্রিয়া","pos":"noun"},{"w":"in control","bn":"নিয়ন্ত্রণে","pos":"phrase"}]},
+            {"id":"02","title":"Tanvir's search for a loan","en":"Tanvir has been trying to expand his garment export business for months. He has been meeting loan officers, preparing financial statements and answering endless questions. Two banks have been offering him loans, but their interest rates are still too high. Meanwhile, he has been using his own savings to keep the factory running. His patience has been wearing thin.","bn":"তানভীর কয়েক মাস ধরে তাঁর পোশাক রপ্তানির ব্যবসা বড় করার চেষ্টা করছেন। তিনি ঋণ কর্মকর্তাদের সাথে দেখা করছেন, আর্থিক বিবরণী তৈরি করছেন আর অগণিত প্রশ্নের উত্তর দিচ্ছেন। দুটো ব্যাংক তাঁকে ঋণ দেওয়ার প্রস্তাব দিচ্ছে, কিন্তু তাদের সুদের হার এখনও অনেক বেশি। এর মধ্যে কারখানা চালু রাখতে তিনি নিজের সঞ্চয় খরচ করছেন। তাঁর ধৈর্য ক্রমেই ফুরিয়ে আসছে।","words":[{"w":"expand","bn":"বড় করা, সম্প্রসারণ করা","pos":"verb"},{"w":"financial statements","bn":"আর্থিক বিবরণী","pos":"noun","base":"financial statement"},{"w":"endless","bn":"অগণিত, শেষহীন","pos":"adjective"},{"w":"Meanwhile","bn":"এর মধ্যে","pos":"adverb"},{"w":"wearing thin","bn":"ফুরিয়ে আসছে","pos":"idiom","base":"wear thin"}]},
+            {"id":"03","title":"Advice from London","en":"Farhana's university friend Daniel has been working as a financial adviser in London for a decade. Lately, they have been talking on video calls every few weeks. He has been encouraging her to diversify instead of keeping everything in one type of investment. She has been taking notes and asking him difficult questions about risk and return.","bn":"ফারহানার বিশ্ববিদ্যালয়ের বন্ধু ড্যানিয়েল এক দশক ধরে লন্ডনে আর্থিক উপদেষ্টা হিসেবে কাজ করছেন। ইদানীং কয়েক সপ্তাহ পরপর তাঁরা ভিডিও কলে কথা বলছেন। সব টাকা এক ধরনের বিনিয়োগে না রেখে বিভিন্ন জায়গায় ছড়িয়ে রাখতে তিনি ফারহানাকে উৎসাহ দিচ্ছেন। ফারহানা নোট নিচ্ছেন এবং ঝুঁকি আর মুনাফা নিয়ে তাঁকে কঠিন কঠিন প্রশ্ন করছেন।","words":[{"w":"financial adviser","bn":"আর্থিক উপদেষ্টা","pos":"noun"},{"w":"decade","bn":"দশক","pos":"noun"},{"w":"encouraging","bn":"উৎসাহ দিচ্ছেন","pos":"verb","base":"encourage"},{"w":"diversify","bn":"বিভিন্ন খাতে ছড়িয়ে দেওয়া","pos":"verb"},{"w":"risk","bn":"ঝুঁকি","pos":"noun"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-perfect",
+      "focus": "Explain what had happened before key money decisions",
+      "focusBn": "গুরুত্বপূর্ণ আর্থিক সিদ্ধান্তের আগে কী ঘটে গিয়েছিল তা ব্যাখ্যা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + had + past participle ... (by the time / before / after / when + past simple).",
+          "tipBn": "অতীতের দুটো কাজের মধ্যে যেটা আগে ঘটেছিল, সেটা বোঝাতে had + past participle বসে।",
+          "items": [
+            {"id":"01","en":"By the time Farhana turned thirty, she had already paid off her student loan.","bn":"ত্রিশ বছর পূর্ণ হওয়ার আগেই ফারহানা তাঁর শিক্ষাঋণ পুরোপুরি শোধ করে ফেলেছিলেন।","words":[{"w":"By the time","bn":"যতক্ষণে, তার আগেই","pos":"conjunction"},{"w":"paid off","bn":"পুরো শোধ করেছিলেন","pos":"phrasal verb","base":"pay off"},{"w":"student loan","bn":"শিক্ষাঋণ","pos":"noun"}]},
+            {"id":"02","en":"Tanvir had compared offers from five banks before he chose the one with the lowest rate.","bn":"সবচেয়ে কম সুদের ব্যাংকটা বেছে নেওয়ার আগে তানভীর পাঁচটা ব্যাংকের প্রস্তাব তুলনা করে দেখেছিলেন।","words":[{"w":"compared","bn":"তুলনা করেছিলেন","pos":"verb","base":"compare"},{"w":"offers","bn":"প্রস্তাব","pos":"noun","base":"offer"},{"w":"lowest rate","bn":"সবচেয়ে কম হার","pos":"phrase"}]},
+            {"id":"03","en":"The scammers had already emptied Uncle Jalal's account when the bank finally blocked it.","bn":"ব্যাংক যখন শেষ পর্যন্ত জালাল চাচার অ্যাকাউন্টটা বন্ধ করল, তার আগেই প্রতারকরা সেটা খালি করে ফেলেছিল।","words":[{"w":"scammers","bn":"প্রতারক","pos":"noun","base":"scammer"},{"w":"emptied","bn":"খালি করে ফেলেছিল","pos":"verb","base":"empty"},{"w":"blocked","bn":"বন্ধ করল","pos":"verb","base":"block"}]},
+            {"id":"04","en":"Prices had risen by nearly ten percent before the central bank raised interest rates.","bn":"কেন্দ্রীয় ব্যাংক সুদের হার বাড়ানোর আগেই দাম প্রায় ১০ শতাংশ বেড়ে গিয়েছিল।","words":[{"w":"percent","bn":"শতাংশ","pos":"noun"},{"w":"central bank","bn":"কেন্দ্রীয় ব্যাংক","pos":"noun"},{"w":"raised","bn":"বাড়াল","pos":"verb","base":"raise"}]},
+            {"id":"05","en":"Farhana realized that she had overpaid her income tax the previous year.","bn":"ফারহানা বুঝতে পারলেন যে আগের বছর তিনি প্রয়োজনের চেয়ে বেশি আয়কর দিয়ে ফেলেছিলেন।","words":[{"w":"realized","bn":"বুঝতে পারলেন","pos":"verb","base":"realize"},{"w":"overpaid","bn":"বেশি দিয়ে ফেলেছিলেন","pos":"verb","base":"overpay"},{"w":"the previous year","bn":"আগের বছর","pos":"phrase"}]},
+            {"id":"06","en":"After they had saved for three years, they finally made a down payment on a flat.","bn":"তিন বছর টাকা জমানোর পর অবশেষে তাঁরা একটা ফ্ল্যাটের ডাউন পেমেন্ট দিলেন।","words":[{"w":"finally","bn":"অবশেষে","pos":"adverb"},{"w":"down payment","bn":"অগ্রিম প্রথম কিস্তি","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hadn't/had never + past participle ... (before / until / when).",
+          "tipBn": "had-এর পরে not বা never বসিয়ে অতীতের আগের ঘটনার না-বোধক রূপ তৈরি হয়।",
+          "items": [
+            {"id":"01","en":"Tanvir hadn't read the small print before he signed his first loan agreement.","bn":"প্রথম ঋণচুক্তিতে সই করার আগে তানভীর খুঁটিনাটি শর্তগুলো পড়েননি।","words":[{"w":"small print","bn":"ছোট অক্ষরের খুঁটিনাটি শর্ত","pos":"noun"},{"w":"signed","bn":"সই করলেন","pos":"verb","base":"sign"},{"w":"agreement","bn":"চুক্তি","pos":"noun"}]},
+            {"id":"02","en":"Farhana had never invested in shares until Daniel explained how the market worked.","bn":"ড্যানিয়েল বাজার কীভাবে চলে তা বুঝিয়ে বলার আগে ফারহানা কখনো শেয়ারে বিনিয়োগ করেননি।","words":[{"w":"invested","bn":"বিনিয়োগ করেছিলেন","pos":"verb","base":"invest"},{"w":"shares","bn":"শেয়ার","pos":"noun","base":"share"},{"w":"until","bn":"যতক্ষণ না","pos":"conjunction"}]},
+            {"id":"03","en":"The couple hadn't expected flat prices in Dhaka to rise so quickly after the pandemic.","bn":"দম্পতিটি ভাবেননি যে মহামারির পর ঢাকায় ফ্ল্যাটের দাম এত দ্রুত বাড়বে।","words":[{"w":"couple","bn":"দম্পতি","pos":"noun"},{"w":"expected","bn":"আশা করেছিলেন","pos":"verb","base":"expect"},{"w":"pandemic","bn":"মহামারি","pos":"noun"}]},
+            {"id":"04","en":"Uncle Jalal hadn't realized the message was fake until all his money was gone.","bn":"সব টাকা চলে যাওয়ার আগ পর্যন্ত জালাল চাচা বুঝতেই পারেননি যে মেসেজটা ভুয়া ছিল।","words":[{"w":"realized","bn":"বুঝতে পেরেছিলেন","pos":"verb","base":"realize"},{"w":"fake","bn":"ভুয়া","pos":"adjective"},{"w":"gone","bn":"চলে গেছে","pos":"adjective"}]},
+            {"id":"05","en":"They hadn't filed their tax returns when the deadline passed, so they had to pay a penalty.","bn":"শেষ সময় পার হয়ে যাওয়ার সময়ও তাঁরা কর রিটার্ন জমা দেননি, তাই তাঁদের জরিমানা দিতে হয়েছিল।","words":[{"w":"filed","bn":"জমা দিয়েছিলেন","pos":"verb","base":"file"},{"w":"deadline","bn":"শেষ সময়সীমা","pos":"noun"},{"w":"penalty","bn":"জরিমানা","pos":"noun"}]},
+            {"id":"06","en":"No one at the bank had warned Tanvir about the hidden fees in his business account.","bn":"ব্যাংকের কেউই তানভীরকে তাঁর ব্যবসায়িক অ্যাকাউন্টের লুকানো চার্জের ব্যাপারে সতর্ক করেননি।","words":[{"w":"warned","bn":"সতর্ক করেছিলেন","pos":"verb","base":"warn"},{"w":"hidden fees","bn":"লুকানো চার্জ","pos":"noun","base":"hidden fee"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Hadn't + subject + past participle ...? / Why hadn't + subject + past participle ...?",
+          "tipBn": "অবাক হয়ে বা নিশ্চিত হতে চাইলে Hadn't দিয়ে প্রশ্ন শুরু হয়, আর verb past participle রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Hadn't you already paid the first installment when the bank changed the terms?","bn":"ব্যাংক যখন শর্ত বদলাল, তার আগেই কি তুমি প্রথম কিস্তি দিয়ে ফেলোনি?","words":[{"w":"installment","bn":"কিস্তি","pos":"noun"},{"w":"terms","bn":"শর্ত","pos":"noun","base":"term"}]},
+            {"id":"02","en":"Hadn't Farhana warned her parents about phone scams before this happened to Uncle Jalal?","bn":"জালাল চাচার সাথে এটা ঘটার আগে ফারহানা কি তাঁর মা-বাবাকে ফোন প্রতারণা নিয়ে সতর্ক করেননি?","words":[{"w":"warned","bn":"সতর্ক করেছিলেন","pos":"verb","base":"warn"},{"w":"scams","bn":"প্রতারণা","pos":"noun","base":"scam"}]},
+            {"id":"03","en":"Hadn't the bank promised Tanvir a lower rate during their first meeting?","bn":"প্রথম মিটিংয়েই কি ব্যাংক তানভীরকে কম সুদের প্রতিশ্রুতি দেয়নি?","words":[{"w":"promised","bn":"প্রতিশ্রুতি দিয়েছিল","pos":"verb","base":"promise"},{"w":"rate","bn":"হার","pos":"noun"}]},
+            {"id":"04","en":"Hadn't you checked the exchange rate before you sent the money to London?","bn":"লন্ডনে টাকা পাঠানোর আগে কি তুমি বিনিময় হারটা দেখে নাওনি?","words":[{"w":"checked","bn":"দেখে নিয়েছিলে","pos":"verb","base":"check"},{"w":"exchange rate","bn":"বিনিময় হার","pos":"noun"}]},
+            {"id":"05","en":"Hadn't they agreed on a budget before they started renovating the flat?","bn":"ফ্ল্যাট সংস্কারের কাজ শুরুর আগে কি তাঁরা একটা বাজেটে একমত হননি?","words":[{"w":"agreed on","bn":"একমত হয়েছিলেন","pos":"phrasal verb","base":"agree on"},{"w":"renovating","bn":"সংস্কার করা","pos":"verb","base":"renovate"}]},
+            {"id":"06","en":"Why hadn't anyone at the bank noticed the missing money until the end of the month?","bn":"মাসের শেষ পর্যন্ত ব্যাংকের কেউই খোয়া যাওয়া টাকার ব্যাপারটা খেয়াল করেননি কেন?","words":[{"w":"noticed","bn":"খেয়াল করেছিলেন","pos":"verb","base":"notice"},{"w":"missing","bn":"হারানো, খোয়া যাওয়া","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + had + subject + past participle ...?",
+          "tipBn": "প্রশ্নশব্দের পরে had বসে, তারপর subject আর past participle।",
+          "items": [
+            {"id":"01","en":"How much had you saved by the time you bought your first flat?","bn":"প্রথম ফ্ল্যাটটা কেনার সময় পর্যন্ত তুমি কত টাকা জমিয়েছিলে?","words":[{"w":"saved","bn":"জমিয়েছিলে","pos":"verb","base":"save"},{"w":"by the time","bn":"যে সময় পর্যন্ত","pos":"conjunction"}]},
+            {"id":"02","en":"What had Tanvir done to prepare before he approached the bank for a loan?","bn":"ঋণের জন্য ব্যাংকের কাছে যাওয়ার আগে তানভীর প্রস্তুতি হিসেবে কী করেছিলেন?","words":[{"w":"prepare","bn":"প্রস্তুতি নেওয়া","pos":"verb"},{"w":"approached","bn":"কাছে গিয়েছিলেন","pos":"verb","base":"approach"}]},
+            {"id":"03","en":"Why had the scammers targeted elderly customers in particular, rather than younger people?","bn":"প্রতারকরা কম বয়সী মানুষদের বদলে বিশেষ করে বয়স্ক গ্রাহকদেরই লক্ষ্য বানিয়েছিল কেন?","words":[{"w":"targeted","bn":"লক্ষ্য বানিয়েছিল","pos":"verb","base":"target"},{"w":"elderly","bn":"বয়স্ক","pos":"adjective"},{"w":"in particular","bn":"বিশেষ করে","pos":"phrase"}]},
+            {"id":"04","en":"Where had Farhana kept her savings before she discovered mutual funds?","bn":"মিউচুয়াল ফান্ডের খোঁজ পাওয়ার আগে ফারহানা তাঁর সঞ্চয় কোথায় রেখেছিলেন?","words":[{"w":"discovered","bn":"খোঁজ পেলেন","pos":"verb","base":"discover"},{"w":"mutual funds","bn":"মিউচুয়াল ফান্ড","pos":"noun","base":"mutual fund"}]},
+            {"id":"05","en":"How many loan applications had Tanvir submitted before one was finally approved?","bn":"শেষ পর্যন্ত একটা অনুমোদিত হওয়ার আগে তানভীর কতগুলো ঋণের আবেদন জমা দিয়েছিলেন?","words":[{"w":"loan applications","bn":"ঋণের আবেদন","pos":"noun","base":"loan application"},{"w":"submitted","bn":"জমা দিয়েছিলেন","pos":"verb","base":"submit"},{"w":"approved","bn":"অনুমোদিত হলো","pos":"verb","base":"approve"}]},
+            {"id":"06","en":"Which of your investments had performed best by the end of last year?","bn":"গত বছরের শেষ নাগাদ তোমার কোন বিনিয়োগটা সবচেয়ে ভালো ফল দিয়েছিল?","words":[{"w":"investments","bn":"বিনিয়োগ","pos":"noun","base":"investment"},{"w":"performed","bn":"ফল দিয়েছিল","pos":"verb","base":"perform"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A longer text with the past perfect for the earlier past.",
+          "tipBn": "অনুচ্ছেদে আগে ঘটে যাওয়া কাজ had + past participle, আর পরের কাজ past simple-এ আছে।",
+          "items": [
+            {"id":"01","title":"Uncle Jalal's mistake","en":"Tanvir's uncle Jalal had always trusted people too easily. One evening he received a call from someone who claimed to work for his bank. By the time he realized the truth, he had already shared his OTP. The scammers had transferred 200,000 taka out of his account within minutes. Afterward, the family set up stronger security for all his accounts.","bn":"তানভীরের চাচা জালাল সবসময়ই মানুষকে খুব সহজে বিশ্বাস করতেন। এক সন্ধ্যায় তিনি এমন একজনের ফোন পেলেন, যে নিজেকে তাঁর ব্যাংকের কর্মী বলে দাবি করল। সত্যিটা বুঝতে পারার আগেই তিনি তাঁর ওটিপি বলে দিয়েছিলেন। কয়েক মিনিটের মধ্যেই প্রতারকরা তাঁর অ্যাকাউন্ট থেকে ২ লাখ টাকা সরিয়ে নিয়েছিল। এরপর পরিবারের সবাই মিলে তাঁর সব অ্যাকাউন্টে আরও শক্ত নিরাপত্তার ব্যবস্থা করল।","words":[{"w":"trusted","bn":"বিশ্বাস করতেন","pos":"verb","base":"trust"},{"w":"claimed","bn":"দাবি করল","pos":"verb","base":"claim"},{"w":"scammers","bn":"প্রতারক","pos":"noun","base":"scammer"},{"w":"transferred","bn":"সরিয়ে নিয়েছিল","pos":"verb","base":"transfer"},{"w":"security","bn":"নিরাপত্তা","pos":"noun"}]},
+            {"id":"02","title":"Buying the flat","en":"Before Farhana and Tanvir signed the contract for their flat, they had spent months preparing. They had saved a large down payment and had paid off their car loan. Farhana had also checked the developer's history and had read every page of the agreement. When they finally received the keys, they knew they had made a careful decision.","bn":"ফ্ল্যাটের চুক্তিতে সই করার আগে ফারহানা আর তানভীর কয়েক মাস ধরে প্রস্তুতি নিয়েছিলেন। তাঁরা ডাউন পেমেন্টের জন্য বড় অঙ্কের টাকা জমিয়েছিলেন এবং গাড়ির ঋণ পুরো শোধ করে ফেলেছিলেন। ফারহানা আবাসন কোম্পানির অতীত রেকর্ডও যাচাই করেছিলেন এবং চুক্তির প্রতিটা পাতা পড়েছিলেন। শেষ পর্যন্ত যখন তাঁরা চাবি হাতে পেলেন, তখন তাঁরা জানতেন যে তাঁরা ভেবেচিন্তে সিদ্ধান্ত নিয়েছেন।","words":[{"w":"contract","bn":"চুক্তিপত্র","pos":"noun"},{"w":"down payment","bn":"অগ্রিম প্রথম কিস্তি","pos":"noun"},{"w":"paid off","bn":"পুরো শোধ করেছিলেন","pos":"phrasal verb","base":"pay off"},{"w":"developer's","bn":"আবাসন কোম্পানির","pos":"noun","base":"developer"},{"w":"careful","bn":"ভেবেচিন্তে নেওয়া","pos":"adjective"}]},
+            {"id":"03","title":"A lesson about inflation","en":"Farhana had opened her first fixed deposit at the age of twenty-five, and she had felt proud of the interest rate. Five years later, she looked at the numbers again. Prices had risen so much that her real return had almost disappeared. She had not considered inflation at all, and that lesson changed the way she saved.","bn":"ফারহানা পঁচিশ বছর বয়সে তাঁর প্রথম ফিক্সড ডিপোজিট খুলেছিলেন, আর সুদের হার নিয়ে তিনি গর্ব বোধ করেছিলেন। পাঁচ বছর পর তিনি আবার হিসাবটা দেখলেন। দাম এত বেড়ে গিয়েছিল যে তাঁর প্রকৃত মুনাফা প্রায় শূন্যে নেমে এসেছিল। তিনি মূল্যস্ফীতির কথা একেবারেই ভাবেননি, আর সেই শিক্ষা তাঁর সঞ্চয়ের ধরন বদলে দিল।","words":[{"w":"fixed deposit","bn":"স্থায়ী আমানত","pos":"noun"},{"w":"real return","bn":"প্রকৃত মুনাফা","pos":"noun"},{"w":"disappeared","bn":"হারিয়ে গিয়েছিল","pos":"verb","base":"disappear"},{"w":"considered","bn":"বিবেচনা করেছিলেন","pos":"verb","base":"consider"},{"w":"inflation","bn":"মূল্যস্ফীতি","pos":"noun"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "passive",
+      "focus": "Explain how banks, taxes and loans work",
+      "focusBn": "ব্যাংক, কর আর ঋণ কীভাবে কাজ করে তা ব্যাখ্যা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + is/was/has been/will be/must be + past participle (+ by ...).",
+          "tipBn": "কাজটা কে করল তার চেয়ে কাজটাই বেশি গুরুত্বপূর্ণ হলে be + past participle দিয়ে কর্মবাচ্য তৈরি হয়।",
+          "items": [
+            {"id":"01","en":"Income tax returns must be submitted by the thirtieth of November every year.","bn":"প্রতি বছর ৩০ নভেম্বরের মধ্যে আয়কর রিটার্ন অবশ্যই জমা দিতে হয়।","words":[{"w":"Income tax returns","bn":"আয়কর রিটার্ন","pos":"noun","base":"income tax return"},{"w":"submitted","bn":"জমা দেওয়া","pos":"verb","base":"submit"}]},
+            {"id":"02","en":"Farhana's salary is paid directly into her account on the last working day of each month.","bn":"প্রতি মাসের শেষ কর্মদিবসে ফারহানার বেতন সরাসরি তাঁর অ্যাকাউন্টে জমা হয়।","words":[{"w":"directly","bn":"সরাসরি","pos":"adverb"},{"w":"working day","bn":"কর্মদিবস","pos":"noun"}]},
+            {"id":"03","en":"Tanvir's loan was approved after his financial statements were checked by an independent auditor.","bn":"একজন স্বাধীন নিরীক্ষক তানভীরের আর্থিক বিবরণী যাচাই করার পর তাঁর ঋণ অনুমোদন করা হয়।","words":[{"w":"approved","bn":"অনুমোদন করা হয়","pos":"verb","base":"approve"},{"w":"independent","bn":"স্বাধীন, নিরপেক্ষ","pos":"adjective"},{"w":"auditor","bn":"নিরীক্ষক","pos":"noun"}]},
+            {"id":"04","en":"A small fee is charged every time you withdraw cash from another bank's ATM.","bn":"অন্য ব্যাংকের এটিএম থেকে যতবার টাকা তোলা হয়, ততবারই একটা ছোট ফি কাটা হয়।","words":[{"w":"fee","bn":"ফি, মাশুল","pos":"noun"},{"w":"charged","bn":"কেটে নেওয়া হয়","pos":"verb","base":"charge"},{"w":"every time","bn":"যতবার","pos":"phrase"}]},
+            {"id":"05","en":"Thousands of mobile banking customers have been warned about a new phishing scam this month.","bn":"এই মাসে হাজার হাজার মোবাইল ব্যাংকিং গ্রাহককে একটা নতুন ফিশিং প্রতারণা সম্পর্কে সতর্ক করা হয়েছে।","words":[{"w":"warned","bn":"সতর্ক করা হয়েছে","pos":"verb","base":"warn"},{"w":"phishing","bn":"ভুয়া বার্তা দিয়ে তথ্য চুরি","pos":"noun"}]},
+            {"id":"06","en":"The current interest rates will be reviewed by the central bank at its next policy meeting.","bn":"কেন্দ্রীয় ব্যাংকের পরবর্তী নীতি বৈঠকে বর্তমান সুদের হার পর্যালোচনা করা হবে।","words":[{"w":"reviewed","bn":"পর্যালোচনা করা হবে","pos":"verb","base":"review"},{"w":"central bank","bn":"কেন্দ্রীয় ব্যাংক","pos":"noun"},{"w":"policy","bn":"নীতি","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + isn't/wasn't/hasn't been/will never be + past participle ...",
+          "tipBn": "be-এর রূপের পরে not বা never বসিয়ে কর্মবাচ্যের না-বোধক বাক্য তৈরি হয়।",
+          "items": [
+            {"id":"01","en":"Your password will never be requested by the bank over the phone or by email.","bn":"ব্যাংক কখনোই ফোনে বা ইমেইলে আপনার পাসওয়ার্ড চাইবে না।","words":[{"w":"password","bn":"পাসওয়ার্ড","pos":"noun"},{"w":"requested","bn":"চাওয়া হবে","pos":"verb","base":"request"}]},
+            {"id":"02","en":"The stolen money wasn't refunded until Uncle Jalal filed a formal complaint.","bn":"জালাল চাচা আনুষ্ঠানিক অভিযোগ দায়ের করার আগে চুরি যাওয়া টাকা ফেরত দেওয়া হয়নি।","words":[{"w":"refunded","bn":"ফেরত দেওয়া হয়েছিল","pos":"verb","base":"refund"},{"w":"filed","bn":"দায়ের করলেন","pos":"verb","base":"file"},{"w":"formal complaint","bn":"আনুষ্ঠানিক অভিযোগ","pos":"noun"}]},
+            {"id":"03","en":"Tanvir's loan hasn't been disbursed yet because one important document is still missing.","bn":"একটা জরুরি কাগজ এখনও না থাকায় তানভীরের ঋণের টাকা এখনও ছাড় করা হয়নি।","words":[{"w":"disbursed","bn":"ছাড় করা হয়েছে","pos":"verb","base":"disburse"},{"w":"missing","bn":"অনুপস্থিত, পাওয়া যাচ্ছে না","pos":"adjective"}]},
+            {"id":"04","en":"Large savings certificates aren't sold to buyers without a tax identification number.","bn":"করদাতা শনাক্তকরণ নম্বর ছাড়া ক্রেতাদের কাছে বড় অঙ্কের সঞ্চয়পত্র বিক্রি করা হয় না।","words":[{"w":"savings certificates","bn":"সঞ্চয়পত্র","pos":"noun","base":"savings certificate"},{"w":"tax identification number","bn":"করদাতা শনাক্তকরণ নম্বর","pos":"noun"}]},
+            {"id":"05","en":"The extra charges were not mentioned when Tanvir's business account was opened.","bn":"তানভীরের ব্যবসায়িক অ্যাকাউন্ট খোলার সময় বাড়তি চার্জগুলোর কথা উল্লেখ করা হয়নি।","words":[{"w":"charges","bn":"চার্জ, মাশুল","pos":"noun","base":"charge"},{"w":"mentioned","bn":"উল্লেখ করা হয়েছিল","pos":"verb","base":"mention"}]},
+            {"id":"06","en":"The fake banking website has not been shut down, despite hundreds of complaints.","bn":"শত শত অভিযোগ সত্ত্বেও ভুয়া ব্যাংকিং ওয়েবসাইটটা এখনও বন্ধ করা হয়নি।","words":[{"w":"shut down","bn":"বন্ধ করা","pos":"phrasal verb"},{"w":"despite","bn":"সত্ত্বেও","pos":"preposition"},{"w":"complaints","bn":"অভিযোগ","pos":"noun","base":"complaint"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Is/Was/Has/Will + subject + (been/be) + past participle ...?",
+          "tipBn": "প্রশ্ন করতে প্রথম সাহায্যকারী verb শুরুতে বসে, তারপর subject আর past participle।",
+          "items": [
+            {"id":"01","en":"Is an annual service charge deducted from this savings account automatically?","bn":"এই সঞ্চয়ী অ্যাকাউন্ট থেকে কি স্বয়ংক্রিয়ভাবে বার্ষিক সার্ভিস চার্জ কেটে নেওয়া হয়?","words":[{"w":"service charge","bn":"সেবা মাশুল","pos":"noun"},{"w":"deducted","bn":"কেটে নেওয়া হয়","pos":"verb","base":"deduct"},{"w":"automatically","bn":"স্বয়ংক্রিয়ভাবে","pos":"adverb"}]},
+            {"id":"02","en":"Has the payment for Tanvir's latest shipment been received from the buyer in Germany?","bn":"তানভীরের সর্বশেষ চালানের টাকা কি জার্মানির ক্রেতার কাছ থেকে পাওয়া গেছে?","words":[{"w":"shipment","bn":"চালান","pos":"noun"},{"w":"received","bn":"পাওয়া গেছে","pos":"verb","base":"receive"},{"w":"buyer","bn":"ক্রেতা","pos":"noun"}]},
+            {"id":"03","en":"Will the new income tax rates be announced in the national budget in June?","bn":"নতুন আয়করের হার কি জুনের জাতীয় বাজেটে ঘোষণা করা হবে?","words":[{"w":"announced","bn":"ঘোষণা করা হবে","pos":"verb","base":"announce"},{"w":"national budget","bn":"জাতীয় বাজেট","pos":"noun"}]},
+            {"id":"04","en":"Were the people behind the fake bank calls ever caught by the police?","bn":"ভুয়া ব্যাংক কলের পেছনের লোকগুলোকে কি পুলিশ কখনো ধরতে পেরেছিল?","words":[{"w":"behind","bn":"পেছনে থাকা","pos":"preposition"},{"w":"caught","bn":"ধরা হয়েছিল","pos":"verb","base":"catch"}]},
+            {"id":"05","en":"Has the new flat been officially registered in both Farhana's and Tanvir's names?","bn":"নতুন ফ্ল্যাটটা কি আনুষ্ঠানিকভাবে ফারহানা ও তানভীর দুজনের নামেই নিবন্ধন করা হয়েছে?","words":[{"w":"officially","bn":"আনুষ্ঠানিকভাবে","pos":"adverb"},{"w":"registered","bn":"নিবন্ধন করা হয়েছে","pos":"verb","base":"register"}]},
+            {"id":"06","en":"Are online transactions protected by two-factor authentication at your bank, or only by a password?","bn":"তোমার ব্যাংকে কি অনলাইন লেনদেন দুই ধাপের যাচাই দিয়ে সুরক্ষিত রাখা হয়, নাকি শুধু পাসওয়ার্ড দিয়ে?","words":[{"w":"transactions","bn":"লেনদেন","pos":"noun","base":"transaction"},{"w":"protected","bn":"সুরক্ষিত রাখা হয়","pos":"verb","base":"protect"},{"w":"two-factor authentication","bn":"দুই ধাপের যাচাই","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "indirect-question",
+          "pattern": "Could you tell me / Do you know whether / I was wondering if + subject + passive verb ...",
+          "tipBn": "ভদ্রভাবে জানতে চাইলে Could you tell me বা Do you know-এর পরে সাধারণ বাক্যের মতো subject আগে আর verb পরে বসে।",
+          "items": [
+            {"id":"01","en":"Could you tell me how the interest on this fixed deposit is calculated?","bn":"এই ফিক্সড ডিপোজিটের সুদ কীভাবে হিসাব করা হয়, আমাকে একটু বলবেন?","words":[{"w":"Could you tell me","bn":"আমাকে একটু বলবেন","pos":"phrase"},{"w":"calculated","bn":"হিসাব করা হয়","pos":"verb","base":"calculate"}]},
+            {"id":"02","en":"Do you know whether Tanvir's loan application has been approved yet?","bn":"আপনি কি জানেন তানভীরের ঋণের আবেদনটা এর মধ্যে অনুমোদন হয়েছে কি না?","words":[{"w":"whether","bn":"কি না","pos":"conjunction"},{"w":"loan application","bn":"ঋণের আবেদন","pos":"noun"},{"w":"approved","bn":"অনুমোদন করা হয়েছে","pos":"verb","base":"approve"}]},
+            {"id":"03","en":"I was wondering if the processing fee could be reduced for existing customers.","bn":"আমি জানতে চাইছিলাম, পুরোনো গ্রাহকদের জন্য প্রসেসিং ফি কিছুটা কমানো যায় কি না।","words":[{"w":"I was wondering if","bn":"জানতে চাইছিলাম","pos":"phrase"},{"w":"processing fee","bn":"প্রক্রিয়াকরণ ফি","pos":"noun"},{"w":"existing","bn":"বর্তমান, পুরোনো","pos":"adjective"}]},
+            {"id":"04","en":"Can you explain why my debit card was blocked while I was traveling last week?","bn":"গত সপ্তাহে আমি যখন ভ্রমণে ছিলাম, তখন আমার ডেবিট কার্ড কেন বন্ধ করে দেওয়া হয়েছিল, একটু ব্যাখ্যা করবেন?","words":[{"w":"explain","bn":"ব্যাখ্যা করা","pos":"verb"},{"w":"blocked","bn":"বন্ধ করে দেওয়া হয়েছিল","pos":"verb","base":"block"}]},
+            {"id":"05","en":"Would you mind telling me when the money will be credited to my account?","bn":"টাকাটা কবে আমার অ্যাকাউন্টে জমা হবে, দয়া করে বলবেন কি?","words":[{"w":"Would you mind","bn":"আপত্তি না থাকলে","pos":"phrase"},{"w":"credited","bn":"জমা করা হবে","pos":"verb","base":"credit"}]},
+            {"id":"06","en":"I'd like to know whether my tax return was received before the deadline.","bn":"আমি জানতে চাই, আমার কর রিটার্ন শেষ সময়ের আগে গৃহীত হয়েছিল কি না।","words":[{"w":"I'd like to know","bn":"আমি জানতে চাই","pos":"phrase"},{"w":"deadline","bn":"শেষ সময়সীমা","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A longer text mostly in the passive voice.",
+          "tipBn": "অনুচ্ছেদে বিভিন্ন কালের কর্মবাচ্য ব্যবহার হয়েছে, যেমন is reviewed, was frozen, can be prevented।",
+          "items": [
+            {"id":"01","title":"How a loan is approved","en":"At Tanvir's bank, every loan application is reviewed by two separate officers. First, the company's financial statements are checked, and its tax records are verified. Then a site visit is arranged, and the factory is inspected. If everything is found in order, the loan is approved by a committee, and the money is usually disbursed within two weeks.","bn":"তানভীরের ব্যাংকে প্রতিটা ঋণের আবেদন দুজন আলাদা কর্মকর্তা পর্যালোচনা করেন। প্রথমে কোম্পানির আর্থিক বিবরণী যাচাই করা হয় এবং করের নথিপত্র মিলিয়ে দেখা হয়। তারপর সরেজমিন পরিদর্শনের ব্যবস্থা করা হয় এবং কারখানাটি ঘুরে দেখা হয়। সবকিছু ঠিকঠাক পাওয়া গেলে একটা কমিটি ঋণ অনুমোদন করে, আর সাধারণত দুই সপ্তাহের মধ্যে টাকা ছাড় করা হয়।","words":[{"w":"reviewed","bn":"পর্যালোচনা করা হয়","pos":"verb","base":"review"},{"w":"verified","bn":"যাচাই করা হয়","pos":"verb","base":"verify"},{"w":"inspected","bn":"পরিদর্শন করা হয়","pos":"verb","base":"inspect"},{"w":"in order","bn":"ঠিকঠাক","pos":"phrase"},{"w":"committee","bn":"কমিটি","pos":"noun"},{"w":"disbursed","bn":"ছাড় করা হয়","pos":"verb","base":"disburse"}]},
+            {"id":"02","title":"After the scam","en":"After Uncle Jalal's money was stolen, the case was reported to the bank and the police. His account was frozen immediately, and a new card was issued to him a week later. Several weeks after that, part of the money was recovered. The family was told that most scams can be prevented if customers are taught basic security habits.","bn":"জালাল চাচার টাকা চুরি হওয়ার পর ঘটনাটা ব্যাংক আর পুলিশকে জানানো হয়। তাঁর অ্যাকাউন্ট সঙ্গে সঙ্গে স্থগিত করা হয়, আর এক সপ্তাহ পরে তাঁকে একটা নতুন কার্ড দেওয়া হয়। তার কয়েক সপ্তাহ পরে টাকার একটা অংশ উদ্ধার করা হয়। পরিবারকে জানানো হয় যে গ্রাহকদের নিরাপত্তার মৌলিক অভ্যাসগুলো শেখানো গেলে বেশির ভাগ প্রতারণাই ঠেকানো সম্ভব।","words":[{"w":"stolen","bn":"চুরি হয়েছিল","pos":"verb","base":"steal"},{"w":"frozen","bn":"স্থগিত করা হয়েছিল","pos":"verb","base":"freeze"},{"w":"issued","bn":"দেওয়া হয়েছিল, ইস্যু করা হয়েছিল","pos":"verb","base":"issue"},{"w":"recovered","bn":"উদ্ধার করা হয়েছিল","pos":"verb","base":"recover"},{"w":"prevented","bn":"ঠেকানো","pos":"verb","base":"prevent"}]},
+            {"id":"03","title":"Taxes in the family","en":"In Farhana's household, taxes are always taken seriously. Her income tax is deducted from her salary every month, and her return is prepared by a professional each autumn. Tanvir's business taxes are handled by a separate accountant. All their receipts are kept in labeled folders, so nothing is lost when the documents are requested by the tax office.","bn":"ফারহানার সংসারে করের বিষয়টা সবসময় গুরুত্বের সাথে দেখা হয়। প্রতি মাসে তাঁর বেতন থেকে আয়কর কেটে রাখা হয়, আর প্রতি শরতে একজন পেশাদার তাঁর রিটার্ন তৈরি করে দেন। তানভীরের ব্যবসার কর আলাদা একজন হিসাবরক্ষক সামলান। তাঁদের সব রসিদ লেবেল লাগানো ফোল্ডারে রাখা হয়, তাই কর অফিস কাগজপত্র চাইলে কিছুই হারায় না।","words":[{"w":"taken seriously","bn":"গুরুত্ব দেওয়া হয়","pos":"phrase","base":"take seriously"},{"w":"deducted","bn":"কেটে রাখা হয়","pos":"verb","base":"deduct"},{"w":"professional","bn":"পেশাদার","pos":"noun"},{"w":"handled","bn":"সামলানো হয়","pos":"verb","base":"handle"},{"w":"labeled","bn":"লেবেল লাগানো","pos":"adjective"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Reflect on past money choices with third and mixed conditionals",
+      "focusBn": "তৃতীয় ও মিশ্র শর্তবাক্য দিয়ে অতীতের আর্থিক সিদ্ধান্ত নিয়ে ভাবা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + had + past participle, would have + past participle. / If + had + past participle, would + verb (now).",
+          "tipBn": "অতীতে যা ঘটেনি তার কাল্পনিক ফল বলতে If + had + past participle আর would have বসে; ফল এখনকার হলে would + verb বসে।",
+          "items": [
+            {"id":"01","en":"If Farhana had started investing in her twenties, she would have a much bigger fund today.","bn":"ফারহানা বিশের কোঠায় বিনিয়োগ শুরু করলে আজ তাঁর তহবিল অনেক বড় হতো।","words":[{"w":"in her twenties","bn":"বিশের কোঠায়","pos":"phrase"},{"w":"fund","bn":"তহবিল","pos":"noun"}]},
+            {"id":"02","en":"If Tanvir had read the small print, he would have noticed the hidden charges.","bn":"তানভীর খুঁটিনাটি শর্তগুলো পড়লে লুকানো চার্জগুলো তাঁর চোখে পড়ত।","words":[{"w":"small print","bn":"ছোট অক্ষরের খুঁটিনাটি শর্ত","pos":"noun"},{"w":"noticed","bn":"খেয়াল করতেন","pos":"verb","base":"notice"},{"w":"hidden charges","bn":"লুকানো চার্জ","pos":"noun","base":"hidden charge"}]},
+            {"id":"03","en":"If Uncle Jalal had ignored that phone call, he would still have his savings.","bn":"জালাল চাচা সেই ফোন কলটা পাত্তা না দিলে আজও তাঁর সঞ্চয়টা থাকত।","words":[{"w":"ignored","bn":"পাত্তা না দিতেন, উপেক্ষা করতেন","pos":"verb","base":"ignore"},{"w":"savings","bn":"সঞ্চয়","pos":"noun"}]},
+            {"id":"04","en":"Tanvir would have gotten a much lower rate if he had negotiated more firmly.","bn":"তানভীর আরও দৃঢ়ভাবে দর-কষাকষি করলে অনেক কম সুদ পেতেন।","words":[{"w":"negotiated","bn":"দর-কষাকষি করতেন","pos":"verb","base":"negotiate"},{"w":"firmly","bn":"দৃঢ়ভাবে","pos":"adverb"}]},
+            {"id":"05","en":"If they had bought the flat five years earlier, they would have paid far less for it.","bn":"পাঁচ বছর আগে ফ্ল্যাটটা কিনলে তাঁদের অনেক কম টাকা দিতে হতো।","words":[{"w":"earlier","bn":"আগে","pos":"adverb"},{"w":"far less","bn":"অনেক কম","pos":"phrase"}]},
+            {"id":"06","en":"If I were better with numbers, I would have prepared my business taxes myself.","bn":"আমি হিসাবে আরও ভালো হলে ব্যবসার করের কাগজ নিজেই তৈরি করে ফেলতাম।","words":[{"w":"better with numbers","bn":"হিসাবে আরও ভালো","pos":"phrase"},{"w":"prepared","bn":"তৈরি করতাম","pos":"verb","base":"prepare"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + hadn't + past participle, wouldn't have ... (one or both parts negative).",
+          "tipBn": "তৃতীয় ও মিশ্র শর্তবাক্যের যেকোনো অংশে hadn't বা wouldn't বসিয়ে না-বোধক করা যায়।",
+          "items": [
+            {"id":"01","en":"If the bank hadn't blocked the card so quickly, Uncle Jalal would have lost even more.","bn":"ব্যাংক এত দ্রুত কার্ডটা বন্ধ না করলে জালাল চাচা আরও বেশি টাকা হারাতেন।","words":[{"w":"blocked","bn":"বন্ধ করেছিল","pos":"verb","base":"block"},{"w":"even more","bn":"আরও বেশি","pos":"phrase"}]},
+            {"id":"02","en":"Farhana wouldn't have discovered mutual funds if Daniel hadn't explained them so patiently.","bn":"ড্যানিয়েল এত ধৈর্য নিয়ে বুঝিয়ে না বললে ফারহানা মিউচুয়াল ফান্ডের খোঁজই পেতেন না।","words":[{"w":"discovered","bn":"খোঁজ পেতেন","pos":"verb","base":"discover"},{"w":"patiently","bn":"ধৈর্য নিয়ে","pos":"adverb"}]},
+            {"id":"03","en":"If inflation hadn't risen so sharply, our savings wouldn't be worth so little now.","bn":"মূল্যস্ফীতি এত তীব্রভাবে না বাড়লে আমাদের সঞ্চয়ের মূল্য এখন এত কম হতো না।","words":[{"w":"sharply","bn":"তীব্রভাবে","pos":"adverb"},{"w":"worth","bn":"মূল্যের","pos":"adjective"}]},
+            {"id":"04","en":"If Tanvir weren't so cautious, he wouldn't have rejected the first loan offer.","bn":"তানভীর এত সাবধানী না হলে প্রথম ঋণের প্রস্তাবটা ফিরিয়ে দিতেন না।","words":[{"w":"cautious","bn":"সাবধানী","pos":"adjective"},{"w":"rejected","bn":"ফিরিয়ে দিতেন","pos":"verb","base":"reject"}]},
+            {"id":"05","en":"We wouldn't be paying such high rent today if we hadn't delayed buying a home.","bn":"বাড়ি কিনতে দেরি না করলে আজ আমাদের এত বেশি ভাড়া দিতে হতো না।","words":[{"w":"such high","bn":"এত বেশি","pos":"phrase"},{"w":"delayed","bn":"দেরি করতাম","pos":"verb","base":"delay"}]},
+            {"id":"06","en":"If she hadn't kept her receipts, she couldn't have claimed the tax rebate.","bn":"তিনি রসিদগুলো না রাখলে কর রেয়াত দাবি করতে পারতেন না।","words":[{"w":"receipts","bn":"রসিদ","pos":"noun","base":"receipt"},{"w":"claimed","bn":"দাবি করতে","pos":"verb","base":"claim"},{"w":"tax rebate","bn":"কর রেয়াত","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + would + subject + have + past participle + if ...?",
+          "tipBn": "প্রশ্নশব্দের পরে would বসে, তারপর subject, have আর past participle; শর্তটা if + had দিয়ে আসে।",
+          "items": [
+            {"id":"01","en":"What would you have done if the bank had refused the expansion loan?","bn":"ব্যাংক সম্প্রসারণের ঋণ দিতে অস্বীকার করলে তুমি কী করতে?","words":[{"w":"refused","bn":"অস্বীকার করত","pos":"verb","base":"refuse"},{"w":"expansion","bn":"সম্প্রসারণ","pos":"noun"}]},
+            {"id":"02","en":"How much would we have today if we had invested that money ten years ago?","bn":"দশ বছর আগে ওই টাকাটা বিনিয়োগ করলে আজ আমাদের কাছে কত টাকা থাকত?","words":[{"w":"invested","bn":"বিনিয়োগ করতাম","pos":"verb","base":"invest"},{"w":"ago","bn":"আগে","pos":"adverb"}]},
+            {"id":"03","en":"Where would you be living now if you hadn't bought the flat in Mirpur?","bn":"মিরপুরের ফ্ল্যাটটা না কিনলে তুমি এখন কোথায় থাকতে?","words":[{"w":"be living","bn":"থাকতে","pos":"phrase","base":"live"},{"w":"bought","bn":"কিনতে","pos":"verb","base":"buy"}]},
+            {"id":"04","en":"How could the scam have been stopped if someone had noticed it earlier?","bn":"কেউ আগে খেয়াল করলে প্রতারণাটা কীভাবে ঠেকানো যেত?","words":[{"w":"scam","bn":"প্রতারণা","pos":"noun"},{"w":"stopped","bn":"ঠেকানো","pos":"verb","base":"stop"}]},
+            {"id":"05","en":"Which option would you have chosen if you had fully understood the risks?","bn":"ঝুঁকিগুলো পুরোপুরি বুঝতে পারলে তুমি কোন বিকল্পটা বেছে নিতে?","words":[{"w":"option","bn":"বিকল্প","pos":"noun"},{"w":"risks","bn":"ঝুঁকি","pos":"noun","base":"risk"}]},
+            {"id":"06","en":"Who would have kept the factory running if the loan hadn't been approved?","bn":"ঋণ অনুমোদন না হলে কারখানা চালু রাখত কে?","words":[{"w":"kept","bn":"চালু রাখত","pos":"verb","base":"keep"},{"w":"approved","bn":"অনুমোদিত","pos":"verb","base":"approve"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A longer text with third and mixed conditionals.",
+          "tipBn": "অনুচ্ছেদে অতীতের কাল্পনিক শর্ত আর তার অতীত বা বর্তমান ফল দেখানো হয়েছে।",
+          "items": [
+            {"id":"01","title":"A missed chance","en":"Farhana often thinks about a decision she made ten years ago. A colleague had suggested that she invest in a promising technology company. She refused because she was afraid of risk. If she had followed his advice, her small investment would be worth ten times more today. Still, she has learned that fear can be expensive.","bn":"দশ বছর আগে নেওয়া একটা সিদ্ধান্তের কথা ফারহানা প্রায়ই ভাবেন। একজন সহকর্মী তাঁকে একটা সম্ভাবনাময় প্রযুক্তি কোম্পানিতে বিনিয়োগ করার পরামর্শ দিয়েছিলেন। ঝুঁকির ভয়ে তিনি রাজি হননি। তাঁর পরামর্শ মানলে সেই ছোট বিনিয়োগের মূল্য আজ দশ গুণ বেশি হতো। তবুও তিনি শিখেছেন যে ভয়েরও দাম দিতে হয়।","words":[{"w":"colleague","bn":"সহকর্মী","pos":"noun"},{"w":"promising","bn":"সম্ভাবনাময়","pos":"adjective"},{"w":"followed his advice","bn":"তাঁর পরামর্শ মানতেন","pos":"phrase","base":"follow advice"},{"w":"worth","bn":"মূল্যের","pos":"adjective"}]},
+            {"id":"02","title":"Negotiating the loan","en":"Tanvir's first meeting with the bank went very badly. If he had prepared better, he would have known the market rate and argued for a lower one. Instead, he simply accepted the first offer and later regretted it. If Daniel hadn't coached him before the second meeting, he would still be paying that high rate today.","bn":"ব্যাংকের সাথে তানভীরের প্রথম মিটিংটা একদমই ভালো যায়নি। আরও ভালো প্রস্তুতি নিলে তিনি বাজারের সুদের হার জানতেন এবং যুক্তি দিয়ে কম হার চাইতেন। তার বদলে তিনি কোনো আপত্তি ছাড়াই প্রথম প্রস্তাবটা মেনে নিয়েছিলেন, আর পরে আফসোস করেছিলেন। দ্বিতীয় মিটিংয়ের আগে ড্যানিয়েল তাঁকে তালিম না দিলে আজও তাঁকে সেই চড়া সুদ গুনতে হতো।","words":[{"w":"market rate","bn":"বাজারের হার","pos":"noun"},{"w":"argued for","bn":"যুক্তি দিয়ে চাইতেন","pos":"phrasal verb","base":"argue for"},{"w":"regretted","bn":"আফসোস করেছিলেন","pos":"verb","base":"regret"},{"w":"coached","bn":"তালিম দিয়েছিলেন","pos":"verb","base":"coach"}]},
+            {"id":"03","title":"What saved the family","en":"When Tanvir's biggest client went bankrupt last year, the family survived thanks to their emergency fund. If Farhana hadn't insisted on saving six months of expenses, they would have had to sell the flat. Tanvir admits that he would have spent that money on the business if she hadn't stopped him. Today they would never consider living without a safety net.","bn":"গত বছর তানভীরের সবচেয়ে বড় ক্রেতা দেউলিয়া হয়ে গেলে জরুরি তহবিলের কারণেই পরিবারটি টিকে যায়। ফারহানা ছয় মাসের খরচ জমিয়ে রাখার ব্যাপারে জোর না দিলে তাঁদের ফ্ল্যাটটা বিক্রি করে দিতে হতো। তানভীর স্বীকার করেন যে ফারহানা না থামালে তিনি ওই টাকা ব্যবসায় খরচ করে ফেলতেন। আজ তাঁরা আর্থিক নিরাপত্তার কোনো ব্যবস্থা ছাড়া চলার কথা কল্পনাও করেন না।","words":[{"w":"bankrupt","bn":"দেউলিয়া","pos":"adjective"},{"w":"survived","bn":"টিকে গেল","pos":"verb","base":"survive"},{"w":"emergency fund","bn":"জরুরি তহবিল","pos":"noun"},{"w":"insisted on","bn":"জোর দিয়েছিলেন","pos":"phrasal verb","base":"insist on"},{"w":"safety net","bn":"নিরাপত্তা বলয়","pos":"idiom"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}
