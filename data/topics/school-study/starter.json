@@ -1,0 +1,247 @@
+{
+  "topic": "school-study",
+  "level": "starter",
+  "title": "Tanha's School Days",
+  "story": "Tanha is nine years old and studies in Class 4 at Green Field School in Mirpur, Dhaka. Her best friend Joya sits next to her, and her favorite teacher is Mr. Karim, who teaches math. At home, her older brother Sakib helps her with homework.",
+  "storyBn": "তানহার বয়স নয় বছর। সে ঢাকার মিরপুরে গ্রিন ফিল্ড স্কুলে ৪র্থ শ্রেণিতে পড়ে। তার প্রিয় বান্ধবী জয়া তার পাশে বসে, আর তার প্রিয় শিক্ষক করিম স্যার, যিনি গণিত পড়ান। বাসায় বড় ভাই সাকিব তাকে বাড়ির কাজে সাহায্য করে।",
+  "units": [
+    {
+      "grammar": "present-simple",
+      "focus": "Talk about school every day",
+      "focusBn": "প্রতিদিনের স্কুল জীবন নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + is/am/are + ... / Subject + verb(s) + ...",
+          "tipBn": "রোজকার কাজ বলতে present simple হয়; he, she বা নামের পরে verb-এর সাথে s যোগ হয়।",
+          "items": [
+            {"id":"01","en":"Tanha is a student.","bn":"তানহা একজন ছাত্রী।","words":[{"w":"student","bn":"ছাত্র, ছাত্রী","pos":"noun"}]},
+            {"id":"02","en":"She is in Class 4.","bn":"সে ৪র্থ শ্রেণিতে পড়ে।","words":[{"w":"Class","bn":"শ্রেণি, ক্লাস","pos":"noun"}]},
+            {"id":"03","en":"School starts at 8 o'clock.","bn":"স্কুল ৮টায় শুরু হয়।","words":[{"w":"starts","bn":"শুরু হয়","pos":"verb","base":"start"}]},
+            {"id":"04","en":"Mr. Karim teaches math.","bn":"করিম স্যার গণিত পড়ান।","words":[{"w":"teaches","bn":"পড়ান","pos":"verb","base":"teach"},{"w":"math","bn":"গণিত, অঙ্ক","pos":"noun"}]},
+            {"id":"05","en":"Tanha carries a heavy school bag.","bn":"তানহা একটা ভারী স্কুলব্যাগ বয়ে নিয়ে যায়।","words":[{"w":"carries","bn":"বয়ে নেয়","pos":"verb","base":"carry"},{"w":"heavy","bn":"ভারী","pos":"adjective"}]},
+            {"id":"06","en":"Joya sits next to Tanha.","bn":"জয়া তানহার পাশে বসে।","words":[{"w":"sits","bn":"বসে","pos":"verb","base":"sit"},{"w":"next to","bn":"পাশে","pos":"preposition"}]},
+            {"id":"07","en":"They have English on Monday.","bn":"সোমবারে তাদের ইংরেজি ক্লাস থাকে।","words":[{"w":"English","bn":"ইংরেজি","pos":"noun"},{"w":"Monday","bn":"সোমবার","pos":"noun"}]},
+            {"id":"08","en":"Sakib helps Tanha with her homework.","bn":"সাকিব তানহাকে তার বাড়ির কাজে সাহায্য করে।","words":[{"w":"helps","bn":"সাহায্য করে","pos":"verb","base":"help"},{"w":"homework","bn":"বাড়ির কাজ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + is not + ... / Subject + don't/doesn't + verb + ...",
+          "tipBn": "is/am/are এর পরে not বসে; অন্য verb-এর আগে don't বা doesn't বসে।",
+          "items": [
+            {"id":"01","en":"Tanha is not late for school.","bn":"তানহা স্কুলে দেরি করে না।","words":[{"w":"late","bn":"দেরি","pos":"adjective"}]},
+            {"id":"02","en":"School doesn't start at 9 o'clock.","bn":"স্কুল ৯টায় শুরু হয় না।","words":[{"w":"doesn't start","bn":"শুরু হয় না","pos":"phrase"}]},
+            {"id":"03","en":"Mr. Karim doesn't teach English.","bn":"করিম স্যার ইংরেজি পড়ান না।","words":[{"w":"teach","bn":"পড়ানো","pos":"verb"}]},
+            {"id":"04","en":"Joya doesn't sit at the back.","bn":"জয়া পেছনে বসে না।","words":[{"w":"at the back","bn":"পেছনে","pos":"phrase"}]},
+            {"id":"05","en":"We don't have classes on Friday.","bn":"শুক্রবারে আমাদের ক্লাস হয় না।","words":[{"w":"classes","bn":"ক্লাস","pos":"noun","base":"class"},{"w":"Friday","bn":"শুক্রবার","pos":"noun"}]},
+            {"id":"06","en":"Tanha never forgets her pencil box.","bn":"তানহা কখনো তার পেনসিল বক্স ভোলে না।","words":[{"w":"forgets","bn":"ভুলে যায়","pos":"verb","base":"forget"},{"w":"pencil box","bn":"পেনসিল বক্স","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Is/Are + subject + ...? / Do/Does + subject + verb + ...?",
+          "tipBn": "প্রশ্ন করতে Is/Are অথবা Do/Does বাক্যের শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Is Tanha in Class 4?","bn":"তানহা কি ৪র্থ শ্রেণিতে পড়ে?","words":[{"w":"Class","bn":"শ্রেণি, ক্লাস","pos":"noun"}]},
+            {"id":"02","en":"Does school start at 8 o'clock?","bn":"স্কুল কি ৮টায় শুরু হয়?","words":[{"w":"start","bn":"শুরু হওয়া","pos":"verb"}]},
+            {"id":"03","en":"Does Mr. Karim teach math?","bn":"করিম স্যার কি গণিত পড়ান?","words":[{"w":"math","bn":"গণিত, অঙ্ক","pos":"noun"}]},
+            {"id":"04","en":"Is the school bag heavy?","bn":"স্কুলব্যাগটা কি ভারী?","words":[{"w":"heavy","bn":"ভারী","pos":"adjective"}]},
+            {"id":"05","en":"Do you like your teacher?","bn":"তুমি কি তোমার শিক্ষককে পছন্দ করো?","words":[{"w":"teacher","bn":"শিক্ষক","pos":"noun"}]},
+            {"id":"06","en":"Do they wear a school uniform?","bn":"তারা কি স্কুল ইউনিফর্ম পরে?","words":[{"w":"wear","bn":"পরা","pos":"verb"},{"w":"school uniform","bn":"স্কুলের পোশাক","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + is/do/does + subject + ...?",
+          "tipBn": "What, Who, Where ইত্যাদি প্রশ্নশব্দ শুরুতে বসে, তারপর is বা do/does।",
+          "items": [
+            {"id":"01","en":"What time does school start?","bn":"স্কুল কয়টায় শুরু হয়?","words":[{"w":"What time","bn":"কয়টায়","pos":"phrase"}]},
+            {"id":"02","en":"Who teaches math?","bn":"গণিত কে পড়ান?","words":[{"w":"teaches","bn":"পড়ান","pos":"verb","base":"teach"}]},
+            {"id":"03","en":"Where does Joya sit?","bn":"জয়া কোথায় বসে?","words":[{"w":"sit","bn":"বসা","pos":"verb"}]},
+            {"id":"04","en":"What is your favorite subject?","bn":"তোমার প্রিয় বিষয় কোনটা?","words":[{"w":"favorite","bn":"প্রিয়","pos":"adjective"},{"w":"subject","bn":"বিষয়","pos":"noun"}]},
+            {"id":"05","en":"How many books do you have?","bn":"তোমার কয়টা বই আছে?","words":[{"w":"How many","bn":"কয়টা, কতগুলো","pos":"phrase"}]},
+            {"id":"06","en":"When do you do your homework?","bn":"তুমি কখন বাড়ির কাজ করো?","words":[{"w":"homework","bn":"বাড়ির কাজ","pos":"noun"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "present-continuous",
+      "focus": "Describe what is happening in class now",
+      "focusBn": "এখন ক্লাসে কী হচ্ছে তা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + verb-ing + ...",
+          "tipBn": "এখন ঘটছে এমন কাজ বলতে am/is/are এর পরে verb-এর সাথে ing যোগ হয়।",
+          "items": [
+            {"id":"01","en":"Tanha is sitting in the classroom.","bn":"তানহা ক্লাসরুমে বসে আছে।","words":[{"w":"classroom","bn":"শ্রেণিকক্ষ, ক্লাসরুম","pos":"noun"}]},
+            {"id":"02","en":"Mr. Karim is writing on the board.","bn":"করিম স্যার বোর্ডে লিখছেন।","words":[{"w":"writing","bn":"লিখছেন","pos":"verb","base":"write"},{"w":"board","bn":"বোর্ড","pos":"noun"}]},
+            {"id":"03","en":"The students are copying the sums.","bn":"ছাত্রছাত্রীরা অঙ্কগুলো খাতায় তুলছে।","words":[{"w":"copying","bn":"লিখে নিচ্ছে","pos":"verb","base":"copy"},{"w":"sums","bn":"অঙ্ক","pos":"noun","base":"sum"}]},
+            {"id":"04","en":"Joya is sharpening her pencil.","bn":"জয়া তার পেনসিল কাটছে।","words":[{"w":"sharpening","bn":"কাটছে, ধার দিচ্ছে","pos":"verb","base":"sharpen"}]},
+            {"id":"05","en":"Tanha is reading her English book.","bn":"তানহা তার ইংরেজি বই পড়ছে।","words":[{"w":"reading","bn":"পড়ছে","pos":"verb","base":"read"}]},
+            {"id":"06","en":"Two boys are talking at the back.","bn":"দুটো ছেলে পেছনে কথা বলছে।","words":[{"w":"talking","bn":"কথা বলছে","pos":"verb","base":"talk"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + verb-ing + ...",
+          "tipBn": "am/is/are এর পরে not বসিয়ে চলমান কাজকে না-বোধক করা হয়।",
+          "items": [
+            {"id":"01","en":"Tanha is not sleeping in class.","bn":"তানহা ক্লাসে ঘুমাচ্ছে না।","words":[{"w":"sleeping","bn":"ঘুমাচ্ছে","pos":"verb","base":"sleep"}]},
+            {"id":"02","en":"Mr. Karim isn't sitting at his desk.","bn":"করিম স্যার তাঁর টেবিলে বসে নেই।","words":[{"w":"desk","bn":"পড়ার টেবিল","pos":"noun"}]},
+            {"id":"03","en":"The students aren't copying the sums.","bn":"ছাত্রছাত্রীরা অঙ্কগুলো খাতায় তুলছে না।","words":[{"w":"copying","bn":"লিখে নিচ্ছে","pos":"verb","base":"copy"}]},
+            {"id":"04","en":"Joya isn't using a pen.","bn":"জয়া কলম ব্যবহার করছে না।","words":[{"w":"using","bn":"ব্যবহার করছে","pos":"verb","base":"use"}]},
+            {"id":"05","en":"Tanha isn't reading her Bangla book.","bn":"তানহা তার বাংলা বই পড়ছে না।","words":[{"w":"reading","bn":"পড়ছে","pos":"verb","base":"read"}]},
+            {"id":"06","en":"Nobody is eating in the classroom.","bn":"ক্লাসরুমে কেউ খাচ্ছে না।","words":[{"w":"Nobody","bn":"কেউ না","pos":"pronoun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + verb-ing + ...?",
+          "tipBn": "প্রশ্ন করতে am/is/are বাক্যের শুরুতে চলে আসে।",
+          "items": [
+            {"id":"01","en":"Is Tanha sitting in the front row?","bn":"তানহা কি সামনের সারিতে বসে আছে?","words":[{"w":"front row","bn":"সামনের সারি","pos":"noun"}]},
+            {"id":"02","en":"Is Mr. Karim writing on the board?","bn":"করিম স্যার কি বোর্ডে লিখছেন?","words":[{"w":"board","bn":"বোর্ড","pos":"noun"}]},
+            {"id":"03","en":"Are the students copying the sums?","bn":"ছাত্রছাত্রীরা কি অঙ্কগুলো খাতায় তুলছে?","words":[{"w":"sums","bn":"অঙ্ক","pos":"noun","base":"sum"}]},
+            {"id":"04","en":"Is Joya sharpening her pencil?","bn":"জয়া কি তার পেনসিল কাটছে?","words":[{"w":"sharpening","bn":"কাটছে, ধার দিচ্ছে","pos":"verb","base":"sharpen"}]},
+            {"id":"05","en":"Are the boys listening to the teacher?","bn":"ছেলেরা কি শিক্ষকের কথা শুনছে?","words":[{"w":"listening to","bn":"শুনছে","pos":"phrasal verb","base":"listen to"}]},
+            {"id":"06","en":"Are you doing your homework now?","bn":"তুমি কি এখন বাড়ির কাজ করছ?","words":[{"w":"homework","bn":"বাড়ির কাজ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + verb-ing?",
+          "tipBn": "প্রশ্নশব্দ শুরুতে বসে, তারপর am/is/are এবং verb-ing।",
+          "items": [
+            {"id":"01","en":"What is Mr. Karim writing?","bn":"করিম স্যার কী লিখছেন?","words":[{"w":"writing","bn":"লিখছেন","pos":"verb","base":"write"}]},
+            {"id":"02","en":"Why are the boys talking?","bn":"ছেলেরা কেন কথা বলছে?","words":[{"w":"talking","bn":"কথা বলছে","pos":"verb","base":"talk"}]},
+            {"id":"03","en":"Which book is Tanha reading?","bn":"তানহা কোন বইটা পড়ছে?","words":[{"w":"Which","bn":"কোন","pos":"pronoun"}]},
+            {"id":"04","en":"Where is Joya sitting today?","bn":"জয়া আজ কোথায় বসে আছে?","words":[{"w":"sitting","bn":"বসে আছে","pos":"verb","base":"sit"}]},
+            {"id":"05","en":"Who is knocking on the door?","bn":"দরজায় কে টোকা দিচ্ছে?","words":[{"w":"knocking on","bn":"টোকা দিচ্ছে","pos":"phrasal verb","base":"knock on"}]},
+            {"id":"06","en":"What are the students drawing?","bn":"ছাত্রছাত্রীরা কী আঁকছে?","words":[{"w":"drawing","bn":"আঁকছে","pos":"verb","base":"draw"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-simple",
+      "focus": "Talk about yesterday's math test",
+      "focusBn": "গতকালের গণিত পরীক্ষা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb (past) + ... / Subject + was/were + ...",
+          "tipBn": "অতীতের কাজ বলতে verb-এর past রূপ বসে, যেমন studied, got, gave।",
+          "items": [
+            {"id":"01","en":"Tanha had a math test yesterday.","bn":"গতকাল তানহার গণিত পরীক্ষা ছিল।","words":[{"w":"test","bn":"পরীক্ষা","pos":"noun"}]},
+            {"id":"02","en":"She studied hard last night.","bn":"সে গত রাতে খুব মন দিয়ে পড়েছিল।","words":[{"w":"studied","bn":"পড়েছিল","pos":"verb","base":"study"},{"w":"hard","bn":"মন দিয়ে, কঠোরভাবে","pos":"adverb"}]},
+            {"id":"03","en":"Sakib checked her answers.","bn":"সাকিব তার উত্তরগুলো মিলিয়ে দেখেছিল।","words":[{"w":"checked","bn":"মিলিয়ে দেখেছিল","pos":"verb","base":"check"},{"w":"answers","bn":"উত্তর","pos":"noun","base":"answer"}]},
+            {"id":"04","en":"The test was easy.","bn":"পরীক্ষাটা সহজ ছিল।","words":[{"w":"easy","bn":"সহজ","pos":"adjective"}]},
+            {"id":"05","en":"Tanha got 18 out of 20.","bn":"তানহা ২০-এর মধ্যে ১৮ পেয়েছিল।","words":[{"w":"got","bn":"পেয়েছিল","pos":"verb","base":"get"},{"w":"out of","bn":"এর মধ্যে","pos":"phrase"}]},
+            {"id":"06","en":"Mr. Karim gave her a star.","bn":"করিম স্যার তাকে একটা স্টার দিয়েছিলেন।","words":[{"w":"gave","bn":"দিয়েছিলেন","pos":"verb","base":"give"},{"w":"star","bn":"তারকা চিহ্ন","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + didn't + verb (base) + ... / was/were + not",
+          "tipBn": "অতীতে না-বোধক করতে didn't বসে এবং verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Tanha didn't sleep early last night.","bn":"তানহা গত রাতে তাড়াতাড়ি ঘুমায়নি।","words":[{"w":"early","bn":"তাড়াতাড়ি","pos":"adverb"}]},
+            {"id":"02","en":"The test wasn't difficult.","bn":"পরীক্ষাটা কঠিন ছিল না।","words":[{"w":"difficult","bn":"কঠিন","pos":"adjective"}]},
+            {"id":"03","en":"She didn't make many mistakes.","bn":"সে বেশি ভুল করেনি।","words":[{"w":"mistakes","bn":"ভুল","pos":"noun","base":"mistake"}]},
+            {"id":"04","en":"Joya didn't bring her ruler.","bn":"জয়া তার স্কেল আনেনি।","words":[{"w":"bring","bn":"আনা","pos":"verb"},{"w":"ruler","bn":"স্কেল, রুলার","pos":"noun"}]},
+            {"id":"05","en":"Sakib didn't check her answers.","bn":"সাকিব তার উত্তরগুলো মিলিয়ে দেখেনি।","words":[{"w":"check","bn":"মিলিয়ে দেখা","pos":"verb"}]},
+            {"id":"06","en":"Nobody failed the test.","bn":"কেউ পরীক্ষায় ফেল করেনি।","words":[{"w":"failed","bn":"ফেল করেছিল","pos":"verb","base":"fail"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Did + subject + verb (base) + ...? / Was/Were + subject + ...?",
+          "tipBn": "অতীতের প্রশ্নে Did শুরুতে বসে এবং verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Did Tanha have a test yesterday?","bn":"গতকাল কি তানহার পরীক্ষা ছিল?","words":[{"w":"test","bn":"পরীক্ষা","pos":"noun"}]},
+            {"id":"02","en":"Did she study hard last night?","bn":"সে কি গত রাতে মন দিয়ে পড়েছিল?","words":[{"w":"study","bn":"পড়াশোনা করা","pos":"verb"}]},
+            {"id":"03","en":"Was the test easy?","bn":"পরীক্ষাটা কি সহজ ছিল?","words":[{"w":"easy","bn":"সহজ","pos":"adjective"}]},
+            {"id":"04","en":"Did Tanha get full marks?","bn":"তানহা কি পুরো নম্বর পেয়েছিল?","words":[{"w":"full marks","bn":"পূর্ণ নম্বর","pos":"phrase"}]},
+            {"id":"05","en":"Did Mr. Karim give her a star?","bn":"করিম স্যার কি তাকে একটা স্টার দিয়েছিলেন?","words":[{"w":"star","bn":"তারকা চিহ্ন","pos":"noun"}]},
+            {"id":"06","en":"Were the students nervous?","bn":"ছাত্রছাত্রীরা কি ভয় পাচ্ছিল?","words":[{"w":"nervous","bn":"ভীত, উদ্বিগ্ন","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + did + subject + verb (base)?",
+          "tipBn": "প্রশ্নশব্দের পরে did বসে এবং verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"When did Tanha have the test?","bn":"তানহার পরীক্ষা কবে ছিল?","words":[{"w":"test","bn":"পরীক্ষা","pos":"noun"}]},
+            {"id":"02","en":"How many marks did she get?","bn":"সে কত নম্বর পেয়েছিল?","words":[{"w":"marks","bn":"নম্বর","pos":"noun","base":"mark"}]},
+            {"id":"03","en":"Who checked her answers?","bn":"কে তার উত্তরগুলো মিলিয়ে দেখেছিল?","words":[{"w":"checked","bn":"মিলিয়ে দেখেছিল","pos":"verb","base":"check"},{"w":"answers","bn":"উত্তর","pos":"noun","base":"answer"}]},
+            {"id":"04","en":"Why was Tanha so happy?","bn":"তানহা এত খুশি ছিল কেন?","words":[{"w":"happy","bn":"খুশি","pos":"adjective"}]},
+            {"id":"05","en":"What did Mr. Karim give her?","bn":"করিম স্যার তাকে কী দিয়েছিলেন?","words":[{"w":"give","bn":"দেওয়া","pos":"verb"}]},
+            {"id":"06","en":"How long was the test?","bn":"পরীক্ষাটা কতক্ষণের ছিল?","words":[{"w":"How long","bn":"কতক্ষণ","pos":"phrase"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "future-will",
+      "focus": "Talk about the final exam next week",
+      "focusBn": "আগামী সপ্তাহের বার্ষিক পরীক্ষা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + will + verb (base) + ...",
+          "tipBn": "ভবিষ্যতের কথা, প্রতিজ্ঞা বা অনুমান বলতে will এর পরে verb মূল রূপে বসে।",
+          "items": [
+            {"id":"01","en":"The final exam will start next week.","bn":"বার্ষিক পরীক্ষা আগামী সপ্তাহে শুরু হবে।","words":[{"w":"final exam","bn":"বার্ষিক পরীক্ষা","pos":"noun"}]},
+            {"id":"02","en":"Tanha will study every evening.","bn":"তানহা প্রতিদিন সন্ধ্যায় পড়বে।","words":[{"w":"evening","bn":"সন্ধ্যা","pos":"noun"}]},
+            {"id":"03","en":"I will help you with science.","bn":"আমি তোমাকে বিজ্ঞানে সাহায্য করব।","words":[{"w":"science","bn":"বিজ্ঞান","pos":"noun"}]},
+            {"id":"04","en":"Mr. Karim will give a practice test.","bn":"করিম স্যার একটা অনুশীলনী পরীক্ষা নেবেন।","words":[{"w":"practice test","bn":"অনুশীলনী পরীক্ষা","pos":"noun"}]},
+            {"id":"05","en":"Joya will lend Tanha her notes.","bn":"জয়া তানহাকে তার নোট ধার দেবে।","words":[{"w":"lend","bn":"ধার দেওয়া","pos":"verb"},{"w":"notes","bn":"নোট","pos":"noun","base":"note"}]},
+            {"id":"06","en":"Tanha will do well.","bn":"তানহা ভালো করবে।","words":[{"w":"do well","bn":"ভালো করা","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + will not (won't) + verb (base) + ...",
+          "tipBn": "will এর পরে not বসে, ছোট করে won't বলা হয়।",
+          "items": [
+            {"id":"01","en":"Tanha won't watch TV this week.","bn":"তানহা এই সপ্তাহে টিভি দেখবে না।","words":[{"w":"won't","bn":"করবে না","pos":"verb"}]},
+            {"id":"02","en":"The exam won't be very hard.","bn":"পরীক্ষা খুব কঠিন হবে না।","words":[{"w":"hard","bn":"কঠিন","pos":"adjective"}]},
+            {"id":"03","en":"Mr. Karim won't give homework on Thursday.","bn":"করিম স্যার বৃহস্পতিবার বাড়ির কাজ দেবেন না।","words":[{"w":"Thursday","bn":"বৃহস্পতিবার","pos":"noun"}]},
+            {"id":"04","en":"Joya won't forget her notes.","bn":"জয়া তার নোট ভুলবে না।","words":[{"w":"forget","bn":"ভুলে যাওয়া","pos":"verb"},{"w":"notes","bn":"নোট","pos":"noun","base":"note"}]},
+            {"id":"05","en":"I won't play games tonight.","bn":"আমি আজ রাতে গেম খেলব না।","words":[{"w":"games","bn":"খেলা, গেম","pos":"noun","base":"game"},{"w":"tonight","bn":"আজ রাতে","pos":"adverb"}]},
+            {"id":"06","en":"Tanha won't be late for the exam.","bn":"তানহা পরীক্ষায় দেরি করবে না।","words":[{"w":"late","bn":"দেরি","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Will + subject + verb (base) + ...?",
+          "tipBn": "প্রশ্ন করতে Will বাক্যের শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Will the exam start next week?","bn":"পরীক্ষা কি আগামী সপ্তাহে শুরু হবে?","words":[{"w":"exam","bn":"পরীক্ষা","pos":"noun"}]},
+            {"id":"02","en":"Will Tanha study every evening?","bn":"তানহা কি প্রতিদিন সন্ধ্যায় পড়বে?","words":[{"w":"evening","bn":"সন্ধ্যা","pos":"noun"}]},
+            {"id":"03","en":"Will you help me with science?","bn":"তুমি কি আমাকে বিজ্ঞানে সাহায্য করবে?","words":[{"w":"science","bn":"বিজ্ঞান","pos":"noun"}]},
+            {"id":"04","en":"Will Mr. Karim give a practice test?","bn":"করিম স্যার কি একটা অনুশীলনী পরীক্ষা নেবেন?","words":[{"w":"practice test","bn":"অনুশীলনী পরীক্ষা","pos":"noun"}]},
+            {"id":"05","en":"Will the questions be difficult?","bn":"প্রশ্নগুলো কি কঠিন হবে?","words":[{"w":"questions","bn":"প্রশ্ন","pos":"noun","base":"question"},{"w":"difficult","bn":"কঠিন","pos":"adjective"}]},
+            {"id":"06","en":"Will we get our results in January?","bn":"আমরা কি জানুয়ারিতে ফলাফল পাব?","words":[{"w":"results","bn":"ফলাফল","pos":"noun","base":"result"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + will + subject + verb (base)?",
+          "tipBn": "প্রশ্নশব্দের পরে will বসে, তারপর subject এবং verb-এর মূল রূপ।",
+          "items": [
+            {"id":"01","en":"When will the exam start?","bn":"পরীক্ষা কবে শুরু হবে?","words":[{"w":"exam","bn":"পরীক্ষা","pos":"noun"}]},
+            {"id":"02","en":"What will Tanha study tonight?","bn":"তানহা আজ রাতে কী পড়বে?","words":[{"w":"tonight","bn":"আজ রাতে","pos":"adverb"}]},
+            {"id":"03","en":"Who will help her with science?","bn":"কে তাকে বিজ্ঞানে সাহায্য করবে?","words":[{"w":"science","bn":"বিজ্ঞান","pos":"noun"}]},
+            {"id":"04","en":"How will you get to school?","bn":"তুমি কীভাবে স্কুলে যাবে?","words":[{"w":"get to","bn":"পৌঁছানো","pos":"phrasal verb"}]},
+            {"id":"05","en":"Which room will the exam be in?","bn":"পরীক্ষা কোন রুমে হবে?","words":[{"w":"Which","bn":"কোন","pos":"pronoun"},{"w":"room","bn":"কক্ষ, রুম","pos":"noun"}]},
+            {"id":"06","en":"What will you do after the exam?","bn":"পরীক্ষার পরে তুমি কী করবে?","words":[{"w":"after","bn":"পরে","pos":"preposition"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

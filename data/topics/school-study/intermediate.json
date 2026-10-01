@@ -1,0 +1,272 @@
+{
+  "topic": "school-study",
+  "level": "intermediate",
+  "title": "Ayesha's Admission Year",
+  "story": "Ayesha has just finished her HSC exams in Rajshahi and has moved to Dhaka to prepare for university admission tests. She stays with her cousin Tanvir, a Dhaka University student, and studies at a coaching center in Farmgate with her friend Lamia. Online classes, mock tests and scholarship dreams fill her days.",
+  "storyBn": "আয়েশা সবে রাজশাহীতে এইচএসসি পরীক্ষা শেষ করেছে এবং বিশ্ববিদ্যালয়ের ভর্তি পরীক্ষার প্রস্তুতি নিতে ঢাকায় চলে এসেছে। সে তার কাজিন তানভীরের সাথে থাকে, যে ঢাকা বিশ্ববিদ্যালয়ের ছাত্র, আর বান্ধবী লামিয়ার সাথে ফার্মগেটের একটা কোচিং সেন্টারে পড়ে। অনলাইন ক্লাস, মডেল টেস্ট আর বৃত্তির স্বপ্নে তার দিন কাটে।",
+  "units": [
+    {
+      "grammar": "present-perfect",
+      "focus": "Talk about Ayesha's preparation so far",
+      "focusBn": "এ পর্যন্ত আয়েশার প্রস্তুতি নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + has/have + past participle (+ just/already/since/for).",
+          "tipBn": "অতীতে শুরু হয়ে এখন পর্যন্ত যার ফল আছে, তা বলতে has/have + past participle হয়।",
+          "items": [
+            {"id":"01","en":"Ayesha has just finished her HSC exams in Rajshahi.","bn":"আয়েশা সবে রাজশাহীতে তার এইচএসসি পরীক্ষা শেষ করেছে।","words":[{"w":"just","bn":"সবেমাত্র","pos":"adverb"},{"w":"finished","bn":"শেষ করেছে","pos":"verb","base":"finish"}]},
+            {"id":"02","en":"She has moved to Dhaka to prepare for university admission.","bn":"বিশ্ববিদ্যালয়ে ভর্তির প্রস্তুতি নিতে সে ঢাকায় চলে এসেছে।","words":[{"w":"moved","bn":"চলে এসেছে","pos":"verb","base":"move"},{"w":"prepare for","bn":"প্রস্তুতি নেওয়া","pos":"phrasal verb"},{"w":"admission","bn":"ভর্তি","pos":"noun"}]},
+            {"id":"03","en":"Ayesha has joined an admission coaching center in Farmgate.","bn":"আয়েশা ফার্মগেটের একটা ভর্তি কোচিং সেন্টারে ভর্তি হয়েছে।","words":[{"w":"joined","bn":"ভর্তি হয়েছে, যোগ দিয়েছে","pos":"verb","base":"join"},{"w":"coaching center","bn":"কোচিং সেন্টার","pos":"noun"}]},
+            {"id":"04","en":"She has already solved three years of old question papers.","bn":"সে ইতিমধ্যে তিন বছরের পুরোনো প্রশ্নপত্র সমাধান করে ফেলেছে।","words":[{"w":"already","bn":"ইতিমধ্যে","pos":"adverb"},{"w":"solved","bn":"সমাধান করেছে","pos":"verb","base":"solve"},{"w":"question papers","bn":"প্রশ্নপত্র","pos":"noun","base":"question paper"}]},
+            {"id":"05","en":"Tanvir has lent her all his old notes and guidebooks.","bn":"তানভীর তাকে তার সব পুরোনো নোট আর গাইড বই ধার দিয়েছে।","words":[{"w":"lent","bn":"ধার দিয়েছে","pos":"verb","base":"lend"},{"w":"guidebooks","bn":"গাইড বই","pos":"noun","base":"guidebook"}]},
+            {"id":"06","en":"Lamia and Ayesha have studied together since January.","bn":"লামিয়া আর আয়েশা জানুয়ারি থেকে একসাথে পড়াশোনা করছে।","words":[{"w":"together","bn":"একসাথে","pos":"adverb"},{"w":"since","bn":"থেকে","pos":"preposition"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hasn't/haven't + past participle (+ yet). / has never + past participle",
+          "tipBn": "has/have এর পরে not বা never বসে; বাক্যের শেষে yet মানে এখনো।",
+          "items": [
+            {"id":"01","en":"Ayesha hasn't taken a day off since she arrived.","bn":"আসার পর থেকে আয়েশা একদিনও ছুটি নেয়নি।","words":[{"w":"day off","bn":"ছুটির দিন","pos":"noun"},{"w":"arrived","bn":"এসে পৌঁছেছে","pos":"verb","base":"arrive"}]},
+            {"id":"02","en":"She hasn't decided on her subject yet.","bn":"সে এখনো তার বিষয় ঠিক করেনি।","words":[{"w":"decided on","bn":"ঠিক করেছে","pos":"phrasal verb","base":"decide on"},{"w":"yet","bn":"এখনো","pos":"adverb"}]},
+            {"id":"03","en":"Lamia has never visited the Dhaka University campus.","bn":"লামিয়া কখনো ঢাকা বিশ্ববিদ্যালয়ের ক্যাম্পাসে যায়নি।","words":[{"w":"never","bn":"কখনো না","pos":"adverb"},{"w":"campus","bn":"ক্যাম্পাস, বিশ্ববিদ্যালয় চত্বর","pos":"noun"}]},
+            {"id":"04","en":"The university hasn't published the test dates yet.","bn":"বিশ্ববিদ্যালয় এখনো পরীক্ষার তারিখ প্রকাশ করেনি।","words":[{"w":"published","bn":"প্রকাশ করেছে","pos":"verb","base":"publish"},{"w":"test dates","bn":"পরীক্ষার তারিখ","pos":"noun","base":"test date"}]},
+            {"id":"05","en":"Ayesha hasn't missed a single mock test.","bn":"আয়েশা একটা মডেল টেস্টও বাদ দেয়নি।","words":[{"w":"missed","bn":"বাদ দিয়েছে","pos":"verb","base":"miss"},{"w":"mock test","bn":"মডেল টেস্ট","pos":"noun"}]},
+            {"id":"06","en":"Tanvir hasn't had time to help her this week.","bn":"এই সপ্তাহে তানভীর তাকে সাহায্য করার সময় পায়নি।","words":[{"w":"had time","bn":"সময় পেয়েছে","pos":"phrase","base":"have time"},{"w":"this week","bn":"এই সপ্তাহে","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Has/Have + subject + past participle (+ ever/yet)?",
+          "tipBn": "প্রশ্ন করতে Has বা Have শুরুতে বসে; ever মানে কখনো, yet মানে এখনো।",
+          "items": [
+            {"id":"01","en":"Has Ayesha finished all her chapters for the test?","bn":"আয়েশা কি পরীক্ষার জন্য তার সব অধ্যায় শেষ করেছে?","words":[{"w":"finished","bn":"শেষ করেছে","pos":"verb","base":"finish"},{"w":"chapters","bn":"অধ্যায়","pos":"noun","base":"chapter"}]},
+            {"id":"02","en":"Have you ever taken an online mock test?","bn":"তুমি কি কখনো অনলাইনে মডেল টেস্ট দিয়েছ?","words":[{"w":"ever","bn":"কখনো","pos":"adverb"},{"w":"mock test","bn":"মডেল টেস্ট","pos":"noun"}]},
+            {"id":"03","en":"Has Lamia bought the new question bank yet?","bn":"লামিয়া কি নতুন প্রশ্নব্যাংকটা কিনেছে?","words":[{"w":"question bank","bn":"প্রশ্নব্যাংক","pos":"noun"},{"w":"yet","bn":"এর মধ্যে, এখনো","pos":"adverb"}]},
+            {"id":"04","en":"Has the coaching center changed its class schedule again?","bn":"কোচিং সেন্টার কি আবার তাদের ক্লাসের সময়সূচি বদলেছে?","words":[{"w":"changed","bn":"বদলেছে","pos":"verb","base":"change"},{"w":"schedule","bn":"সময়সূচি","pos":"noun"}]},
+            {"id":"05","en":"Have Ayesha's scores improved since last month?","bn":"গত মাস থেকে আয়েশার নম্বর কি বেড়েছে?","words":[{"w":"scores","bn":"প্রাপ্ত নম্বর","pos":"noun","base":"score"},{"w":"improved","bn":"উন্নত হয়েছে","pos":"verb","base":"improve"}]},
+            {"id":"06","en":"Has Tanvir shown her around the campus yet?","bn":"তানভীর কি তাকে ক্যাম্পাস ঘুরিয়ে দেখিয়েছে?","words":[{"w":"shown","bn":"দেখিয়েছে","pos":"verb","base":"show"},{"w":"campus","bn":"ক্যাম্পাস, বিশ্ববিদ্যালয় চত্বর","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + has/have + subject + past participle?",
+          "tipBn": "প্রশ্নশব্দের পরে has/have, তারপর subject ও past participle বসে।",
+          "items": [
+            {"id":"01","en":"How many mock tests has Ayesha taken so far?","bn":"আয়েশা এ পর্যন্ত কয়টা মডেল টেস্ট দিয়েছে?","words":[{"w":"mock tests","bn":"মডেল টেস্ট","pos":"noun","base":"mock test"},{"w":"so far","bn":"এ পর্যন্ত","pos":"phrase"}]},
+            {"id":"02","en":"What has she learned from her mistakes in the tests?","bn":"পরীক্ষার ভুলগুলো থেকে সে কী শিখেছে?","words":[{"w":"learned","bn":"শিখেছে","pos":"verb","base":"learn"},{"w":"mistakes","bn":"ভুল","pos":"noun","base":"mistake"}]},
+            {"id":"03","en":"How long have Ayesha and Lamia known each other?","bn":"আয়েশা আর লামিয়া কতদিন ধরে একে অপরকে চেনে?","words":[{"w":"How long","bn":"কতদিন ধরে","pos":"phrase"},{"w":"each other","bn":"একে অপরকে","pos":"pronoun"}]},
+            {"id":"04","en":"Which universities has she applied to this year?","bn":"এ বছর সে কোন কোন বিশ্ববিদ্যালয়ে আবেদন করেছে?","words":[{"w":"universities","bn":"বিশ্ববিদ্যালয়","pos":"noun","base":"university"},{"w":"applied to","bn":"আবেদন করেছে","pos":"phrasal verb","base":"apply to"}]},
+            {"id":"05","en":"Why hasn't Lamia started her biology revision yet?","bn":"লামিয়া কেন এখনো জীববিজ্ঞানের রিভিশন শুরু করেনি?","words":[{"w":"biology","bn":"জীববিজ্ঞান","pos":"noun"},{"w":"revision","bn":"পুনরায় পড়া, রিভিশন","pos":"noun"}]},
+            {"id":"06","en":"Where has Tanvir put his old admission notes?","bn":"তানভীর তার পুরোনো ভর্তি পরীক্ষার নোটগুলো কোথায় রেখেছে?","words":[{"w":"put","bn":"রেখেছে","pos":"verb"},{"w":"notes","bn":"নোট","pos":"noun","base":"note"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences, mostly has/have + past participle.",
+          "tipBn": "অনুচ্ছেদের বেশিরভাগ বাক্যে has/have + past participle দিয়ে এখন পর্যন্ত কী হয়েছে তা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"A new life in Dhaka","en":"Ayesha has lived in Dhaka for two months now. She has found a quiet corner in her cousin's flat and has turned it into a study room. She has bought a whiteboard and has stuck her timetable on the wall. So far, she has followed her plan every single day.","bn":"আয়েশা এখন দুই মাস ধরে ঢাকায় আছে। সে তার কাজিনের ফ্ল্যাটে একটা নিরিবিলি কোণ খুঁজে পেয়েছে এবং সেটাকে পড়ার ঘর বানিয়ে নিয়েছে। সে একটা হোয়াইটবোর্ড কিনেছে আর দেয়ালে তার রুটিন সেঁটে দিয়েছে। এ পর্যন্ত সে প্রতিটা দিন তার পরিকল্পনা মেনে চলেছে।","words":[{"w":"quiet","bn":"নিরিবিলি","pos":"adjective"},{"w":"turned","bn":"বানিয়েছে","pos":"verb","base":"turn"},{"w":"stuck","bn":"সেঁটে দিয়েছে","pos":"verb","base":"stick"},{"w":"So far","bn":"এ পর্যন্ত","pos":"phrase"}]},
+            {"id":"02","title":"Progress in the mock tests","en":"Ayesha's coaching center has held six mock tests since March. Her score has gone up from 52 to 71 out of 100. Her teachers have noticed her progress and have given her extra practice sheets. However, she still hasn't mastered the general knowledge section.","bn":"মার্চ থেকে আয়েশার কোচিং সেন্টার ছয়টা মডেল টেস্ট নিয়েছে। তার নম্বর ১০০-এর মধ্যে ৫২ থেকে বেড়ে ৭১ হয়েছে। তার শিক্ষকেরা তার উন্নতি লক্ষ করেছেন এবং তাকে বাড়তি অনুশীলনী শিট দিয়েছেন। তবে সে এখনো সাধারণ জ্ঞান অংশটা ভালোভাবে আয়ত্ত করতে পারেনি।","words":[{"w":"held","bn":"নিয়েছে, আয়োজন করেছে","pos":"verb","base":"hold"},{"w":"gone up","bn":"বেড়েছে","pos":"phrasal verb","base":"go up"},{"w":"progress","bn":"উন্নতি","pos":"noun"},{"w":"mastered","bn":"আয়ত্ত করেছে","pos":"verb","base":"master"},{"w":"general knowledge","bn":"সাধারণ জ্ঞান","pos":"noun"}]},
+            {"id":"03","title":"Tanvir's advice","en":"Tanvir has taken many admission tests, so he has become Ayesha's best guide. He has taught her how to manage time in the exam hall. He has also warned her about negative marking. Thanks to him, Ayesha has stopped guessing answers she doesn't know.","bn":"তানভীর অনেক ভর্তি পরীক্ষা দিয়েছে, তাই সে আয়েশার সবচেয়ে ভালো পথপ্রদর্শক হয়ে উঠেছে। পরীক্ষার হলে কীভাবে সময় সামলাতে হয়, তা সে তাকে শিখিয়েছে। সে তাকে নেগেটিভ মার্কিং নিয়েও সতর্ক করেছে। তার কল্যাণে আয়েশা না-জানা প্রশ্নের উত্তর আন্দাজে দেওয়া বন্ধ করেছে।","words":[{"w":"guide","bn":"পথপ্রদর্শক","pos":"noun"},{"w":"manage","bn":"সামলানো","pos":"verb"},{"w":"warned","bn":"সতর্ক করেছে","pos":"verb","base":"warn"},{"w":"negative marking","bn":"ভুল উত্তরে নম্বর কাটা","pos":"noun"},{"w":"guessing","bn":"আন্দাজ করা","pos":"verb","base":"guess"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-continuous",
+      "focus": "Describe online classes and the day of the admission test",
+      "focusBn": "অনলাইন ক্লাস আর ভর্তি পরীক্ষার দিনের ঘটনা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + was/were + verb-ing (+ when/while ...).",
+          "tipBn": "অতীতে কোনো কাজ চলছিল বোঝাতে was/were + verb-ing হয়; হঠাৎ ঘটা ঘটনা past simple-এ থাকে।",
+          "items": [
+            {"id":"01","en":"Ayesha was attending an online class when the power went out.","bn":"আয়েশা যখন একটা অনলাইন ক্লাস করছিল, তখন বিদ্যুৎ চলে গেল।","words":[{"w":"attending","bn":"অংশ নিচ্ছিল","pos":"verb","base":"attend"},{"w":"power","bn":"বিদ্যুৎ","pos":"noun"},{"w":"went out","bn":"চলে গেল","pos":"phrasal verb","base":"go out"}]},
+            {"id":"02","en":"Lamia was taking notes while the teacher was explaining the formula.","bn":"শিক্ষক যখন সূত্রটা বোঝাচ্ছিলেন, লামিয়া তখন নোট নিচ্ছিল।","words":[{"w":"taking notes","bn":"নোট নিচ্ছিল","pos":"phrase","base":"take notes"},{"w":"formula","bn":"সূত্র","pos":"noun"}]},
+            {"id":"03","en":"At eight o'clock last night, the two girls were revising chemistry together.","bn":"গত রাত ৮টায় দুই বান্ধবী একসাথে রসায়ন রিভিশন দিচ্ছিল।","words":[{"w":"revising","bn":"আবার পড়ছিল","pos":"verb","base":"revise"},{"w":"chemistry","bn":"রসায়ন","pos":"noun"}]},
+            {"id":"04","en":"Tanvir was waiting outside the exam hall during the test.","bn":"পরীক্ষার সময় তানভীর পরীক্ষার হলের বাইরে অপেক্ষা করছিল।","words":[{"w":"waiting","bn":"অপেক্ষা করছিল","pos":"verb","base":"wait"},{"w":"during","bn":"চলাকালে","pos":"preposition"}]},
+            {"id":"05","en":"It was raining heavily when Ayesha left for the test center.","bn":"আয়েশা যখন পরীক্ষাকেন্দ্রের উদ্দেশে বের হলো, তখন ভারী বৃষ্টি হচ্ছিল।","words":[{"w":"heavily","bn":"ভারীভাবে, জোরে","pos":"adverb"},{"w":"left for","bn":"উদ্দেশে রওনা দিল","pos":"phrasal verb","base":"leave for"},{"w":"test center","bn":"পরীক্ষাকেন্দ্র","pos":"noun"}]},
+            {"id":"06","en":"Hundreds of students were standing in line at the main gate.","bn":"শত শত শিক্ষার্থী প্রধান ফটকে লাইনে দাঁড়িয়ে ছিল।","words":[{"w":"Hundreds of","bn":"শত শত","pos":"phrase"},{"w":"in line","bn":"লাইনে, সারিতে","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + wasn't/weren't + verb-ing (+ when/while ...).",
+          "tipBn": "was/were এর পরে not বসিয়ে অতীতের চলমান কাজকে না-বোধক করা হয়।",
+          "items": [
+            {"id":"01","en":"Ayesha wasn't paying attention when the teacher called her name.","bn":"শিক্ষক যখন তার নাম ডাকলেন, আয়েশা তখন মনোযোগ দিচ্ছিল না।","words":[{"w":"paying attention","bn":"মনোযোগ দিচ্ছিল","pos":"phrase","base":"pay attention"},{"w":"called","bn":"ডাকলেন","pos":"verb","base":"call"}]},
+            {"id":"02","en":"Lamia's microphone wasn't working during the online quiz.","bn":"অনলাইন কুইজের সময় লামিয়ার মাইক্রোফোন কাজ করছিল না।","words":[{"w":"microphone","bn":"মাইক্রোফোন","pos":"noun"},{"w":"quiz","bn":"ছোট পরীক্ষা, কুইজ","pos":"noun"}]},
+            {"id":"03","en":"The girls weren't chatting; they were solving problems quietly.","bn":"মেয়েরা গল্প করছিল না; তারা চুপচাপ অঙ্ক সমাধান করছিল।","words":[{"w":"chatting","bn":"গল্প করছিল","pos":"verb","base":"chat"},{"w":"quietly","bn":"চুপচাপ","pos":"adverb"}]},
+            {"id":"04","en":"Tanvir wasn't sleeping when Ayesha came home late.","bn":"আয়েশা যখন দেরি করে বাসায় ফিরল, তানভীর তখন ঘুমাচ্ছিল না।","words":[{"w":"came home","bn":"বাসায় ফিরল","pos":"phrase","base":"come home"},{"w":"late","bn":"দেরিতে","pos":"adverb"}]},
+            {"id":"05","en":"Nobody was talking in the exam hall at ten o'clock.","bn":"১০টায় পরীক্ষার হলে কেউ কথা বলছিল না।","words":[{"w":"Nobody","bn":"কেউ না","pos":"pronoun"},{"w":"exam hall","bn":"পরীক্ষার হল","pos":"noun"}]},
+            {"id":"06","en":"Ayesha wasn't feeling nervous while she was answering the questions.","bn":"প্রশ্নের উত্তর দেওয়ার সময় আয়েশার ভয় লাগছিল না।","words":[{"w":"nervous","bn":"নার্ভাস, ভীত","pos":"adjective"},{"w":"answering","bn":"উত্তর দিচ্ছিল","pos":"verb","base":"answer"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Was/Were + subject + verb-ing (+ when/while ...)?",
+          "tipBn": "প্রশ্ন করতে was বা were বাক্যের শুরুতে চলে আসে।",
+          "items": [
+            {"id":"01","en":"Was Ayesha attending an online class when the power went out?","bn":"বিদ্যুৎ চলে যাওয়ার সময় আয়েশা কি একটা অনলাইন ক্লাস করছিল?","words":[{"w":"attending","bn":"অংশ নিচ্ছিল","pos":"verb","base":"attend"},{"w":"went out","bn":"চলে গেল","pos":"phrasal verb","base":"go out"}]},
+            {"id":"02","en":"Were the girls revising chemistry at eight o'clock last night?","bn":"গত রাত ৮টায় মেয়েরা কি রসায়ন রিভিশন দিচ্ছিল?","words":[{"w":"revising","bn":"আবার পড়ছিল","pos":"verb","base":"revise"},{"w":"chemistry","bn":"রসায়ন","pos":"noun"}]},
+            {"id":"03","en":"Was Tanvir waiting outside the hall during the whole test?","bn":"পুরো পরীক্ষার সময় তানভীর কি হলের বাইরে অপেক্ষা করছিল?","words":[{"w":"waiting","bn":"অপেক্ষা করছিল","pos":"verb","base":"wait"},{"w":"whole","bn":"পুরো","pos":"adjective"}]},
+            {"id":"04","en":"Was it raining when you left for the test center?","bn":"তুমি যখন পরীক্ষাকেন্দ্রের উদ্দেশে বের হলে, তখন কি বৃষ্টি হচ্ছিল?","words":[{"w":"left for","bn":"উদ্দেশে রওনা দিলে","pos":"phrasal verb","base":"leave for"},{"w":"test center","bn":"পরীক্ষাকেন্দ্র","pos":"noun"}]},
+            {"id":"05","en":"Were the invigilators walking around the room during the test?","bn":"পরীক্ষার সময় পরিদর্শকেরা কি রুমের ভেতরে ঘুরে বেড়াচ্ছিলেন?","words":[{"w":"invigilators","bn":"পরীক্ষার পরিদর্শক","pos":"noun","base":"invigilator"},{"w":"walking around","bn":"ঘুরে বেড়াচ্ছিলেন","pos":"phrasal verb","base":"walk around"}]},
+            {"id":"06","en":"Was Lamia using her phone while the teacher was talking?","bn":"শিক্ষক যখন কথা বলছিলেন, লামিয়া কি তখন ফোন ব্যবহার করছিল?","words":[{"w":"using","bn":"ব্যবহার করছিল","pos":"verb","base":"use"},{"w":"while","bn":"যখন, এর মধ্যে","pos":"conjunction"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + was/were + subject + verb-ing ...?",
+          "tipBn": "প্রশ্নশব্দের পরে was/were, তারপর subject ও verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"What were you doing when the power went out last night?","bn":"গত রাতে বিদ্যুৎ চলে যাওয়ার সময় তুমি কী করছিলে?","words":[{"w":"power","bn":"বিদ্যুৎ","pos":"noun"},{"w":"went out","bn":"চলে গেল","pos":"phrasal verb","base":"go out"}]},
+            {"id":"02","en":"Why was Ayesha shaking when she entered the exam hall?","bn":"পরীক্ষার হলে ঢোকার সময় আয়েশা কাঁপছিল কেন?","words":[{"w":"shaking","bn":"কাঁপছিল","pos":"verb","base":"shake"},{"w":"entered","bn":"ঢুকল","pos":"verb","base":"enter"}]},
+            {"id":"03","en":"Where was Tanvir standing while Ayesha was taking the test?","bn":"আয়েশা যখন পরীক্ষা দিচ্ছিল, তানভীর তখন কোথায় দাঁড়িয়ে ছিল?","words":[{"w":"standing","bn":"দাঁড়িয়ে ছিল","pos":"verb","base":"stand"},{"w":"taking the test","bn":"পরীক্ষা দিচ্ছিল","pos":"phrase","base":"take the test"}]},
+            {"id":"04","en":"Who was sitting next to Ayesha in the exam hall?","bn":"পরীক্ষার হলে আয়েশার পাশে কে বসে ছিল?","words":[{"w":"next to","bn":"পাশে","pos":"preposition"},{"w":"exam hall","bn":"পরীক্ষার হল","pos":"noun"}]},
+            {"id":"05","en":"How many students were waiting at the gate at seven?","bn":"৭টার সময় গেটে কতজন শিক্ষার্থী অপেক্ষা করছিল?","words":[{"w":"How many","bn":"কতজন","pos":"phrase"},{"w":"waiting","bn":"অপেক্ষা করছিল","pos":"verb","base":"wait"}]},
+            {"id":"06","en":"What was the teacher explaining when Lamia lost her connection?","bn":"লামিয়ার ইন্টারনেট সংযোগ চলে যাওয়ার সময় শিক্ষক কী বোঝাচ্ছিলেন?","words":[{"w":"explaining","bn":"বোঝাচ্ছিলেন","pos":"verb","base":"explain"},{"w":"connection","bn":"সংযোগ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences, mostly was/were + verb-ing.",
+          "tipBn": "অনুচ্ছেদে was/were + verb-ing দিয়ে পটভূমির কাজ, আর past simple দিয়ে হঠাৎ ঘটা ঘটনা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"The power cut","en":"Ayesha was attending a live online physics class last Tuesday. The teacher was solving a difficult problem, and everyone was taking notes. Suddenly the power went out, and her laptop battery was running low. While she was searching for a charger, the class ended.","bn":"গত মঙ্গলবার আয়েশা একটা সরাসরি অনলাইন পদার্থবিজ্ঞান ক্লাস করছিল। শিক্ষক একটা কঠিন সমস্যার সমাধান করছিলেন, আর সবাই নোট নিচ্ছিল। হঠাৎ বিদ্যুৎ চলে গেল, আর তার ল্যাপটপের চার্জও ফুরিয়ে আসছিল। সে যখন চার্জার খুঁজছিল, তখন ক্লাসটা শেষ হয়ে গেল।","words":[{"w":"live","bn":"সরাসরি","pos":"adjective"},{"w":"solving","bn":"সমাধান করছিলেন","pos":"verb","base":"solve"},{"w":"went out","bn":"চলে গেল","pos":"phrasal verb","base":"go out"},{"w":"running low","bn":"ফুরিয়ে আসছিল","pos":"phrase","base":"run low"},{"w":"charger","bn":"চার্জার","pos":"noun"}]},
+            {"id":"02","title":"The morning of the test","en":"On the morning of the admission test, it was raining hard in Dhaka. Tanvir was holding an umbrella over Ayesha as they were walking to the gate. Hundreds of nervous students were checking their admit cards. Some parents were praying quietly under the trees.","bn":"ভর্তি পরীক্ষার দিন সকালে ঢাকায় জোরে বৃষ্টি হচ্ছিল। তারা যখন গেটের দিকে হাঁটছিল, তানভীর তখন আয়েশার মাথার ওপর ছাতা ধরে রেখেছিল। শত শত উদ্বিগ্ন শিক্ষার্থী তাদের প্রবেশপত্র মিলিয়ে দেখছিল। কিছু অভিভাবক গাছের নিচে চুপচাপ দোয়া করছিলেন।","words":[{"w":"holding","bn":"ধরে রেখেছিল","pos":"verb","base":"hold"},{"w":"nervous","bn":"উদ্বিগ্ন","pos":"adjective"},{"w":"admit cards","bn":"প্রবেশপত্র","pos":"noun","base":"admit card"},{"w":"praying","bn":"দোয়া করছিলেন","pos":"verb","base":"pray"}]},
+            {"id":"03","title":"Inside the exam hall","en":"Inside the hall, the fans were spinning slowly and the invigilators were walking between the rows. Ayesha was answering the math questions first because they were her strongest part. Next to her, a boy was tapping his pen nervously. She was trying hard to ignore the noise.","bn":"হলের ভেতরে পাখাগুলো ধীরে ধীরে ঘুরছিল আর পরিদর্শকেরা সারিগুলোর মাঝ দিয়ে হাঁটছিলেন। আয়েশা আগে অঙ্কের প্রশ্নগুলোর উত্তর দিচ্ছিল, কারণ ওটাই ছিল তার সবচেয়ে শক্তিশালী অংশ। তার পাশে একটা ছেলে অস্থির হয়ে কলম ঠুকছিল। আয়েশা শব্দটা উপেক্ষা করার খুব চেষ্টা করছিল।","words":[{"w":"spinning","bn":"ঘুরছিল","pos":"verb","base":"spin"},{"w":"invigilators","bn":"পরীক্ষার পরিদর্শক","pos":"noun","base":"invigilator"},{"w":"rows","bn":"সারি","pos":"noun","base":"row"},{"w":"tapping","bn":"ঠুকছিল","pos":"verb","base":"tap"},{"w":"ignore","bn":"উপেক্ষা করা","pos":"verb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "modals",
+      "focus": "Give rules and advice for admission tests",
+      "focusBn": "ভর্তি পরীক্ষার নিয়ম ও পরামর্শ দেওয়া",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + must/should/have to/can/might/need to + verb (base) ...",
+          "tipBn": "must ও have to মানে করতেই হবে, should মানে উচিত, can মানে পারা, might মানে হয়তো।",
+          "items": [
+            {"id":"01","en":"You must bring your admit card to the exam hall.","bn":"পরীক্ষার হলে তোমাকে অবশ্যই প্রবেশপত্র আনতে হবে।","words":[{"w":"must","bn":"অবশ্যই করতে হবে","pos":"verb"},{"w":"admit card","bn":"প্রবেশপত্র","pos":"noun"}]},
+            {"id":"02","en":"Ayesha should sleep at least seven hours before the test.","bn":"পরীক্ষার আগে আয়েশার অন্তত সাত ঘণ্টা ঘুমানো উচিত।","words":[{"w":"should","bn":"উচিত","pos":"verb"},{"w":"at least","bn":"অন্তত","pos":"phrase"}]},
+            {"id":"03","en":"Students have to fill in the answer sheet with a black pen.","bn":"শিক্ষার্থীদের কালো কলম দিয়ে উত্তরপত্র পূরণ করতে হয়।","words":[{"w":"have to","bn":"করতে হয়","pos":"phrase"},{"w":"fill in","bn":"পূরণ করা","pos":"phrasal verb"},{"w":"answer sheet","bn":"উত্তরপত্র","pos":"noun"}]},
+            {"id":"04","en":"Lamia might choose economics instead of English literature.","bn":"লামিয়া হয়তো ইংরেজি সাহিত্যের বদলে অর্থনীতি বেছে নিতে পারে।","words":[{"w":"might","bn":"হয়তো","pos":"verb"},{"w":"economics","bn":"অর্থনীতি","pos":"noun"},{"w":"instead of","bn":"এর বদলে","pos":"phrase"}]},
+            {"id":"05","en":"You can check your result on the university website.","bn":"তুমি বিশ্ববিদ্যালয়ের ওয়েবসাইটে তোমার ফলাফল দেখতে পারো।","words":[{"w":"check","bn":"দেখে নেওয়া, যাচাই করা","pos":"verb"},{"w":"result","bn":"ফলাফল","pos":"noun"}]},
+            {"id":"06","en":"Tanvir says first-year students need to find a hall seat early.","bn":"তানভীর বলে, প্রথম বর্ষের শিক্ষার্থীদের তাড়াতাড়ি হলে একটা সিট খুঁজে নিতে হয়।","words":[{"w":"first-year","bn":"প্রথম বর্ষের","pos":"adjective"},{"w":"need to","bn":"করা দরকার","pos":"phrase"},{"w":"hall seat","bn":"ছাত্রাবাসের সিট","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + mustn't/shouldn't/can't/don't have to/needn't + verb (base) ...",
+          "tipBn": "mustn't মানে নিষেধ, shouldn't মানে উচিত নয়, don't have to বা needn't মানে দরকার নেই।",
+          "items": [
+            {"id":"01","en":"You mustn't take your phone into the exam hall.","bn":"পরীক্ষার হলে তুমি কোনোভাবেই ফোন নিয়ে যেতে পারবে না।","words":[{"w":"mustn't","bn":"কোনোভাবেই নয়","pos":"verb"},{"w":"exam hall","bn":"পরীক্ষার হল","pos":"noun"}]},
+            {"id":"02","en":"Ayesha shouldn't study all night before the test.","bn":"পরীক্ষার আগে আয়েশার সারা রাত জেগে পড়া উচিত নয়।","words":[{"w":"shouldn't","bn":"উচিত নয়","pos":"verb"},{"w":"all night","bn":"সারা রাত","pos":"phrase"}]},
+            {"id":"03","en":"Students can't use calculators in the math section.","bn":"অঙ্ক অংশে শিক্ষার্থীরা ক্যালকুলেটর ব্যবহার করতে পারে না।","words":[{"w":"calculators","bn":"ক্যালকুলেটর","pos":"noun","base":"calculator"},{"w":"section","bn":"অংশ","pos":"noun"}]},
+            {"id":"04","en":"You don't have to pay the application fee in cash.","bn":"তোমাকে আবেদন ফি নগদে দিতে হবে না।","words":[{"w":"don't have to","bn":"করতে হবে না","pos":"phrase"},{"w":"application fee","bn":"আবেদন ফি","pos":"noun"},{"w":"in cash","bn":"নগদে","pos":"phrase"}]},
+            {"id":"05","en":"Lamia might not get her first choice of subject.","bn":"লামিয়া হয়তো তার প্রথম পছন্দের বিষয় পাবে না।","words":[{"w":"might not","bn":"হয়তো না","pos":"phrase"},{"w":"first choice","bn":"প্রথম পছন্দ","pos":"noun"}]},
+            {"id":"06","en":"You needn't worry about the viva until next month.","bn":"আগামী মাসের আগে তোমার ভাইভা নিয়ে চিন্তা করার দরকার নেই।","words":[{"w":"needn't","bn":"দরকার নেই","pos":"verb"},{"w":"viva","bn":"মৌখিক পরীক্ষা","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Must/Should/Can/Could/May + subject + verb (base) ...? / Do + subject + have to ...?",
+          "tipBn": "প্রশ্ন করতে modal শুরুতে বসে; have to-এর প্রশ্নে Do/Does লাগে।",
+          "items": [
+            {"id":"01","en":"Must we bring a photocopy of our admit card?","bn":"আমাদের কি প্রবেশপত্রের একটা ফটোকপি আনতেই হবে?","words":[{"w":"photocopy","bn":"ফটোকপি","pos":"noun"},{"w":"admit card","bn":"প্রবেশপত্র","pos":"noun"}]},
+            {"id":"02","en":"Should Ayesha apply to more than one university?","bn":"আয়েশার কি একাধিক বিশ্ববিদ্যালয়ে আবেদন করা উচিত?","words":[{"w":"apply","bn":"আবেদন করা","pos":"verb"},{"w":"more than one","bn":"একাধিক","pos":"phrase"}]},
+            {"id":"03","en":"Can students leave the hall before the final bell rings?","bn":"শেষ ঘণ্টা বাজার আগে কি শিক্ষার্থীরা হল ছেড়ে যেতে পারে?","words":[{"w":"leave","bn":"ছেড়ে যাওয়া","pos":"verb"},{"w":"bell","bn":"ঘণ্টা","pos":"noun"}]},
+            {"id":"04","en":"Do we have to wear a mask during the test?","bn":"পরীক্ষার সময় কি আমাদের মাস্ক পরতে হবে?","words":[{"w":"have to","bn":"করতে হবে","pos":"phrase"},{"w":"mask","bn":"মাস্ক","pos":"noun"}]},
+            {"id":"05","en":"Could you explain negative marking to me again?","bn":"তুমি কি আমাকে নেগেটিভ মার্কিং আরেকবার বুঝিয়ে বলতে পারবে?","words":[{"w":"explain","bn":"বুঝিয়ে বলা","pos":"verb"},{"w":"negative marking","bn":"ভুল উত্তরে নম্বর কাটা","pos":"noun"}]},
+            {"id":"06","en":"May I use a pencil for the rough work?","bn":"খসড়া কাজের জন্য আমি কি পেনসিল ব্যবহার করতে পারি?","words":[{"w":"May","bn":"পারি কি, অনুমতি আছে কি","pos":"verb"},{"w":"rough work","bn":"খসড়া কাজ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "tag-question",
+          "pattern": "Statement with a modal, + opposite modal + pronoun?",
+          "tipBn": "বাক্য হ্যাঁ-বোধক হলে শেষে না-বোধক tag বসে, আর না-বোধক হলে হ্যাঁ-বোধক tag বসে।",
+          "items": [
+            {"id":"01","en":"We must bring our admit cards, mustn't we?","bn":"আমাদের প্রবেশপত্র আনতেই হবে, তাই না?","words":[{"w":"must","bn":"অবশ্যই করতে হবে","pos":"verb"},{"w":"admit cards","bn":"প্রবেশপত্র","pos":"noun","base":"admit card"}]},
+            {"id":"02","en":"Ayesha should rest a little tonight, shouldn't she?","bn":"আজ রাতে আয়েশার একটু বিশ্রাম নেওয়া উচিত, তাই না?","words":[{"w":"rest","bn":"বিশ্রাম নেওয়া","pos":"verb"},{"w":"a little","bn":"একটু","pos":"phrase"}]},
+            {"id":"03","en":"You can't use a calculator in the test, can you?","bn":"পরীক্ষায় তো ক্যালকুলেটর ব্যবহার করা যায় না, তাই না?","words":[{"w":"can't","bn":"পারা যায় না","pos":"verb"},{"w":"calculator","bn":"ক্যালকুলেটর","pos":"noun"}]},
+            {"id":"04","en":"Lamia could study economics instead, couldn't she?","bn":"লামিয়া চাইলে বরং অর্থনীতি পড়তে পারে, তাই না?","words":[{"w":"economics","bn":"অর্থনীতি","pos":"noun"},{"w":"instead","bn":"বরং, এর বদলে","pos":"adverb"}]},
+            {"id":"05","en":"We don't have to wait in line for long, do we?","bn":"আমাদের বেশিক্ষণ লাইনে দাঁড়াতে হবে না, তাই না?","words":[{"w":"wait in line","bn":"লাইনে দাঁড়ানো","pos":"phrase"},{"w":"for long","bn":"বেশিক্ষণ","pos":"phrase"}]},
+            {"id":"06","en":"Students have to submit the form online, don't they?","bn":"শিক্ষার্থীদের অনলাইনে ফর্ম জমা দিতে হয়, তাই না?","words":[{"w":"submit","bn":"জমা দেওয়া","pos":"verb"},{"w":"form","bn":"ফর্ম, আবেদনপত্র","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences using must, should, have to, can, might.",
+          "tipBn": "অনুচ্ছেদে বিভিন্ন modal দিয়ে নিয়ম, বাধ্যবাধকতা আর পরামর্শ বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Rules for the exam hall","en":"Candidates must arrive at the center at least an hour early. They have to show their admit card at the gate, and they can't bring phones or smartwatches inside. They should use only a black ballpoint pen. If they need extra paper, they may raise their hand and ask the invigilator.","bn":"পরীক্ষার্থীদের অবশ্যই অন্তত এক ঘণ্টা আগে কেন্দ্রে পৌঁছাতে হবে। গেটে তাদের প্রবেশপত্র দেখাতে হয়, আর ভেতরে ফোন বা স্মার্টওয়াচ নেওয়া যায় না। তাদের শুধু কালো বলপয়েন্ট কলম ব্যবহার করা উচিত। বাড়তি কাগজ লাগলে তারা হাত তুলে পরিদর্শকের কাছে চাইতে পারে।","words":[{"w":"Candidates","bn":"পরীক্ষার্থী","pos":"noun","base":"candidate"},{"w":"at least","bn":"অন্তত","pos":"phrase"},{"w":"admit card","bn":"প্রবেশপত্র","pos":"noun"},{"w":"ballpoint pen","bn":"বলপয়েন্ট কলম","pos":"noun"},{"w":"invigilator","bn":"পরীক্ষার পরিদর্শক","pos":"noun"}]},
+            {"id":"02","title":"Choosing a subject","en":"Tanvir thinks Ayesha should choose a subject she really enjoys. She might like pharmacy, but she could also do well in computer science. She doesn't have to decide today. However, she must rank her choices before the deadline next Thursday.","bn":"তানভীর মনে করে, আয়েশার এমন একটা বিষয় বেছে নেওয়া উচিত যেটা সে সত্যিই উপভোগ করে। তার হয়তো ফার্মেসি ভালো লাগতে পারে, তবে কম্পিউটার বিজ্ঞানেও সে ভালো করতে পারে। আজই তাকে সিদ্ধান্ত নিতে হবে না। তবে আগামী বৃহস্পতিবারের শেষ তারিখের আগে তাকে অবশ্যই তার পছন্দগুলো ক্রমানুসারে সাজাতে হবে।","words":[{"w":"enjoys","bn":"উপভোগ করে","pos":"verb","base":"enjoy"},{"w":"pharmacy","bn":"ফার্মেসি, ওষুধবিজ্ঞান","pos":"noun"},{"w":"rank","bn":"ক্রমানুসারে সাজানো","pos":"verb"},{"w":"choices","bn":"পছন্দ","pos":"noun","base":"choice"},{"w":"deadline","bn":"শেষ তারিখ","pos":"noun"}]},
+            {"id":"03","title":"Studying smarter","en":"Lamia can't study for long hours without a break. Her coaching teacher says she should study in short sessions of 40 minutes. She must also put her phone in another room. Now she can finish twice as many questions in an evening.","bn":"লামিয়া বিরতি ছাড়া একটানা অনেকক্ষণ পড়তে পারে না। তার কোচিংয়ের শিক্ষক বলেন, তার ৪০ মিনিটের ছোট ছোট ভাগে পড়া উচিত। তাকে ফোনটাও অবশ্যই অন্য রুমে রাখতে হবে। এখন সে এক সন্ধ্যায় আগের দ্বিগুণ প্রশ্ন শেষ করতে পারে।","words":[{"w":"without","bn":"ছাড়া","pos":"preposition"},{"w":"break","bn":"বিরতি","pos":"noun"},{"w":"sessions","bn":"পর্ব, ভাগ","pos":"noun","base":"session"},{"w":"twice as many","bn":"দ্বিগুণ","pos":"phrase"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Talk about results, choices and scholarship dreams",
+      "focusBn": "ফলাফল, পছন্দ আর বৃত্তির স্বপ্ন নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + present, will + verb. / If + past, would + verb.",
+          "tipBn": "সম্ভাব্য ঘটনায় If + present ও will, আর কাল্পনিক ঘটনায় If + past ও would বসে।",
+          "items": [
+            {"id":"01","en":"If Ayesha gets into Dhaka University, she will study pharmacy.","bn":"আয়েশা যদি ঢাকা বিশ্ববিদ্যালয়ে ভর্তির সুযোগ পায়, তাহলে সে ফার্মেসি পড়বে।","words":[{"w":"gets into","bn":"ভর্তির সুযোগ পায়","pos":"phrasal verb","base":"get into"},{"w":"pharmacy","bn":"ফার্মেসি, ওষুধবিজ্ঞান","pos":"noun"}]},
+            {"id":"02","en":"If she keeps practicing every day, her score will improve.","bn":"সে যদি প্রতিদিন অনুশীলন চালিয়ে যায়, তাহলে তার নম্বর বাড়বে।","words":[{"w":"keeps practicing","bn":"অনুশীলন চালিয়ে যায়","pos":"phrase","base":"keep practicing"},{"w":"improve","bn":"উন্নত হওয়া","pos":"verb"}]},
+            {"id":"03","en":"If I won a scholarship, I would study abroad.","bn":"আমি যদি বৃত্তি পেতাম, তাহলে বিদেশে পড়তে যেতাম।","words":[{"w":"won","bn":"পেতাম, জিতলে","pos":"verb","base":"win"},{"w":"scholarship","bn":"বৃত্তি","pos":"noun"},{"w":"abroad","bn":"বিদেশে","pos":"adverb"}]},
+            {"id":"04","en":"If Lamia had more free time, she would join a debate club.","bn":"লামিয়ার হাতে যদি আরও অবসর থাকত, তাহলে সে একটা বিতর্ক ক্লাবে যোগ দিত।","words":[{"w":"free time","bn":"অবসর সময়","pos":"noun"},{"w":"debate club","bn":"বিতর্ক ক্লাব","pos":"noun"}]},
+            {"id":"05","en":"Tanvir will take her to the campus if the rain stops.","bn":"বৃষ্টি থামলে তানভীর তাকে ক্যাম্পাসে নিয়ে যাবে।","words":[{"w":"campus","bn":"ক্যাম্পাস, বিশ্ববিদ্যালয় চত্বর","pos":"noun"},{"w":"stops","bn":"থামে","pos":"verb","base":"stop"}]},
+            {"id":"06","en":"If the coaching center were closer, Ayesha would save an hour a day.","bn":"কোচিং সেন্টারটা যদি আরও কাছে হতো, তাহলে আয়েশার দিনে এক ঘণ্টা বাঁচত।","words":[{"w":"closer","bn":"আরও কাছে","pos":"adjective","base":"close"},{"w":"save","bn":"বাঁচানো","pos":"verb"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + don't/didn't ..., won't/wouldn't + verb.",
+          "tipBn": "শর্ত বা ফলাফলের অংশে don't, didn't, won't বা wouldn't বসিয়ে না-বোধক করা হয়।",
+          "items": [
+            {"id":"01","en":"If Ayesha doesn't sleep well, she won't be able to focus.","bn":"আয়েশা ভালো না ঘুমালে মনোযোগ দিতে পারবে না।","words":[{"w":"be able to","bn":"পারা","pos":"phrase"},{"w":"focus","bn":"মনোযোগ দেওয়া","pos":"verb"}]},
+            {"id":"02","en":"She won't get a hall seat if she doesn't apply early.","bn":"তাড়াতাড়ি আবেদন না করলে সে হলে সিট পাবে না।","words":[{"w":"hall seat","bn":"ছাত্রাবাসের সিট","pos":"noun"},{"w":"apply","bn":"আবেদন করা","pos":"verb"}]},
+            {"id":"03","en":"If I were you, I wouldn't skip the mock tests.","bn":"আমি তোমার জায়গায় থাকলে মডেল টেস্টগুলো বাদ দিতাম না।","words":[{"w":"If I were you","bn":"আমি তোমার জায়গায় থাকলে","pos":"phrase"},{"w":"skip","bn":"বাদ দেওয়া","pos":"verb"}]},
+            {"id":"04","en":"If Lamia didn't have a tutoring job, she would study more.","bn":"লামিয়ার যদি টিউশনি না থাকত, তাহলে সে আরও বেশি পড়তে পারত।","words":[{"w":"tutoring job","bn":"টিউশনি","pos":"noun"},{"w":"study more","bn":"আরও বেশি পড়া","pos":"phrase"}]},
+            {"id":"05","en":"If the results don't come out on time, classes won't start in January.","bn":"ফলাফল যদি সময়মতো প্রকাশ না হয়, তাহলে জানুয়ারিতে ক্লাস শুরু হবে না।","words":[{"w":"come out","bn":"প্রকাশিত হওয়া","pos":"phrasal verb"},{"w":"on time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"06","en":"Ayesha wouldn't feel so nervous if she knew the exam format.","bn":"আয়েশা যদি পরীক্ষার ধরন জানত, তাহলে তার এতটা ভয় লাগত না।","words":[{"w":"nervous","bn":"নার্ভাস, ভীত","pos":"adjective"},{"w":"format","bn":"ধরন, কাঠামো","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + will/would + subject + verb + if ...?",
+          "tipBn": "প্রশ্নশব্দ শুরুতে বসে, তারপর will বা would, আর শর্তটা if দিয়ে যোগ হয়।",
+          "items": [
+            {"id":"01","en":"What will Ayesha do if she doesn't get her first choice?","bn":"আয়েশা যদি তার প্রথম পছন্দ না পায়, তাহলে সে কী করবে?","words":[{"w":"first choice","bn":"প্রথম পছন্দ","pos":"noun"},{"w":"get","bn":"পাওয়া","pos":"verb"}]},
+            {"id":"02","en":"Where would you study if you won a full scholarship?","bn":"পূর্ণ বৃত্তি পেলে তুমি কোথায় পড়তে?","words":[{"w":"won","bn":"পেতে, জিততে","pos":"verb","base":"win"},{"w":"full scholarship","bn":"পূর্ণ বৃত্তি","pos":"noun"}]},
+            {"id":"03","en":"How will Lamia pay the fees if she gets into a private university?","bn":"লামিয়া যদি প্রাইভেট বিশ্ববিদ্যালয়ে ভর্তি হয়, তাহলে সে কীভাবে বেতন দেবে?","words":[{"w":"fees","bn":"বেতন, ফি","pos":"noun","base":"fee"},{"w":"private university","bn":"বেসরকারি বিশ্ববিদ্যালয়","pos":"noun"}]},
+            {"id":"04","en":"Which subject would you choose if you could start again?","bn":"আবার শুরু করতে পারলে তুমি কোন বিষয় বেছে নিতে?","words":[{"w":"choose","bn":"বেছে নেওয়া","pos":"verb"},{"w":"start again","bn":"আবার শুরু করা","pos":"phrase"}]},
+            {"id":"05","en":"Who will help Ayesha if Tanvir goes home for the holidays?","bn":"তানভীর যদি ছুটিতে বাড়ি চলে যায়, তাহলে আয়েশাকে কে সাহায্য করবে?","words":[{"w":"goes home","bn":"বাড়ি যায়","pos":"phrase","base":"go home"},{"w":"holidays","bn":"ছুটি","pos":"noun","base":"holiday"}]},
+            {"id":"06","en":"What would happen if the admission test were canceled?","bn":"ভর্তি পরীক্ষা যদি বাতিল হতো, তাহলে কী হতো?","words":[{"w":"happen","bn":"ঘটা","pos":"verb"},{"w":"canceled","bn":"বাতিল","pos":"verb","base":"cancel"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences with first or second conditionals.",
+          "tipBn": "অনুচ্ছেদে If দিয়ে সম্ভাব্য (will) আর কাল্পনিক (would) পরিস্থিতি বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Plan A and plan B","en":"If Ayesha gets a good score, she will choose pharmacy at Dhaka University. If her score is lower, she will apply to Rajshahi University near her home. Either way, she will be happy if she can study science. Her parents will support her whatever happens.","bn":"আয়েশা যদি ভালো নম্বর পায়, তাহলে সে ঢাকা বিশ্ববিদ্যালয়ে ফার্মেসি বেছে নেবে। নম্বর কম হলে সে বাড়ির কাছের রাজশাহী বিশ্ববিদ্যালয়ে আবেদন করবে। যেটাই হোক, বিজ্ঞান পড়তে পারলে সে খুশি থাকবে। যা-ই ঘটুক, তার মা-বাবা তার পাশে থাকবেন।","words":[{"w":"score","bn":"প্রাপ্ত নম্বর","pos":"noun"},{"w":"Either way","bn":"যেটাই হোক","pos":"phrase"},{"w":"support","bn":"পাশে থাকা, সমর্থন করা","pos":"verb"},{"w":"whatever happens","bn":"যা-ই ঘটুক","pos":"phrase"}]},
+            {"id":"02","title":"Lamia's dream","en":"Lamia often dreams about studying abroad. If she won a full scholarship, she would apply to a university in Japan. She would learn Japanese if she had more free time. But for now, she has to focus on the admission test.","bn":"লামিয়া প্রায়ই বিদেশে পড়াশোনার স্বপ্ন দেখে। সে যদি পূর্ণ বৃত্তি পেত, তাহলে জাপানের একটা বিশ্ববিদ্যালয়ে আবেদন করত। হাতে আরও অবসর থাকলে সে জাপানি ভাষা শিখত। কিন্তু আপাতত তাকে ভর্তি পরীক্ষায় মনোযোগ দিতে হবে।","words":[{"w":"dreams about","bn":"স্বপ্ন দেখে","pos":"phrasal verb","base":"dream about"},{"w":"abroad","bn":"বিদেশে","pos":"adverb"},{"w":"full scholarship","bn":"পূর্ণ বৃত্তি","pos":"noun"},{"w":"focus on","bn":"মনোযোগ দেওয়া","pos":"phrasal verb"}]},
+            {"id":"03","title":"A warning from Tanvir","en":"Tanvir tells Ayesha that she will lose marks if she guesses wildly. If she leaves a hard question blank, she won't lose anything. If he were in her place, he would answer the easy questions first. That way, she will not panic if time runs short.","bn":"তানভীর আয়েশাকে বলে, সে যদি আন্দাজে উত্তর দেয়, তাহলে নম্বর কাটা যাবে। কঠিন প্রশ্ন ফাঁকা রাখলে সে কিছুই হারাবে না। সে যদি আয়েশার জায়গায় থাকত, তাহলে আগে সহজ প্রশ্নগুলোর উত্তর দিত। এভাবে সময় কম পড়লেও সে ঘাবড়ে যাবে না।","words":[{"w":"wildly","bn":"আন্দাজে, এলোমেলোভাবে","pos":"adverb"},{"w":"blank","bn":"ফাঁকা","pos":"adjective"},{"w":"in her place","bn":"তার জায়গায়","pos":"phrase"},{"w":"panic","bn":"ঘাবড়ে যাওয়া","pos":"verb"},{"w":"runs short","bn":"কম পড়ে","pos":"phrase","base":"run short"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

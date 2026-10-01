@@ -1,0 +1,272 @@
+{
+  "topic": "school-study",
+  "level": "advanced",
+  "title": "Farhan's Thesis Year Abroad",
+  "story": "Farhan Ahmed from Khulna is doing a master's in environmental science at a university in Manchester on a full scholarship. His thesis is about river salinity in coastal Bangladesh, and his supervisor, Professor Helen Clarke, is demanding but supportive. He shares a flat with Kenji, a Japanese PhD student, and helps his younger sister Nabila back home with her own scholarship applications.",
+  "storyBn": "খুলনার ফারহান আহমেদ পূর্ণ বৃত্তি নিয়ে ম্যানচেস্টারের একটা বিশ্ববিদ্যালয়ে পরিবেশবিজ্ঞানে মাস্টার্স করছে। তার থিসিসের বিষয় উপকূলীয় বাংলাদেশের নদীর লবণাক্ততা, আর তার তত্ত্বাবধায়ক প্রফেসর হেলেন ক্লার্ক কড়া হলেও সহায়ক। সে জাপানি পিএইচডি শিক্ষার্থী কেনজির সাথে একটা ফ্ল্যাটে থাকে, আর দেশে ছোট বোন নাবিলাকে তার নিজের বৃত্তির আবেদনে সাহায্য করে।",
+  "units": [
+    {
+      "grammar": "present-perfect-continuous",
+      "focus": "Describe ongoing thesis work and life abroad",
+      "focusBn": "চলমান থিসিসের কাজ আর বিদেশের জীবন বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + has/have been + verb-ing (+ for/since ...).",
+          "tipBn": "অতীতে শুরু হয়ে এখনো চলছে এমন কাজ বলতে has/have been + verb-ing হয়, সাথে for বা since থাকে।",
+          "items": [
+            {"id":"01","en":"Farhan has been working on his thesis about river salinity in coastal Bangladesh since October.","bn":"ফারহান অক্টোবর থেকে উপকূলীয় বাংলাদেশের নদীর লবণাক্ততা নিয়ে তার থিসিসের কাজ করছে।","words":[{"w":"thesis","bn":"অভিসন্দর্ভ, থিসিস","pos":"noun"},{"w":"salinity","bn":"লবণাক্ততা","pos":"noun"},{"w":"coastal","bn":"উপকূলীয়","pos":"adjective"}]},
+            {"id":"02","en":"He has been spending most evenings in the university library, reading journal articles.","bn":"সে বেশিরভাগ সন্ধ্যা বিশ্ববিদ্যালয়ের লাইব্রেরিতে জার্নালের প্রবন্ধ পড়ে কাটাচ্ছে।","words":[{"w":"spending","bn":"কাটাচ্ছে","pos":"verb","base":"spend"},{"w":"journal articles","bn":"জার্নালের প্রবন্ধ","pos":"noun","base":"journal article"}]},
+            {"id":"03","en":"Professor Clarke has been reviewing his chapters one by one and sending detailed feedback.","bn":"প্রফেসর ক্লার্ক একটা একটা করে তার অধ্যায়গুলো পর্যালোচনা করছেন এবং বিস্তারিত মতামত পাঠাচ্ছেন।","words":[{"w":"reviewing","bn":"পর্যালোচনা করছেন","pos":"verb","base":"review"},{"w":"one by one","bn":"একে একে","pos":"phrase"},{"w":"detailed feedback","bn":"বিস্তারিত মতামত","pos":"noun"}]},
+            {"id":"04","en":"Kenji, his flatmate, has been helping him clean up the data in his spare time.","bn":"তার ফ্ল্যাটমেট কেনজি অবসর সময়ে তাকে ডেটা গুছিয়ে নিতে সাহায্য করছে।","words":[{"w":"flatmate","bn":"একই ফ্ল্যাটের সঙ্গী","pos":"noun"},{"w":"clean up","bn":"গুছিয়ে ঠিক করা","pos":"phrasal verb"},{"w":"spare time","bn":"অবসর সময়","pos":"noun"}]},
+            {"id":"05","en":"Farhan has been struggling to balance his part-time job with his research deadlines.","bn":"ফারহান তার খণ্ডকালীন চাকরি আর গবেষণার সময়সীমার মধ্যে ভারসাম্য রাখতে হিমশিম খাচ্ছে।","words":[{"w":"struggling","bn":"হিমশিম খাচ্ছে","pos":"verb","base":"struggle"},{"w":"balance","bn":"ভারসাম্য রাখা","pos":"verb"},{"w":"deadlines","bn":"শেষ সময়সীমা","pos":"noun","base":"deadline"}]},
+            {"id":"06","en":"Back in Khulna, his sister Nabila has been preparing scholarship applications for months.","bn":"ওদিকে খুলনায় তার বোন নাবিলা কয়েক মাস ধরে বৃত্তির আবেদন তৈরি করছে।","words":[{"w":"applications","bn":"আবেদন","pos":"noun","base":"application"},{"w":"for months","bn":"কয়েক মাস ধরে","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hasn't/haven't been + verb-ing ...",
+          "tipBn": "has/have এর পরে not বসে, তারপর been + verb-ing।",
+          "items": [
+            {"id":"01","en":"Farhan hasn't been sleeping properly since the deadline was moved forward.","bn":"শেষ সময়সীমা এগিয়ে আনার পর থেকে ফারহানের ঠিকমতো ঘুম হচ্ছে না।","words":[{"w":"properly","bn":"ঠিকমতো","pos":"adverb"},{"w":"moved forward","bn":"এগিয়ে আনা হয়েছে","pos":"phrasal verb","base":"move forward"}]},
+            {"id":"02","en":"He hasn't been attending the weekly seminars because they clash with his shifts.","bn":"সাপ্তাহিক সেমিনারগুলো তার কাজের শিফটের সাথে একই সময়ে পড়ায় সে সেগুলোতে যাচ্ছে না।","words":[{"w":"seminars","bn":"আলোচনা সভা, সেমিনার","pos":"noun","base":"seminar"},{"w":"clash with","bn":"একই সময়ে পড়া","pos":"phrasal verb"},{"w":"shifts","bn":"কাজের পালা","pos":"noun","base":"shift"}]},
+            {"id":"03","en":"Kenji hasn't been feeling well lately, so he hasn't been coming to the lab.","bn":"কেনজির কিছুদিন ধরে শরীর ভালো যাচ্ছে না, তাই সে ল্যাবে আসছে না।","words":[{"w":"feeling well","bn":"সুস্থ বোধ করা","pos":"phrase","base":"feel well"},{"w":"lately","bn":"ইদানীং","pos":"adverb"},{"w":"lab","bn":"গবেষণাগার","pos":"noun"}]},
+            {"id":"04","en":"The statistics software hasn't been working properly since the last university update.","bn":"বিশ্ববিদ্যালয়ের সর্বশেষ আপডেটের পর থেকে পরিসংখ্যানের সফটওয়্যারটা ঠিকমতো কাজ করছে না।","words":[{"w":"statistics","bn":"পরিসংখ্যান","pos":"noun"},{"w":"update","bn":"হালনাগাদ, আপডেট","pos":"noun"}]},
+            {"id":"05","en":"Farhan hasn't been eating proper meals; he has been living on instant noodles.","bn":"ফারহান ঠিকমতো খাবার খাচ্ছে না; সে ইনস্ট্যান্ট নুডলস খেয়ে দিন কাটাচ্ছে।","words":[{"w":"proper meals","bn":"ঠিকঠাক খাবার","pos":"noun","base":"proper meal"},{"w":"living on","bn":"খেয়ে দিন কাটাচ্ছে","pos":"phrasal verb","base":"live on"}]},
+            {"id":"06","en":"Nabila hasn't been getting much sleep while she has been writing her personal statement.","bn":"পার্সোনাল স্টেটমেন্ট লেখার এই সময়টায় নাবিলার খুব একটা ঘুম হচ্ছে না।","words":[{"w":"getting much sleep","bn":"বেশি ঘুমাতে পারা","pos":"phrase","base":"get much sleep"},{"w":"personal statement","bn":"ব্যক্তিগত বিবরণী","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Has/Have + subject + been + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে Has বা Have শুরুতে বসে, তারপর subject, been ও verb-ing।",
+          "items": [
+            {"id":"01","en":"Has Farhan been keeping a record of all the sources he has been reading?","bn":"ফারহান কি যেসব উৎস পড়ছে, সেগুলোর একটা হিসাব রাখছে?","words":[{"w":"keeping a record","bn":"হিসাব রাখা","pos":"phrase","base":"keep a record"},{"w":"sources","bn":"তথ্যসূত্র","pos":"noun","base":"source"}]},
+            {"id":"02","en":"Have you been backing up your thesis files to the cloud every evening?","bn":"তুমি কি প্রতি সন্ধ্যায় তোমার থিসিসের ফাইলগুলো ক্লাউডে ব্যাকআপ রাখছ?","words":[{"w":"backing up","bn":"ব্যাকআপ রাখছ","pos":"phrasal verb","base":"back up"},{"w":"cloud","bn":"অনলাইন সংরক্ষণাগার","pos":"noun"}]},
+            {"id":"03","en":"Has Professor Clarke been replying to his emails quickly during the holidays?","bn":"ছুটির মধ্যেও কি প্রফেসর ক্লার্ক তার ইমেইলের দ্রুত উত্তর দিচ্ছেন?","words":[{"w":"replying to","bn":"উত্তর দিচ্ছেন","pos":"phrasal verb","base":"reply to"},{"w":"during","bn":"চলাকালে","pos":"preposition"}]},
+            {"id":"04","en":"Have Farhan and Kenji been sharing the cooking since the new term started?","bn":"নতুন সেমিস্টার শুরু হওয়ার পর থেকে ফারহান আর কেনজি কি ভাগাভাগি করে রান্না করছে?","words":[{"w":"sharing","bn":"ভাগাভাগি করছে","pos":"verb","base":"share"},{"w":"term","bn":"সেমিস্টার, শিক্ষাপর্ব","pos":"noun"}]},
+            {"id":"05","en":"Has the cold, dark weather been affecting Farhan's motivation to study lately?","bn":"ইদানীং ঠান্ডা আর অন্ধকার আবহাওয়া কি ফারহানের পড়ার আগ্রহে প্রভাব ফেলছে?","words":[{"w":"affecting","bn":"প্রভাব ফেলছে","pos":"verb","base":"affect"},{"w":"motivation","bn":"আগ্রহ, অনুপ্রেরণা","pos":"noun"}]},
+            {"id":"06","en":"Has Nabila been preparing for the IELTS test alongside her final-year classes?","bn":"নাবিলা কি শেষ বর্ষের ক্লাসের পাশাপাশি আইইএলটিএস পরীক্ষার প্রস্তুতি নিচ্ছে?","words":[{"w":"alongside","bn":"পাশাপাশি","pos":"preposition"},{"w":"final-year","bn":"শেষ বর্ষের","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + has/have + subject + been + verb-ing?",
+          "tipBn": "প্রশ্নশব্দের পরে has/have, তারপর subject ও been + verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"How long has Farhan been collecting water samples for his research?","bn":"ফারহান কতদিন ধরে তার গবেষণার জন্য পানির নমুনা সংগ্রহ করছে?","words":[{"w":"collecting","bn":"সংগ্রহ করছে","pos":"verb","base":"collect"},{"w":"samples","bn":"নমুনা","pos":"noun","base":"sample"}]},
+            {"id":"02","en":"Why has he been staying up so late in the library recently?","bn":"ইদানীং সে লাইব্রেরিতে এত রাত পর্যন্ত জেগে থাকছে কেন?","words":[{"w":"staying up","bn":"জেগে থাকছে","pos":"phrasal verb","base":"stay up"},{"w":"recently","bn":"সম্প্রতি","pos":"adverb"}]},
+            {"id":"03","en":"What has Professor Clarke been asking him to change in the methodology chapter?","bn":"প্রফেসর ক্লার্ক তাকে পদ্ধতি অধ্যায়ে কী কী বদলাতে বলছেন?","words":[{"w":"methodology","bn":"গবেষণা পদ্ধতি","pos":"noun"},{"w":"chapter","bn":"অধ্যায়","pos":"noun"}]},
+            {"id":"04","en":"Who has Farhan been turning to when he gets stuck with statistics?","bn":"পরিসংখ্যানে আটকে গেলে ফারহান কার কাছে সাহায্য চাইছে?","words":[{"w":"turning to","bn":"সাহায্য চাইছে","pos":"phrasal verb","base":"turn to"},{"w":"gets stuck","bn":"আটকে যায়","pos":"phrase","base":"get stuck"}]},
+            {"id":"05","en":"Where has Nabila been looking for fully funded master's programs in Europe?","bn":"নাবিলা ইউরোপে পূর্ণ অর্থায়নের মাস্টার্স প্রোগ্রাম কোথায় কোথায় খুঁজছে?","words":[{"w":"fully funded","bn":"পূর্ণ অর্থায়িত","pos":"adjective"},{"w":"programs","bn":"শিক্ষা কার্যক্রম","pos":"noun","base":"program"}]},
+            {"id":"06","en":"How has Farhan been managing his time between work and research?","bn":"ফারহান কাজ আর গবেষণার মধ্যে কীভাবে সময় সামলাচ্ছে?","words":[{"w":"managing","bn":"সামলাচ্ছে","pos":"verb","base":"manage"},{"w":"research","bn":"গবেষণা","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences, mostly has/have been + verb-ing.",
+          "tipBn": "অনুচ্ছেদে has/have been + verb-ing দিয়ে কিছুদিন ধরে চলতে থাকা কাজগুলো বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Life in the library","en":"Farhan has been living in Manchester for almost a year now. For the last three months, he has been spending nearly every evening on the fourth floor of the university library. He has been reading dozens of journal articles and taking careful notes. The librarians have been helping him find old reports on coastal Bangladesh. Slowly, his literature review has been taking shape.","bn":"ফারহান এখন প্রায় এক বছর ধরে ম্যানচেস্টারে থাকছে। গত তিন মাস ধরে সে প্রায় প্রতিটা সন্ধ্যা বিশ্ববিদ্যালয়ের লাইব্রেরির চতুর্থ তলায় কাটাচ্ছে। সে কয়েক ডজন জার্নাল প্রবন্ধ পড়ছে আর যত্ন করে নোট নিচ্ছে। লাইব্রেরিয়ানরা তাকে উপকূলীয় বাংলাদেশ নিয়ে পুরোনো প্রতিবেদন খুঁজে পেতে সাহায্য করছেন। ধীরে ধীরে তার সাহিত্য পর্যালোচনা একটা রূপ পাচ্ছে।","words":[{"w":"dozens of","bn":"কয়েক ডজন","pos":"phrase"},{"w":"journal articles","bn":"জার্নালের প্রবন্ধ","pos":"noun","base":"journal article"},{"w":"librarians","bn":"গ্রন্থাগারিক","pos":"noun","base":"librarian"},{"w":"literature review","bn":"পূর্ববর্তী গবেষণার পর্যালোচনা","pos":"noun"},{"w":"taking shape","bn":"রূপ পাচ্ছে","pos":"idiom","base":"take shape"}]},
+            {"id":"02","title":"Juggling work and research","en":"To pay his rent, Farhan has been working twenty hours a week at a supermarket. As a result, he has been falling behind with his data analysis. He has been writing at night and on weekends, but he has been feeling exhausted. Kenji has been reminding him to take breaks. Professor Clarke has also been encouraging him to ask for an extension if he needs one.","bn":"বাসাভাড়া দিতে ফারহান সপ্তাহে ২০ ঘণ্টা একটা সুপারমার্কেটে কাজ করছে। ফলে সে তার ডেটা বিশ্লেষণে পিছিয়ে পড়ছে। সে রাতে আর ছুটির দিনে লিখছে, কিন্তু খুব ক্লান্ত বোধ করছে। কেনজি তাকে বারবার বিরতি নেওয়ার কথা মনে করিয়ে দিচ্ছে। প্রফেসর ক্লার্কও তাকে উৎসাহ দিচ্ছেন, দরকার হলে সে যেন সময় বাড়ানোর আবেদন করে।","words":[{"w":"rent","bn":"বাসাভাড়া","pos":"noun"},{"w":"falling behind","bn":"পিছিয়ে পড়ছে","pos":"phrasal verb","base":"fall behind"},{"w":"exhausted","bn":"অত্যন্ত ক্লান্ত","pos":"adjective"},{"w":"encouraging","bn":"উৎসাহ দিচ্ছেন","pos":"verb","base":"encourage"},{"w":"extension","bn":"সময় বৃদ্ধি","pos":"noun"}]},
+            {"id":"03","title":"Nabila's applications","en":"Back in Khulna, Nabila has been applying for scholarships to study public health. She has been video-calling Farhan every Sunday to ask for advice. He has been reading her personal statement and suggesting changes. Meanwhile, she has been taking IELTS classes at a center near her home. Their parents have been saving money for her application fees.","bn":"ওদিকে খুলনায় নাবিলা জনস্বাস্থ্য পড়ার জন্য বৃত্তির আবেদন করছে। পরামর্শ নিতে সে প্রতি রবিবার ফারহানকে ভিডিও কল দিচ্ছে। ফারহান তার পার্সোনাল স্টেটমেন্ট পড়ছে আর কিছু পরিবর্তনের পরামর্শ দিচ্ছে। এর মধ্যে সে বাসার কাছের একটা সেন্টারে আইইএলটিএস ক্লাস করছে। তাদের মা-বাবা তার আবেদন ফির জন্য টাকা জমাচ্ছেন।","words":[{"w":"public health","bn":"জনস্বাস্থ্য","pos":"noun"},{"w":"personal statement","bn":"ব্যক্তিগত বিবরণী","pos":"noun"},{"w":"suggesting","bn":"পরামর্শ দিচ্ছে","pos":"verb","base":"suggest"},{"w":"Meanwhile","bn":"এর মধ্যে","pos":"adverb"},{"w":"application fees","bn":"আবেদন ফি","pos":"noun","base":"application fee"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-perfect",
+      "focus": "Look back on the road to Manchester and deadline night",
+      "focusBn": "ম্যানচেস্টারে আসার পথ আর শেষ তারিখের রাতের দিকে ফিরে তাকানো",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + had + past participle (+ before/by the time/after ...).",
+          "tipBn": "অতীতের দুটি ঘটনার মধ্যে যেটা আগে ঘটেছিল, সেটা বলতে had + past participle হয়।",
+          "items": [
+            {"id":"01","en":"By the time Farhan landed in Manchester, he had already found a room near campus.","bn":"ফারহান ম্যানচেস্টারে নামার আগেই ক্যাম্পাসের কাছে একটা রুম খুঁজে নিয়েছিল।","words":[{"w":"By the time","bn":"যতক্ষণে, তার আগেই","pos":"phrase"},{"w":"landed","bn":"বিমান থেকে নামল","pos":"verb","base":"land"}]},
+            {"id":"02","en":"He had completed a two-year research project in Khulna before he applied for the scholarship.","bn":"বৃত্তির জন্য আবেদন করার আগে সে খুলনায় দুই বছরের একটা গবেষণা প্রকল্প শেষ করেছিল।","words":[{"w":"completed","bn":"সম্পন্ন করেছিল","pos":"verb","base":"complete"},{"w":"applied for","bn":"আবেদন করল","pos":"phrasal verb","base":"apply for"}]},
+            {"id":"03","en":"Professor Clarke had read his proposal carefully before she agreed to supervise him.","bn":"তার তত্ত্বাবধায়ক হতে রাজি হওয়ার আগে প্রফেসর ক্লার্ক তার গবেষণা প্রস্তাবটি মন দিয়ে পড়েছিলেন।","words":[{"w":"proposal","bn":"গবেষণা প্রস্তাব","pos":"noun"},{"w":"supervise","bn":"তত্ত্বাবধান করা","pos":"verb"}]},
+            {"id":"04","en":"After Farhan had collected all his samples, he flew back to Manchester to finish the analysis.","bn":"সব নমুনা সংগ্রহ করার পর ফারহান বিশ্লেষণ শেষ করতে বিমানে ম্যানচেস্টারে ফিরে গেল।","words":[{"w":"collected","bn":"সংগ্রহ করেছিল","pos":"verb","base":"collect"},{"w":"samples","bn":"নমুনা","pos":"noun","base":"sample"},{"w":"analysis","bn":"বিশ্লেষণ","pos":"noun"}]},
+            {"id":"05","en":"Kenji had lived in London for two years, so he knew exactly how British universities worked.","bn":"কেনজি দুই বছর লন্ডনে থেকেছিল, তাই ব্রিটিশ বিশ্ববিদ্যালয়গুলো কীভাবে চলে, তা সে ভালোভাবেই জানত।","words":[{"w":"exactly","bn":"ঠিক ঠিক","pos":"adverb"},{"w":"worked","bn":"চলত","pos":"verb","base":"work"}]},
+            {"id":"06","en":"By the end of the first term, Farhan had made friends from twelve different countries.","bn":"প্রথম সেমিস্টারের শেষ নাগাদ ফারহান ১২টি ভিন্ন দেশের মানুষের সাথে বন্ধুত্ব করে ফেলেছিল।","words":[{"w":"term","bn":"সেমিস্টার, শিক্ষাপর্ব","pos":"noun"},{"w":"made friends","bn":"বন্ধুত্ব করেছিল","pos":"phrase","base":"make friends"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hadn't / had never + past participle ...",
+          "tipBn": "had এর পরে not বা never বসিয়ে আগের অতীতের কাজকে না-বোধক করা হয়।",
+          "items": [
+            {"id":"01","en":"Farhan had never written an academic essay in English before he started his master's.","bn":"মাস্টার্স শুরু করার আগে ফারহান কখনো ইংরেজিতে একাডেমিক প্রবন্ধ লেখেনি।","words":[{"w":"academic","bn":"শিক্ষাগত, একাডেমিক","pos":"adjective"},{"w":"master's","bn":"স্নাতকোত্তর","pos":"noun"}]},
+            {"id":"02","en":"He hadn't realized how expensive rent was in Manchester until he saw the first bill.","bn":"প্রথম বিলটা দেখার আগ পর্যন্ত সে বুঝতে পারেনি ম্যানচেস্টারে বাসাভাড়া কত বেশি।","words":[{"w":"realized","bn":"বুঝতে পেরেছিল","pos":"verb","base":"realize"},{"w":"rent","bn":"বাসাভাড়া","pos":"noun"},{"w":"until","bn":"যতক্ষণ না","pos":"conjunction"}]},
+            {"id":"03","en":"By midnight on the deadline day, Farhan still hadn't finished formatting his references.","bn":"শেষ দিনের মধ্যরাত পর্যন্তও ফারহান তার রেফারেন্সগুলোর ফরম্যাটিং শেষ করতে পারেনি।","words":[{"w":"formatting","bn":"বিন্যাস করা","pos":"verb","base":"format"},{"w":"references","bn":"তথ্যসূত্র","pos":"noun","base":"reference"}]},
+            {"id":"04","en":"Kenji hadn't backed up his laptop, so he lost a whole week of work.","bn":"কেনজি তার ল্যাপটপের ব্যাকআপ রাখেনি, তাই সে পুরো এক সপ্তাহের কাজ হারিয়েছিল।","words":[{"w":"backed up","bn":"ব্যাকআপ রেখেছিল","pos":"phrasal verb","base":"back up"},{"w":"lost","bn":"হারিয়েছিল","pos":"verb","base":"lose"}]},
+            {"id":"05","en":"Nabila hadn't heard of the scholarship until her brother told her about it.","bn":"ভাই বলার আগ পর্যন্ত নাবিলা বৃত্তিটার কথা শোনেনি।","words":[{"w":"heard of","bn":"নাম শুনেছিল","pos":"phrasal verb","base":"hear of"},{"w":"scholarship","bn":"বৃত্তি","pos":"noun"}]},
+            {"id":"06","en":"The examiners hadn't received his thesis because the online portal had crashed.","bn":"অনলাইন পোর্টালটা বিকল হয়ে যাওয়ায় পরীক্ষকেরা তার থিসিস পাননি।","words":[{"w":"examiners","bn":"পরীক্ষক","pos":"noun","base":"examiner"},{"w":"portal","bn":"অনলাইন পোর্টাল","pos":"noun"},{"w":"crashed","bn":"বিকল হয়েছিল","pos":"verb","base":"crash"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Hadn't + subject + past participle ...? / Why hadn't + subject + past participle ...?",
+          "tipBn": "অবাক হয়ে বা নিশ্চিত হতে Hadn't দিয়ে প্রশ্ন শুরু হয়; Why hadn't দিয়ে কারণ জানতে চাওয়া হয়।",
+          "items": [
+            {"id":"01","en":"Hadn't Farhan already submitted his research proposal when the rules changed?","bn":"নিয়ম বদলানোর আগেই কি ফারহান তার গবেষণা প্রস্তাব জমা দিয়ে ফেলেনি?","words":[{"w":"submitted","bn":"জমা দিয়েছিল","pos":"verb","base":"submit"},{"w":"proposal","bn":"গবেষণা প্রস্তাব","pos":"noun"}]},
+            {"id":"02","en":"Hadn't you visited the UK at least once before you won the scholarship?","bn":"বৃত্তি পাওয়ার আগে কি তুমি অন্তত একবার যুক্তরাজ্যে যাওনি?","words":[{"w":"at least once","bn":"অন্তত একবার","pos":"phrase"},{"w":"won","bn":"পেয়েছিলে, জিতেছিলে","pos":"verb","base":"win"}]},
+            {"id":"03","en":"Hadn't Professor Clarke warned the whole class about the strict word limit?","bn":"প্রফেসর ক্লার্ক কি পুরো ক্লাসকে কড়া শব্দসীমার ব্যাপারে সতর্ক করেননি?","words":[{"w":"warned","bn":"সতর্ক করেছিলেন","pos":"verb","base":"warn"},{"w":"word limit","bn":"শব্দসীমা","pos":"noun"}]},
+            {"id":"04","en":"Hadn't Kenji finished his own literature review before he started helping Farhan?","bn":"ফারহানকে সাহায্য করা শুরুর আগে কি কেনজি নিজের সাহিত্য পর্যালোচনা শেষ করেনি?","words":[{"w":"own","bn":"নিজের","pos":"adjective"},{"w":"literature review","bn":"পূর্ববর্তী গবেষণার পর্যালোচনা","pos":"noun"}]},
+            {"id":"05","en":"Why hadn't Farhan told his parents that he was struggling with the course?","bn":"কোর্সে যে সে হিমশিম খাচ্ছিল, ফারহান কেন তা মা-বাবাকে জানায়নি?","words":[{"w":"struggling","bn":"হিমশিম খাচ্ছিল","pos":"verb","base":"struggle"},{"w":"course","bn":"কোর্স, পাঠক্রম","pos":"noun"}]},
+            {"id":"06","en":"Hadn't Nabila already taken the IELTS test when the application window opened?","bn":"আবেদনের সময় শুরু হওয়ার আগেই কি নাবিলা আইইএলটিএস পরীক্ষা দিয়ে ফেলেনি?","words":[{"w":"already","bn":"আগেই","pos":"adverb"},{"w":"application window","bn":"আবেদনের সময়কাল","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + had + subject + past participle ...?",
+          "tipBn": "প্রশ্নশব্দের পরে had, তারপর subject ও past participle বসে।",
+          "items": [
+            {"id":"01","en":"What had Farhan studied in Khulna before he came to Manchester for his master's?","bn":"মাস্টার্স করতে ম্যানচেস্টারে আসার আগে ফারহান খুলনায় কী পড়েছিল?","words":[{"w":"studied","bn":"পড়েছিল","pos":"verb","base":"study"},{"w":"master's","bn":"স্নাতকোত্তর","pos":"noun"}]},
+            {"id":"02","en":"How many chapters had he written by the end of March?","bn":"মার্চের শেষ নাগাদ সে কয়টা অধ্যায় লিখে ফেলেছিল?","words":[{"w":"chapters","bn":"অধ্যায়","pos":"noun","base":"chapter"},{"w":"by the end of","bn":"শেষ নাগাদ","pos":"phrase"}]},
+            {"id":"03","en":"Why had his supervisor asked him to rewrite the introduction before the summer?","bn":"গ্রীষ্মের আগে তার তত্ত্বাবধায়ক কেন তাকে ভূমিকাটা আবার লিখতে বলেছিলেন?","words":[{"w":"supervisor","bn":"তত্ত্বাবধায়ক","pos":"noun"},{"w":"rewrite","bn":"আবার লেখা","pos":"verb"}]},
+            {"id":"04","en":"Where had Kenji worked before he decided to do a PhD?","bn":"পিএইচডি করার সিদ্ধান্ত নেওয়ার আগে কেনজি কোথায় কাজ করেছিল?","words":[{"w":"decided","bn":"সিদ্ধান্ত নিল","pos":"verb","base":"decide"},{"w":"PhD","bn":"ডক্টরেট ডিগ্রি","pos":"noun"}]},
+            {"id":"05","en":"Who had told Nabila about the fully funded program in Germany?","bn":"জার্মানির পূর্ণ অর্থায়নের প্রোগ্রামটার কথা নাবিলাকে কে বলেছিল?","words":[{"w":"fully funded","bn":"পূর্ণ অর্থায়িত","pos":"adjective"},{"w":"program","bn":"শিক্ষা কার্যক্রম","pos":"noun"}]},
+            {"id":"06","en":"How long had Farhan been abroad before he finally felt at home?","bn":"শেষ পর্যন্ত নিজেকে ঘরের মতো স্বস্তিতে অনুভব করার আগে ফারহান কতদিন বিদেশে ছিল?","words":[{"w":"abroad","bn":"বিদেশে","pos":"adverb"},{"w":"felt at home","bn":"স্বস্তি বোধ করল","pos":"idiom","base":"feel at home"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences, mostly had + past participle.",
+          "tipBn": "অনুচ্ছেদে had + past participle দিয়ে আগের অতীত, আর past simple দিয়ে পরের ঘটনা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"The road to Manchester","en":"Before Farhan won the scholarship, he had applied to nine universities in four countries. Four of them had rejected him, and he had almost given up. Then a long-awaited email arrived from Manchester. By the time he finished reading it, his mother had already started crying with joy. He had never felt so proud in his whole life.","bn":"বৃত্তি পাওয়ার আগে ফারহান ৪টি দেশের ৯টি বিশ্ববিদ্যালয়ে আবেদন করেছিল। এর মধ্যে ৪টি তাকে প্রত্যাখ্যান করেছিল, আর সে প্রায় হাল ছেড়ে দিয়েছিল। তারপর ম্যানচেস্টার থেকে বহু প্রতীক্ষিত একটা ইমেইল এল। সে পড়া শেষ করার আগেই তার মা আনন্দে কাঁদতে শুরু করেছিলেন। এর আগে পুরো জীবনে সে কখনো এতটা গর্ব অনুভব করেনি।","words":[{"w":"rejected","bn":"প্রত্যাখ্যান করেছিল","pos":"verb","base":"reject"},{"w":"given up","bn":"হাল ছেড়ে দিয়েছিল","pos":"phrasal verb","base":"give up"},{"w":"long-awaited","bn":"বহু প্রতীক্ষিত","pos":"adjective"},{"w":"joy","bn":"আনন্দ","pos":"noun"},{"w":"proud","bn":"গর্বিত","pos":"adjective"}]},
+            {"id":"02","title":"Deadline night","en":"On the night of the deadline, Farhan had been awake for almost twenty hours. He had checked every table twice and had fixed the last broken reference. Just before midnight, he clicked the submit button. Unfortunately, the portal had crashed ten minutes earlier because thousands of students had tried to upload their work at once. Luckily, the department had already extended the deadline by a day.","bn":"শেষ তারিখের রাতে ফারহান প্রায় ২০ ঘণ্টা ধরে জেগে ছিল। সে প্রতিটা টেবিল দুবার মিলিয়ে দেখেছিল আর শেষ ভুল রেফারেন্সটাও ঠিক করেছিল। মধ্যরাতের ঠিক আগে সে সাবমিট বোতামে ক্লিক করল। দুর্ভাগ্যবশত, হাজার হাজার শিক্ষার্থী একসাথে তাদের কাজ আপলোড করার চেষ্টা করায় ১০ মিনিট আগেই পোর্টালটা বিকল হয়ে গিয়েছিল। ভাগ্য ভালো, বিভাগ আগেই শেষ তারিখ এক দিন বাড়িয়ে দিয়েছিল।","words":[{"w":"awake","bn":"জেগে","pos":"adjective"},{"w":"reference","bn":"তথ্যসূত্র","pos":"noun"},{"w":"portal","bn":"অনলাইন পোর্টাল","pos":"noun"},{"w":"at once","bn":"একসাথে","pos":"phrase"},{"w":"extended","bn":"বাড়িয়ে দিয়েছিল","pos":"verb","base":"extend"}]},
+            {"id":"03","title":"Kenji's lesson","en":"Kenji had nearly finished his PhD when disaster struck. His laptop was stolen from a coffee shop, and he hadn't saved a copy of his latest chapter anywhere. He had lost three months of writing in a single afternoon. After that, he made Farhan promise to back up his files every day. Farhan had never taken backups seriously until he heard this story.","bn":"কেনজির পিএইচডি প্রায় শেষ হয়ে এসেছিল, ঠিক তখনই বিপর্যয় নেমে এল। একটা কফি শপ থেকে তার ল্যাপটপ চুরি হয়ে গেল, আর সে তার সর্বশেষ অধ্যায়ের কোনো কপি কোথাও রাখেনি। এক বিকেলেই সে তিন মাসের লেখা হারিয়ে ফেলেছিল। এরপর সে ফারহানকে কথা দিতে বলল যে সে প্রতিদিন তার ফাইলের ব্যাকআপ রাখবে। এই গল্প শোনার আগে ফারহান কখনো ব্যাকআপকে গুরুত্ব দেয়নি।","words":[{"w":"disaster struck","bn":"বিপর্যয় নেমে এল","pos":"idiom","base":"disaster strike"},{"w":"stolen","bn":"চুরি হয়েছিল","pos":"verb","base":"steal"},{"w":"latest","bn":"সর্বশেষ","pos":"adjective"},{"w":"back up","bn":"ব্যাকআপ রাখা","pos":"phrasal verb"},{"w":"seriously","bn":"গুরুত্ব দিয়ে","pos":"adverb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "passive",
+      "focus": "Explain how theses, papers and applications are handled",
+      "focusBn": "থিসিস, গবেষণাপত্র আর আবেদন কীভাবে প্রক্রিয়া করা হয় তা ব্যাখ্যা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + is/was/has been/will be/must be + past participle (+ by ...).",
+          "tipBn": "কাজটা কে করছে তার চেয়ে কাজটাই জরুরি হলে be + past participle দিয়ে passive বাক্য হয়।",
+          "items": [
+            {"id":"01","en":"All theses must be submitted through the online portal by five o'clock on Friday.","bn":"সব থিসিস অবশ্যই শুক্রবার বিকেল ৫টার মধ্যে অনলাইন পোর্টালের মাধ্যমে জমা দিতে হবে।","words":[{"w":"theses","bn":"থিসিস","pos":"noun","base":"thesis"},{"w":"submitted","bn":"জমা দেওয়া","pos":"verb","base":"submit"},{"w":"portal","bn":"অনলাইন পোর্টাল","pos":"noun"}]},
+            {"id":"02","en":"Farhan's thesis is being reviewed by two external examiners this month.","bn":"এই মাসে দুজন বহিরাগত পরীক্ষক ফারহানের থিসিস মূল্যায়ন করছেন।","words":[{"w":"being reviewed","bn":"মূল্যায়ন করা হচ্ছে","pos":"phrase","base":"be reviewed"},{"w":"external examiners","bn":"বহিরাগত পরীক্ষক","pos":"noun","base":"external examiner"}]},
+            {"id":"03","en":"His first research paper was accepted by an international journal last spring.","bn":"গত বসন্তে তার প্রথম গবেষণাপত্রটি একটা আন্তর্জাতিক জার্নালে গৃহীত হয়েছিল।","words":[{"w":"accepted","bn":"গৃহীত","pos":"verb","base":"accept"},{"w":"journal","bn":"গবেষণা পত্রিকা","pos":"noun"}]},
+            {"id":"04","en":"The scholarship is funded by the British government and covers tuition and living costs.","bn":"বৃত্তিটি ব্রিটিশ সরকারের অর্থায়নে দেওয়া হয় এবং এতে টিউশন ফি ও থাকা-খাওয়ার খরচ দুটোই অন্তর্ভুক্ত।","words":[{"w":"funded","bn":"অর্থায়ন করা হয়","pos":"verb","base":"fund"},{"w":"tuition","bn":"টিউশন ফি","pos":"noun"},{"w":"living costs","bn":"থাকা-খাওয়ার খরচ","pos":"noun"}]},
+            {"id":"05","en":"Every source has to be cited correctly, and all essays are checked for plagiarism.","bn":"প্রতিটা উৎস সঠিকভাবে উল্লেখ করতে হয়, আর সব প্রবন্ধ লেখাচুরির জন্য যাচাই করা হয়।","words":[{"w":"cited","bn":"উল্লেখ করা","pos":"verb","base":"cite"},{"w":"plagiarism","bn":"লেখাচুরি","pos":"noun"}]},
+            {"id":"06","en":"The final results will be announced on the department website in early September.","bn":"চূড়ান্ত ফলাফল সেপ্টেম্বরের শুরুতে বিভাগের ওয়েবসাইটে ঘোষণা করা হবে।","words":[{"w":"announced","bn":"ঘোষণা করা","pos":"verb","base":"announce"},{"w":"department","bn":"বিভাগ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + is not/wasn't/hasn't been/won't be + past participle ...",
+          "tipBn": "be-verb বা has/will এর পরে not বসিয়ে passive বাক্যকে না-বোধক করা হয়।",
+          "items": [
+            {"id":"01","en":"Late submissions are not accepted unless a valid medical certificate is provided.","bn":"বৈধ মেডিকেল সনদ দেওয়া না হলে দেরিতে জমা দেওয়া কাজ গ্রহণ করা হয় না।","words":[{"w":"submissions","bn":"জমা দেওয়া কাজ","pos":"noun","base":"submission"},{"w":"unless","bn":"যদি না","pos":"conjunction"},{"w":"valid","bn":"বৈধ","pos":"adjective"}]},
+            {"id":"02","en":"Farhan's samples weren't collected during the monsoon, so the salinity levels were higher.","bn":"ফারহানের নমুনাগুলো বর্ষাকালে সংগ্রহ করা হয়নি, তাই লবণাক্ততার মাত্রা বেশি ছিল।","words":[{"w":"collected","bn":"সংগ্রহ করা","pos":"verb","base":"collect"},{"w":"salinity levels","bn":"লবণাক্ততার মাত্রা","pos":"noun","base":"salinity level"}]},
+            {"id":"03","en":"The final chapter hasn't been approved by his supervisor, so he can't submit it yet.","bn":"শেষ অধ্যায়টা তার তত্ত্বাবধায়ক এখনো অনুমোদন করেননি, তাই সে এখনই সেটা জমা দিতে পারছে না।","words":[{"w":"approved","bn":"অনুমোদিত","pos":"verb","base":"approve"},{"w":"supervisor","bn":"তত্ত্বাবধায়ক","pos":"noun"}]},
+            {"id":"04","en":"Kenji's stolen laptop was never found, even though the theft was reported immediately.","bn":"চুরির কথা সঙ্গে সঙ্গে জানানো হলেও কেনজির চুরি যাওয়া ল্যাপটপটা আর কখনো পাওয়া যায়নি।","words":[{"w":"theft","bn":"চুরি","pos":"noun"},{"w":"reported","bn":"জানানো হয়েছিল","pos":"verb","base":"report"},{"w":"immediately","bn":"সঙ্গে সঙ্গে","pos":"adverb"}]},
+            {"id":"05","en":"Students are not allowed to use AI tools to write their assessed essays.","bn":"মূল্যায়নযোগ্য প্রবন্ধ লিখতে শিক্ষার্থীদের এআই টুল ব্যবহারের অনুমতি দেওয়া হয় না।","words":[{"w":"allowed","bn":"অনুমতি দেওয়া","pos":"verb","base":"allow"},{"w":"assessed","bn":"মূল্যায়নযোগ্য","pos":"adjective"}]},
+            {"id":"06","en":"Nabila's application won't be considered unless her IELTS score is sent before March.","bn":"মার্চের আগে নাবিলার আইইএলটিএস স্কোর পাঠানো না হলে তার আবেদন বিবেচনা করা হবে না।","words":[{"w":"considered","bn":"বিবেচনা করা","pos":"verb","base":"consider"},{"w":"unless","bn":"যদি না","pos":"conjunction"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Is/Was/Has/Will + subject + (been/be) + past participle ...?",
+          "tipBn": "passive প্রশ্নে be-verb, has বা will বাক্যের শুরুতে চলে আসে।",
+          "items": [
+            {"id":"01","en":"Was Farhan's thesis finally submitted before the extended deadline passed on Friday?","bn":"শুক্রবার বাড়ানো সময়সীমা পেরোনোর আগে কি শেষ পর্যন্ত ফারহানের থিসিস জমা দেওয়া হয়েছিল?","words":[{"w":"submitted","bn":"জমা দেওয়া","pos":"verb","base":"submit"},{"w":"extended","bn":"বাড়ানো","pos":"adjective"}]},
+            {"id":"02","en":"Is the scholarship renewed automatically if a student keeps getting good grades?","bn":"কোনো শিক্ষার্থী ভালো গ্রেড পেতে থাকলে কি বৃত্তিটি আপনা-আপনি নবায়ন করা হয়?","words":[{"w":"renewed","bn":"নবায়ন করা","pos":"verb","base":"renew"},{"w":"automatically","bn":"আপনা-আপনি","pos":"adverb"}]},
+            {"id":"03","en":"Has his research paper on river salinity been published online yet?","bn":"নদীর লবণাক্ততা নিয়ে তার গবেষণাপত্রটি কি এখনো অনলাইনে প্রকাশ করা হয়েছে?","words":[{"w":"research paper","bn":"গবেষণাপত্র","pos":"noun"},{"w":"published","bn":"প্রকাশিত","pos":"verb","base":"publish"}]},
+            {"id":"04","en":"Will the students be told their results by email or by post?","bn":"শিক্ষার্থীদের কি ফলাফল ইমেইলে জানানো হবে, নাকি ডাকযোগে?","words":[{"w":"be told","bn":"জানানো হবে","pos":"phrase"},{"w":"by post","bn":"ডাকযোগে","pos":"phrase"}]},
+            {"id":"05","en":"Are the exam papers marked anonymously by more than one examiner at this university?","bn":"এই বিশ্ববিদ্যালয়ে কি পরীক্ষার খাতা নাম গোপন রেখে একাধিক পরীক্ষক দিয়ে মূল্যায়ন করা হয়?","words":[{"w":"marked","bn":"মূল্যায়ন করা","pos":"verb","base":"mark"},{"w":"anonymously","bn":"নাম গোপন রেখে","pos":"adverb"},{"w":"examiner","bn":"পরীক্ষক","pos":"noun"}]},
+            {"id":"06","en":"Were the water samples stored at the correct temperature during the long flight?","bn":"দীর্ঘ বিমানযাত্রার সময় কি পানির নমুনাগুলো সঠিক তাপমাত্রায় সংরক্ষণ করা হয়েছিল?","words":[{"w":"samples","bn":"নমুনা","pos":"noun","base":"sample"},{"w":"stored","bn":"সংরক্ষণ করা","pos":"verb","base":"store"}]}
+          ]
+        },
+        {
+          "type": "indirect-question",
+          "pattern": "Could you tell me / Do you know whether / I wonder if + subject + passive verb ...",
+          "tipBn": "ভদ্রভাবে প্রশ্ন করতে শুরুতে Could you tell me বা Do you know whether বসে, আর ভেতরের অংশে subject আগে এবং verb পরে থাকে।",
+          "items": [
+            {"id":"01","en":"Could you tell me when the thesis results will be published?","bn":"আপনি কি বলতে পারবেন, থিসিসের ফলাফল কবে প্রকাশ করা হবে?","words":[{"w":"Could you tell me","bn":"বলতে পারবেন কি","pos":"phrase"},{"w":"published","bn":"প্রকাশিত","pos":"verb","base":"publish"}]},
+            {"id":"02","en":"Do you know whether late submissions are ever accepted by the department?","bn":"আপনি কি জানেন, বিভাগ কখনো দেরিতে জমা দেওয়া কাজ গ্রহণ করে কি না?","words":[{"w":"whether","bn":"কি না","pos":"conjunction"},{"w":"submissions","bn":"জমা দেওয়া কাজ","pos":"noun","base":"submission"}]},
+            {"id":"03","en":"I wonder if Farhan's paper will be presented at the conference in Berlin.","bn":"ভাবছি, ফারহানের গবেষণাপত্রটি বার্লিনের সম্মেলনে উপস্থাপন করা হবে কি না।","words":[{"w":"wonder if","bn":"ভাবছি কি না","pos":"phrase"},{"w":"presented","bn":"উপস্থাপন করা","pos":"verb","base":"present"},{"w":"conference","bn":"সম্মেলন","pos":"noun"}]},
+            {"id":"04","en":"Can you find out how the scholarship money is transferred to students?","bn":"তুমি কি খোঁজ নিতে পারবে, বৃত্তির টাকা কীভাবে শিক্ষার্থীদের কাছে পাঠানো হয়?","words":[{"w":"find out","bn":"খোঁজ নেওয়া","pos":"phrasal verb"},{"w":"transferred","bn":"স্থানান্তর করা","pos":"verb","base":"transfer"}]},
+            {"id":"05","en":"Nabila would like to know whether her application has been received.","bn":"নাবিলা জানতে চায়, তার আবেদনটি গ্রহণ করা হয়েছে কি না।","words":[{"w":"would like to know","bn":"জানতে চায়","pos":"phrase"},{"w":"received","bn":"গৃহীত, পৌঁছেছে","pos":"verb","base":"receive"}]},
+            {"id":"06","en":"Do you have any idea why the seminar was canceled at the last minute?","bn":"তোমার কি কোনো ধারণা আছে, সেমিনারটা শেষ মুহূর্তে কেন বাতিল করা হলো?","words":[{"w":"have any idea","bn":"কোনো ধারণা থাকা","pos":"phrase"},{"w":"at the last minute","bn":"শেষ মুহূর্তে","pos":"idiom"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences, mostly be + past participle in different tenses.",
+          "tipBn": "অনুচ্ছেদে বিভিন্ন কালের passive বাক্য দিয়ে একটা প্রক্রিয়া বা খবর বর্ণনা করা হয়েছে।",
+          "items": [
+            {"id":"01","title":"How a thesis is examined","en":"At Farhan's university, every master's thesis is checked by plagiarism software first. Then it is sent to two examiners, who are chosen by the department. Their reports are usually returned within six weeks. If changes are requested, the student is given a month to make them. Finally, the corrected thesis is stored in the university library.","bn":"ফারহানের বিশ্ববিদ্যালয়ে প্রতিটা মাস্টার্স থিসিস প্রথমে লেখাচুরি শনাক্তের সফটওয়্যার দিয়ে যাচাই করা হয়। তারপর সেটা দুজন পরীক্ষকের কাছে পাঠানো হয়, যাঁদের বিভাগ থেকে বাছাই করা হয়। তাঁদের প্রতিবেদন সাধারণত ছয় সপ্তাহের মধ্যে ফেরত দেওয়া হয়। কোনো পরিবর্তন চাওয়া হলে শিক্ষার্থীকে তা করার জন্য এক মাস সময় দেওয়া হয়। সবশেষে সংশোধিত থিসিসটি বিশ্ববিদ্যালয়ের লাইব্রেরিতে সংরক্ষণ করা হয়।","words":[{"w":"plagiarism","bn":"লেখাচুরি","pos":"noun"},{"w":"examiners","bn":"পরীক্ষক","pos":"noun","base":"examiner"},{"w":"within","bn":"এর মধ্যে","pos":"preposition"},{"w":"requested","bn":"চাওয়া হয়","pos":"verb","base":"request"},{"w":"corrected","bn":"সংশোধিত","pos":"adjective"}]},
+            {"id":"02","title":"Good news from the journal","en":"Last week, Farhan's first paper was finally accepted by an environmental journal. It had been rejected twice before, but each time it was improved with the reviewers' comments. The paper will be published online next month, and a printed copy will be sent to his old university in Khulna. He was congratulated by the whole department. Even a short article about his work was posted on the university website.","bn":"গত সপ্তাহে ফারহানের প্রথম গবেষণাপত্রটি অবশেষে একটা পরিবেশবিষয়ক জার্নালে গৃহীত হলো। এর আগে এটি দুবার প্রত্যাখ্যাত হয়েছিল, কিন্তু প্রতিবারই পর্যালোচকদের মন্তব্য অনুযায়ী এটিকে উন্নত করা হয়েছিল। গবেষণাপত্রটি আগামী মাসে অনলাইনে প্রকাশ করা হবে, আর একটা ছাপা কপি খুলনায় তার পুরোনো বিশ্ববিদ্যালয়ে পাঠানো হবে। পুরো বিভাগের পক্ষ থেকে তাকে অভিনন্দন জানানো হয়েছিল। এমনকি বিশ্ববিদ্যালয়ের ওয়েবসাইটে তার কাজ নিয়ে একটা ছোট লেখাও প্রকাশ করা হয়েছিল।","words":[{"w":"accepted","bn":"গৃহীত","pos":"verb","base":"accept"},{"w":"journal","bn":"গবেষণা পত্রিকা","pos":"noun"},{"w":"rejected","bn":"প্রত্যাখ্যাত","pos":"verb","base":"reject"},{"w":"printed copy","bn":"ছাপা কপি","pos":"noun"},{"w":"congratulated","bn":"অভিনন্দন জানানো হয়েছিল","pos":"verb","base":"congratulate"}]},
+            {"id":"03","title":"Nabila's scholarship process","en":"Nabila's scholarship application was submitted in January. First, all the documents were checked by the embassy. Then the shortlisted candidates were invited to an online interview in March. The final decisions are made by a committee in London, and the winners are informed by email. Nabila's result will be announced in the second week of May.","bn":"নাবিলার বৃত্তির আবেদন জানুয়ারিতে জমা দেওয়া হয়েছিল। প্রথমে দূতাবাসের পক্ষ থেকে সব কাগজপত্র যাচাই করা হয়েছিল। তারপর বাছাই হওয়া প্রার্থীদের মার্চে একটা অনলাইন সাক্ষাৎকারে ডাকা হয়েছিল। চূড়ান্ত সিদ্ধান্ত লন্ডনের একটা কমিটি নেয়, আর বিজয়ীদের ইমেইলের মাধ্যমে জানানো হয়। নাবিলার ফলাফল মে মাসের দ্বিতীয় সপ্তাহে ঘোষণা করা হবে।","words":[{"w":"documents","bn":"কাগজপত্র","pos":"noun","base":"document"},{"w":"embassy","bn":"দূতাবাস","pos":"noun"},{"w":"shortlisted","bn":"প্রাথমিকভাবে বাছাই করা","pos":"adjective"},{"w":"committee","bn":"কমিটি, পর্ষদ","pos":"noun"},{"w":"informed","bn":"জানানো হয়","pos":"verb","base":"inform"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Reflect on regrets and what-ifs in academic life",
+      "focusBn": "পড়াশোনার জীবনের আফসোস আর ভিন্ন সম্ভাবনা নিয়ে ভাবা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + had + past participle, would have + past participle. / If + had + past participle, would + verb (now).",
+          "tipBn": "অতীতের কাল্পনিক শর্তে If + had + past participle আর would have বসে; বর্তমান ফলাফল বোঝাতে mixed conditional-এ would + verb বসে।",
+          "items": [
+            {"id":"01","en":"If Farhan had started writing earlier, he would have finished his thesis on time.","bn":"ফারহান যদি আরও আগে লেখা শুরু করত, তাহলে সময়মতো তার থিসিস শেষ করতে পারত।","words":[{"w":"earlier","bn":"আরও আগে","pos":"adverb"},{"w":"on time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"02","en":"If Kenji had backed up his files, he would have saved three months of work.","bn":"কেনজি যদি তার ফাইলগুলোর ব্যাকআপ রাখত, তাহলে তিন মাসের কাজ বেঁচে যেত।","words":[{"w":"backed up","bn":"ব্যাকআপ রাখত","pos":"phrasal verb","base":"back up"},{"w":"saved","bn":"বাঁচাত","pos":"verb","base":"save"}]},
+            {"id":"03","en":"If Farhan had stayed in Khulna, he would be teaching at a local college now.","bn":"ফারহান যদি খুলনায় থেকে যেত, তাহলে এখন সে স্থানীয় কোনো কলেজে পড়াত।","words":[{"w":"stayed","bn":"থেকে যেত","pos":"verb","base":"stay"},{"w":"local","bn":"স্থানীয়","pos":"adjective"}]},
+            {"id":"04","en":"Nabila would have applied a year earlier if she had known about the program.","bn":"নাবিলা যদি প্রোগ্রামটার কথা জানত, তাহলে এক বছর আগেই আবেদন করত।","words":[{"w":"applied","bn":"আবেদন করত","pos":"verb","base":"apply"},{"w":"known","bn":"জানত","pos":"verb","base":"know"}]},
+            {"id":"05","en":"If Professor Clarke had been less patient, Farhan might have given up last winter.","bn":"প্রফেসর ক্লার্ক যদি কম ধৈর্যশীল হতেন, তাহলে ফারহান হয়তো গত শীতেই হাল ছেড়ে দিত।","words":[{"w":"patient","bn":"ধৈর্যশীল","pos":"adjective"},{"w":"given up","bn":"হাল ছেড়ে দিত","pos":"phrasal verb","base":"give up"}]},
+            {"id":"06","en":"If he had taken a statistics course in his first year, his analysis would be much easier today.","bn":"প্রথম বর্ষে যদি সে পরিসংখ্যানের একটা কোর্স করত, তাহলে আজ তার বিশ্লেষণ অনেক সহজ হতো।","words":[{"w":"statistics course","bn":"পরিসংখ্যানের কোর্স","pos":"noun"},{"w":"analysis","bn":"বিশ্লেষণ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + hadn't + past participle, wouldn't have + past participle / wouldn't + verb (now).",
+          "tipBn": "শর্ত বা ফলাফলের অংশে hadn't বা wouldn't বসিয়ে অতীতের কাল্পনিক বাক্যকে না-বোধক করা হয়।",
+          "items": [
+            {"id":"01","en":"If Farhan hadn't joined the reading group, he wouldn't have met Kenji.","bn":"ফারহান যদি রিডিং গ্রুপে যোগ না দিত, তাহলে কেনজির সাথে তার দেখা হতো না।","words":[{"w":"joined","bn":"যোগ দিত","pos":"verb","base":"join"},{"w":"reading group","bn":"পাঠচক্র","pos":"noun"}]},
+            {"id":"02","en":"Kenji wouldn't have lost his chapter if he hadn't left his laptop unattended.","bn":"কেনজি যদি ল্যাপটপটা অরক্ষিত অবস্থায় ফেলে না যেত, তাহলে তার অধ্যায়টা হারাত না।","words":[{"w":"lost","bn":"হারাত","pos":"verb","base":"lose"},{"w":"unattended","bn":"অরক্ষিত, পাহারাহীন","pos":"adjective"}]},
+            {"id":"03","en":"If Nabila hadn't practiced so hard, she wouldn't have scored 7.5 in IELTS.","bn":"নাবিলা যদি এত পরিশ্রম করে অনুশীলন না করত, তাহলে আইইএলটিএসে ৭.৫ পেত না।","words":[{"w":"practiced","bn":"অনুশীলন করত","pos":"verb","base":"practice"},{"w":"scored","bn":"স্কোর পেত","pos":"verb","base":"score"}]},
+            {"id":"04","en":"If the portal hadn't crashed, nobody would have needed an extension.","bn":"পোর্টালটা যদি বিকল না হতো, তাহলে কারও সময় বাড়ানোর দরকার হতো না।","words":[{"w":"crashed","bn":"বিকল হতো","pos":"verb","base":"crash"},{"w":"extension","bn":"সময় বৃদ্ধি","pos":"noun"}]},
+            {"id":"05","en":"If Farhan hadn't taken a part-time job, he wouldn't be so tired now.","bn":"ফারহান যদি খণ্ডকালীন চাকরি না নিত, তাহলে এখন এত ক্লান্ত থাকত না।","words":[{"w":"part-time","bn":"খণ্ডকালীন","pos":"adjective"},{"w":"tired","bn":"ক্লান্ত","pos":"adjective"}]},
+            {"id":"06","en":"He wouldn't be living in Manchester today if his teacher hadn't encouraged him to apply.","bn":"তার শিক্ষক যদি তাকে আবেদন করতে উৎসাহ না দিতেন, তাহলে আজ সে ম্যানচেস্টারে থাকত না।","words":[{"w":"encouraged","bn":"উৎসাহ দিতেন","pos":"verb","base":"encourage"},{"w":"apply","bn":"আবেদন করা","pos":"verb"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + would + subject + have + past participle + if ...?",
+          "tipBn": "প্রশ্নশব্দের পরে would, তারপর subject ও have + past participle, আর শর্তটা if দিয়ে যোগ হয়।",
+          "items": [
+            {"id":"01","en":"What would Farhan have done if he hadn't won the scholarship?","bn":"ফারহান যদি বৃত্তিটা না পেত, তাহলে সে কী করত?","words":[{"w":"won","bn":"পেত, জিতত","pos":"verb","base":"win"},{"w":"scholarship","bn":"বৃত্তি","pos":"noun"}]},
+            {"id":"02","en":"How would Kenji have felt if he had lost his entire thesis?","bn":"কেনজি যদি তার পুরো থিসিসটাই হারাত, তাহলে তার কেমন লাগত?","words":[{"w":"felt","bn":"অনুভব করত","pos":"verb","base":"feel"},{"w":"entire","bn":"সম্পূর্ণ","pos":"adjective"}]},
+            {"id":"03","en":"Where would Nabila be studying now if she had accepted the first offer?","bn":"নাবিলা যদি প্রথম প্রস্তাবটা গ্রহণ করত, তাহলে এখন সে কোথায় পড়াশোনা করত?","words":[{"w":"accepted","bn":"গ্রহণ করত","pos":"verb","base":"accept"},{"w":"offer","bn":"ভর্তির প্রস্তাব","pos":"noun"}]},
+            {"id":"04","en":"Which university would you have chosen if money hadn't been a problem?","bn":"টাকা যদি কোনো সমস্যা না হতো, তাহলে তুমি কোন বিশ্ববিদ্যালয় বেছে নিতে?","words":[{"w":"chosen","bn":"বেছে নিতে","pos":"verb","base":"choose"},{"w":"problem","bn":"সমস্যা","pos":"noun"}]},
+            {"id":"05","en":"Why would the examiners have failed him if he had missed the deadline?","bn":"সে যদি সময়সীমা পার করে ফেলত, তাহলে পরীক্ষকেরা কেন তাকে ফেল করাতেন?","words":[{"w":"examiners","bn":"পরীক্ষক","pos":"noun","base":"examiner"},{"w":"failed","bn":"ফেল করাতেন","pos":"verb","base":"fail"},{"w":"missed","bn":"পার করে ফেলত","pos":"verb","base":"miss"}]},
+            {"id":"06","en":"Who would have helped Farhan with statistics if Kenji hadn't been his flatmate?","bn":"কেনজি যদি তার ফ্ল্যাটমেট না হতো, তাহলে পরিসংখ্যানে ফারহানকে কে সাহায্য করত?","words":[{"w":"statistics","bn":"পরিসংখ্যান","pos":"noun"},{"w":"flatmate","bn":"একই ফ্ল্যাটের সঙ্গী","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences with third and mixed conditionals.",
+          "tipBn": "অনুচ্ছেদে third ও mixed conditional দিয়ে অতীতের ভিন্ন সিদ্ধান্ত আর তার ফলাফল কল্পনা করা হয়েছে।",
+          "items": [
+            {"id":"01","title":"A lucky decision","en":"Five years ago, Farhan almost chose to study accounting. If he had followed that path, he would probably be working in a bank in Khulna now. He would never have discovered his love for environmental science. If his college teacher hadn't taken him on a field trip to the Sundarbans, he might have made a very different choice. He still thinks about that trip whenever he writes.","bn":"পাঁচ বছর আগে ফারহান প্রায় হিসাববিজ্ঞান পড়ার সিদ্ধান্ত নিয়ে ফেলেছিল। সে যদি সেই পথে যেত, তাহলে হয়তো এখন খুলনার কোনো ব্যাংকে চাকরি করত। পরিবেশবিজ্ঞানের প্রতি তার ভালোবাসা সে কখনো খুঁজে পেত না। তার কলেজের শিক্ষক যদি তাকে সুন্দরবনে শিক্ষাসফরে না নিয়ে যেতেন, তাহলে সে হয়তো একেবারে অন্য সিদ্ধান্ত নিত। যখনই সে লেখে, এখনো সেই সফরের কথা ভাবে।","words":[{"w":"accounting","bn":"হিসাববিজ্ঞান","pos":"noun"},{"w":"path","bn":"পথ","pos":"noun"},{"w":"discovered","bn":"খুঁজে পেত, আবিষ্কার করত","pos":"verb","base":"discover"},{"w":"field trip","bn":"শিক্ষাসফর","pos":"noun"},{"w":"whenever","bn":"যখনই","pos":"conjunction"}]},
+            {"id":"02","title":"Kenji's regret","en":"Kenji often says he would have finished his PhD a year ago if he had been more careful. If he had saved his work online, the theft wouldn't have mattered so much. He would also be less stressed today if he had asked for help sooner. Now he tells every new student the same thing: back up your work and talk to your supervisor.","bn":"কেনজি প্রায়ই বলে, সে যদি আরও সাবধান হতো, তাহলে এক বছর আগেই তার পিএইচডি শেষ করে ফেলত। সে যদি তার কাজ অনলাইনে সংরক্ষণ করত, তাহলে চুরিটা এত বড় ব্যাপার হতো না। আরও আগে সাহায্য চাইলে আজ তার মানসিক চাপও কম থাকত। এখন সে প্রত্যেক নতুন শিক্ষার্থীকে একই কথা বলে: কাজের ব্যাকআপ রাখো আর তত্ত্বাবধায়কের সাথে কথা বলো।","words":[{"w":"careful","bn":"সাবধান","pos":"adjective"},{"w":"theft","bn":"চুরি","pos":"noun"},{"w":"mattered","bn":"গুরুত্বপূর্ণ হতো","pos":"verb","base":"matter"},{"w":"stressed","bn":"মানসিক চাপে থাকা","pos":"adjective"},{"w":"supervisor","bn":"তত্ত্বাবধায়ক","pos":"noun"}]},
+            {"id":"03","title":"Nabila's interview","en":"Nabila was nervous before her scholarship interview, but she had prepared well with Farhan's help. If he hadn't asked her practice questions every Sunday, she would have frozen in front of the panel. She also knows that if she had chosen a less familiar topic, her answers wouldn't have sounded so confident. Without his help, she would be much less hopeful now.","bn":"বৃত্তির সাক্ষাৎকারের আগে নাবিলা নার্ভাস ছিল, তবে ফারহানের সাহায্যে সে ভালো প্রস্তুতি নিয়েছিল। ফারহান যদি প্রতি রবিবার তাকে অনুশীলনের প্রশ্ন না করত, তাহলে বোর্ডের সামনে সে জমে যেত। সে এটাও জানে, যদি সে কম পরিচিত কোনো বিষয় বেছে নিত, তাহলে তার উত্তরগুলো এতটা আত্মবিশ্বাসী শোনাত না। ভাইয়ের সাহায্য ছাড়া এখন সে অনেক কম আশাবাদী থাকত।","words":[{"w":"prepared","bn":"প্রস্তুতি নিয়েছিল","pos":"verb","base":"prepare"},{"w":"frozen","bn":"জমে যেত","pos":"verb","base":"freeze"},{"w":"panel","bn":"সাক্ষাৎকার বোর্ড","pos":"noun"},{"w":"familiar","bn":"পরিচিত","pos":"adjective"},{"w":"confident","bn":"আত্মবিশ্বাসী","pos":"adjective"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

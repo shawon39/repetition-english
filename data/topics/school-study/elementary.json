@@ -1,0 +1,271 @@
+{
+  "topic": "school-study",
+  "level": "elementary",
+  "title": "Mim's Busy School Year",
+  "story": "Mim is in Class 9 at a girls' school in Chattogram. Every afternoon she goes to a coaching center, and she often studies in the school library with her friends Nusrat and Arnob. Her English teacher, Mrs. Rahman, is strict but kind. This year Mim has a group science project, a half-yearly exam, and big plans for the SSC exam.",
+  "storyBn": "মিম চট্টগ্রামের একটা বালিকা বিদ্যালয়ে ৯ম শ্রেণিতে পড়ে। প্রতিদিন বিকেলে সে একটা কোচিং সেন্টারে যায়, আর প্রায়ই বন্ধু নুসরাত ও অর্ণবের সাথে স্কুল লাইব্রেরিতে পড়ে। তার ইংরেজি শিক্ষক রহমান ম্যাডাম কড়া কিন্তু দয়ালু। এ বছর মিমের একটা দলগত বিজ্ঞান প্রজেক্ট আছে, অর্ধবার্ষিক পরীক্ষা আছে, আর এসএসসি পরীক্ষা নিয়ে বড় পরিকল্পনা আছে।",
+  "units": [
+    {
+      "grammar": "present-simple",
+      "focus": "Talk about Mim's timetable and routine",
+      "focusBn": "মিমের ক্লাস রুটিন ও প্রতিদিনের পড়াশোনা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb(s) + ... / Subject + is/are + ...",
+          "tipBn": "নিয়মিত কাজ ও রুটিন বলতে present simple হয়; he, she বা নামের পরে verb-এ s যোগ হয়।",
+          "items": [
+            {"id":"01","en":"Mim studies in Class 9 in Chattogram.","bn":"মিম চট্টগ্রামে ৯ম শ্রেণিতে পড়ে।","words":[{"w":"studies","bn":"পড়ে","pos":"verb","base":"study"}]},
+            {"id":"02","en":"Her first class begins at 7:30.","bn":"তার প্রথম ক্লাস সাড়ে ৭টায় শুরু হয়।","words":[{"w":"begins","bn":"শুরু হয়","pos":"verb","base":"begin"}]},
+            {"id":"03","en":"Mrs. Rahman teaches English to Class 9.","bn":"রহমান ম্যাডাম ৯ম শ্রেণিতে ইংরেজি পড়ান।","words":[{"w":"teaches","bn":"পড়ান","pos":"verb","base":"teach"}]},
+            {"id":"04","en":"Mim goes to a coaching center after school.","bn":"মিম স্কুলের পরে একটা কোচিং সেন্টারে যায়।","words":[{"w":"coaching center","bn":"কোচিং সেন্টার","pos":"noun"}]},
+            {"id":"05","en":"Her timetable hangs above her desk.","bn":"তার ক্লাস রুটিনটা পড়ার টেবিলের ওপরে ঝোলানো থাকে।","words":[{"w":"timetable","bn":"সময়সূচি, রুটিন","pos":"noun"},{"w":"hangs","bn":"ঝোলানো থাকে","pos":"verb","base":"hang"}]},
+            {"id":"06","en":"Mim borrows books from the school library.","bn":"মিম স্কুল লাইব্রেরি থেকে বই ধার নেয়।","words":[{"w":"borrows","bn":"ধার নেয়","pos":"verb","base":"borrow"},{"w":"library","bn":"গ্রন্থাগার","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + don't/doesn't + verb + ... / is/are + not",
+          "tipBn": "verb-এর আগে don't বা doesn't বসে; is/are এর পরে not বসে।",
+          "items": [
+            {"id":"01","en":"Her first class doesn't begin at 8 o'clock.","bn":"তার প্রথম ক্লাস ৮টায় শুরু হয় না।","words":[{"w":"begin","bn":"শুরু হওয়া","pos":"verb"}]},
+            {"id":"02","en":"Mrs. Rahman doesn't teach Class 10.","bn":"রহমান ম্যাডাম ১০ম শ্রেণিতে পড়ান না।","words":[{"w":"teach","bn":"পড়ানো","pos":"verb"}]},
+            {"id":"03","en":"Mim doesn't go to coaching on Fridays.","bn":"মিম শুক্রবারে কোচিংয়ে যায় না।","words":[{"w":"coaching","bn":"কোচিং","pos":"noun"},{"w":"Fridays","bn":"শুক্রবার","pos":"noun","base":"Friday"}]},
+            {"id":"04","en":"The library isn't open on weekends.","bn":"ছুটির দিনে লাইব্রেরি খোলা থাকে না।","words":[{"w":"weekends","bn":"সাপ্তাহিক ছুটি","pos":"noun","base":"weekend"}]},
+            {"id":"05","en":"Mrs. Rahman doesn't accept late homework.","bn":"রহমান ম্যাডাম দেরিতে জমা দেওয়া বাড়ির কাজ নেন না।","words":[{"w":"accept","bn":"গ্রহণ করা","pos":"verb"},{"w":"late","bn":"দেরিতে","pos":"adjective"}]},
+            {"id":"06","en":"Nusrat never copies anyone's homework.","bn":"নুসরাত কখনো কারও বাড়ির কাজ নকল করে না।","words":[{"w":"copies","bn":"নকল করে","pos":"verb","base":"copy"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Do/Does + subject + verb + ...? / Is/Are + subject + ...?",
+          "tipBn": "প্রশ্ন করতে Do/Does অথবা Is/Are বাক্যের শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Does Mim study in Class 9?","bn":"মিম কি ৯ম শ্রেণিতে পড়ে?","words":[{"w":"study","bn":"পড়া","pos":"verb"}]},
+            {"id":"02","en":"Does her first class begin at 7:30?","bn":"তার প্রথম ক্লাস কি সাড়ে ৭টায় শুরু হয়?","words":[{"w":"begin","bn":"শুরু হওয়া","pos":"verb"}]},
+            {"id":"03","en":"Does Mim go to a coaching center?","bn":"মিম কি কোনো কোচিং সেন্টারে যায়?","words":[{"w":"coaching center","bn":"কোচিং সেন্টার","pos":"noun"}]},
+            {"id":"04","en":"Is the library open on Saturdays?","bn":"লাইব্রেরি কি শনিবারে খোলা থাকে?","words":[{"w":"open","bn":"খোলা","pos":"adjective"},{"w":"Saturdays","bn":"শনিবার","pos":"noun","base":"Saturday"}]},
+            {"id":"05","en":"Does Mrs. Rahman give a lot of homework?","bn":"রহমান ম্যাডাম কি অনেক বাড়ির কাজ দেন?","words":[{"w":"a lot of","bn":"অনেক","pos":"phrase"}]},
+            {"id":"06","en":"Do students wear name badges at your school?","bn":"তোমার স্কুলে কি ছাত্রছাত্রীরা নামের ব্যাজ পরে?","words":[{"w":"name badges","bn":"নামের ব্যাজ","pos":"noun","base":"name badge"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Don't/Doesn't/Isn't + subject + ...?",
+          "tipBn": "অবাক হয়ে বা নিশ্চিত হতে Don't, Doesn't বা Isn't দিয়ে প্রশ্ন শুরু হয়।",
+          "items": [
+            {"id":"01","en":"Isn't Mrs. Rahman your English teacher?","bn":"রহমান ম্যাডাম কি তোমার ইংরেজি শিক্ষক নন?","words":[{"w":"teacher","bn":"শিক্ষক","pos":"noun"}]},
+            {"id":"02","en":"Doesn't school start at 7:30?","bn":"স্কুল কি সাড়ে ৭টায় শুরু হয় না?","words":[{"w":"start","bn":"শুরু হওয়া","pos":"verb"}]},
+            {"id":"03","en":"Don't you go to coaching after school?","bn":"তুমি কি স্কুলের পরে কোচিংয়ে যাও না?","words":[{"w":"coaching","bn":"কোচিং","pos":"noun"}]},
+            {"id":"04","en":"Doesn't Mim borrow books from the library?","bn":"মিম কি লাইব্রেরি থেকে বই ধার নেয় না?","words":[{"w":"borrow","bn":"ধার নেওয়া","pos":"verb"}]},
+            {"id":"05","en":"Isn't the new math book too expensive?","bn":"নতুন অঙ্ক বইটা কি খুব বেশি দামি নয়?","words":[{"w":"expensive","bn":"দামি","pos":"adjective"}]},
+            {"id":"06","en":"Don't you have a break at 11 o'clock?","bn":"১১টায় কি তোমাদের বিরতি থাকে না?","words":[{"w":"break","bn":"বিরতি, টিফিন","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + do/does + subject + verb ...?",
+          "tipBn": "What, Which, How often ইত্যাদি প্রশ্নশব্দের পরে do/does বসে।",
+          "items": [
+            {"id":"01","en":"What time does the first class begin?","bn":"প্রথম ক্লাস কয়টায় শুরু হয়?","words":[{"w":"begin","bn":"শুরু হওয়া","pos":"verb"}]},
+            {"id":"02","en":"Which subject does Mrs. Rahman teach?","bn":"রহমান ম্যাডাম কোন বিষয় পড়ান?","words":[{"w":"subject","bn":"বিষয়","pos":"noun"}]},
+            {"id":"03","en":"How often does Mim go to coaching?","bn":"মিম কত ঘন ঘন কোচিংয়ে যায়?","words":[{"w":"How often","bn":"কত ঘন ঘন","pos":"phrase"}]},
+            {"id":"04","en":"Where does Mim keep her timetable?","bn":"মিম তার ক্লাস রুটিন কোথায় রাখে?","words":[{"w":"keep","bn":"রাখা","pos":"verb"},{"w":"timetable","bn":"সময়সূচি, রুটিন","pos":"noun"}]},
+            {"id":"05","en":"Why does Nusrat like the library so much?","bn":"নুসরাত লাইব্রেরি এত পছন্দ করে কেন?","words":[{"w":"library","bn":"গ্রন্থাগার","pos":"noun"}]},
+            {"id":"06","en":"How much does the coaching center cost?","bn":"কোচিং সেন্টারে কত খরচ হয়?","words":[{"w":"cost","bn":"খরচ হওয়া","pos":"verb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "present-continuous",
+      "focus": "Describe the group science project this week",
+      "focusBn": "এই সপ্তাহের দলগত বিজ্ঞান প্রজেক্ট বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + verb-ing + ...",
+          "tipBn": "এখন বা এই কয়দিন ধরে চলছে এমন কাজ বলতে am/is/are + verb-ing হয়।",
+          "items": [
+            {"id":"01","en":"Mim is working on a science project.","bn":"মিম একটা বিজ্ঞান প্রজেক্টে কাজ করছে।","words":[{"w":"working on","bn":"কাজ করছে","pos":"phrasal verb","base":"work on"},{"w":"project","bn":"প্রকল্প, প্রজেক্ট","pos":"noun"}]},
+            {"id":"02","en":"Nusrat and Arnob are helping her this week.","bn":"নুসরাত আর অর্ণব এই সপ্তাহে তাকে সাহায্য করছে।","words":[{"w":"helping","bn":"সাহায্য করছে","pos":"verb","base":"help"}]},
+            {"id":"03","en":"They are making a model of a water filter.","bn":"তারা একটা পানির ফিল্টারের মডেল বানাচ্ছে।","words":[{"w":"model","bn":"নমুনা, মডেল","pos":"noun"},{"w":"water filter","bn":"পানির ফিল্টার","pos":"noun"}]},
+            {"id":"04","en":"Arnob is cutting cardboard with scissors.","bn":"অর্ণব কাঁচি দিয়ে কার্ডবোর্ড কাটছে।","words":[{"w":"cardboard","bn":"শক্ত কাগজ","pos":"noun"},{"w":"scissors","bn":"কাঁচি","pos":"noun"}]},
+            {"id":"05","en":"Nusrat is looking up facts online.","bn":"নুসরাত অনলাইনে তথ্য খুঁজছে।","words":[{"w":"looking up","bn":"খুঁজছে","pos":"phrasal verb","base":"look up"},{"w":"facts","bn":"তথ্য","pos":"noun","base":"fact"}]},
+            {"id":"06","en":"Mim is typing the report on her laptop.","bn":"মিম তার ল্যাপটপে রিপোর্ট টাইপ করছে।","words":[{"w":"typing","bn":"টাইপ করছে","pos":"verb","base":"type"},{"w":"report","bn":"প্রতিবেদন","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + verb-ing + ...",
+          "tipBn": "am/is/are এর পরে not বসিয়ে চলমান কাজকে না-বোধক করা হয়।",
+          "items": [
+            {"id":"01","en":"Mim isn't working on the project alone.","bn":"মিম একা প্রজেক্টে কাজ করছে না।","words":[{"w":"alone","bn":"একা","pos":"adverb"}]},
+            {"id":"02","en":"Arnob isn't cutting the cardboard straight.","bn":"অর্ণব কার্ডবোর্ডটা সোজা করে কাটছে না।","words":[{"w":"straight","bn":"সোজা করে","pos":"adverb"}]},
+            {"id":"03","en":"They aren't using plastic bottles for the model.","bn":"তারা মডেলের জন্য প্লাস্টিকের বোতল ব্যবহার করছে না।","words":[{"w":"plastic bottles","bn":"প্লাস্টিকের বোতল","pos":"noun","base":"plastic bottle"}]},
+            {"id":"04","en":"Nusrat isn't wasting time on her phone.","bn":"নুসরাত ফোনে সময় নষ্ট করছে না।","words":[{"w":"wasting","bn":"নষ্ট করছে","pos":"verb","base":"waste"}]},
+            {"id":"05","en":"The school printer isn't working today.","bn":"স্কুলের প্রিন্টারটা আজ কাজ করছে না।","words":[{"w":"printer","bn":"ছাপার যন্ত্র, প্রিন্টার","pos":"noun"}]},
+            {"id":"06","en":"Mim isn't typing the report on her laptop.","bn":"মিম তার ল্যাপটপে রিপোর্ট টাইপ করছে না।","words":[{"w":"typing","bn":"টাইপ করছে","pos":"verb","base":"type"},{"w":"report","bn":"প্রতিবেদন","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + verb-ing + ...?",
+          "tipBn": "প্রশ্ন করতে am/is/are বাক্যের শুরুতে চলে আসে।",
+          "items": [
+            {"id":"01","en":"Is Mim working on a science project?","bn":"মিম কি একটা বিজ্ঞান প্রজেক্টে কাজ করছে?","words":[{"w":"project","bn":"প্রকল্প, প্রজেক্ট","pos":"noun"}]},
+            {"id":"02","en":"Are Nusrat and Arnob helping her?","bn":"নুসরাত আর অর্ণব কি তাকে সাহায্য করছে?","words":[{"w":"helping","bn":"সাহায্য করছে","pos":"verb","base":"help"}]},
+            {"id":"03","en":"Are they making a model of a water filter?","bn":"তারা কি একটা পানির ফিল্টারের মডেল বানাচ্ছে?","words":[{"w":"model","bn":"নমুনা, মডেল","pos":"noun"}]},
+            {"id":"04","en":"Is Arnob using his father's scissors?","bn":"অর্ণব কি তার বাবার কাঁচি ব্যবহার করছে?","words":[{"w":"scissors","bn":"কাঁচি","pos":"noun"}]},
+            {"id":"05","en":"Is the glue drying fast?","bn":"আঠাটা কি তাড়াতাড়ি শুকাচ্ছে?","words":[{"w":"glue","bn":"আঠা","pos":"noun"},{"w":"drying","bn":"শুকাচ্ছে","pos":"verb","base":"dry"}]},
+            {"id":"06","en":"Are you listening to me, Arnob?","bn":"অর্ণব, তুমি কি আমার কথা শুনছ?","words":[{"w":"listening to","bn":"শুনছ","pos":"phrasal verb","base":"listen to"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + verb-ing?",
+          "tipBn": "প্রশ্নশব্দ শুরুতে বসে, তারপর am/is/are এবং verb-ing।",
+          "items": [
+            {"id":"01","en":"What is Mim working on this week?","bn":"মিম এই সপ্তাহে কী নিয়ে কাজ করছে?","words":[{"w":"working on","bn":"কাজ করছে","pos":"phrasal verb","base":"work on"}]},
+            {"id":"02","en":"Who is helping her with the project?","bn":"কে তাকে প্রজেক্টে সাহায্য করছে?","words":[{"w":"helping","bn":"সাহায্য করছে","pos":"verb","base":"help"}]},
+            {"id":"03","en":"Why is Arnob cutting the cardboard again?","bn":"অর্ণব আবার কার্ডবোর্ড কাটছে কেন?","words":[{"w":"cardboard","bn":"শক্ত কাগজ","pos":"noun"},{"w":"again","bn":"আবার","pos":"adverb"}]},
+            {"id":"04","en":"What is Nusrat looking up online?","bn":"নুসরাত অনলাইনে কী খুঁজছে?","words":[{"w":"looking up","bn":"খুঁজছে","pos":"phrasal verb","base":"look up"}]},
+            {"id":"05","en":"Where are they building the model?","bn":"তারা মডেলটা কোথায় বানাচ্ছে?","words":[{"w":"building","bn":"বানাচ্ছে","pos":"verb","base":"build"}]},
+            {"id":"06","en":"How is the science project going?","bn":"বিজ্ঞান প্রজেক্টটা কেমন চলছে?","words":[{"w":"going","bn":"চলছে","pos":"verb","base":"go"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-simple",
+      "focus": "Talk about the half-yearly exam and results",
+      "focusBn": "অর্ধবার্ষিক পরীক্ষা ও ফলাফল নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb (past) + ...",
+          "tipBn": "অতীতের ঘটনা বলতে verb-এর past রূপ বসে, যেমন sat, came, praised।",
+          "items": [
+            {"id":"01","en":"Mim sat for her half-yearly exam last month.","bn":"মিম গত মাসে তার অর্ধবার্ষিক পরীক্ষা দিয়েছিল।","words":[{"w":"sat for","bn":"পরীক্ষা দিয়েছিল","pos":"phrasal verb","base":"sit for"},{"w":"half-yearly","bn":"অর্ধবার্ষিক","pos":"adjective"}]},
+            {"id":"02","en":"She stayed up late before the math exam.","bn":"অঙ্ক পরীক্ষার আগে সে অনেক রাত পর্যন্ত জেগে ছিল।","words":[{"w":"stayed up","bn":"জেগে ছিল","pos":"phrasal verb","base":"stay up"}]},
+            {"id":"03","en":"The results came out on Sunday.","bn":"রবিবারে ফলাফল বের হয়েছিল।","words":[{"w":"results","bn":"ফলাফল","pos":"noun","base":"result"},{"w":"came out","bn":"প্রকাশিত হয়েছিল","pos":"phrasal verb","base":"come out"}]},
+            {"id":"04","en":"Mim got an A in English.","bn":"মিম ইংরেজিতে A গ্রেড পেয়েছিল।","words":[{"w":"got","bn":"পেয়েছিল","pos":"verb","base":"get"}]},
+            {"id":"05","en":"Mrs. Rahman praised her essay in class.","bn":"রহমান ম্যাডাম ক্লাসে তার রচনার প্রশংসা করেছিলেন।","words":[{"w":"praised","bn":"প্রশংসা করেছিলেন","pos":"verb","base":"praise"},{"w":"essay","bn":"রচনা","pos":"noun"}]},
+            {"id":"06","en":"Her father bought her a new dictionary.","bn":"তার বাবা তাকে একটা নতুন অভিধান কিনে দিয়েছিলেন।","words":[{"w":"bought","bn":"কিনে দিয়েছিলেন","pos":"verb","base":"buy"},{"w":"dictionary","bn":"অভিধান","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + didn't + verb (base) + ...",
+          "tipBn": "অতীতে না-বোধক করতে didn't বসে এবং verb মূল রূপে ফিরে যায়।",
+          "items": [
+            {"id":"01","en":"Mim didn't sleep well before the exam.","bn":"পরীক্ষার আগে মিমের ভালো ঘুম হয়নি।","words":[{"w":"sleep well","bn":"ভালো ঘুমানো","pos":"phrase"}]},
+            {"id":"02","en":"The results didn't come out on Saturday.","bn":"শনিবারে ফলাফল বের হয়নি।","words":[{"w":"come out","bn":"প্রকাশিত হওয়া","pos":"phrasal verb"}]},
+            {"id":"03","en":"She didn't do well in chemistry.","bn":"রসায়নে সে ভালো করেনি।","words":[{"w":"do well","bn":"ভালো করা","pos":"phrase"},{"w":"chemistry","bn":"রসায়ন","pos":"noun"}]},
+            {"id":"04","en":"Arnob didn't finish his last answer.","bn":"অর্ণব তার শেষ উত্তরটা শেষ করেনি।","words":[{"w":"finish","bn":"শেষ করা","pos":"verb"}]},
+            {"id":"05","en":"Mrs. Rahman didn't praise Arnob's handwriting.","bn":"রহমান ম্যাডাম অর্ণবের হাতের লেখার প্রশংসা করেননি।","words":[{"w":"praise","bn":"প্রশংসা করা","pos":"verb"},{"w":"handwriting","bn":"হাতের লেখা","pos":"noun"}]},
+            {"id":"06","en":"Her father didn't buy her a guidebook.","bn":"তার বাবা তাকে কোনো গাইড বই কিনে দেননি।","words":[{"w":"guidebook","bn":"গাইড বই","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Did + subject + verb (base) + ...? / Was/Were + subject + ...?",
+          "tipBn": "অতীতের প্রশ্নে Did শুরুতে বসে এবং verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Did Mim sit for the exam last month?","bn":"মিম কি গত মাসে পরীক্ষা দিয়েছিল?","words":[{"w":"sit for","bn":"পরীক্ষা দেওয়া","pos":"phrasal verb"}]},
+            {"id":"02","en":"Did she stay up late before the math exam?","bn":"অঙ্ক পরীক্ষার আগে সে কি অনেক রাত পর্যন্ত জেগে ছিল?","words":[{"w":"stay up","bn":"জেগে থাকা","pos":"phrasal verb"}]},
+            {"id":"03","en":"Did the results come out on Sunday?","bn":"রবিবারে কি ফলাফল বের হয়েছিল?","words":[{"w":"results","bn":"ফলাফল","pos":"noun","base":"result"}]},
+            {"id":"04","en":"Did Mim get an A in English?","bn":"মিম কি ইংরেজিতে A গ্রেড পেয়েছিল?","words":[{"w":"get","bn":"পাওয়া","pos":"verb"}]},
+            {"id":"05","en":"Was the chemistry paper hard?","bn":"রসায়নের প্রশ্নপত্র কি কঠিন ছিল?","words":[{"w":"paper","bn":"প্রশ্নপত্র","pos":"noun"},{"w":"hard","bn":"কঠিন","pos":"adjective"}]},
+            {"id":"06","en":"Did Arnob pass all his subjects?","bn":"অর্ণব কি সব বিষয়ে পাস করেছিল?","words":[{"w":"pass","bn":"পাস করা","pos":"verb"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Didn't/Wasn't + subject + ...?",
+          "tipBn": "অবাক হয়ে বা নিশ্চিত হতে Didn't বা Wasn't দিয়ে অতীতের প্রশ্ন শুরু হয়।",
+          "items": [
+            {"id":"01","en":"Didn't Mim get an A in English?","bn":"মিম কি ইংরেজিতে A গ্রেড পায়নি?","words":[{"w":"get","bn":"পাওয়া","pos":"verb"}]},
+            {"id":"02","en":"Didn't the results come out on Sunday?","bn":"রবিবারে কি ফলাফল বের হয়নি?","words":[{"w":"come out","bn":"প্রকাশিত হওয়া","pos":"phrasal verb"}]},
+            {"id":"03","en":"Didn't you study for the chemistry exam?","bn":"তুমি কি রসায়ন পরীক্ষার জন্য পড়োনি?","words":[{"w":"chemistry","bn":"রসায়ন","pos":"noun"}]},
+            {"id":"04","en":"Wasn't the English paper easy?","bn":"ইংরেজি প্রশ্নপত্রটা কি সহজ ছিল না?","words":[{"w":"paper","bn":"প্রশ্নপত্র","pos":"noun"},{"w":"easy","bn":"সহজ","pos":"adjective"}]},
+            {"id":"05","en":"Didn't Mrs. Rahman praise your essay?","bn":"রহমান ম্যাডাম কি তোমার রচনার প্রশংসা করেননি?","words":[{"w":"praise","bn":"প্রশংসা করা","pos":"verb"},{"w":"essay","bn":"রচনা","pos":"noun"}]},
+            {"id":"06","en":"Didn't your father buy you a dictionary?","bn":"তোমার বাবা কি তোমাকে একটা অভিধান কিনে দেননি?","words":[{"w":"dictionary","bn":"অভিধান","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + did + subject + verb (base)?",
+          "tipBn": "প্রশ্নশব্দের পরে did বসে এবং verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"When did the results come out?","bn":"ফলাফল কবে বের হয়েছিল?","words":[{"w":"results","bn":"ফলাফল","pos":"noun","base":"result"}]},
+            {"id":"02","en":"What grade did Mim get in English?","bn":"মিম ইংরেজিতে কী গ্রেড পেয়েছিল?","words":[{"w":"grade","bn":"গ্রেড, মান","pos":"noun"}]},
+            {"id":"03","en":"Why did she stay up so late?","bn":"সে এত রাত পর্যন্ত জেগে ছিল কেন?","words":[{"w":"stay up","bn":"জেগে থাকা","pos":"phrasal verb"}]},
+            {"id":"04","en":"Which subject did Arnob find difficult?","bn":"অর্ণবের কাছে কোন বিষয়টা কঠিন লেগেছিল?","words":[{"w":"find","bn":"মনে হওয়া","pos":"verb"},{"w":"difficult","bn":"কঠিন","pos":"adjective"}]},
+            {"id":"05","en":"Who praised Mim's essay?","bn":"মিমের রচনার প্রশংসা কে করেছিলেন?","words":[{"w":"praised","bn":"প্রশংসা করেছিলেন","pos":"verb","base":"praise"},{"w":"essay","bn":"রচনা","pos":"noun"}]},
+            {"id":"06","en":"How did Mim feel after the exam?","bn":"পরীক্ষার পরে মিমের কেমন লেগেছিল?","words":[{"w":"feel","bn":"অনুভব করা","pos":"verb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "future-going-to",
+      "focus": "Talk about plans for the SSC exam",
+      "focusBn": "এসএসসি পরীক্ষার পরিকল্পনা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + going to + verb (base) + ...",
+          "tipBn": "আগে থেকে ঠিক করা পরিকল্পনা বা প্রমাণ দেখে অনুমান বলতে going to + verb হয়।",
+          "items": [
+            {"id":"01","en":"Mim is going to take the SSC exam next year.","bn":"মিম আগামী বছর এসএসসি পরীক্ষা দিতে যাচ্ছে।","words":[{"w":"take","bn":"পরীক্ষা দেওয়া","pos":"verb"}]},
+            {"id":"02","en":"She is going to make a new study plan.","bn":"সে পড়ার একটা নতুন পরিকল্পনা বানাতে যাচ্ছে।","words":[{"w":"study plan","bn":"পড়ার পরিকল্পনা","pos":"noun"}]},
+            {"id":"03","en":"Nusrat is going to join Mim's coaching center.","bn":"নুসরাত মিমের কোচিং সেন্টারে ভর্তি হতে যাচ্ছে।","words":[{"w":"join","bn":"যোগ দেওয়া, ভর্তি হওয়া","pos":"verb"}]},
+            {"id":"04","en":"Arnob is going to practice math every morning.","bn":"অর্ণব প্রতিদিন সকালে অঙ্ক অনুশীলন করবে।","words":[{"w":"practice","bn":"অনুশীলন করা","pos":"verb"}]},
+            {"id":"05","en":"Look at this long syllabus. It's going to be a busy year!","bn":"এই লম্বা সিলেবাসটা দেখো। বছরটা খুব ব্যস্ত যাবে!","words":[{"w":"syllabus","bn":"পাঠ্যসূচি","pos":"noun"},{"w":"busy","bn":"ব্যস্ত","pos":"adjective"}]},
+            {"id":"06","en":"Mim's father is going to buy her a desk lamp.","bn":"মিমের বাবা তাকে একটা টেবিল ল্যাম্প কিনে দেবেন।","words":[{"w":"desk lamp","bn":"টেবিল ল্যাম্প","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + going to + verb (base) + ...",
+          "tipBn": "am/is/are এর পরে not বসিয়ে পরিকল্পনাকে না-বোধক করা হয়।",
+          "items": [
+            {"id":"01","en":"Mim isn't going to take the SSC exam this year.","bn":"মিম এ বছর এসএসসি পরীক্ষা দিতে যাচ্ছে না।","words":[{"w":"take","bn":"পরীক্ষা দেওয়া","pos":"verb"}]},
+            {"id":"02","en":"Nusrat isn't going to join another coaching center.","bn":"নুসরাত অন্য কোনো কোচিং সেন্টারে ভর্তি হবে না।","words":[{"w":"join","bn":"যোগ দেওয়া, ভর্তি হওয়া","pos":"verb"},{"w":"another","bn":"অন্য একটা","pos":"adjective"}]},
+            {"id":"03","en":"Arnob isn't going to skip his morning practice.","bn":"অর্ণব সকালের অনুশীলন বাদ দেবে না।","words":[{"w":"skip","bn":"বাদ দেওয়া","pos":"verb"}]},
+            {"id":"04","en":"Mim isn't going to waste her winter holidays.","bn":"মিম তার শীতের ছুটি নষ্ট করবে না।","words":[{"w":"waste","bn":"নষ্ট করা","pos":"verb"},{"w":"holidays","bn":"ছুটি","pos":"noun","base":"holiday"}]},
+            {"id":"05","en":"It isn't going to be an easy year.","bn":"বছরটা সহজ যাবে না।","words":[{"w":"easy","bn":"সহজ","pos":"adjective"}]},
+            {"id":"06","en":"They aren't going to stay up all night anymore.","bn":"তারা আর সারা রাত জেগে থাকবে না।","words":[{"w":"stay up","bn":"জেগে থাকা","pos":"phrasal verb"},{"w":"anymore","bn":"আর","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + going to + verb (base) + ...?",
+          "tipBn": "প্রশ্ন করতে am/is/are বাক্যের শুরুতে বসে, তারপর going to + verb।",
+          "items": [
+            {"id":"01","en":"Is Mim going to take the SSC exam next year?","bn":"মিম কি আগামী বছর এসএসসি পরীক্ষা দেবে?","words":[{"w":"take","bn":"পরীক্ষা দেওয়া","pos":"verb"}]},
+            {"id":"02","en":"Are you going to make a new study plan?","bn":"তুমি কি পড়ার একটা নতুন পরিকল্পনা বানাবে?","words":[{"w":"study plan","bn":"পড়ার পরিকল্পনা","pos":"noun"}]},
+            {"id":"03","en":"Is Nusrat going to join the coaching center?","bn":"নুসরাত কি কোচিং সেন্টারে ভর্তি হবে?","words":[{"w":"join","bn":"যোগ দেওয়া, ভর্তি হওয়া","pos":"verb"}]},
+            {"id":"04","en":"Is Arnob going to practice every morning?","bn":"অর্ণব কি প্রতিদিন সকালে অনুশীলন করবে?","words":[{"w":"practice","bn":"অনুশীলন করা","pos":"verb"}]},
+            {"id":"05","en":"Are they going to study together in the library?","bn":"তারা কি লাইব্রেরিতে একসাথে পড়বে?","words":[{"w":"together","bn":"একসাথে","pos":"adverb"}]},
+            {"id":"06","en":"Is it going to be a busy year?","bn":"বছরটা কি ব্যস্ত যাবে?","words":[{"w":"busy","bn":"ব্যস্ত","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + going to + verb?",
+          "tipBn": "প্রশ্নশব্দের পরে am/is/are, তারপর subject ও going to + verb বসে।",
+          "items": [
+            {"id":"01","en":"When is Mim going to take the SSC exam?","bn":"মিম কবে এসএসসি পরীক্ষা দেবে?","words":[{"w":"take","bn":"পরীক্ষা দেওয়া","pos":"verb"}]},
+            {"id":"02","en":"What is Mim going to put in her study plan?","bn":"মিম তার পড়ার পরিকল্পনায় কী কী রাখবে?","words":[{"w":"put","bn":"রাখা","pos":"verb"},{"w":"study plan","bn":"পড়ার পরিকল্পনা","pos":"noun"}]},
+            {"id":"03","en":"Which coaching center is Nusrat going to join?","bn":"নুসরাত কোন কোচিং সেন্টারে ভর্তি হবে?","words":[{"w":"join","bn":"যোগ দেওয়া, ভর্তি হওয়া","pos":"verb"}]},
+            {"id":"04","en":"How is Arnob going to improve his math?","bn":"অর্ণব কীভাবে অঙ্কে উন্নতি করবে?","words":[{"w":"improve","bn":"উন্নতি করা","pos":"verb"}]},
+            {"id":"05","en":"Where are they going to study together?","bn":"তারা কোথায় একসাথে পড়বে?","words":[{"w":"together","bn":"একসাথে","pos":"adverb"}]},
+            {"id":"06","en":"Who is going to pay the coaching fees?","bn":"কোচিংয়ের বেতন কে দেবে?","words":[{"w":"pay","bn":"পরিশোধ করা","pos":"verb"},{"w":"fees","bn":"বেতন, ফি","pos":"noun","base":"fee"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}
