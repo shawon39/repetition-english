@@ -1,0 +1,272 @@
+{
+  "topic": "travel",
+  "level": "intermediate",
+  "title": "Sabrina's First Flight",
+  "story": "Sabrina works at a bank in Dhaka. This winter she and her husband Tareq are taking their first flight together, to Cox's Bazar, with their friend Joya. At the airport and on the beach, many things happen. Later they plan a boat trip to the Sundarbans from Khulna.",
+  "storyBn": "সাবরিনা ঢাকার একটা ব্যাংকে চাকরি করে। এই শীতে সে আর তার স্বামী তারেক তাদের বন্ধু জয়াকে নিয়ে প্রথমবার একসাথে প্লেনে করে কক্সবাজারে যাচ্ছে। বিমানবন্দরে আর সৈকতে অনেক কিছু ঘটে। পরে তারা খুলনা থেকে নৌকায় করে সুন্দরবন যাওয়ার পরিকল্পনা করে।",
+  "units": [
+    {
+      "grammar": "present-perfect",
+      "focus": "Talk about travel experiences and recent trip news",
+      "focusBn": "ভ্রমণের অভিজ্ঞতা আর সাম্প্রতিক খবর নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + has/have + past participle (+ just/already/since/for).",
+          "tipBn": "সদ্য ঘটা কাজ বা জীবনের অভিজ্ঞতা বলতে has/have + past participle ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"Sabrina has just booked two plane tickets to Cox's Bazar.","bn":"সাবরিনা এইমাত্র কক্সবাজারের দুটো প্লেনের টিকিট বুক করেছে।","words":[{"w":"just","bn":"এইমাত্র","pos":"adverb"},{"w":"booked","bn":"বুক করেছে","pos":"verb","base":"book"}]},
+            {"id":"02","en":"Tareq has already packed his suitcase for the trip.","bn":"তারেক ভ্রমণের জন্য এর মধ্যেই তার স্যুটকেস গুছিয়ে ফেলেছে।","words":[{"w":"already","bn":"এর মধ্যেই","pos":"adverb"},{"w":"packed","bn":"গুছিয়েছে","pos":"verb","base":"pack"},{"w":"suitcase","bn":"স্যুটকেস","pos":"noun"}]},
+            {"id":"03","en":"Joya has visited Cox's Bazar three times since 2020.","bn":"জয়া ২০২০ সাল থেকে তিনবার কক্সবাজারে গেছে।","words":[{"w":"visited","bn":"ঘুরে এসেছে","pos":"verb","base":"visit"},{"w":"since","bn":"থেকে","pos":"preposition"}]},
+            {"id":"04","en":"The airline has changed our flight time to 11:30.","bn":"এয়ারলাইন আমাদের ফ্লাইটের সময় বদলে ১১:৩০ করেছে।","words":[{"w":"airline","bn":"বিমান সংস্থা","pos":"noun"},{"w":"flight time","bn":"ফ্লাইটের সময়","pos":"phrase"}]},
+            {"id":"05","en":"We have checked in online and printed our boarding passes.","bn":"আমরা অনলাইনে চেক-ইন করেছি আর বোর্ডিং পাস প্রিন্ট করেছি।","words":[{"w":"checked in","bn":"চেক-ইন করেছি","pos":"phrasal verb","base":"check in"},{"w":"boarding passes","bn":"বোর্ডিং পাস","pos":"phrase"}]},
+            {"id":"06","en":"Sabrina has wanted to see the sunset at Inani Beach for years.","bn":"অনেক বছর ধরে সাবরিনা ইনানী সৈকতে সূর্যাস্ত দেখতে চেয়েছে।","words":[{"w":"sunset","bn":"সূর্যাস্ত","pos":"noun"},{"w":"for years","bn":"অনেক বছর ধরে","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hasn't/haven't + past participle (+ yet). / has never + past participle.",
+          "tipBn": "has বা have এর পরে not বা never বসে; yet সাধারণত বাক্যের শেষে বসে।",
+          "items": [
+            {"id":"01","en":"Sabrina has never flown on a plane before.","bn":"সাবরিনা আগে কখনো প্লেনে চড়েনি।","words":[{"w":"never","bn":"কখনো না","pos":"adverb"},{"w":"flown","bn":"উড়েছে, চড়েছে","pos":"verb","base":"fly"}]},
+            {"id":"02","en":"Tareq hasn't found his national ID card yet.","bn":"তারেক এখনো তার জাতীয় পরিচয়পত্র খুঁজে পায়নি।","words":[{"w":"national ID card","bn":"জাতীয় পরিচয়পত্র","pos":"phrase"},{"w":"yet","bn":"এখনো","pos":"adverb"}]},
+            {"id":"03","en":"We haven't decided which hotel to book yet.","bn":"কোন হোটেল বুক করব, আমরা এখনো ঠিক করিনি।","words":[{"w":"decided","bn":"সিদ্ধান্ত নিয়েছি","pos":"verb","base":"decide"},{"w":"book","bn":"বুক করা","pos":"verb"}]},
+            {"id":"04","en":"Joya hasn't been to the Sundarbans since she was a child.","bn":"ছোটবেলার পর থেকে জয়া আর সুন্দরবনে যায়নি।","words":[{"w":"been to","bn":"গিয়েছে","pos":"phrase"},{"w":"since","bn":"থেকে","pos":"conjunction"}]},
+            {"id":"05","en":"The airline hasn't sent us a confirmation email.","bn":"এয়ারলাইন আমাদের কোনো নিশ্চিতকরণ ইমেইল পাঠায়নি।","words":[{"w":"airline","bn":"বিমান সংস্থা","pos":"noun"},{"w":"confirmation","bn":"নিশ্চিতকরণ","pos":"noun"}]},
+            {"id":"06","en":"None of us has ever stayed in a beach resort.","bn":"আমাদের কেউই কখনো সৈকতের রিসোর্টে থাকেনি।","words":[{"w":"None of us","bn":"আমাদের কেউই না","pos":"phrase"},{"w":"resort","bn":"রিসোর্ট","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Has/Have + subject + (ever) + past participle ...?",
+          "tipBn": "প্রশ্ন করতে Has বা Have শুরুতে বসে; অভিজ্ঞতা জানতে ever ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"Have you ever been on a plane before, Sabrina?","bn":"সাবরিনা, তুমি কি আগে কখনো প্লেনে চড়েছ?","words":[{"w":"ever","bn":"কখনো","pos":"adverb"},{"w":"been on a plane","bn":"প্লেনে চড়েছ","pos":"phrase"}]},
+            {"id":"02","en":"Has Tareq already packed his suitcase for the flight?","bn":"তারেক কি এর মধ্যেই ফ্লাইটের জন্য তার স্যুটকেস গুছিয়ে ফেলেছে?","words":[{"w":"already","bn":"এর মধ্যেই","pos":"adverb"},{"w":"packed","bn":"গুছিয়েছে","pos":"verb","base":"pack"}]},
+            {"id":"03","en":"Have you checked the baggage allowance for domestic flights?","bn":"তুমি কি অভ্যন্তরীণ ফ্লাইটের ব্যাগেজের সীমা দেখে নিয়েছ?","words":[{"w":"baggage allowance","bn":"ব্যাগেজ নেওয়ার সীমা","pos":"phrase"},{"w":"domestic","bn":"অভ্যন্তরীণ","pos":"adjective"}]},
+            {"id":"04","en":"Has the airline confirmed our seats by email yet?","bn":"এয়ারলাইন কি এর মধ্যে ইমেইলে আমাদের সিট নিশ্চিত করেছে?","words":[{"w":"confirmed","bn":"নিশ্চিত করেছে","pos":"verb","base":"confirm"},{"w":"yet","bn":"এর মধ্যে","pos":"adverb"}]},
+            {"id":"05","en":"Has Joya stayed at this hotel in Kolatoli before?","bn":"জয়া কি আগে কলাতলীর এই হোটেলে থেকেছে?","words":[{"w":"stayed","bn":"থেকেছে","pos":"verb","base":"stay"},{"w":"before","bn":"আগে","pos":"adverb"}]},
+            {"id":"06","en":"Have you ever seen the Sundarbans from a boat?","bn":"তুমি কি কখনো নৌকা থেকে সুন্দরবন দেখেছ?","words":[{"w":"ever","bn":"কখনো","pos":"adverb"},{"w":"seen","bn":"দেখেছ","pos":"verb","base":"see"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + has/have + subject + past participle?",
+          "tipBn": "প্রশ্নশব্দের পরে has বা have বসে, তারপর subject আর past participle।",
+          "items": [
+            {"id":"01","en":"How many times have you visited Cox's Bazar?","bn":"তুমি কতবার কক্সবাজারে গেছ?","words":[{"w":"How many times","bn":"কতবার","pos":"phrase"},{"w":"visited","bn":"ঘুরে এসেছ","pos":"verb","base":"visit"}]},
+            {"id":"02","en":"Where have you put the boarding passes, Tareq?","bn":"তারেক, বোর্ডিং পাসগুলো তুমি কোথায় রেখেছ?","words":[{"w":"put","bn":"রেখেছ","pos":"verb"},{"w":"boarding passes","bn":"বোর্ডিং পাস","pos":"phrase"}]},
+            {"id":"03","en":"How long have you had this old suitcase?","bn":"এই পুরোনো স্যুটকেসটা কতদিন ধরে তোমার কাছে আছে?","words":[{"w":"How long","bn":"কতদিন ধরে","pos":"phrase"},{"w":"suitcase","bn":"স্যুটকেস","pos":"noun"}]},
+            {"id":"04","en":"What have you packed in your hand luggage?","bn":"তোমার হাতের ব্যাগে তুমি কী কী গুছিয়েছ?","words":[{"w":"packed","bn":"গুছিয়েছ","pos":"verb","base":"pack"},{"w":"hand luggage","bn":"হাতের ব্যাগ","pos":"phrase"}]},
+            {"id":"05","en":"Why has the airline changed our flight time?","bn":"এয়ারলাইন কেন আমাদের ফ্লাইটের সময় বদলেছে?","words":[{"w":"airline","bn":"বিমান সংস্থা","pos":"noun"},{"w":"changed","bn":"বদলেছে","pos":"verb","base":"change"}]},
+            {"id":"06","en":"Which places have you already visited in Cox's Bazar?","bn":"কক্সবাজারে তুমি এর মধ্যেই কোন কোন জায়গা ঘুরেছ?","words":[{"w":"Which","bn":"কোন","pos":"other"},{"w":"already","bn":"এর মধ্যেই","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences, mostly has/have + past participle.",
+          "tipBn": "অনুচ্ছেদের বেশিরভাগ বাক্যে has/have + past participle দিয়ে অভিজ্ঞতা আর সদ্য ঘটা খবর বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Ready to fly","en":"Sabrina has finally booked her first flight. She has bought two tickets to Cox's Bazar and has already checked the baggage rules. Tareq has packed their suitcase twice because he has forgotten something both times. They haven't slept well this week, but they have never felt so excited.","bn":"সাবরিনা অবশেষে তার প্রথম ফ্লাইট বুক করেছে। সে কক্সবাজারের দুটো টিকিট কিনেছে আর এর মধ্যেই ব্যাগেজের নিয়মকানুন দেখে নিয়েছে। তারেক তাদের স্যুটকেস দুবার গুছিয়েছে, কারণ দুবারই সে কিছু একটা ভুলে গেছে। এই সপ্তাহে তাদের ভালো ঘুম হয়নি, কিন্তু এত উত্তেজিত তারা আগে কখনো হয়নি।","words":[{"w":"finally","bn":"অবশেষে","pos":"adverb"},{"w":"baggage rules","bn":"ব্যাগেজের নিয়ম","pos":"phrase"},{"w":"forgotten","bn":"ভুলে গেছে","pos":"verb","base":"forget"},{"w":"excited","bn":"উত্তেজিত","pos":"adjective"}]},
+            {"id":"02","title":"Joya's favorite beach","en":"Joya has visited Cox's Bazar three times, and she has loved it every time. She has walked along the beach at sunrise and has ridden a jeep to Inani. She has also tried fresh grilled fish in Kolatoli. Now she has offered to be their guide.","bn":"জয়া তিনবার কক্সবাজারে গেছে, আর প্রতিবারই জায়গাটা তার ভালো লেগেছে। সে সূর্যোদয়ের সময় সৈকত ধরে হেঁটেছে আর জিপে চড়ে ইনানী গেছে। কলাতলীতে সে টাটকা গ্রিল করা মাছও খেয়ে দেখেছে। এখন সে তাদের গাইড হওয়ার প্রস্তাব দিয়েছে।","words":[{"w":"sunrise","bn":"সূর্যোদয়","pos":"noun"},{"w":"ridden","bn":"চড়েছে","pos":"verb","base":"ride"},{"w":"grilled fish","bn":"গ্রিল করা মাছ","pos":"phrase"},{"w":"offered","bn":"প্রস্তাব দিয়েছে","pos":"verb","base":"offer"},{"w":"guide","bn":"গাইড, পথপ্রদর্শক","pos":"noun"}]},
+            {"id":"03","title":"A change of plan","en":"The airline has just sent a message. It has moved our flight from 9:00 to 11:30 because of fog in Dhaka. We have called the hotel and told them about the delay. Luckily, they have agreed to keep our room.","bn":"এয়ারলাইন এইমাত্র একটা মেসেজ পাঠিয়েছে। ঢাকায় কুয়াশার কারণে তারা আমাদের ফ্লাইট ৯:০০টা থেকে সরিয়ে ১১:৩০-এ নিয়েছে। আমরা হোটেলে ফোন করে দেরির কথা জানিয়েছি। ভাগ্য ভালো, তারা আমাদের রুমটা রেখে দিতে রাজি হয়েছে।","words":[{"w":"airline","bn":"বিমান সংস্থা","pos":"noun"},{"w":"fog","bn":"কুয়াশা","pos":"noun"},{"w":"delay","bn":"দেরি","pos":"noun"},{"w":"Luckily","bn":"ভাগ্যক্রমে","pos":"adverb"},{"w":"agreed","bn":"রাজি হয়েছে","pos":"verb","base":"agree"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-continuous",
+      "focus": "Describe what was happening at the airport and on the beach",
+      "focusBn": "বিমানবন্দরে আর সৈকতে তখন কী ঘটছিল তা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + was/were + verb-ing (+ when/while ...).",
+          "tipBn": "অতীতে চলমান কাজ বলতে was/were + verb-ing বসে; হঠাৎ ঘটা কাজ when দিয়ে past simple-এ বলা হয়।",
+          "items": [
+            {"id":"01","en":"We were standing in the check-in line when Joya called.","bn":"জয়া যখন ফোন করল, আমরা তখন চেক-ইনের লাইনে দাঁড়িয়ে ছিলাম।","words":[{"w":"standing","bn":"দাঁড়িয়ে ছিলাম","pos":"verb","base":"stand"},{"w":"check-in line","bn":"চেক-ইনের লাইন","pos":"phrase"}]},
+            {"id":"02","en":"Tareq was looking for his ID card while the officer waited.","bn":"অফিসার যখন অপেক্ষা করছিলেন, তারেক তখন তার পরিচয়পত্র খুঁজছিল।","words":[{"w":"looking for","bn":"খুঁজছিল","pos":"phrasal verb","base":"look for"},{"w":"officer","bn":"কর্মকর্তা","pos":"noun"}]},
+            {"id":"03","en":"Many passengers were sleeping on chairs because of the delay.","bn":"দেরির কারণে অনেক যাত্রী চেয়ারে ঘুমাচ্ছিল।","words":[{"w":"passengers","bn":"যাত্রী","pos":"noun","base":"passenger"},{"w":"delay","bn":"দেরি","pos":"noun"}]},
+            {"id":"04","en":"A voice was announcing the flights to Chattogram and Sylhet.","bn":"একটা কণ্ঠ চট্টগ্রাম আর সিলেটের ফ্লাইটের ঘোষণা দিচ্ছিল।","words":[{"w":"voice","bn":"কণ্ঠ","pos":"noun"},{"w":"announcing","bn":"ঘোষণা দিচ্ছিল","pos":"verb","base":"announce"}]},
+            {"id":"05","en":"While we were boarding, it was raining lightly over the runway.","bn":"আমরা যখন প্লেনে উঠছিলাম, তখন রানওয়ের ওপর হালকা বৃষ্টি হচ্ছিল।","words":[{"w":"boarding","bn":"প্লেনে উঠছিলাম","pos":"verb","base":"board"},{"w":"lightly","bn":"হালকাভাবে","pos":"adverb"},{"w":"runway","bn":"রানওয়ে","pos":"noun"}]},
+            {"id":"06","en":"Sabrina was holding Tareq's hand tightly during takeoff.","bn":"উড্ডয়নের সময় সাবরিনা শক্ত করে তারেকের হাত ধরে ছিল।","words":[{"w":"tightly","bn":"শক্ত করে","pos":"adverb"},{"w":"takeoff","bn":"উড্ডয়ন","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + wasn't/weren't + verb-ing (+ when ...).",
+          "tipBn": "was বা were এর পরে not বসে, তারপর verb-ing।",
+          "items": [
+            {"id":"01","en":"Sabrina wasn't looking out of the window during takeoff.","bn":"উড্ডয়নের সময় সাবরিনা জানালা দিয়ে বাইরে তাকাচ্ছিল না।","words":[{"w":"looking out of","bn":"বাইরে তাকাচ্ছিল","pos":"phrase"},{"w":"takeoff","bn":"উড্ডয়ন","pos":"noun"}]},
+            {"id":"02","en":"The security line wasn't moving because the scanner broke down.","bn":"স্ক্যানার নষ্ট হয়ে যাওয়ায় নিরাপত্তা তল্লাশির লাইন এগোচ্ছিল না।","words":[{"w":"security line","bn":"নিরাপত্তা তল্লাশির লাইন","pos":"phrase"},{"w":"scanner","bn":"স্ক্যানার","pos":"noun"},{"w":"broke down","bn":"নষ্ট হয়ে গেল","pos":"phrasal verb","base":"break down"}]},
+            {"id":"03","en":"We weren't paying attention when they changed the gate number.","bn":"যখন তারা গেট নম্বর বদলাল, আমরা তখন খেয়াল করছিলাম না।","words":[{"w":"paying attention","bn":"খেয়াল করা","pos":"phrase"},{"w":"gate","bn":"গেট, বহির্গমন দরজা","pos":"noun"}]},
+            {"id":"04","en":"The taxi driver wasn't waiting outside when we landed.","bn":"আমরা যখন নামলাম, ট্যাক্সিচালক তখন বাইরে অপেক্ষা করছিলেন না।","words":[{"w":"waiting","bn":"অপেক্ষা করছিলেন","pos":"verb","base":"wait"},{"w":"landed","bn":"অবতরণ করলাম","pos":"verb","base":"land"}]},
+            {"id":"05","en":"The air conditioning wasn't working in the waiting area.","bn":"অপেক্ষার জায়গায় এসি কাজ করছিল না।","words":[{"w":"air conditioning","bn":"এসি","pos":"noun"},{"w":"waiting area","bn":"অপেক্ষার জায়গা","pos":"phrase"}]},
+            {"id":"06","en":"Nobody was smiling while the staff were searching our bags.","bn":"কর্মীরা যখন আমাদের ব্যাগ তল্লাশি করছিলেন, তখন কেউ হাসছিল না।","words":[{"w":"Nobody","bn":"কেউ না","pos":"pronoun"},{"w":"staff","bn":"কর্মীরা","pos":"noun"},{"w":"searching","bn":"তল্লাশি করছিলেন","pos":"verb","base":"search"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Was/Were + subject + verb-ing (+ when ...)?",
+          "tipBn": "প্রশ্ন করতে Was বা Were শুরুতে বসে, তারপর subject আর verb-ing।",
+          "items": [
+            {"id":"01","en":"Were you standing in the check-in line when I called?","bn":"আমি যখন ফোন করলাম, তোমরা কি তখন চেক-ইনের লাইনে দাঁড়িয়ে ছিলে?","words":[{"w":"standing","bn":"দাঁড়িয়ে ছিলে","pos":"verb","base":"stand"},{"w":"check-in line","bn":"চেক-ইনের লাইন","pos":"phrase"}]},
+            {"id":"02","en":"Was Tareq looking for his ID card again?","bn":"তারেক কি আবার তার পরিচয়পত্র খুঁজছিল?","words":[{"w":"looking for","bn":"খুঁজছিল","pos":"phrasal verb","base":"look for"},{"w":"ID card","bn":"পরিচয়পত্র","pos":"phrase"}]},
+            {"id":"03","en":"Was it raining when your plane landed in Cox's Bazar?","bn":"তোমাদের প্লেন যখন কক্সবাজারে নামল, তখন কি বৃষ্টি হচ্ছিল?","words":[{"w":"raining","bn":"বৃষ্টি হচ্ছিল","pos":"verb","base":"rain"},{"w":"landed","bn":"অবতরণ করল","pos":"verb","base":"land"}]},
+            {"id":"04","en":"Were the passengers complaining about the two-hour delay?","bn":"যাত্রীরা কি ২ ঘণ্টার দেরি নিয়ে অভিযোগ করছিল?","words":[{"w":"complaining","bn":"অভিযোগ করছিল","pos":"verb","base":"complain"},{"w":"delay","bn":"দেরি","pos":"noun"}]},
+            {"id":"05","en":"Was the flight attendant serving snacks during the flight?","bn":"ফ্লাইটের সময় কি কেবিন ক্রু হালকা খাবার পরিবেশন করছিলেন?","words":[{"w":"flight attendant","bn":"কেবিন ক্রু, বিমানবালা","pos":"phrase"},{"w":"serving","bn":"পরিবেশন করছিলেন","pos":"verb","base":"serve"}]},
+            {"id":"06","en":"Were you sitting near the emergency exit on the plane?","bn":"প্লেনে তুমি কি জরুরি বহির্গমন পথের কাছে বসে ছিলে?","words":[{"w":"sitting","bn":"বসে ছিলে","pos":"verb","base":"sit"},{"w":"emergency exit","bn":"জরুরি বহির্গমন পথ","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + was/were + subject + verb-ing?",
+          "tipBn": "প্রশ্নশব্দের পরে was বা were বসে, তারপর subject আর verb-ing।",
+          "items": [
+            {"id":"01","en":"What were you doing when they called our flight?","bn":"যখন আমাদের ফ্লাইটের ঘোষণা দিল, তখন তুমি কী করছিলে?","words":[{"w":"doing","bn":"করছিলে","pos":"verb","base":"do"},{"w":"called","bn":"ডাকল, ঘোষণা দিল","pos":"verb","base":"call"}]},
+            {"id":"02","en":"Why was Tareq running so fast through the terminal?","bn":"তারেক কেন টার্মিনালের ভেতর দিয়ে এত জোরে দৌড়াচ্ছিল?","words":[{"w":"running","bn":"দৌড়াচ্ছিল","pos":"verb","base":"run"},{"w":"terminal","bn":"টার্মিনাল","pos":"noun"}]},
+            {"id":"03","en":"Where were you sitting when the plane shook?","bn":"প্লেনটা যখন কেঁপে উঠল, তুমি তখন কোথায় বসে ছিলে?","words":[{"w":"sitting","bn":"বসে ছিলে","pos":"verb","base":"sit"},{"w":"shook","bn":"কেঁপে উঠল","pos":"verb","base":"shake"}]},
+            {"id":"04","en":"Who was standing behind you in the security line?","bn":"নিরাপত্তা তল্লাশির লাইনে তোমার পেছনে কে দাঁড়িয়ে ছিল?","words":[{"w":"behind","bn":"পেছনে","pos":"preposition"},{"w":"security line","bn":"নিরাপত্তা তল্লাশির লাইন","pos":"phrase"}]},
+            {"id":"05","en":"What was the officer checking in Sabrina's bag?","bn":"অফিসার সাবরিনার ব্যাগে কী পরীক্ষা করছিলেন?","words":[{"w":"officer","bn":"কর্মকর্তা","pos":"noun"},{"w":"checking","bn":"পরীক্ষা করছিলেন","pos":"verb","base":"check"}]},
+            {"id":"06","en":"How were the passengers passing the time during the delay?","bn":"দেরির সময়টা যাত্রীরা কীভাবে কাটাচ্ছিল?","words":[{"w":"passing the time","bn":"সময় কাটানো","pos":"phrase"},{"w":"delay","bn":"দেরি","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences, mostly was/were + verb-ing.",
+          "tipBn": "অনুচ্ছেদে was/were + verb-ing দিয়ে পটভূমির কাজ, আর past simple দিয়ে হঠাৎ ঘটা ঘটনা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Trouble at security","en":"Sabrina was walking through security when the alarm went off. A guard was waving at her, and other passengers were watching. She was wearing her heavy silver bracelet. While she was taking it off, Tareq was laughing quietly behind her.","bn":"সাবরিনা যখন নিরাপত্তা তল্লাশি পার হচ্ছিল, তখন অ্যালার্ম বেজে উঠল। একজন প্রহরী তার দিকে হাত নাড়ছিলেন, আর অন্য যাত্রীরা তাকিয়ে দেখছিল। সে তার ভারী রুপার ব্রেসলেটটা পরে ছিল। সে যখন সেটা খুলছিল, তারেক তখন তার পেছনে চুপচাপ হাসছিল।","words":[{"w":"alarm went off","bn":"অ্যালার্ম বেজে উঠল","pos":"phrase"},{"w":"guard","bn":"প্রহরী","pos":"noun"},{"w":"waving","bn":"হাত নাড়ছিলেন","pos":"verb","base":"wave"},{"w":"bracelet","bn":"ব্রেসলেট, বালা","pos":"noun"}]},
+            {"id":"02","title":"Waiting at Gate 3","en":"Their flight was two hours late, so they were sitting near Gate 3. Joya was reading a novel, and Tareq was charging his phone. Children were running around the waiting area. Sabrina was watching the planes outside and feeling more and more impatient.","bn":"তাদের ফ্লাইট ২ ঘণ্টা দেরিতে ছিল, তাই তারা ৩ নম্বর গেটের কাছে বসে ছিল। জয়া একটা উপন্যাস পড়ছিল, আর তারেক তার ফোন চার্জ দিচ্ছিল। অপেক্ষার জায়গায় বাচ্চারা ছোটাছুটি করছিল। সাবরিনা বাইরের প্লেনগুলো দেখছিল আর ক্রমেই অধৈর্য হয়ে উঠছিল।","words":[{"w":"novel","bn":"উপন্যাস","pos":"noun"},{"w":"charging","bn":"চার্জ দিচ্ছিল","pos":"verb","base":"charge"},{"w":"waiting area","bn":"অপেক্ষার জায়গা","pos":"phrase"},{"w":"impatient","bn":"অধৈর্য","pos":"adjective"}]},
+            {"id":"03","title":"Evening on the beach","en":"That evening, the sun was setting over the sea when they reached the beach. Fishermen were pulling their boats onto the sand. Some tourists were riding horses, and a young boy was selling green coconuts. Sabrina was taking photos of everything.","bn":"সেদিন সন্ধ্যায় তারা যখন সৈকতে পৌঁছাল, সূর্য তখন সাগরের ওপর অস্ত যাচ্ছিল। জেলেরা তাদের নৌকাগুলো টেনে বালুর ওপর তুলছিল। কয়েকজন পর্যটক ঘোড়ায় চড়ছিল, আর একটা ছোট ছেলে ডাব বিক্রি করছিল। সাবরিনা সবকিছুর ছবি তুলছিল।","words":[{"w":"setting","bn":"অস্ত যাচ্ছিল","pos":"verb","base":"set"},{"w":"Fishermen","bn":"জেলেরা","pos":"noun","base":"fisherman"},{"w":"tourists","bn":"পর্যটক","pos":"noun","base":"tourist"},{"w":"green coconuts","bn":"ডাব","pos":"phrase"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "modals",
+      "focus": "Give travel advice, rules and possibilities",
+      "focusBn": "ভ্রমণের পরামর্শ, নিয়ম আর সম্ভাবনা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + should/must/have to/might/could/need to + verb (base).",
+          "tipBn": "should দিয়ে পরামর্শ, must ও have to দিয়ে নিয়ম, might ও could দিয়ে সম্ভাবনা বোঝানো হয়।",
+          "items": [
+            {"id":"01","en":"You should arrive at the airport two hours before your flight.","bn":"ফ্লাইটের ২ ঘণ্টা আগে তোমার বিমানবন্দরে পৌঁছানো উচিত।","words":[{"w":"should","bn":"উচিত","pos":"verb"},{"w":"airport","bn":"বিমানবন্দর","pos":"noun"}]},
+            {"id":"02","en":"Passengers must show a photo ID at the check-in counter.","bn":"চেক-ইন কাউন্টারে যাত্রীদের অবশ্যই ছবিসহ পরিচয়পত্র দেখাতে হবে।","words":[{"w":"must","bn":"অবশ্যই করতে হবে","pos":"verb"},{"w":"photo ID","bn":"ছবিসহ পরিচয়পত্র","pos":"phrase"},{"w":"check-in counter","bn":"চেক-ইন কাউন্টার","pos":"phrase"}]},
+            {"id":"03","en":"We have to pay extra for bags over 20 kilos.","bn":"২০ কেজির বেশি ব্যাগের জন্য আমাদের বাড়তি টাকা দিতে হবে।","words":[{"w":"have to","bn":"করতে হবে","pos":"phrase"},{"w":"extra","bn":"বাড়তি","pos":"adverb"}]},
+            {"id":"04","en":"The flight might be late because of the thick fog.","bn":"ঘন কুয়াশার কারণে ফ্লাইট দেরি হতে পারে।","words":[{"w":"might","bn":"হতে পারে","pos":"verb"},{"w":"thick fog","bn":"ঘন কুয়াশা","pos":"phrase"}]},
+            {"id":"05","en":"We could take a jeep to Inani Beach tomorrow.","bn":"আমরা কাল জিপে করে ইনানী সৈকতে যেতে পারি।","words":[{"w":"could","bn":"পারি","pos":"verb"},{"w":"jeep","bn":"জিপ গাড়ি","pos":"noun"}]},
+            {"id":"06","en":"You need to keep your liquids in a clear plastic bag.","bn":"তরল জিনিসগুলো তোমাকে একটা স্বচ্ছ প্লাস্টিকের ব্যাগে রাখতে হবে।","words":[{"w":"need to","bn":"প্রয়োজন","pos":"phrase"},{"w":"liquids","bn":"তরল জিনিস","pos":"noun","base":"liquid"},{"w":"clear","bn":"স্বচ্ছ","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + mustn't/shouldn't/can't/don't have to/might not + verb (base).",
+          "tipBn": "mustn't মানে নিষেধ, কিন্তু don't have to মানে দরকার নেই; shouldn't মানে উচিত না।",
+          "items": [
+            {"id":"01","en":"You mustn't carry knives or scissors in your hand luggage.","bn":"হাতের ব্যাগে তুমি কোনোভাবেই ছুরি বা কাঁচি নিতে পারবে না।","words":[{"w":"mustn't","bn":"কোনোভাবেই না","pos":"verb"},{"w":"scissors","bn":"কাঁচি","pos":"noun"},{"w":"hand luggage","bn":"হাতের ব্যাগ","pos":"phrase"}]},
+            {"id":"02","en":"We don't have to print our tickets for this flight.","bn":"এই ফ্লাইটের জন্য আমাদের টিকিট প্রিন্ট করার দরকার নেই।","words":[{"w":"don't have to","bn":"দরকার নেই","pos":"phrase"},{"w":"print","bn":"প্রিন্ট করা","pos":"verb"}]},
+            {"id":"03","en":"You shouldn't leave your bags alone in the terminal.","bn":"টার্মিনালে তোমার ব্যাগ একা ফেলে রাখা উচিত না।","words":[{"w":"shouldn't","bn":"উচিত না","pos":"verb"},{"w":"leave","bn":"ফেলে রাখা","pos":"verb"}]},
+            {"id":"04","en":"Tareq can't find a seat in the waiting area.","bn":"তারেক অপেক্ষার জায়গায় বসার জায়গা পাচ্ছে না।","words":[{"w":"can't","bn":"পারছে না","pos":"verb"},{"w":"waiting area","bn":"অপেক্ষার জায়গা","pos":"phrase"}]},
+            {"id":"05","en":"The hotel might not have a room with a sea view.","bn":"হোটেলে সমুদ্রমুখী রুম না-ও থাকতে পারে।","words":[{"w":"might not","bn":"না-ও হতে পারে","pos":"phrase"},{"w":"sea view","bn":"সমুদ্রের দৃশ্য","pos":"phrase"}]},
+            {"id":"06","en":"You don't need to exchange money for a domestic trip.","bn":"দেশের ভেতরে ভ্রমণের জন্য টাকা বদলানোর দরকার নেই।","words":[{"w":"exchange money","bn":"টাকা বদলানো","pos":"phrase"},{"w":"domestic","bn":"অভ্যন্তরীণ","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Should/Can/Could/May + subject + verb (base) ...? / Do + subject + have to ...?",
+          "tipBn": "প্রশ্ন করতে modal শুরুতে বসে; have to-এর প্রশ্নে Do ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"Should we leave home by 7 o'clock to catch the flight?","bn":"ফ্লাইট ধরতে আমাদের কি ৭টার মধ্যে বাসা থেকে বের হওয়া উচিত?","words":[{"w":"Should","bn":"উচিত কি","pos":"verb"},{"w":"catch the flight","bn":"ফ্লাইট ধরা","pos":"phrase"}]},
+            {"id":"02","en":"Do I have to take off my shoes at security?","bn":"নিরাপত্তা তল্লাশিতে আমাকে কি জুতা খুলতে হবে?","words":[{"w":"have to","bn":"করতে হবে","pos":"phrase"},{"w":"take off","bn":"খোলা","pos":"phrasal verb"},{"w":"security","bn":"নিরাপত্তা তল্লাশি","pos":"noun"}]},
+            {"id":"03","en":"Can I carry a power bank in my checked luggage?","bn":"আমি কি চেক-ইন করা লাগেজে পাওয়ার ব্যাংক নিতে পারি?","words":[{"w":"power bank","bn":"পাওয়ার ব্যাংক","pos":"phrase"},{"w":"checked luggage","bn":"চেক-ইন করা লাগেজ","pos":"phrase"}]},
+            {"id":"04","en":"Could you help me with this heavy suitcase?","bn":"এই ভারী স্যুটকেসটা নিতে তুমি কি আমাকে একটু সাহায্য করতে পারো?","words":[{"w":"Could","bn":"পারো কি","pos":"verb"},{"w":"heavy","bn":"ভারী","pos":"adjective"}]},
+            {"id":"05","en":"May I have a window seat on this flight, please?","bn":"এই ফ্লাইটে আমি কি জানালার পাশের সিটটা পেতে পারি?","words":[{"w":"May","bn":"পারি কি","pos":"verb"},{"w":"window seat","bn":"জানালার পাশের সিট","pos":"phrase"}]},
+            {"id":"06","en":"Should Sabrina tell the airline about her fear of flying?","bn":"সাবরিনার কি এয়ারলাইনকে তার প্লেনে চড়ার ভয়ের কথা জানানো উচিত?","words":[{"w":"airline","bn":"বিমান সংস্থা","pos":"noun"},{"w":"fear of flying","bn":"প্লেনে চড়ার ভয়","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "tag-question",
+          "pattern": "Statement with a modal, + opposite modal + pronoun?",
+          "tipBn": "হ্যাঁ-বোধক বাক্যের শেষে না-বোধক ট্যাগ, আর না-বোধক বাক্যের শেষে হ্যাঁ-বোধক ট্যাগ বসে।",
+          "items": [
+            {"id":"01","en":"We should check the weather before we leave, shouldn't we?","bn":"রওনা দেওয়ার আগে আমাদের আবহাওয়া দেখে নেওয়া উচিত, তাই না?","words":[{"w":"check","bn":"দেখে নেওয়া","pos":"verb"},{"w":"leave","bn":"রওনা দেওয়া","pos":"verb"}]},
+            {"id":"02","en":"Passengers must wear their seat belts, mustn't they?","bn":"যাত্রীদের অবশ্যই সিটবেল্ট বাঁধতে হবে, তাই না?","words":[{"w":"Passengers","bn":"যাত্রীরা","pos":"noun","base":"passenger"},{"w":"seat belts","bn":"সিটবেল্ট","pos":"phrase"}]},
+            {"id":"03","en":"You can't bring a full water bottle through security, can you?","bn":"নিরাপত্তা তল্লাশি পার হয়ে তুমি ভরা পানির বোতল নিতে পারবে না, তাই না?","words":[{"w":"bring","bn":"নিয়ে আসা","pos":"verb"},{"w":"security","bn":"নিরাপত্তা তল্লাশি","pos":"noun"}]},
+            {"id":"04","en":"We could share a taxi with Joya, couldn't we?","bn":"আমরা জয়ার সাথে একটা ট্যাক্সি ভাগাভাগি করে নিতে পারি, তাই না?","words":[{"w":"share","bn":"ভাগাভাগি করা","pos":"verb"},{"w":"taxi","bn":"ট্যাক্সি","pos":"noun"}]},
+            {"id":"05","en":"Tareq has to carry his ID card, doesn't he?","bn":"তারেককে তার পরিচয়পত্র সাথে রাখতে হবে, তাই না?","words":[{"w":"has to","bn":"করতে হবে","pos":"phrase"},{"w":"ID card","bn":"পরিচয়পত্র","pos":"phrase"}]},
+            {"id":"06","en":"We shouldn't swim in the sea after dark, should we?","bn":"অন্ধকার নামার পর আমাদের সাগরে সাঁতার কাটা উচিত না, তাই না?","words":[{"w":"shouldn't","bn":"উচিত না","pos":"verb"},{"w":"after dark","bn":"অন্ধকার নামার পর","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences of advice and rules with should, must, have to, might, could.",
+          "tipBn": "অনুচ্ছেদে should, must, have to, might ও could দিয়ে পরামর্শ, নিয়ম আর সম্ভাবনা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Joya's packing advice","en":"Joya told them what to pack for the beach. You should bring light cotton clothes and a good hat. You must carry sunscreen because the sun can be very strong. You might also need a light jacket for the cool winter evenings.","bn":"জয়া তাদের বলে দিল সৈকতের জন্য কী কী গোছাতে হবে। তোমার হালকা সুতির কাপড় আর একটা ভালো টুপি নেওয়া উচিত। তোমাকে অবশ্যই সানস্ক্রিন সাথে রাখতে হবে, কারণ রোদ খুব কড়া হতে পারে। শীতের ঠান্ডা সন্ধ্যার জন্য তোমার একটা হালকা জ্যাকেটও লাগতে পারে।","words":[{"w":"cotton","bn":"সুতি","pos":"noun"},{"w":"sunscreen","bn":"সানস্ক্রিন","pos":"noun"},{"w":"strong","bn":"কড়া, প্রখর","pos":"adjective"},{"w":"cool","bn":"ঠান্ডা ঠান্ডা","pos":"adjective"}]},
+            {"id":"02","title":"Airport rules","en":"Domestic passengers have to arrive at least one hour before departure. They must show a valid photo ID at the gate. Bags over 20 kilos may cost extra, so you should weigh your suitcase at home. You can't carry sharp objects in your hand luggage.","bn":"অভ্যন্তরীণ ফ্লাইটের যাত্রীদের ছাড়ার সময়ের অন্তত ১ ঘণ্টা আগে পৌঁছাতে হয়। গেটে তাদের অবশ্যই একটা বৈধ ছবিসহ পরিচয়পত্র দেখাতে হবে। ২০ কেজির বেশি ব্যাগের জন্য বাড়তি টাকা লাগতে পারে, তাই বাসাতেই তোমার স্যুটকেস ওজন করে নেওয়া উচিত। হাতের ব্যাগে তুমি ধারালো কোনো জিনিস নিতে পারবে না।","words":[{"w":"departure","bn":"ছাড়ার সময়","pos":"noun"},{"w":"valid","bn":"বৈধ","pos":"adjective"},{"w":"weigh","bn":"ওজন করা","pos":"verb"},{"w":"sharp objects","bn":"ধারালো জিনিস","pos":"phrase"}]},
+            {"id":"03","title":"Planning the Sundarbans trip","en":"Tareq wants to see the Sundarbans next winter. They could take a launch from Khulna, or they might join a group tour. They must get a forest permit before they enter the forest. Sabrina thinks they should book early because good boats fill up fast.","bn":"তারেক আগামী শীতে সুন্দরবন দেখতে চায়। তারা খুলনা থেকে লঞ্চে যেতে পারে, অথবা কোনো দলগত ট্যুরে যোগ দিতে পারে। বনে ঢোকার আগে তাদের অবশ্যই বন বিভাগের অনুমতিপত্র নিতে হবে। সাবরিনার মনে হয়, তাদের আগেভাগে বুক করা উচিত, কারণ ভালো নৌকাগুলো দ্রুত ভরে যায়।","words":[{"w":"launch","bn":"লঞ্চ","pos":"noun"},{"w":"group tour","bn":"দলগত ভ্রমণ","pos":"phrase"},{"w":"permit","bn":"অনুমতিপত্র","pos":"noun"},{"w":"fill up","bn":"ভরে যাওয়া","pos":"phrasal verb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Talk about possible problems and dream trips",
+      "focusBn": "সম্ভাব্য সমস্যা আর স্বপ্নের ভ্রমণ নিয়ে শর্তবাক্য",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + present, will + verb. / If + past, would + verb.",
+          "tipBn": "বাস্তব সম্ভাবনায় If + present আর will, কাল্পনিক অবস্থায় If + past আর would ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"If the flight is delayed, we'll call the hotel right away.","bn":"ফ্লাইট দেরি হলে আমরা সঙ্গে সঙ্গে হোটেলে ফোন করব।","words":[{"w":"delayed","bn":"দেরি হওয়া","pos":"adjective"},{"w":"right away","bn":"সঙ্গে সঙ্গে","pos":"phrase"}]},
+            {"id":"02","en":"If we leave home at seven, we will reach the airport on time.","bn":"আমরা ৭টায় বাসা থেকে বের হলে সময়মতো বিমানবন্দরে পৌঁছে যাব।","words":[{"w":"reach","bn":"পৌঁছানো","pos":"verb"},{"w":"on time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"03","en":"If Sabrina had more holidays, she would travel around the world.","bn":"সাবরিনার আরও বেশি ছুটি থাকলে সে সারা পৃথিবী ঘুরে বেড়াত।","words":[{"w":"holidays","bn":"ছুটি","pos":"noun","base":"holiday"},{"w":"around the world","bn":"সারা পৃথিবী","pos":"phrase"}]},
+            {"id":"04","en":"If it rains tomorrow, we'll drive along the Marine Drive instead.","bn":"কাল বৃষ্টি হলে আমরা বরং গাড়িতে করে মেরিন ড্রাইভ ধরে ঘুরব।","words":[{"w":"drive along","bn":"গাড়িতে করে যাওয়া","pos":"phrase"},{"w":"instead","bn":"বরং, তার বদলে","pos":"adverb"}]},
+            {"id":"05","en":"If Joya were here, she would know the best seafood restaurant.","bn":"জয়া এখানে থাকলে সে সবচেয়ে ভালো সামুদ্রিক খাবারের রেস্টুরেন্টটা চিনত।","words":[{"w":"were","bn":"থাকত","pos":"verb","base":"be"},{"w":"seafood","bn":"সামুদ্রিক খাবার","pos":"noun"}]},
+            {"id":"06","en":"If we found a cheaper hotel, we would stay two more nights.","bn":"আরও সস্তা হোটেল পেলে আমরা আরও দুই রাত থাকতাম।","words":[{"w":"cheaper","bn":"বেশি সস্তা","pos":"adjective","base":"cheap"},{"w":"two more nights","bn":"আরও দুই রাত","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + don't/didn't ..., won't/wouldn't + verb.",
+          "tipBn": "শর্ত বা ফলাফল না-বোধক হলে don't, won't, didn't বা wouldn't ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"If we don't hurry, we will miss our flight.","bn":"তাড়াতাড়ি না করলে আমরা ফ্লাইট মিস করব।","words":[{"w":"hurry","bn":"তাড়াহুড়া করা","pos":"verb"},{"w":"miss","bn":"ধরতে না পারা, মিস করা","pos":"verb"}]},
+            {"id":"02","en":"If you don't book early, you won't get a sea-view room.","bn":"আগেভাগে বুক না করলে তুমি সমুদ্রমুখী রুম পাবে না।","words":[{"w":"book","bn":"বুক করা","pos":"verb"},{"w":"sea-view room","bn":"সমুদ্রমুখী রুম","pos":"phrase"}]},
+            {"id":"03","en":"If I were you, I wouldn't carry so much cash.","bn":"আমি তোমার জায়গায় হলে এত নগদ টাকা সাথে রাখতাম না।","words":[{"w":"If I were you","bn":"আমি তোমার জায়গায় হলে","pos":"idiom"},{"w":"cash","bn":"নগদ টাকা","pos":"noun"}]},
+            {"id":"04","en":"Sabrina wouldn't feel so nervous if she flew more often.","bn":"সাবরিনা আরও ঘন ঘন প্লেনে চড়লে এত ভয় পেত না।","words":[{"w":"nervous","bn":"ভীত, উদ্বিগ্ন","pos":"adjective"},{"w":"flew","bn":"প্লেনে চড়ত","pos":"verb","base":"fly"},{"w":"more often","bn":"আরও ঘন ঘন","pos":"phrase"}]},
+            {"id":"05","en":"If the sea isn't calm, the ships won't sail to Saint Martin's Island.","bn":"সাগর শান্ত না থাকলে জাহাজগুলো সেন্ট মার্টিন দ্বীপে যাবে না।","words":[{"w":"calm","bn":"শান্ত","pos":"adjective"},{"w":"sail","bn":"জাহাজে যাওয়া","pos":"verb"}]},
+            {"id":"06","en":"We wouldn't need a taxi if the hotel were closer to the beach.","bn":"হোটেলটা সৈকতের আরও কাছে হলে আমাদের ট্যাক্সি লাগত না।","words":[{"w":"need","bn":"প্রয়োজন হওয়া","pos":"verb"},{"w":"closer","bn":"আরও কাছে","pos":"adjective","base":"close"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + will/would + subject + verb + if ...?",
+          "tipBn": "প্রশ্নশব্দের পরে will বা would বসে, আর শর্তটা if দিয়ে বলা হয়।",
+          "items": [
+            {"id":"01","en":"What will you do if the airline loses your luggage?","bn":"এয়ারলাইন তোমার মালপত্র হারিয়ে ফেললে তুমি কী করবে?","words":[{"w":"loses","bn":"হারিয়ে ফেলে","pos":"verb","base":"lose"},{"w":"luggage","bn":"মালপত্র","pos":"noun"}]},
+            {"id":"02","en":"Where would you go if you could travel anywhere?","bn":"যেকোনো জায়গায় যেতে পারলে তুমি কোথায় যেতে?","words":[{"w":"could","bn":"পারতে","pos":"verb"},{"w":"anywhere","bn":"যেকোনো জায়গায়","pos":"adverb"}]},
+            {"id":"03","en":"How will we get to the hotel if the taxi is late?","bn":"ট্যাক্সি দেরি করলে আমরা হোটেলে কীভাবে যাব?","words":[{"w":"get to","bn":"পৌঁছানো","pos":"phrasal verb"},{"w":"late","bn":"দেরি","pos":"adjective"}]},
+            {"id":"04","en":"Who would look after your cat if you went abroad?","bn":"তুমি বিদেশে গেলে তোমার বিড়ালের দেখাশোনা কে করত?","words":[{"w":"look after","bn":"দেখাশোনা করা","pos":"phrasal verb"},{"w":"abroad","bn":"বিদেশে","pos":"adverb"}]},
+            {"id":"05","en":"Which beach will you visit first if the weather is good?","bn":"আবহাওয়া ভালো থাকলে তুমি প্রথমে কোন সৈকতে যাবে?","words":[{"w":"Which","bn":"কোন","pos":"other"},{"w":"first","bn":"প্রথমে","pos":"adverb"}]},
+            {"id":"06","en":"What would Sabrina do if she missed the last flight home?","bn":"বাড়ি ফেরার শেষ ফ্লাইটটা মিস করলে সাবরিনা কী করত?","words":[{"w":"missed","bn":"মিস করত","pos":"verb","base":"miss"},{"w":"last flight","bn":"শেষ ফ্লাইট","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences with first or second conditionals.",
+          "tipBn": "অনুচ্ছেদে If দিয়ে বাস্তব সম্ভাবনা (will) বা কাল্পনিক অবস্থা (would) বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"If the fog stays","en":"If the fog stays until noon, their flight will leave late. If it leaves late, they will miss the sunset at Inani. Tareq says that if they miss it, they will go again the next evening. If the weather is clear, the photos will be even better.","bn":"কুয়াশা যদি দুপুর পর্যন্ত থাকে, তাহলে তাদের ফ্লাইট দেরিতে ছাড়বে। দেরিতে ছাড়লে তারা ইনানীর সূর্যাস্ত দেখতে পারবে না। তারেক বলে, সূর্যাস্ত মিস করলে তারা পরের সন্ধ্যায় আবার যাবে। আকাশ পরিষ্কার থাকলে ছবিগুলো আরও ভালো হবে।","words":[{"w":"fog","bn":"কুয়াশা","pos":"noun"},{"w":"noon","bn":"দুপুর","pos":"noun"},{"w":"miss","bn":"হাতছাড়া করা","pos":"verb"},{"w":"clear","bn":"পরিষ্কার","pos":"adjective"}]},
+            {"id":"02","title":"Sabrina's dream trip","en":"If Sabrina had a month off, she would travel across Asia. She would ride the toy train in Darjeeling and visit the temples of Thailand. If she had enough money, she would also fly to Japan in spring. For now, she is happy with Cox's Bazar.","bn":"সাবরিনার যদি এক মাসের ছুটি থাকত, তাহলে সে পুরো এশিয়া ঘুরে বেড়াত। সে দার্জিলিংয়ের টয় ট্রেনে চড়ত আর থাইল্যান্ডের মন্দিরগুলো দেখত। যথেষ্ট টাকা থাকলে সে বসন্তকালে জাপানেও উড়ে যেত। আপাতত সে কক্সবাজার নিয়েই খুশি।","words":[{"w":"a month off","bn":"এক মাসের ছুটি","pos":"phrase"},{"w":"across","bn":"জুড়ে","pos":"preposition"},{"w":"temples","bn":"মন্দির","pos":"noun","base":"temple"},{"w":"For now","bn":"আপাতত","pos":"phrase"}]},
+            {"id":"03","title":"A missing bag","en":"Tareq is worried about his checked bag. If it doesn't come out soon, he will go to the lost luggage desk. If the airline finds it, they will send it to the hotel. If they don't find it, he will have to buy new clothes in Cox's Bazar.","bn":"তারেক তার চেক-ইন করা ব্যাগটা নিয়ে চিন্তিত। শিগগিরই যদি ব্যাগটা বের না হয়, তাহলে সে হারানো মালপত্রের ডেস্কে যাবে। এয়ারলাইন ব্যাগটা খুঁজে পেলে তারা সেটা হোটেলে পাঠিয়ে দেবে। খুঁজে না পেলে তাকে কক্সবাজারে নতুন কাপড় কিনতে হবে।","words":[{"w":"worried","bn":"চিন্তিত","pos":"adjective"},{"w":"checked bag","bn":"চেক-ইন করা ব্যাগ","pos":"phrase"},{"w":"come out","bn":"বের হওয়া","pos":"phrasal verb"},{"w":"lost luggage desk","bn":"হারানো মালপত্রের ডেস্ক","pos":"phrase"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

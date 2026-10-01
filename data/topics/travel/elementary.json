@@ -1,0 +1,271 @@
+{
+  "topic": "travel",
+  "level": "elementary",
+  "title": "Nadia's Train to Sylhet",
+  "story": "Nadia is a university student in Dhaka. She often takes the train to Sylhet with her cousin Rumana. Their cousin Farhan lives there, near the tea gardens. Together they explore Ratargul and Jaflong and plan their next trips to Sreemangal and the Sundarbans.",
+  "storyBn": "নাদিয়া ঢাকার একজন বিশ্ববিদ্যালয়ের ছাত্রী। সে প্রায়ই তার কাজিন রুমানার সাথে ট্রেনে করে সিলেটে যায়। তাদের আরেক কাজিন ফারহান সেখানে চা-বাগানের কাছে থাকে। তিনজন মিলে তারা রাতারগুল আর জাফলং ঘুরে দেখে এবং শ্রীমঙ্গল ও সুন্দরবনে পরের ভ্রমণের পরিকল্পনা করে।",
+  "units": [
+    {
+      "grammar": "present-simple",
+      "focus": "Talk about travel habits and train facts",
+      "focusBn": "ভ্রমণের অভ্যাস আর ট্রেনের তথ্য নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb(s) + ... (+ time word).",
+          "tipBn": "অভ্যাস আর নিয়মিত ঘটনা বলতে present simple ব্যবহার হয়; he, she, it এর পরে verb-এ s যোগ হয়।",
+          "items": [
+            {"id":"01","en":"Nadia travels to Sylhet twice a year.","bn":"নাদিয়া বছরে দুবার সিলেটে যায়।","words":[{"w":"travels","bn":"ভ্রমণ করে, যায়","pos":"verb","base":"travel"},{"w":"twice a year","bn":"বছরে দুবার","pos":"phrase"}]},
+            {"id":"02","en":"The Parabat Express leaves Kamalapur at 6:20 in the morning.","bn":"পারাবত এক্সপ্রেস সকাল ৬:২০-এ কমলাপুর থেকে ছাড়ে।","words":[{"w":"leaves","bn":"ছেড়ে যায়","pos":"verb","base":"leave"}]},
+            {"id":"03","en":"She always books a window seat.","bn":"সে সবসময় জানালার পাশের সিট বুক করে।","words":[{"w":"books","bn":"বুক করে","pos":"verb","base":"book"},{"w":"window seat","bn":"জানালার পাশের সিট","pos":"phrase"}]},
+            {"id":"04","en":"The journey takes about seven hours.","bn":"যাত্রায় প্রায় সাত ঘণ্টা লাগে।","words":[{"w":"journey","bn":"যাত্রা","pos":"noun"},{"w":"takes","bn":"সময় লাগে","pos":"verb","base":"take"}]},
+            {"id":"05","en":"Her cousin Farhan lives near the tea gardens.","bn":"তার কাজিন ফারহান চা-বাগানের কাছে থাকে।","words":[{"w":"cousin","bn":"চাচাতো বা মামাতো ভাইবোন","pos":"noun"},{"w":"tea gardens","bn":"চা-বাগান","pos":"phrase"}]},
+            {"id":"06","en":"Nadia carries a small backpack and a water bottle.","bn":"নাদিয়া একটা ছোট ব্যাকপ্যাক আর একটা পানির বোতল সাথে রাখে।","words":[{"w":"carries","bn":"সাথে রাখে","pos":"verb","base":"carry"},{"w":"backpack","bn":"পিঠের ব্যাগ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + don't/doesn't + verb. / Subject + isn't/aren't + ...",
+          "tipBn": "verb-এর আগে don't বা doesn't বসে; is বা are এর পরে not বসে।",
+          "items": [
+            {"id":"01","en":"Nadia doesn't travel to Sylhet by bus.","bn":"নাদিয়া বাসে করে সিলেটে যায় না।","words":[{"w":"doesn't travel","bn":"ভ্রমণ করে না","pos":"phrase"},{"w":"by bus","bn":"বাসে করে","pos":"phrase"}]},
+            {"id":"02","en":"The Parabat Express doesn't leave in the evening.","bn":"পারাবত এক্সপ্রেস সন্ধ্যায় ছাড়ে না।","words":[{"w":"leave","bn":"ছেড়ে যাওয়া","pos":"verb"},{"w":"evening","bn":"সন্ধ্যা","pos":"noun"}]},
+            {"id":"03","en":"She never books an aisle seat.","bn":"সে কখনো করিডোরের পাশের সিট বুক করে না।","words":[{"w":"never","bn":"কখনো না","pos":"adverb"},{"w":"aisle seat","bn":"করিডোরের পাশের সিট","pos":"phrase"}]},
+            {"id":"04","en":"Farhan doesn't like crowded trains.","bn":"ফারহান ভিড়ে ঠাসা ট্রেন পছন্দ করে না।","words":[{"w":"crowded","bn":"ভিড়ে ঠাসা","pos":"adjective"}]},
+            {"id":"05","en":"Train tickets aren't very expensive in Bangladesh.","bn":"বাংলাদেশে ট্রেনের টিকিট খুব একটা দামি না।","words":[{"w":"tickets","bn":"টিকিট","pos":"noun","base":"ticket"},{"w":"expensive","bn":"দামি","pos":"adjective"}]},
+            {"id":"06","en":"Nadia doesn't pack too many clothes.","bn":"নাদিয়া খুব বেশি কাপড় গোছায় না।","words":[{"w":"pack","bn":"ব্যাগে গোছানো","pos":"verb"},{"w":"clothes","bn":"কাপড়চোপড়","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Do/Does + subject + verb ...? / Is/Are + subject + ...?",
+          "tipBn": "প্রশ্ন করতে Do, Does, Is বা Are বাক্যের শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Does Nadia travel to Sylhet twice a year?","bn":"নাদিয়া কি বছরে দুবার সিলেটে যায়?","words":[{"w":"travel","bn":"ভ্রমণ করা","pos":"verb"},{"w":"twice a year","bn":"বছরে দুবার","pos":"phrase"}]},
+            {"id":"02","en":"Does the train have a dining car?","bn":"ট্রেনে কি খাবারের বগি আছে?","words":[{"w":"dining car","bn":"খাবারের বগি","pos":"phrase"}]},
+            {"id":"03","en":"Do you book your tickets online?","bn":"তুমি কি অনলাইনে টিকিট কাটো?","words":[{"w":"book","bn":"বুক করা","pos":"verb"},{"w":"online","bn":"অনলাইনে","pos":"adverb"}]},
+            {"id":"04","en":"Does the journey take seven hours?","bn":"যাত্রায় কি সাত ঘণ্টা লাগে?","words":[{"w":"journey","bn":"যাত্রা","pos":"noun"},{"w":"take","bn":"সময় লাগা","pos":"verb"}]},
+            {"id":"05","en":"Is Sylhet famous for its tea?","bn":"সিলেট কি চায়ের জন্য বিখ্যাত?","words":[{"w":"famous for","bn":"এর জন্য বিখ্যাত","pos":"phrase"}]},
+            {"id":"06","en":"Does Farhan meet Nadia at the station?","bn":"ফারহান কি স্টেশনে নাদিয়ার সাথে দেখা করে?","words":[{"w":"meet","bn":"দেখা করা","pos":"verb"},{"w":"station","bn":"স্টেশন","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Don't/Doesn't/Isn't/Aren't + subject + ...?",
+          "tipBn": "অবাক হয়ে বা নিশ্চিত হতে প্রশ্নের শুরুতে Don't, Doesn't, Isn't বা Aren't বসে।",
+          "items": [
+            {"id":"01","en":"Doesn't Nadia always book a window seat?","bn":"নাদিয়া কি সবসময় জানালার পাশের সিট বুক করে না?","words":[{"w":"always","bn":"সবসময়","pos":"adverb"},{"w":"window seat","bn":"জানালার পাশের সিট","pos":"phrase"}]},
+            {"id":"02","en":"Isn't the station very crowded in the morning?","bn":"সকালে স্টেশনটা কি খুব ভিড় থাকে না?","words":[{"w":"crowded","bn":"ভিড়ে ঠাসা","pos":"adjective"}]},
+            {"id":"03","en":"Don't you carry an ID card on trips?","bn":"তুমি কি ভ্রমণে পরিচয়পত্র সাথে রাখো না?","words":[{"w":"ID card","bn":"পরিচয়পত্র","pos":"phrase"},{"w":"trips","bn":"ভ্রমণ","pos":"noun","base":"trip"}]},
+            {"id":"04","en":"Isn't Sylhet beautiful in the rainy season?","bn":"বর্ষাকালে সিলেট কি সুন্দর না?","words":[{"w":"rainy season","bn":"বর্ষাকাল","pos":"phrase"}]},
+            {"id":"05","en":"Doesn't Farhan live near the tea gardens?","bn":"ফারহান কি চা-বাগানের কাছে থাকে না?","words":[{"w":"near","bn":"কাছে","pos":"preposition"},{"w":"tea gardens","bn":"চা-বাগান","pos":"phrase"}]},
+            {"id":"06","en":"Aren't train tickets cheaper than plane tickets?","bn":"ট্রেনের টিকিট কি প্লেনের টিকিটের চেয়ে সস্তা না?","words":[{"w":"cheaper","bn":"বেশি সস্তা","pos":"adjective","base":"cheap"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + do/does/is + subject ...?",
+          "tipBn": "How often, What time, Why ইত্যাদি প্রশ্নশব্দ শুরুতে বসে, তারপর do/does বা is।",
+          "items": [
+            {"id":"01","en":"How often does Nadia travel to Sylhet?","bn":"নাদিয়া কত ঘন ঘন সিলেটে যায়?","words":[{"w":"How often","bn":"কত ঘন ঘন","pos":"phrase"}]},
+            {"id":"02","en":"What time does the Parabat Express leave?","bn":"পারাবত এক্সপ্রেস কয়টায় ছাড়ে?","words":[{"w":"What time","bn":"কয়টায়","pos":"phrase"},{"w":"leave","bn":"ছেড়ে যাওয়া","pos":"verb"}]},
+            {"id":"03","en":"Where does Farhan live in Sylhet?","bn":"ফারহান সিলেটে কোথায় থাকে?","words":[{"w":"Where","bn":"কোথায়","pos":"adverb"}]},
+            {"id":"04","en":"Why does Nadia prefer the train?","bn":"নাদিয়া কেন ট্রেন বেশি পছন্দ করে?","words":[{"w":"prefer","bn":"বেশি পছন্দ করা","pos":"verb"}]},
+            {"id":"05","en":"How much does a first-class ticket cost?","bn":"প্রথম শ্রেণির একটা টিকিটের দাম কত?","words":[{"w":"first-class","bn":"প্রথম শ্রেণির","pos":"adjective"},{"w":"cost","bn":"দাম হওয়া","pos":"verb"}]},
+            {"id":"06","en":"Which station does the train stop at first?","bn":"ট্রেনটা প্রথমে কোন স্টেশনে থামে?","words":[{"w":"Which","bn":"কোন","pos":"other"},{"w":"stop at","bn":"থামা","pos":"phrasal verb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "present-continuous",
+      "focus": "Describe what is happening on the train",
+      "focusBn": "ট্রেনে এই মুহূর্তে কী ঘটছে তা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + verb-ing + ...",
+          "tipBn": "এই মুহূর্তে যা ঘটছে তা বলতে am, is, are এর পরে verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"The train is passing through green fields.","bn":"ট্রেনটা সবুজ মাঠের মধ্য দিয়ে যাচ্ছে।","words":[{"w":"passing through","bn":"মধ্য দিয়ে যাওয়া","pos":"phrasal verb","base":"pass through"},{"w":"fields","bn":"মাঠ","pos":"noun","base":"field"}]},
+            {"id":"02","en":"Nadia is sitting by the window.","bn":"নাদিয়া জানালার পাশে বসে আছে।","words":[{"w":"sitting","bn":"বসে আছে","pos":"verb","base":"sit"},{"w":"by the window","bn":"জানালার পাশে","pos":"phrase"}]},
+            {"id":"03","en":"A vendor is selling tea and snacks.","bn":"একজন হকার চা আর হালকা খাবার বিক্রি করছে।","words":[{"w":"vendor","bn":"হকার, ফেরিওয়ালা","pos":"noun"},{"w":"snacks","bn":"হালকা খাবার","pos":"noun","base":"snack"}]},
+            {"id":"04","en":"Rumana is taking photos of the rivers.","bn":"রুমানা নদীগুলোর ছবি তুলছে।","words":[{"w":"taking photos","bn":"ছবি তুলছে","pos":"phrase","base":"take photos"},{"w":"rivers","bn":"নদী","pos":"noun","base":"river"}]},
+            {"id":"05","en":"The ticket checker is coming down the aisle.","bn":"টিকিট চেকার করিডোর ধরে এগিয়ে আসছেন।","words":[{"w":"ticket checker","bn":"টিকিট পরীক্ষক","pos":"phrase"},{"w":"aisle","bn":"সিটের মাঝের পথ","pos":"noun"}]},
+            {"id":"06","en":"Farhan is waiting for them at Sylhet station.","bn":"ফারহান সিলেট স্টেশনে তাদের জন্য অপেক্ষা করছে।","words":[{"w":"waiting for","bn":"অপেক্ষা করছে","pos":"phrasal verb","base":"wait for"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + verb-ing.",
+          "tipBn": "am, is বা are এর পরে not বসে; isn't আর aren't হলো সংক্ষিপ্ত রূপ।",
+          "items": [
+            {"id":"01","en":"Nadia isn't sitting by the window now.","bn":"নাদিয়া এখন জানালার পাশে বসে নেই।","words":[{"w":"isn't sitting","bn":"বসে নেই","pos":"phrase"},{"w":"by the window","bn":"জানালার পাশে","pos":"phrase"}]},
+            {"id":"02","en":"The train isn't moving very fast.","bn":"ট্রেনটা খুব দ্রুত চলছে না।","words":[{"w":"moving","bn":"চলছে","pos":"verb","base":"move"},{"w":"fast","bn":"দ্রুত","pos":"adverb"}]},
+            {"id":"03","en":"Rumana isn't taking photos because her battery is dead.","bn":"রুমানা ছবি তুলছে না, কারণ তার ফোনের চার্জ শেষ।","words":[{"w":"battery","bn":"ব্যাটারি","pos":"noun"},{"w":"dead","bn":"চার্জ শেষ","pos":"adjective"}]},
+            {"id":"04","en":"The air conditioner isn't working in our coach.","bn":"আমাদের বগিতে এসি কাজ করছে না।","words":[{"w":"air conditioner","bn":"এসি","pos":"noun"},{"w":"coach","bn":"ট্রেনের বগি","pos":"noun"}]},
+            {"id":"05","en":"The vendors aren't selling lunch yet.","bn":"হকাররা এখনো দুপুরের খাবার বিক্রি করছে না।","words":[{"w":"vendors","bn":"হকার, ফেরিওয়ালা","pos":"noun","base":"vendor"},{"w":"yet","bn":"এখনো","pos":"adverb"}]},
+            {"id":"06","en":"Farhan isn't waiting at the station yet.","bn":"ফারহান এখনো স্টেশনে অপেক্ষা করছে না।","words":[{"w":"waiting","bn":"অপেক্ষা করছে","pos":"verb","base":"wait"},{"w":"station","bn":"স্টেশন","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে Am, Is বা Are বাক্যের শুরুতে বসে, তারপর subject আর verb-ing।",
+          "items": [
+            {"id":"01","en":"Is the train passing through Bhairab now?","bn":"ট্রেনটা কি এখন ভৈরব দিয়ে যাচ্ছে?","words":[{"w":"passing through","bn":"মধ্য দিয়ে যাওয়া","pos":"phrasal verb","base":"pass through"}]},
+            {"id":"02","en":"Is Nadia sitting by the window?","bn":"নাদিয়া কি জানালার পাশে বসে আছে?","words":[{"w":"sitting","bn":"বসে আছে","pos":"verb","base":"sit"},{"w":"by the window","bn":"জানালার পাশে","pos":"phrase"}]},
+            {"id":"03","en":"Are you enjoying the journey?","bn":"তুমি কি যাত্রাটা উপভোগ করছ?","words":[{"w":"enjoying","bn":"উপভোগ করছ","pos":"verb","base":"enjoy"},{"w":"journey","bn":"যাত্রা","pos":"noun"}]},
+            {"id":"04","en":"Is the ticket checker coming this way?","bn":"টিকিট চেকার কি এদিকে আসছেন?","words":[{"w":"ticket checker","bn":"টিকিট পরীক্ষক","pos":"phrase"},{"w":"this way","bn":"এদিকে","pos":"phrase"}]},
+            {"id":"05","en":"Is Rumana taking photos of the rivers?","bn":"রুমানা কি নদীগুলোর ছবি তুলছে?","words":[{"w":"taking photos","bn":"ছবি তুলছে","pos":"phrase","base":"take photos"}]},
+            {"id":"06","en":"Is it raining in Sylhet today?","bn":"সিলেটে কি আজ বৃষ্টি হচ্ছে?","words":[{"w":"raining","bn":"বৃষ্টি হচ্ছে","pos":"verb","base":"rain"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + verb-ing?",
+          "tipBn": "প্রশ্নশব্দের পরে am, is বা are বসে, তারপর subject আর verb-ing।",
+          "items": [
+            {"id":"01","en":"Which station are we passing now?","bn":"আমরা এখন কোন স্টেশন পার হচ্ছি?","words":[{"w":"Which","bn":"কোন","pos":"other"},{"w":"passing","bn":"পার হচ্ছি","pos":"verb","base":"pass"}]},
+            {"id":"02","en":"What is the vendor selling?","bn":"হকারটা কী বিক্রি করছে?","words":[{"w":"vendor","bn":"হকার, ফেরিওয়ালা","pos":"noun"},{"w":"selling","bn":"বিক্রি করছে","pos":"verb","base":"sell"}]},
+            {"id":"03","en":"Why is the train slowing down?","bn":"ট্রেনটা কেন গতি কমাচ্ছে?","words":[{"w":"slowing down","bn":"গতি কমাচ্ছে","pos":"phrasal verb","base":"slow down"}]},
+            {"id":"04","en":"Who is waiting for us at the station?","bn":"স্টেশনে আমাদের জন্য কে অপেক্ষা করছে?","words":[{"w":"waiting for","bn":"অপেক্ষা করছে","pos":"phrasal verb","base":"wait for"}]},
+            {"id":"05","en":"What are you reading on the train?","bn":"তুমি ট্রেনে কী পড়ছ?","words":[{"w":"reading","bn":"পড়ছ","pos":"verb","base":"read"}]},
+            {"id":"06","en":"How is everyone feeling after six hours?","bn":"৬ ঘণ্টা পর সবার কেমন লাগছে?","words":[{"w":"everyone","bn":"সবাই","pos":"pronoun"},{"w":"feeling","bn":"লাগছে","pos":"verb","base":"feel"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-simple",
+      "focus": "Tell what happened on the trip to Sylhet",
+      "focusBn": "সিলেট ভ্রমণে কী কী ঘটেছিল তা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb (past) + ...",
+          "tipBn": "অতীতের ঘটনা বলতে verb-এর past রূপ বসে: reach → reached, take → took।",
+          "items": [
+            {"id":"01","en":"We reached Sylhet at two in the afternoon.","bn":"আমরা দুপুর ২টায় সিলেটে পৌঁছালাম।","words":[{"w":"reached","bn":"পৌঁছালাম","pos":"verb","base":"reach"}]},
+            {"id":"02","en":"Farhan took us to a small hotel near Zindabazar.","bn":"ফারহান আমাদের জিন্দাবাজারের কাছে একটা ছোট হোটেলে নিয়ে গেল।","words":[{"w":"took","bn":"নিয়ে গেল","pos":"verb","base":"take"},{"w":"near","bn":"কাছে","pos":"preposition"}]},
+            {"id":"03","en":"Nadia paid 3,000 taka for two nights.","bn":"নাদিয়া দুই রাতের জন্য ৩,০০০ টাকা দিল।","words":[{"w":"paid","bn":"পরিশোধ করল","pos":"verb","base":"pay"}]},
+            {"id":"04","en":"The next day, we visited Ratargul swamp forest.","bn":"পরের দিন আমরা রাতারগুল জলাবন ঘুরে দেখলাম।","words":[{"w":"visited","bn":"ঘুরে দেখলাম","pos":"verb","base":"visit"},{"w":"swamp forest","bn":"জলাবন","pos":"phrase"}]},
+            {"id":"05","en":"We rode a small boat through the trees.","bn":"আমরা গাছের ফাঁক দিয়ে ছোট নৌকায় করে ঘুরলাম।","words":[{"w":"rode","bn":"চড়লাম","pos":"verb","base":"ride"},{"w":"through","bn":"মধ্য দিয়ে","pos":"preposition"}]},
+            {"id":"06","en":"Rumana bought Manipuri shawls as souvenirs.","bn":"রুমানা স্মৃতিচিহ্ন হিসেবে মণিপুরি শাল কিনল।","words":[{"w":"shawls","bn":"শাল","pos":"noun","base":"shawl"},{"w":"souvenirs","bn":"স্মৃতিচিহ্ন","pos":"noun","base":"souvenir"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + didn't + verb (base). / wasn't/weren't + ...",
+          "tipBn": "didn't এর পরে verb মূল রূপে থাকে; was বা were এর পরে not বসে।",
+          "items": [
+            {"id":"01","en":"We didn't reach Sylhet on time.","bn":"আমরা সময়মতো সিলেটে পৌঁছাইনি।","words":[{"w":"reach","bn":"পৌঁছানো","pos":"verb"},{"w":"on time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"02","en":"The hotel didn't have hot water.","bn":"হোটেলে গরম পানি ছিল না।","words":[{"w":"hot water","bn":"গরম পানি","pos":"phrase"}]},
+            {"id":"03","en":"Nadia didn't pay by card.","bn":"নাদিয়া কার্ডে টাকা দেয়নি।","words":[{"w":"pay by card","bn":"কার্ডে পরিশোধ করা","pos":"phrase"}]},
+            {"id":"04","en":"We didn't swim at Jaflong because of the strong current.","bn":"জোরালো স্রোতের কারণে আমরা জাফলংয়ে সাঁতার কাটিনি।","words":[{"w":"because of","bn":"কারণে","pos":"phrase"},{"w":"strong current","bn":"জোরালো স্রোত","pos":"phrase"}]},
+            {"id":"05","en":"Rumana didn't buy any tea leaves.","bn":"রুমানা কোনো চা-পাতা কেনেনি।","words":[{"w":"tea leaves","bn":"চা-পাতা","pos":"phrase"}]},
+            {"id":"06","en":"Farhan didn't come to Ratargul with us.","bn":"ফারহান আমাদের সাথে রাতারগুলে যায়নি।","words":[{"w":"didn't come","bn":"আসেনি, যায়নি","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Did + subject + verb (base) ...? / Was/Were + subject + ...?",
+          "tipBn": "প্রশ্ন করতে Did শুরুতে বসে আর verb মূল রূপে থাকে; be-এর জন্য Was বা Were।",
+          "items": [
+            {"id":"01","en":"Did you reach Sylhet on time?","bn":"তোমরা কি সময়মতো সিলেটে পৌঁছালে?","words":[{"w":"reach","bn":"পৌঁছানো","pos":"verb"},{"w":"on time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"02","en":"Did Farhan take you to the hotel?","bn":"ফারহান কি তোমাদের হোটেলে নিয়ে গেল?","words":[{"w":"take","bn":"নিয়ে যাওয়া","pos":"verb"}]},
+            {"id":"03","en":"Was the hotel room clean?","bn":"হোটেলের রুমটা কি পরিষ্কার ছিল?","words":[{"w":"clean","bn":"পরিষ্কার","pos":"adjective"}]},
+            {"id":"04","en":"Did you visit Ratargul swamp forest?","bn":"তোমরা কি রাতারগুল জলাবনে গিয়েছিলে?","words":[{"w":"visit","bn":"ঘুরে দেখা","pos":"verb"},{"w":"swamp forest","bn":"জলাবন","pos":"phrase"}]},
+            {"id":"05","en":"Did the boat ride cost a lot?","bn":"নৌকায় ঘুরতে কি অনেক খরচ হলো?","words":[{"w":"boat ride","bn":"নৌকাভ্রমণ","pos":"phrase"},{"w":"cost","bn":"খরচ হওয়া","pos":"verb"}]},
+            {"id":"06","en":"Did Rumana buy shawls as souvenirs?","bn":"রুমানা কি স্মৃতিচিহ্ন হিসেবে শাল কিনল?","words":[{"w":"shawls","bn":"শাল","pos":"noun","base":"shawl"},{"w":"souvenirs","bn":"স্মৃতিচিহ্ন","pos":"noun","base":"souvenir"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Didn't/Wasn't/Weren't + subject + ...?",
+          "tipBn": "অবাক হয়ে বা নিশ্চিত হতে প্রশ্নের শুরুতে Didn't, Wasn't বা Weren't বসে।",
+          "items": [
+            {"id":"01","en":"Didn't you book the hotel in advance?","bn":"তুমি কি আগে থেকে হোটেল বুক করোনি?","words":[{"w":"book","bn":"বুক করা","pos":"verb"},{"w":"in advance","bn":"আগে থেকে","pos":"phrase"}]},
+            {"id":"02","en":"Didn't Farhan meet you at the station?","bn":"ফারহান কি স্টেশনে তোমাদের সাথে দেখা করেনি?","words":[{"w":"meet","bn":"দেখা করা","pos":"verb"}]},
+            {"id":"03","en":"Wasn't the water at Jaflong very clear?","bn":"জাফলংয়ের পানি কি খুব স্বচ্ছ ছিল না?","words":[{"w":"clear","bn":"স্বচ্ছ","pos":"adjective"}]},
+            {"id":"04","en":"Didn't you take any photos at Ratargul?","bn":"তুমি কি রাতারগুলে কোনো ছবি তোলোনি?","words":[{"w":"take","bn":"তোলা","pos":"verb"},{"w":"photos","bn":"ছবি","pos":"noun","base":"photo"}]},
+            {"id":"05","en":"Didn't the hotel give you breakfast?","bn":"হোটেল কি তোমাদের নাস্তা দেয়নি?","words":[{"w":"breakfast","bn":"সকালের নাস্তা","pos":"noun"}]},
+            {"id":"06","en":"Weren't you tired after the long journey?","bn":"লম্বা যাত্রার পর তোমরা কি ক্লান্ত ছিলে না?","words":[{"w":"tired","bn":"ক্লান্ত","pos":"adjective"},{"w":"journey","bn":"যাত্রা","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + did + subject + verb (base)?",
+          "tipBn": "প্রশ্নশব্দের পরে did বসে এবং verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"What time did you reach Sylhet?","bn":"তোমরা কয়টায় সিলেটে পৌঁছালে?","words":[{"w":"What time","bn":"কয়টায়","pos":"phrase"},{"w":"reach","bn":"পৌঁছানো","pos":"verb"}]},
+            {"id":"02","en":"Where did you stay in Sylhet?","bn":"সিলেটে তোমরা কোথায় ছিলে?","words":[{"w":"stay","bn":"থাকা","pos":"verb"}]},
+            {"id":"03","en":"How much did you pay for the hotel?","bn":"হোটেলের জন্য তুমি কত টাকা দিলে?","words":[{"w":"How much","bn":"কত","pos":"phrase"},{"w":"pay","bn":"পরিশোধ করা","pos":"verb"}]},
+            {"id":"04","en":"Why did you choose the train?","bn":"তোমরা কেন ট্রেন বেছে নিলে?","words":[{"w":"choose","bn":"বেছে নেওয়া","pos":"verb"}]},
+            {"id":"05","en":"Who took this photo of the tea garden?","bn":"চা-বাগানের এই ছবিটা কে তুলল?","words":[{"w":"took","bn":"তুলল","pos":"verb","base":"take"},{"w":"tea garden","bn":"চা-বাগান","pos":"phrase"}]},
+            {"id":"06","en":"What did you eat for dinner in Sylhet?","bn":"সিলেটে রাতে তোমরা কী খেলে?","words":[{"w":"dinner","bn":"রাতের খাবার","pos":"noun"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "future-going-to",
+      "focus": "Plan the next trips to Sreemangal and the Sundarbans",
+      "focusBn": "শ্রীমঙ্গল ও সুন্দরবনে পরের ভ্রমণের পরিকল্পনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + going to + verb (base).",
+          "tipBn": "আগে থেকে ঠিক করা পরিকল্পনা বা চোখে দেখা লক্ষণ থেকে অনুমান বলতে going to + verb বসে।",
+          "items": [
+            {"id":"01","en":"Next month, Nadia is going to visit Sreemangal.","bn":"আগামী মাসে নাদিয়া শ্রীমঙ্গলে বেড়াতে যাচ্ছে।","words":[{"w":"is going to","bn":"করতে যাচ্ছে","pos":"phrase"},{"w":"visit","bn":"বেড়াতে যাওয়া","pos":"verb"}]},
+            {"id":"02","en":"She is going to stay at a tea resort.","bn":"সে একটা চা-বাগানের রিসোর্টে থাকবে।","words":[{"w":"stay","bn":"থাকা","pos":"verb"},{"w":"resort","bn":"রিসোর্ট","pos":"noun"}]},
+            {"id":"03","en":"Farhan is going to book the train tickets tomorrow.","bn":"ফারহান কাল ট্রেনের টিকিট কাটবে।","words":[{"w":"book","bn":"বুক করা","pos":"verb"},{"w":"tomorrow","bn":"আগামীকাল","pos":"adverb"}]},
+            {"id":"04","en":"In winter, the cousins are going to see the Sundarbans.","bn":"শীতকালে কাজিনরা সুন্দরবন দেখতে যাচ্ছে।","words":[{"w":"cousins","bn":"কাজিনরা","pos":"noun","base":"cousin"}]},
+            {"id":"05","en":"Look at those dark clouds; it's going to rain.","bn":"ওই কালো মেঘগুলো দেখো, বৃষ্টি নামবে।","words":[{"w":"dark clouds","bn":"কালো মেঘ","pos":"phrase"},{"w":"rain","bn":"বৃষ্টি হওয়া","pos":"verb"}]},
+            {"id":"06","en":"Rumana is going to bring her new camera.","bn":"রুমানা তার নতুন ক্যামেরাটা নিয়ে আসবে।","words":[{"w":"bring","bn":"নিয়ে আসা","pos":"verb"},{"w":"camera","bn":"ক্যামেরা","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + going to + verb (base).",
+          "tipBn": "am, is বা are এর পরে not বসে, তারপর going to + verb।",
+          "items": [
+            {"id":"01","en":"Nadia isn't going to travel by bus.","bn":"নাদিয়া বাসে করে যাবে না।","words":[{"w":"travel","bn":"ভ্রমণ করা","pos":"verb"},{"w":"by bus","bn":"বাসে করে","pos":"phrase"}]},
+            {"id":"02","en":"She isn't going to stay at an expensive hotel.","bn":"সে কোনো দামি হোটেলে থাকবে না।","words":[{"w":"stay","bn":"থাকা","pos":"verb"},{"w":"expensive","bn":"দামি","pos":"adjective"}]},
+            {"id":"03","en":"Farhan isn't going to book the tickets today.","bn":"ফারহান আজ টিকিট কাটবে না।","words":[{"w":"book","bn":"বুক করা","pos":"verb"}]},
+            {"id":"04","en":"We aren't going to take much luggage.","bn":"আমরা বেশি মালপত্র নেব না।","words":[{"w":"luggage","bn":"মালপত্র","pos":"noun"}]},
+            {"id":"05","en":"It isn't going to be a cheap trip.","bn":"এটা সস্তা ভ্রমণ হবে না।","words":[{"w":"cheap","bn":"সস্তা","pos":"adjective"},{"w":"trip","bn":"ভ্রমণ","pos":"noun"}]},
+            {"id":"06","en":"Rumana isn't going to forget her charger this time.","bn":"এবার রুমানা তার চার্জার ভুলবে না।","words":[{"w":"charger","bn":"চার্জার","pos":"noun"},{"w":"this time","bn":"এবার","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + going to + verb (base) ...?",
+          "tipBn": "প্রশ্ন করতে Am, Is বা Are শুরুতে বসে, তারপর subject আর going to + verb।",
+          "items": [
+            {"id":"01","en":"Is Nadia going to visit Sreemangal next month?","bn":"নাদিয়া কি আগামী মাসে শ্রীমঙ্গলে যাচ্ছে?","words":[{"w":"visit","bn":"বেড়াতে যাওয়া","pos":"verb"},{"w":"next month","bn":"আগামী মাসে","pos":"phrase"}]},
+            {"id":"02","en":"Are you going to stay at a tea resort?","bn":"তোমরা কি চা-বাগানের রিসোর্টে থাকবে?","words":[{"w":"resort","bn":"রিসোর্ট","pos":"noun"}]},
+            {"id":"03","en":"Is Farhan going to book the train tickets?","bn":"ফারহান কি ট্রেনের টিকিট কাটবে?","words":[{"w":"book","bn":"বুক করা","pos":"verb"}]},
+            {"id":"04","en":"Are the cousins going to see a tiger in the Sundarbans?","bn":"কাজিনরা কি সুন্দরবনে বাঘ দেখবে?","words":[{"w":"cousins","bn":"কাজিনরা","pos":"noun","base":"cousin"},{"w":"tiger","bn":"বাঘ","pos":"noun"}]},
+            {"id":"05","en":"Is it going to rain during our trip?","bn":"আমাদের ভ্রমণের সময় কি বৃষ্টি হবে?","words":[{"w":"during","bn":"সময়ে, চলাকালে","pos":"preposition"}]},
+            {"id":"06","en":"Are we going to need warm clothes?","bn":"আমাদের কি গরম কাপড় লাগবে?","words":[{"w":"need","bn":"প্রয়োজন হওয়া","pos":"verb"},{"w":"warm clothes","bn":"গরম কাপড়","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + going to + verb?",
+          "tipBn": "প্রশ্নশব্দের পরে am, is বা are বসে, তারপর subject আর going to + verb।",
+          "items": [
+            {"id":"01","en":"Where are you going to stay in Sreemangal?","bn":"শ্রীমঙ্গলে তোমরা কোথায় থাকবে?","words":[{"w":"Where","bn":"কোথায়","pos":"adverb"},{"w":"stay","bn":"থাকা","pos":"verb"}]},
+            {"id":"02","en":"When is Farhan going to book the tickets?","bn":"ফারহান কখন টিকিট কাটবে?","words":[{"w":"When","bn":"কখন","pos":"adverb"},{"w":"book","bn":"বুক করা","pos":"verb"}]},
+            {"id":"03","en":"How are you going to get to the Sundarbans?","bn":"তোমরা সুন্দরবনে কীভাবে যাবে?","words":[{"w":"get to","bn":"পৌঁছানো","pos":"phrasal verb"}]},
+            {"id":"04","en":"What are you going to pack for the trip?","bn":"ভ্রমণের জন্য তুমি কী কী গোছাবে?","words":[{"w":"pack","bn":"ব্যাগে গোছানো","pos":"verb"}]},
+            {"id":"05","en":"How long are you going to stay there?","bn":"তোমরা ওখানে কতদিন থাকবে?","words":[{"w":"How long","bn":"কতদিন","pos":"phrase"}]},
+            {"id":"06","en":"Who is going to look after the tickets?","bn":"টিকিটগুলোর দায়িত্ব কে নেবে?","words":[{"w":"look after","bn":"দেখাশোনা করা","pos":"phrasal verb"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

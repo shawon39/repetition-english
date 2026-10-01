@@ -12,8 +12,8 @@ mixes grammar or sentence types inside a session.
 ## What is inside
 
 - **4 levels:** Starter (A1), Elementary (A2), Intermediate (B1), Advanced (B2–C1)
-- **6 topics:** Weather, Household Chores, Office, Daily Routine, Food & Cooking, Shopping
-- **24 story-based tracks, 432 sessions, 2,460 sentences and paragraphs**, each with a full-sentence Bangla meaning and Bangla word meanings
+- **12 topics:** Weather, Household Chores, Office, Daily Routine, Food & Cooking, Shopping, Travel, Health, Transport & Directions, Money & Banking, Family & Friends, School & Study
+- **48 story-based tracks, 864 sessions, 4,920 sentences and paragraphs**, each with a full-sentence Bangla meaning and Bangla word meanings
 - **3 practice modes:** Read aloud (with a pace guard), Speak (the mic checks each rep), Type
 - **Memory Fade**, strict rep lock, chain rounds, spaced review, streaks and a progress dashboard
 - Tap **বাংলা অর্থ** for the full-sentence meaning, or a dotted word for its meaning

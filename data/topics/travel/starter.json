@@ -1,0 +1,247 @@
+{
+  "topic": "travel",
+  "level": "starter",
+  "title": "Tanim's Beach Trip",
+  "story": "Tanim is eleven and lives in Dhaka with his parents and his little sister Mitu. Every winter the family takes a bus to Cox's Bazar. They stay in a small hotel near the beach and visit Himchari and Inani.",
+  "storyBn": "তানিমের বয়স এগারো। সে বাবা-মা আর ছোট বোন মিতুর সাথে ঢাকায় থাকে। প্রতি শীতে পরিবারটি বাসে করে কক্সবাজারে যায়। তারা সৈকতের কাছে একটা ছোট হোটেলে থাকে আর হিমছড়ি ও ইনানী ঘুরে দেখে।",
+  "units": [
+    {
+      "grammar": "present-simple",
+      "focus": "Talk about the family's trip every winter",
+      "focusBn": "প্রতি শীতে পরিবারের ভ্রমণ নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb(s) + ... / Subject + is + adjective.",
+          "tipBn": "he, she বা it এর পরে verb-এর সাথে s বা es যোগ হয়; বর্ণনা দিতে is ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"We travel every winter.","bn":"আমরা প্রতি শীতে ভ্রমণ করি।","words":[{"w":"travel","bn":"ভ্রমণ করা","pos":"verb"},{"w":"winter","bn":"শীতকাল","pos":"noun"}]},
+            {"id":"02","en":"Tanim loves the sea.","bn":"তানিম সমুদ্র ভালোবাসে।","words":[{"w":"loves","bn":"ভালোবাসে","pos":"verb","base":"love"},{"w":"sea","bn":"সমুদ্র","pos":"noun"}]},
+            {"id":"03","en":"Cox's Bazar is very beautiful.","bn":"কক্সবাজার খুব সুন্দর।","words":[{"w":"beautiful","bn":"সুন্দর","pos":"adjective"}]},
+            {"id":"04","en":"The bus leaves at 10 o'clock.","bn":"বাসটা ১০টায় ছাড়ে।","words":[{"w":"leaves","bn":"ছাড়ে","pos":"verb","base":"leave"}]},
+            {"id":"05","en":"Dad buys the tickets online.","bn":"বাবা অনলাইনে টিকিট কেনেন।","words":[{"w":"tickets","bn":"টিকিট","pos":"noun","base":"ticket"},{"w":"online","bn":"অনলাইনে","pos":"adverb"}]},
+            {"id":"06","en":"Mitu packs her own bag.","bn":"মিতু নিজের ব্যাগ নিজেই গোছায়।","words":[{"w":"packs","bn":"গোছায়","pos":"verb","base":"pack"},{"w":"own","bn":"নিজের","pos":"adjective"}]},
+            {"id":"07","en":"The hotel is near the beach.","bn":"হোটেলটা সৈকতের কাছে।","words":[{"w":"near","bn":"কাছে","pos":"preposition"},{"w":"beach","bn":"সৈকত","pos":"noun"}]},
+            {"id":"08","en":"Mom takes a lot of photos.","bn":"মা অনেক ছবি তোলেন।","words":[{"w":"takes","bn":"তোলেন","pos":"verb","base":"take"},{"w":"photos","bn":"ছবি","pos":"noun","base":"photo"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + don't/doesn't + verb. / Subject + is not + ...",
+          "tipBn": "verb-এর আগে don't বা doesn't বসে; is এর পরে not বসে।",
+          "items": [
+            {"id":"01","en":"We don't travel in summer.","bn":"আমরা গরমকালে ভ্রমণ করি না।","words":[{"w":"don't travel","bn":"ভ্রমণ করি না","pos":"phrase"},{"w":"summer","bn":"গ্রীষ্মকাল","pos":"noun"}]},
+            {"id":"02","en":"The bus doesn't leave at 9 o'clock.","bn":"বাসটা ৯টায় ছাড়ে না।","words":[{"w":"doesn't leave","bn":"ছাড়ে না","pos":"phrase"}]},
+            {"id":"03","en":"The hotel is not far from the beach.","bn":"হোটেলটা সৈকত থেকে দূরে নয়।","words":[{"w":"far","bn":"দূরে","pos":"adjective"},{"w":"beach","bn":"সৈকত","pos":"noun"}]},
+            {"id":"04","en":"Mitu doesn't like long bus rides.","bn":"মিতু লম্বা বাসযাত্রা পছন্দ করে না।","words":[{"w":"long","bn":"লম্বা","pos":"adjective"},{"w":"bus rides","bn":"বাসযাত্রা","pos":"phrase"}]},
+            {"id":"05","en":"Dad never forgets the tickets.","bn":"বাবা কখনো টিকিট ভোলেন না।","words":[{"w":"never","bn":"কখনো না","pos":"adverb"},{"w":"forgets","bn":"ভুলে যান","pos":"verb","base":"forget"}]},
+            {"id":"06","en":"Tanim doesn't carry a heavy bag.","bn":"তানিম ভারী ব্যাগ বহন করে না।","words":[{"w":"carry","bn":"বহন করা","pos":"verb"},{"w":"heavy","bn":"ভারী","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Do/Does + subject + verb ...? / Is + subject + ...?",
+          "tipBn": "প্রশ্ন করতে Do, Does বা Is বাক্যের শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Do you travel every winter?","bn":"তোমরা কি প্রতি শীতে ভ্রমণ করো?","words":[{"w":"travel","bn":"ভ্রমণ করা","pos":"verb"},{"w":"winter","bn":"শীতকাল","pos":"noun"}]},
+            {"id":"02","en":"Does Tanim love the sea?","bn":"তানিম কি সমুদ্র ভালোবাসে?","words":[{"w":"love","bn":"ভালোবাসা","pos":"verb"},{"w":"sea","bn":"সমুদ্র","pos":"noun"}]},
+            {"id":"03","en":"Is Cox's Bazar far from Dhaka?","bn":"কক্সবাজার কি ঢাকা থেকে দূরে?","words":[{"w":"far","bn":"দূরে","pos":"adjective"}]},
+            {"id":"04","en":"Is the bus air-conditioned?","bn":"বাসটা কি এসি?","words":[{"w":"air-conditioned","bn":"শীতাতপনিয়ন্ত্রিত, এসি","pos":"adjective"}]},
+            {"id":"05","en":"Does Mom like the hotel room?","bn":"মা কি হোটেলের রুমটা পছন্দ করেন?","words":[{"w":"like","bn":"পছন্দ করা","pos":"verb"},{"w":"room","bn":"রুম, কক্ষ","pos":"noun"}]},
+            {"id":"06","en":"Is the hotel near the beach?","bn":"হোটেলটা কি সৈকতের কাছে?","words":[{"w":"near","bn":"কাছে","pos":"preposition"},{"w":"beach","bn":"সৈকত","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + do/does/is + subject ...?",
+          "tipBn": "Where, When, Who, How much ইত্যাদি প্রশ্নশব্দ শুরুতে বসে, তারপর do/does বা is।",
+          "items": [
+            {"id":"01","en":"Where do you go every winter?","bn":"তোমরা প্রতি শীতে কোথায় যাও?","words":[{"w":"Where","bn":"কোথায়","pos":"adverb"},{"w":"winter","bn":"শীতকাল","pos":"noun"}]},
+            {"id":"02","en":"When does the bus leave?","bn":"বাসটা কখন ছাড়ে?","words":[{"w":"When","bn":"কখন","pos":"adverb"},{"w":"leave","bn":"ছাড়া","pos":"verb"}]},
+            {"id":"03","en":"How much is a bus ticket?","bn":"বাসের একটা টিকিটের দাম কত?","words":[{"w":"How much","bn":"কত","pos":"phrase"},{"w":"ticket","bn":"টিকিট","pos":"noun"}]},
+            {"id":"04","en":"Who buys the tickets?","bn":"টিকিট কে কেনে?","words":[{"w":"Who","bn":"কে","pos":"pronoun"},{"w":"buys","bn":"কেনে","pos":"verb","base":"buy"}]},
+            {"id":"05","en":"Why does Tanim love the sea?","bn":"তানিম কেন সমুদ্র ভালোবাসে?","words":[{"w":"Why","bn":"কেন","pos":"adverb"},{"w":"sea","bn":"সমুদ্র","pos":"noun"}]},
+            {"id":"06","en":"How long does the journey take?","bn":"যাত্রায় কতক্ষণ সময় লাগে?","words":[{"w":"How long","bn":"কতক্ষণ","pos":"phrase"},{"w":"journey","bn":"যাত্রা","pos":"noun"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "present-continuous",
+      "focus": "Describe the bus ride to Cox's Bazar",
+      "focusBn": "কক্সবাজারের বাসযাত্রার এই মুহূর্তের বর্ণনা দেওয়া",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + verb-ing.",
+          "tipBn": "এখন যা ঘটছে তা বলতে am, is বা are এর পরে verb-এর সাথে ing যোগ হয়।",
+          "items": [
+            {"id":"01","en":"We are traveling to Cox's Bazar.","bn":"আমরা কক্সবাজারে যাচ্ছি।","words":[{"w":"traveling","bn":"ভ্রমণ করছি","pos":"verb","base":"travel"}]},
+            {"id":"02","en":"The bus is moving fast.","bn":"বাসটা দ্রুত চলছে।","words":[{"w":"moving","bn":"চলছে","pos":"verb","base":"move"},{"w":"fast","bn":"দ্রুত","pos":"adverb"}]},
+            {"id":"03","en":"Tanim is looking out of the window.","bn":"তানিম জানালা দিয়ে বাইরে তাকিয়ে আছে।","words":[{"w":"looking out","bn":"বাইরে তাকানো","pos":"phrasal verb","base":"look out"},{"w":"window","bn":"জানালা","pos":"noun"}]},
+            {"id":"04","en":"Mitu is sleeping on Mom's shoulder.","bn":"মিতু মায়ের কাঁধে মাথা রেখে ঘুমাচ্ছে।","words":[{"w":"sleeping","bn":"ঘুমাচ্ছে","pos":"verb","base":"sleep"},{"w":"shoulder","bn":"কাঁধ","pos":"noun"}]},
+            {"id":"05","en":"Dad is checking the map on his phone.","bn":"বাবা ফোনে ম্যাপ দেখছেন।","words":[{"w":"checking","bn":"দেখছেন","pos":"verb","base":"check"},{"w":"map","bn":"মানচিত্র, ম্যাপ","pos":"noun"}]},
+            {"id":"06","en":"It is getting dark outside.","bn":"বাইরে অন্ধকার হয়ে আসছে।","words":[{"w":"getting dark","bn":"অন্ধকার হয়ে আসছে","pos":"phrase"},{"w":"outside","bn":"বাইরে","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + verb-ing.",
+          "tipBn": "am, is বা are এর পরে not বসে, তারপর verb-ing।",
+          "items": [
+            {"id":"01","en":"We are not traveling by train.","bn":"আমরা ট্রেনে যাচ্ছি না।","words":[{"w":"traveling","bn":"ভ্রমণ করছি","pos":"verb","base":"travel"},{"w":"by train","bn":"ট্রেনে","pos":"phrase"}]},
+            {"id":"02","en":"The bus is not moving now.","bn":"বাসটা এখন চলছে না।","words":[{"w":"moving","bn":"চলছে","pos":"verb","base":"move"}]},
+            {"id":"03","en":"Tanim isn't sleeping on the bus.","bn":"তানিম বাসে ঘুমাচ্ছে না।","words":[{"w":"isn't sleeping","bn":"ঘুমাচ্ছে না","pos":"phrase"}]},
+            {"id":"04","en":"Mitu is not feeling well.","bn":"মিতুর শরীরটা ভালো লাগছে না।","words":[{"w":"feeling well","bn":"ভালো বোধ করা","pos":"phrase"}]},
+            {"id":"05","en":"Dad isn't driving today.","bn":"বাবা আজ গাড়ি চালাচ্ছেন না।","words":[{"w":"driving","bn":"গাড়ি চালাচ্ছেন","pos":"verb","base":"drive"}]},
+            {"id":"06","en":"It isn't raining on the highway.","bn":"মহাসড়কে বৃষ্টি হচ্ছে না।","words":[{"w":"raining","bn":"বৃষ্টি হচ্ছে","pos":"verb","base":"rain"},{"w":"highway","bn":"মহাসড়ক","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে Am, Is বা Are বাক্যের শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Are you traveling to Cox's Bazar?","bn":"তোমরা কি কক্সবাজারে যাচ্ছ?","words":[{"w":"traveling","bn":"ভ্রমণ করছ","pos":"verb","base":"travel"}]},
+            {"id":"02","en":"Is the bus moving fast?","bn":"বাসটা কি দ্রুত চলছে?","words":[{"w":"moving","bn":"চলছে","pos":"verb","base":"move"},{"w":"fast","bn":"দ্রুত","pos":"adverb"}]},
+            {"id":"03","en":"Is Tanim looking out of the window?","bn":"তানিম কি জানালা দিয়ে বাইরে তাকিয়ে আছে?","words":[{"w":"looking out","bn":"বাইরে তাকানো","pos":"phrasal verb","base":"look out"},{"w":"window","bn":"জানালা","pos":"noun"}]},
+            {"id":"04","en":"Is Mitu sleeping now?","bn":"মিতু কি এখন ঘুমাচ্ছে?","words":[{"w":"sleeping","bn":"ঘুমাচ্ছে","pos":"verb","base":"sleep"}]},
+            {"id":"05","en":"Are we stopping for lunch?","bn":"আমরা কি দুপুরের খাবারের জন্য থামছি?","words":[{"w":"stopping","bn":"থামছি","pos":"verb","base":"stop"},{"w":"lunch","bn":"দুপুরের খাবার","pos":"noun"}]},
+            {"id":"06","en":"Is the driver playing music?","bn":"ড্রাইভার কি গান বাজাচ্ছেন?","words":[{"w":"driver","bn":"চালক","pos":"noun"},{"w":"playing music","bn":"গান বাজানো","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + verb-ing?",
+          "tipBn": "প্রশ্নশব্দের পরে am, is বা are বসে, তারপর subject আর verb-ing।",
+          "items": [
+            {"id":"01","en":"Where are you going?","bn":"তোমরা কোথায় যাচ্ছ?","words":[{"w":"Where","bn":"কোথায়","pos":"adverb"},{"w":"going","bn":"যাচ্ছ","pos":"verb","base":"go"}]},
+            {"id":"02","en":"What is Tanim looking at?","bn":"তানিম কী দেখছে?","words":[{"w":"looking at","bn":"তাকিয়ে দেখা","pos":"phrasal verb","base":"look at"}]},
+            {"id":"03","en":"Why is the bus stopping?","bn":"বাসটা কেন থামছে?","words":[{"w":"Why","bn":"কেন","pos":"adverb"},{"w":"stopping","bn":"থামছে","pos":"verb","base":"stop"}]},
+            {"id":"04","en":"Who is sitting next to Mitu?","bn":"মিতুর পাশে কে বসে আছে?","words":[{"w":"sitting","bn":"বসে আছে","pos":"verb","base":"sit"},{"w":"next to","bn":"পাশে","pos":"preposition"}]},
+            {"id":"05","en":"What is Dad checking on his phone?","bn":"বাবা ফোনে কী দেখছেন?","words":[{"w":"checking","bn":"দেখছেন","pos":"verb","base":"check"}]},
+            {"id":"06","en":"How is Mitu feeling now?","bn":"মিতুর এখন কেমন লাগছে?","words":[{"w":"How","bn":"কেমন","pos":"adverb"},{"w":"feeling","bn":"লাগছে","pos":"verb","base":"feel"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-simple",
+      "focus": "Tell about the first day at the beach",
+      "focusBn": "সৈকতে প্রথম দিনের কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb (past) + ...",
+          "tipBn": "অতীতের কাজ বলতে verb-এর past রূপ ব্যবহার হয়: arrive → arrived, swim → swam।",
+          "items": [
+            {"id":"01","en":"We arrived in Cox's Bazar yesterday.","bn":"আমরা গতকাল কক্সবাজারে পৌঁছালাম।","words":[{"w":"arrived","bn":"পৌঁছালাম","pos":"verb","base":"arrive"},{"w":"yesterday","bn":"গতকাল","pos":"adverb"}]},
+            {"id":"02","en":"Dad checked in at the hotel.","bn":"বাবা হোটেলে চেক-ইন করলেন।","words":[{"w":"checked in","bn":"চেক-ইন করলেন","pos":"phrasal verb","base":"check in"}]},
+            {"id":"03","en":"We walked on the beach.","bn":"আমরা সৈকতে হাঁটলাম।","words":[{"w":"walked","bn":"হাঁটলাম","pos":"verb","base":"walk"},{"w":"beach","bn":"সৈকত","pos":"noun"}]},
+            {"id":"04","en":"Tanim swam in the sea.","bn":"তানিম সমুদ্রে সাঁতার কাটল।","words":[{"w":"swam","bn":"সাঁতার কাটল","pos":"verb","base":"swim"}]},
+            {"id":"05","en":"Mom took photos of the sunset.","bn":"মা সূর্যাস্তের ছবি তুললেন।","words":[{"w":"took","bn":"তুললেন","pos":"verb","base":"take"},{"w":"sunset","bn":"সূর্যাস্ত","pos":"noun"}]},
+            {"id":"06","en":"Mitu bought a shell necklace.","bn":"মিতু একটা ঝিনুকের মালা কিনল।","words":[{"w":"bought","bn":"কিনল","pos":"verb","base":"buy"},{"w":"shell necklace","bn":"ঝিনুকের মালা","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + didn't + verb (base). / was not + ...",
+          "tipBn": "didn't এর পরে verb মূল রূপে থাকে; was এর পরে not বসে।",
+          "items": [
+            {"id":"01","en":"We didn't arrive on time.","bn":"আমরা সময়মতো পৌঁছাইনি।","words":[{"w":"arrive","bn":"পৌঁছানো","pos":"verb"},{"w":"on time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"02","en":"Mitu didn't swim in the sea.","bn":"মিতু সমুদ্রে সাঁতার কাটেনি।","words":[{"w":"swim","bn":"সাঁতার কাটা","pos":"verb"}]},
+            {"id":"03","en":"The hotel room wasn't ready.","bn":"হোটেলের রুম তৈরি ছিল না।","words":[{"w":"room","bn":"রুম, কক্ষ","pos":"noun"},{"w":"ready","bn":"তৈরি","pos":"adjective"}]},
+            {"id":"04","en":"We didn't eat at the hotel.","bn":"আমরা হোটেলে খাইনি।","words":[{"w":"didn't eat","bn":"খাইনি","pos":"phrase"}]},
+            {"id":"05","en":"Dad didn't forget the camera.","bn":"বাবা ক্যামেরা ভোলেননি।","words":[{"w":"forget","bn":"ভুলে যাওয়া","pos":"verb"},{"w":"camera","bn":"ক্যামেরা","pos":"noun"}]},
+            {"id":"06","en":"Mom didn't buy any souvenirs.","bn":"মা কোনো স্মৃতিচিহ্ন কেনেননি।","words":[{"w":"souvenirs","bn":"স্মৃতিচিহ্ন, স্যুভেনির","pos":"noun","base":"souvenir"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Did + subject + verb (base) ...? / Was + subject + ...?",
+          "tipBn": "প্রশ্ন করতে Did শুরুতে বসে এবং verb তার মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Did you arrive yesterday?","bn":"তোমরা কি গতকাল পৌঁছালে?","words":[{"w":"arrive","bn":"পৌঁছানো","pos":"verb"},{"w":"yesterday","bn":"গতকাল","pos":"adverb"}]},
+            {"id":"02","en":"Did Dad check in at the hotel?","bn":"বাবা কি হোটেলে চেক-ইন করলেন?","words":[{"w":"check in","bn":"চেক-ইন করা","pos":"phrasal verb"}]},
+            {"id":"03","en":"Did Tanim swim in the sea?","bn":"তানিম কি সমুদ্রে সাঁতার কাটল?","words":[{"w":"swim","bn":"সাঁতার কাটা","pos":"verb"},{"w":"sea","bn":"সমুদ্র","pos":"noun"}]},
+            {"id":"04","en":"Did you see the sunset?","bn":"তোমরা কি সূর্যাস্ত দেখলে?","words":[{"w":"sunset","bn":"সূর্যাস্ত","pos":"noun"}]},
+            {"id":"05","en":"Was the water cold?","bn":"পানি কি ঠান্ডা ছিল?","words":[{"w":"cold","bn":"ঠান্ডা","pos":"adjective"}]},
+            {"id":"06","en":"Did Mitu like the shell necklace?","bn":"মিতুর কি ঝিনুকের মালাটা পছন্দ হলো?","words":[{"w":"like","bn":"পছন্দ করা","pos":"verb"},{"w":"shell necklace","bn":"ঝিনুকের মালা","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + did + subject + verb (base)?",
+          "tipBn": "প্রশ্নশব্দের পরে did বসে এবং verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"When did you arrive in Cox's Bazar?","bn":"তোমরা কখন কক্সবাজারে পৌঁছালে?","words":[{"w":"When","bn":"কখন","pos":"adverb"},{"w":"arrive","bn":"পৌঁছানো","pos":"verb"}]},
+            {"id":"02","en":"Where did you stay?","bn":"তোমরা কোথায় ছিলে?","words":[{"w":"stay","bn":"থাকা","pos":"verb"}]},
+            {"id":"03","en":"What did Mitu buy?","bn":"মিতু কী কিনল?","words":[{"w":"buy","bn":"কেনা","pos":"verb"}]},
+            {"id":"04","en":"How was the weather?","bn":"আবহাওয়া কেমন ছিল?","words":[{"w":"weather","bn":"আবহাওয়া","pos":"noun"}]},
+            {"id":"05","en":"Who took the photos?","bn":"ছবিগুলো কে তুলল?","words":[{"w":"took","bn":"তুলল","pos":"verb","base":"take"},{"w":"photos","bn":"ছবি","pos":"noun","base":"photo"}]},
+            {"id":"06","en":"How much did the room cost?","bn":"রুমটার ভাড়া কত পড়ল?","words":[{"w":"How much","bn":"কত","pos":"phrase"},{"w":"cost","bn":"দাম পড়া","pos":"verb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "future-will",
+      "focus": "Make plans and promises for the rest of the trip",
+      "focusBn": "ভ্রমণের বাকি দিনগুলোর পরিকল্পনা ও প্রতিশ্রুতি",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + will + verb (base).",
+          "tipBn": "ভবিষ্যতের কাজ বলতে will এর পরে verb মূল রূপে বসে।",
+          "items": [
+            {"id":"01","en":"We will visit Himchari tomorrow.","bn":"আমরা আগামীকাল হিমছড়ি ঘুরতে যাব।","words":[{"w":"visit","bn":"বেড়াতে যাওয়া","pos":"verb"},{"w":"tomorrow","bn":"আগামীকাল","pos":"adverb"}]},
+            {"id":"02","en":"Dad will take us to Inani Beach.","bn":"বাবা আমাদের ইনানী সৈকতে নিয়ে যাবেন।","words":[{"w":"take","bn":"নিয়ে যাওয়া","pos":"verb"}]},
+            {"id":"03","en":"It will be sunny tomorrow.","bn":"আগামীকাল রোদ থাকবে।","words":[{"w":"sunny","bn":"রৌদ্রোজ্জ্বল","pos":"adjective"}]},
+            {"id":"04","en":"Tanim will carry the water bottles.","bn":"তানিম পানির বোতলগুলো বহন করবে।","words":[{"w":"carry","bn":"বহন করা","pos":"verb"},{"w":"bottles","bn":"বোতল","pos":"noun","base":"bottle"}]},
+            {"id":"05","en":"Mom will buy dried fish.","bn":"মা শুঁটকি মাছ কিনবেন।","words":[{"w":"dried fish","bn":"শুঁটকি মাছ","pos":"phrase"}]},
+            {"id":"06","en":"We will go home on Friday.","bn":"আমরা শুক্রবার বাড়ি ফিরব।","words":[{"w":"go home","bn":"বাড়ি ফেরা","pos":"phrase"},{"w":"Friday","bn":"শুক্রবার","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + won't (will not) + verb (base).",
+          "tipBn": "will not বা won't এর পরে verb মূল রূপে বসে।",
+          "items": [
+            {"id":"01","en":"We won't visit Himchari today.","bn":"আমরা আজ হিমছড়ি যাব না।","words":[{"w":"won't","bn":"করব না","pos":"other"},{"w":"visit","bn":"বেড়াতে যাওয়া","pos":"verb"}]},
+            {"id":"02","en":"It won't rain tomorrow.","bn":"আগামীকাল বৃষ্টি হবে না।","words":[{"w":"rain","bn":"বৃষ্টি হওয়া","pos":"verb"}]},
+            {"id":"03","en":"Mitu won't forget her hat.","bn":"মিতু তার টুপি ভুলবে না।","words":[{"w":"forget","bn":"ভুলে যাওয়া","pos":"verb"},{"w":"hat","bn":"টুপি","pos":"noun"}]},
+            {"id":"04","en":"The trip won't be expensive.","bn":"ভ্রমণটা ব্যয়বহুল হবে না।","words":[{"w":"trip","bn":"ভ্রমণ","pos":"noun"},{"w":"expensive","bn":"দামি, ব্যয়বহুল","pos":"adjective"}]},
+            {"id":"05","en":"We won't go home on Thursday.","bn":"আমরা বৃহস্পতিবার বাড়ি ফিরব না।","words":[{"w":"go home","bn":"বাড়ি ফেরা","pos":"phrase"},{"w":"Thursday","bn":"বৃহস্পতিবার","pos":"noun"}]},
+            {"id":"06","en":"Tanim will not lose the tickets.","bn":"তানিম টিকিটগুলো হারাবে না।","words":[{"w":"lose","bn":"হারানো","pos":"verb"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Will + subject + verb (base) ...?",
+          "tipBn": "প্রশ্ন করতে Will বাক্যের শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Will we visit Himchari tomorrow?","bn":"আমরা কি আগামীকাল হিমছড়ি যাব?","words":[{"w":"visit","bn":"বেড়াতে যাওয়া","pos":"verb"},{"w":"tomorrow","bn":"আগামীকাল","pos":"adverb"}]},
+            {"id":"02","en":"Will it be sunny tomorrow?","bn":"আগামীকাল কি রোদ থাকবে?","words":[{"w":"sunny","bn":"রৌদ্রোজ্জ্বল","pos":"adjective"}]},
+            {"id":"03","en":"Will Dad take us to Inani Beach?","bn":"বাবা কি আমাদের ইনানী সৈকতে নিয়ে যাবেন?","words":[{"w":"take","bn":"নিয়ে যাওয়া","pos":"verb"}]},
+            {"id":"04","en":"Will you help me with my bag?","bn":"তুমি কি আমার ব্যাগটা নিতে সাহায্য করবে?","words":[{"w":"help","bn":"সাহায্য করা","pos":"verb"}]},
+            {"id":"05","en":"Will the bus be late?","bn":"বাসটা কি দেরি করবে?","words":[{"w":"late","bn":"দেরি","pos":"adjective"}]},
+            {"id":"06","en":"Will we come back next year?","bn":"আমরা কি আগামী বছর আবার আসব?","words":[{"w":"come back","bn":"ফিরে আসা","pos":"phrasal verb"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + will + subject + verb (base)?",
+          "tipBn": "প্রশ্নশব্দের পরে will বসে, তারপর subject আর verb-এর মূল রূপ।",
+          "items": [
+            {"id":"01","en":"Where will we go tomorrow?","bn":"আমরা আগামীকাল কোথায় যাব?","words":[{"w":"Where","bn":"কোথায়","pos":"adverb"},{"w":"tomorrow","bn":"আগামীকাল","pos":"adverb"}]},
+            {"id":"02","en":"What time will the bus leave?","bn":"বাসটা কয়টায় ছাড়বে?","words":[{"w":"What time","bn":"কয়টায়","pos":"phrase"},{"w":"leave","bn":"ছাড়া","pos":"verb"}]},
+            {"id":"03","en":"What will Mom buy at the market?","bn":"মা বাজার থেকে কী কিনবেন?","words":[{"w":"market","bn":"বাজার","pos":"noun"}]},
+            {"id":"04","en":"Who will carry the bags?","bn":"ব্যাগগুলো কে বহন করবে?","words":[{"w":"Who","bn":"কে","pos":"pronoun"},{"w":"carry","bn":"বহন করা","pos":"verb"}]},
+            {"id":"05","en":"When will we go home?","bn":"আমরা কখন বাড়ি ফিরব?","words":[{"w":"When","bn":"কখন","pos":"adverb"},{"w":"go home","bn":"বাড়ি ফেরা","pos":"phrase"}]},
+            {"id":"06","en":"How will we get to Inani Beach?","bn":"আমরা ইনানী সৈকতে কীভাবে যাব?","words":[{"w":"How","bn":"কীভাবে","pos":"adverb"},{"w":"get to","bn":"পৌঁছানো","pos":"phrasal verb"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

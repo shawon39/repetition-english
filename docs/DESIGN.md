@@ -83,8 +83,8 @@ Level (Starter → Advanced)
                  └─ Item: en (English), bn (full-sentence Bangla meaning), words[] (word meanings)
 ```
 
-**24 tracks · 432 sessions · 2,460 items**, each with a full-sentence Bangla
-meaning and 4,785 word meanings. Rules: [CONTENT_GUIDE.md](CONTENT_GUIDE.md).
+**12 topics · 48 tracks · 864 sessions · 4,920 items**, each with a
+full-sentence Bangla meaning, plus 9,551 word meanings. Rules: [CONTENT_GUIDE.md](CONTENT_GUIDE.md).
 `npm run validate:data` checks every file.
 
 | Level | CEFR | Reps | Grammar units |
@@ -146,4 +146,4 @@ are in Settings.
 1. Mobile layout.
 2. Accounts and sync.
 3. Recorded human audio.
-4. More topics: travel, health, school, phone calls, money.
+4. More topics: phone calls, jobs and interviews, sports, technology.

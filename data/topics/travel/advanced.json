@@ -1,0 +1,272 @@
+{
+  "topic": "travel",
+  "level": "advanced",
+  "title": "Ayesha's Travel Blog",
+  "story": "Ayesha Karim is a travel blogger from Chattogram who writes honest reviews of hotels, airlines and tours. This year she is traveling through Turkey and Georgia with her younger brother Zubair, dealing with missed connections, lost luggage and visa paperwork along the way. Back in Dhaka, they apply for visas for their next trip, to Japan.",
+  "storyBn": "আয়েশা করিম চট্টগ্রামের একজন ট্রাভেল ব্লগার, যিনি হোটেল, এয়ারলাইন আর ট্যুর নিয়ে অকপট রিভিউ লেখেন। এ বছর তিনি ছোট ভাই জুবায়েরকে নিয়ে তুরস্ক আর জর্জিয়া ঘুরছেন, আর পথে পথে সংযোগ ফ্লাইট মিস, হারানো মালপত্র আর ভিসার কাগজপত্রের ঝামেলা সামলাচ্ছেন। ঢাকায় ফিরে তারা পরের ভ্রমণের জন্য জাপানের ভিসার আবেদন করেন।",
+  "units": [
+    {
+      "grammar": "present-perfect-continuous",
+      "focus": "Talk about long trips and activities that are still going on",
+      "focusBn": "দীর্ঘ ভ্রমণ আর এখনো চলতে থাকা কাজ নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + has/have been + verb-ing + for/since ...",
+          "tipBn": "অতীতে শুরু হয়ে এখনো চলছে এমন কাজ বলতে has/have been + verb-ing বসে; সময়ের জন্য for বা since।",
+          "items": [
+            {"id":"01","en":"Ayesha has been writing her travel blog for six years, and thousands of readers follow it.","bn":"আয়েশা ৬ বছর ধরে তার ট্রাভেল ব্লগ লিখছে, আর হাজার হাজার পাঠক সেটা অনুসরণ করে।","words":[{"w":"travel blog","bn":"ভ্রমণ ব্লগ","pos":"phrase"},{"w":"readers","bn":"পাঠক","pos":"noun","base":"reader"},{"w":"follow","bn":"অনুসরণ করা","pos":"verb"}]},
+            {"id":"02","en":"Zubair and Ayesha have been traveling around Turkey since the beginning of March.","bn":"জুবায়ের আর আয়েশা মার্চের শুরু থেকে তুরস্কজুড়ে ঘুরে বেড়াচ্ছে।","words":[{"w":"traveling around","bn":"ঘুরে বেড়ানো","pos":"phrasal verb","base":"travel around"},{"w":"since","bn":"থেকে","pos":"preposition"}]},
+            {"id":"03","en":"She has been collecting stamps in her passport since her first trip to Nepal.","bn":"নেপালে প্রথম ভ্রমণের পর থেকে সে তার পাসপোর্টে সিল জমাচ্ছে।","words":[{"w":"collecting","bn":"জমানো","pos":"verb","base":"collect"},{"w":"stamps","bn":"সিল","pos":"noun","base":"stamp"},{"w":"passport","bn":"পাসপোর্ট","pos":"noun"}]},
+            {"id":"04","en":"For the past two weeks, they have been staying in a family-run guesthouse in Istanbul.","bn":"গত দুই সপ্তাহ ধরে তারা ইস্তাম্বুলে একটা পারিবারিকভাবে পরিচালিত গেস্টহাউসে থাকছে।","words":[{"w":"For the past","bn":"গত ... ধরে","pos":"phrase"},{"w":"family-run","bn":"পারিবারিকভাবে পরিচালিত","pos":"adjective"},{"w":"guesthouse","bn":"গেস্টহাউস, অতিথিশালা","pos":"noun"}]},
+            {"id":"05","en":"Zubair has been learning a few Turkish phrases so he can ask for directions.","bn":"জুবায়ের কিছু তুর্কি বাক্য শিখছে, যাতে সে পথ জিজ্ঞেস করতে পারে।","words":[{"w":"phrases","bn":"বাক্যাংশ","pos":"noun","base":"phrase"},{"w":"ask for directions","bn":"পথ জিজ্ঞেস করা","pos":"phrase"}]},
+            {"id":"06","en":"Ayesha's readers have been asking for tips on cheap flights and visa applications.","bn":"আয়েশার পাঠকেরা সস্তা ফ্লাইট আর ভিসার আবেদন নিয়ে পরামর্শ চাইছে।","words":[{"w":"asking for","bn":"চাওয়া","pos":"phrasal verb","base":"ask for"},{"w":"tips","bn":"পরামর্শ","pos":"noun","base":"tip"},{"w":"visa applications","bn":"ভিসার আবেদন","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hasn't/haven't been + verb-ing + ...",
+          "tipBn": "has বা have এর পরে not বসে, তারপর been + verb-ing।",
+          "items": [
+            {"id":"01","en":"Ayesha hasn't been sleeping well since they missed their connecting flight in Doha.","bn":"দোহায় সংযোগ ফ্লাইট মিস করার পর থেকে আয়েশার ভালো ঘুম হচ্ছে না।","words":[{"w":"connecting flight","bn":"সংযোগ ফ্লাইট","pos":"phrase"},{"w":"missed","bn":"ধরতে পারেনি, মিস করেছে","pos":"verb","base":"miss"}]},
+            {"id":"02","en":"Zubair hasn't been carrying his passport with him because the hotel safe is more secure.","bn":"জুবায়ের তার পাসপোর্ট সাথে রাখছে না, কারণ হোটেলের লকারটা বেশি নিরাপদ।","words":[{"w":"carrying","bn":"সাথে রাখা","pos":"verb","base":"carry"},{"w":"safe","bn":"লকার, সিন্দুক","pos":"noun"},{"w":"secure","bn":"নিরাপদ","pos":"adjective"}]},
+            {"id":"03","en":"They haven't been spending much money on taxis because the trams are cheap and fast.","bn":"তারা ট্যাক্সিতে বেশি টাকা খরচ করছে না, কারণ ট্রাম সস্তা আর দ্রুত।","words":[{"w":"spending","bn":"খরচ করা","pos":"verb","base":"spend"},{"w":"trams","bn":"ট্রাম","pos":"noun","base":"tram"}]},
+            {"id":"04","en":"Ayesha hasn't been posting her usual daily updates, and some readers have noticed.","bn":"আয়েশা তার নিয়মিত দৈনিক আপডেট পোস্ট করছে না, আর কিছু পাঠক সেটা খেয়াল করেছে।","words":[{"w":"posting","bn":"পোস্ট করা","pos":"verb","base":"post"},{"w":"usual","bn":"নিয়মিত, স্বাভাবিক","pos":"adjective"},{"w":"noticed","bn":"খেয়াল করেছে","pos":"verb","base":"notice"}]},
+            {"id":"05","en":"The airline hasn't been answering their calls about the missing suitcase for three days.","bn":"৩ দিন ধরে এয়ারলাইন হারানো স্যুটকেস নিয়ে তাদের ফোনের উত্তর দিচ্ছে না।","words":[{"w":"answering","bn":"উত্তর দেওয়া","pos":"verb","base":"answer"},{"w":"missing","bn":"হারানো","pos":"adjective"}]},
+            {"id":"06","en":"Neither of them has been eating properly since they reached the mountains of Georgia.","bn":"জর্জিয়ার পাহাড়ে পৌঁছানোর পর থেকে তাদের দুজনের কেউই ঠিকমতো খাচ্ছে না।","words":[{"w":"Neither of them","bn":"তাদের কেউই না","pos":"phrase"},{"w":"properly","bn":"ঠিকমতো","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Has/Have + subject + been + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে Has বা Have শুরুতে বসে, তারপর subject আর been + verb-ing।",
+          "items": [
+            {"id":"01","en":"Have you been traveling with your brother the whole time since you left Dhaka?","bn":"ঢাকা ছাড়ার পর থেকে পুরো সময়টা কি তুমি তোমার ভাইয়ের সাথেই ঘুরছ?","words":[{"w":"the whole time","bn":"পুরো সময়টা","pos":"phrase"},{"w":"left","bn":"ছেড়েছ","pos":"verb","base":"leave"}]},
+            {"id":"02","en":"Has Zubair been practicing his Turkish with the shopkeepers in the Grand Bazaar?","bn":"জুবায়ের কি গ্র্যান্ড বাজারের দোকানিদের সাথে তার তুর্কি ভাষা চর্চা করছে?","words":[{"w":"practicing","bn":"চর্চা করা","pos":"verb","base":"practice"},{"w":"shopkeepers","bn":"দোকানদার","pos":"noun","base":"shopkeeper"}]},
+            {"id":"03","en":"Has it been snowing in the Georgian mountains since you got there last week?","bn":"গত সপ্তাহে তোমরা পৌঁছানোর পর থেকে কি জর্জিয়ার পাহাড়ে তুষার পড়ছে?","words":[{"w":"snowing","bn":"তুষার পড়া","pos":"verb","base":"snow"},{"w":"got there","bn":"সেখানে পৌঁছালে","pos":"phrase"}]},
+            {"id":"04","en":"Have Ayesha's followers been commenting on her review of the cave hotel in Cappadocia?","bn":"আয়েশার ফলোয়াররা কি কাপাদোকিয়ার গুহা-হোটেল নিয়ে তার রিভিউতে মন্তব্য করছে?","words":[{"w":"followers","bn":"অনুসারী, ফলোয়ার","pos":"noun","base":"follower"},{"w":"commenting","bn":"মন্তব্য করা","pos":"verb","base":"comment"},{"w":"cave hotel","bn":"গুহা-হোটেল","pos":"phrase"}]},
+            {"id":"05","en":"Has the travel agency been helping you with your Japanese visa application?","bn":"ট্রাভেল এজেন্সি কি তোমার জাপানি ভিসার আবেদনে সাহায্য করছে?","words":[{"w":"travel agency","bn":"ভ্রমণ সংস্থা","pos":"phrase"},{"w":"visa application","bn":"ভিসার আবেদন","pos":"phrase"}]},
+            {"id":"06","en":"Have you been keeping copies of your passport and tickets on your phone?","bn":"তুমি কি তোমার পাসপোর্ট আর টিকিটের কপি ফোনে রেখে দিচ্ছ?","words":[{"w":"keeping","bn":"রেখে দেওয়া","pos":"verb","base":"keep"},{"w":"copies","bn":"কপি, অনুলিপি","pos":"noun","base":"copy"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + has/have + subject + been + verb-ing?",
+          "tipBn": "প্রশ্নশব্দের পরে has বা have বসে, তারপর subject আর been + verb-ing; সময় জানতে How long।",
+          "items": [
+            {"id":"01","en":"How long have you been waiting for news about your lost suitcase?","bn":"তোমার হারানো স্যুটকেসের খবরের জন্য কতক্ষণ ধরে অপেক্ষা করছ?","words":[{"w":"How long","bn":"কতক্ষণ ধরে","pos":"phrase"},{"w":"lost suitcase","bn":"হারানো স্যুটকেস","pos":"phrase"}]},
+            {"id":"02","en":"Where have you and Zubair been staying since you left Istanbul?","bn":"ইস্তাম্বুল ছাড়ার পর থেকে তুমি আর জুবায়ের কোথায় থাকছ?","words":[{"w":"staying","bn":"থাকা","pos":"verb","base":"stay"},{"w":"since","bn":"থেকে","pos":"conjunction"}]},
+            {"id":"03","en":"What has Ayesha been writing about in her latest blog posts?","bn":"আয়েশা তার সাম্প্রতিক ব্লগ পোস্টগুলোতে কী নিয়ে লিখছে?","words":[{"w":"latest","bn":"সর্বশেষ","pos":"adjective"},{"w":"blog posts","bn":"ব্লগ পোস্ট","pos":"phrase"}]},
+            {"id":"04","en":"Why have so many tourists been complaining about the new airport rules?","bn":"এত পর্যটক কেন বিমানবন্দরের নতুন নিয়ম নিয়ে অভিযোগ করছে?","words":[{"w":"tourists","bn":"পর্যটক","pos":"noun","base":"tourist"},{"w":"complaining","bn":"অভিযোগ করা","pos":"verb","base":"complain"}]},
+            {"id":"05","en":"How much have you been spending on food and transport each day?","bn":"প্রতিদিন খাবার আর যাতায়াতে তুমি কত টাকা খরচ করছ?","words":[{"w":"spending","bn":"খরচ করা","pos":"verb","base":"spend"},{"w":"transport","bn":"যাতায়াত","pos":"noun"}]},
+            {"id":"06","en":"Which apps have you been using to find cheap hotels and local tours?","bn":"সস্তা হোটেল আর স্থানীয় ট্যুর খুঁজতে তুমি কোন অ্যাপগুলো ব্যবহার করছ?","words":[{"w":"apps","bn":"অ্যাপ","pos":"noun","base":"app"},{"w":"local","bn":"স্থানীয়","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences, mostly has/have been + verb-ing.",
+          "tipBn": "অনুচ্ছেদে has/have been + verb-ing দিয়ে এমন কাজ বলা হয়েছে যা কিছুদিন ধরে চলছে এবং এখনো শেষ হয়নি।",
+          "items": [
+            {"id":"01","title":"Three months on the road","en":"Ayesha has been traveling for almost three months now, and her suitcase has been getting heavier every week. She has been sleeping in hostels, guesthouses and overnight trains. Zubair has been taking most of the photos, while she has been writing late into the night. Their families have been following every post from Chattogram. Honestly, they have both been missing home-cooked food more than anything else.","bn":"আয়েশা প্রায় ৩ মাস ধরে ঘুরে বেড়াচ্ছে, আর প্রতি সপ্তাহে তার স্যুটকেস আরও ভারী হচ্ছে। সে হোস্টেল, গেস্টহাউস আর রাতের ট্রেনে ঘুমাচ্ছে। জুবায়ের বেশিরভাগ ছবি তুলছে, আর সে গভীর রাত পর্যন্ত লিখে যাচ্ছে। চট্টগ্রাম থেকে তাদের পরিবার প্রতিটি পোস্ট অনুসরণ করছে। সত্যি বলতে, তারা দুজনেই অন্য যেকোনো কিছুর চেয়ে ঘরের রান্না বেশি মিস করছে।","words":[{"w":"hostels","bn":"হোস্টেল","pos":"noun","base":"hostel"},{"w":"overnight trains","bn":"রাতের ট্রেন","pos":"phrase"},{"w":"late into the night","bn":"গভীর রাত পর্যন্ত","pos":"phrase"},{"w":"Honestly","bn":"সত্যি বলতে","pos":"adverb"},{"w":"home-cooked","bn":"ঘরে রান্না করা","pos":"adjective"}]},
+            {"id":"02","title":"Waiting for a visa","en":"Zubair has been waiting for his Japanese visa for nearly three weeks. He has been checking the embassy website every morning and refreshing his email every hour. The travel agent has been telling him to stay calm, but he has been worrying about their nonrefundable tickets. Ayesha has been trying to cheer him up with plans for cherry blossom picnics in Kyoto.","bn":"জুবায়ের প্রায় ৩ সপ্তাহ ধরে তার জাপানি ভিসার জন্য অপেক্ষা করছে। সে প্রতিদিন সকালে দূতাবাসের ওয়েবসাইট দেখছে আর প্রতি ঘণ্টায় ইমেইল রিফ্রেশ করছে। ট্রাভেল এজেন্ট তাকে শান্ত থাকতে বলছেন, কিন্তু টাকা ফেরত না দেওয়া টিকিটগুলো নিয়ে সে দুশ্চিন্তা করছে। কিয়োটোতে চেরি ফুলের নিচে পিকনিকের পরিকল্পনার কথা বলে আয়েশা তার মন ভালো করার চেষ্টা করছে।","words":[{"w":"embassy","bn":"দূতাবাস","pos":"noun"},{"w":"refreshing","bn":"রিফ্রেশ করা","pos":"verb","base":"refresh"},{"w":"nonrefundable","bn":"টাকা ফেরতযোগ্য নয় এমন","pos":"adjective"},{"w":"cheer him up","bn":"মন ভালো করা","pos":"phrasal verb","base":"cheer up"},{"w":"cherry blossom","bn":"চেরি ফুল","pos":"phrase"}]},
+            {"id":"03","title":"Review: a guesthouse in Tbilisi","en":"I have been staying at the Blue Door Guesthouse in Tbilisi for five nights, and I have been enjoying almost every minute. The owner, Nino, has been cooking breakfast for us each morning. Unfortunately, the hot water has been coming and going since Tuesday. Builders have also been working next door, so it has been noisy in the afternoons. Overall, I would still recommend it to budget travelers.","bn":"আমি ৫ রাত ধরে তিবিলিসির ব্লু ডোর গেস্টহাউসে আছি, আর প্রায় প্রতিটি মুহূর্ত উপভোগ করছি। মালিক নিনো প্রতিদিন সকালে আমাদের জন্য নাস্তা রান্না করছেন। দুর্ভাগ্যবশত, মঙ্গলবার থেকে গরম পানি এই আছে এই নেই। পাশের বাড়িতে নির্মাণশ্রমিকেরাও কাজ করছেন, তাই বিকেলগুলোতে বেশ শব্দ হচ্ছে। সব মিলিয়ে, কম খরচে ভ্রমণকারীদের আমি এখনো এটার কথা সুপারিশ করব।","words":[{"w":"Unfortunately","bn":"দুর্ভাগ্যবশত","pos":"adverb"},{"w":"coming and going","bn":"এই আছে এই নেই","pos":"idiom"},{"w":"next door","bn":"পাশের বাড়িতে","pos":"phrase"},{"w":"Overall","bn":"সব মিলিয়ে","pos":"adverb"},{"w":"budget travelers","bn":"কম খরচের ভ্রমণকারী","pos":"phrase"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-perfect",
+      "focus": "Explain what had happened before missed flights and lost luggage",
+      "focusBn": "ফ্লাইট মিস বা মালপত্র হারানোর আগে কী ঘটে গিয়েছিল তা ব্যাখ্যা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + had + past participle (+ by the time / before / after ...).",
+          "tipBn": "অতীতের দুটি ঘটনার মধ্যে আগেরটি বলতে had + past participle ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"By the time they reached the gate in Doha, their connecting flight had already left.","bn":"দোহায় তারা যখন গেটে পৌঁছাল, ততক্ষণে তাদের সংযোগ ফ্লাইট ছেড়ে চলে গিয়েছিল।","words":[{"w":"By the time","bn":"যখন ... ততক্ষণে","pos":"phrase"},{"w":"connecting flight","bn":"সংযোগ ফ্লাইট","pos":"phrase"}]},
+            {"id":"02","en":"Ayesha realized at the hotel that she had left her charger on the plane.","bn":"হোটেলে গিয়ে আয়েশা বুঝতে পারল যে সে তার চার্জার প্লেনে ফেলে এসেছে।","words":[{"w":"realized","bn":"বুঝতে পারল","pos":"verb","base":"realize"},{"w":"left","bn":"ফেলে এসেছিল","pos":"verb","base":"leave"}]},
+            {"id":"03","en":"Zubair had dreamed of seeing snow long before they arrived in the mountains of Georgia.","bn":"জর্জিয়ার পাহাড়ে পৌঁছানোর অনেক আগে থেকেই জুবায়ের তুষার দেখার স্বপ্ন দেখে আসছিল।","words":[{"w":"dreamed of","bn":"স্বপ্ন দেখা","pos":"phrasal verb","base":"dream of"},{"w":"long before","bn":"অনেক আগে","pos":"phrase"}]},
+            {"id":"04","en":"The airline admitted that their suitcase had flown to Frankfurt by mistake.","bn":"এয়ারলাইন স্বীকার করল যে তাদের স্যুটকেস ভুল করে ফ্রাঙ্কফুর্টে চলে গিয়েছিল।","words":[{"w":"admitted","bn":"স্বীকার করল","pos":"verb","base":"admit"},{"w":"by mistake","bn":"ভুল করে","pos":"phrase"}]},
+            {"id":"05","en":"After they had filled in the lost baggage form, they took a taxi to the city.","bn":"হারানো ব্যাগেজের ফর্ম পূরণ করার পর তারা ট্যাক্সি নিয়ে শহরে গেল।","words":[{"w":"filled in","bn":"পূরণ করেছিল","pos":"phrasal verb","base":"fill in"},{"w":"lost baggage form","bn":"হারানো ব্যাগেজের ফর্ম","pos":"phrase"}]},
+            {"id":"06","en":"Ayesha had already written half of her review before the tour even ended.","bn":"ট্যুর শেষ হওয়ার আগেই আয়েশা তার রিভিউয়ের অর্ধেক লিখে ফেলেছিল।","words":[{"w":"review","bn":"রিভিউ, পর্যালোচনা","pos":"noun"},{"w":"even","bn":"এমনকি","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hadn't (had not/had never) + past participle + ...",
+          "tipBn": "had এর পরে not বা never বসে, তারপর past participle।",
+          "items": [
+            {"id":"01","en":"They hadn't expected such a long queue at passport control in Istanbul.","bn":"ইস্তাম্বুলের পাসপোর্ট কন্ট্রোলে এত লম্বা লাইন তারা আশা করেনি।","words":[{"w":"expected","bn":"আশা করেছিল","pos":"verb","base":"expect"},{"w":"queue","bn":"লাইন, সারি","pos":"noun"},{"w":"passport control","bn":"পাসপোর্ট পরীক্ষা","pos":"phrase"}]},
+            {"id":"02","en":"Ayesha hadn't checked the visa rules for Georgia before she booked the flights.","bn":"ফ্লাইট বুক করার আগে আয়েশা জর্জিয়ার ভিসার নিয়ম দেখে নেয়নি।","words":[{"w":"visa rules","bn":"ভিসার নিয়ম","pos":"phrase"},{"w":"booked","bn":"বুক করল","pos":"verb","base":"book"}]},
+            {"id":"03","en":"Zubair had not slept at all by the time their plane landed in Tbilisi.","bn":"তাদের প্লেন যখন তিবিলিসিতে নামল, ততক্ষণ পর্যন্ত জুবায়ের একটুও ঘুমায়নি।","words":[{"w":"at all","bn":"একটুও","pos":"phrase"},{"w":"landed","bn":"অবতরণ করল","pos":"verb","base":"land"}]},
+            {"id":"04","en":"Nobody at the hotel had heard of the tiny restaurant that Ayesha's readers recommended.","bn":"আয়েশার পাঠকেরা যে ছোট্ট রেস্টুরেন্টটার কথা বলেছিল, হোটেলের কেউই সেটার নাম শোনেনি।","words":[{"w":"heard of","bn":"নাম শোনা","pos":"phrasal verb","base":"hear of"},{"w":"recommended","bn":"সুপারিশ করেছিল","pos":"verb","base":"recommend"}]},
+            {"id":"05","en":"The tour guide hadn't warned them that the museum closed on Mondays.","bn":"ট্যুর গাইড তাদের সতর্ক করে দেননি যে জাদুঘরটা সোমবার বন্ধ থাকে।","words":[{"w":"warned","bn":"সতর্ক করেছিল","pos":"verb","base":"warn"},{"w":"museum","bn":"জাদুঘর","pos":"noun"}]},
+            {"id":"06","en":"They had never stayed in a cave hotel until they visited Cappadocia.","bn":"কাপাদোকিয়ায় যাওয়ার আগে তারা কখনো গুহা-হোটেলে থাকেনি।","words":[{"w":"cave hotel","bn":"গুহা-হোটেল","pos":"phrase"},{"w":"until","bn":"আগ পর্যন্ত","pos":"conjunction"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Hadn't + subject + past participle ...? / Why hadn't ...?",
+          "tipBn": "অবাক হয়ে বা অভিযোগের সুরে প্রশ্ন করতে Hadn't বা Why hadn't শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Hadn't you checked the departure board before you went to get coffee?","bn":"কফি আনতে যাওয়ার আগে তুমি কি ডিপারচার বোর্ড দেখে নাওনি?","words":[{"w":"departure board","bn":"ছাড়ার সময়ের বোর্ড","pos":"phrase"},{"w":"checked","bn":"দেখে নিয়েছিলে","pos":"verb","base":"check"}]},
+            {"id":"02","en":"Hadn't Zubair printed a copy of his hotel booking before the trip?","bn":"ভ্রমণের আগে জুবায়ের কি তার হোটেল বুকিংয়ের একটা কপি প্রিন্ট করে রাখেনি?","words":[{"w":"printed","bn":"প্রিন্ট করেছিল","pos":"verb","base":"print"},{"w":"booking","bn":"বুকিং","pos":"noun"}]},
+            {"id":"03","en":"Hadn't the airline promised to deliver the suitcase by the next morning?","bn":"এয়ারলাইন কি পরদিন সকালের মধ্যে স্যুটকেস পৌঁছে দেওয়ার প্রতিশ্রুতি দেয়নি?","words":[{"w":"promised","bn":"প্রতিশ্রুতি দিয়েছিল","pos":"verb","base":"promise"},{"w":"deliver","bn":"পৌঁছে দেওয়া","pos":"verb"}]},
+            {"id":"04","en":"Hadn't Ayesha already reviewed that guesthouse on her blog two years earlier?","bn":"আয়েশা কি ২ বছর আগেই তার ব্লগে ওই গেস্টহাউসের রিভিউ লেখেনি?","words":[{"w":"reviewed","bn":"রিভিউ লিখেছিল","pos":"verb","base":"review"},{"w":"earlier","bn":"আগে","pos":"adverb"}]},
+            {"id":"05","en":"Hadn't they exchanged enough lira before they left the airport in Istanbul?","bn":"ইস্তাম্বুলের বিমানবন্দর ছাড়ার আগে তারা কি যথেষ্ট লিরা ভাঙিয়ে নেয়নি?","words":[{"w":"exchanged","bn":"ভাঙিয়েছিল","pos":"verb","base":"exchange"},{"w":"lira","bn":"লিরা, তুরস্কের মুদ্রা","pos":"noun"}]},
+            {"id":"06","en":"Why hadn't anyone told the passengers that the gate had changed?","bn":"গেট যে বদলে গিয়েছিল, সেটা কেন কেউ যাত্রীদের বলেনি?","words":[{"w":"anyone","bn":"কেউ","pos":"pronoun"},{"w":"passengers","bn":"যাত্রী","pos":"noun","base":"passenger"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + had + subject + past participle ...?",
+          "tipBn": "প্রশ্নশব্দের পরে had বসে, তারপর subject আর past participle।",
+          "items": [
+            {"id":"01","en":"How many countries had Ayesha visited before she started her blog?","bn":"ব্লগ শুরু করার আগে আয়েশা কয়টা দেশ ঘুরে এসেছিল?","words":[{"w":"countries","bn":"দেশ","pos":"noun","base":"country"},{"w":"visited","bn":"ঘুরে এসেছিল","pos":"verb","base":"visit"}]},
+            {"id":"02","en":"What had Zubair forgotten when he ran back to the hotel?","bn":"জুবায়ের কী ফেলে এসেছিল যে সে দৌড়ে হোটেলে ফিরে গেল?","words":[{"w":"forgotten","bn":"ভুলে গিয়েছিল","pos":"verb","base":"forget"},{"w":"ran back","bn":"দৌড়ে ফিরে গেল","pos":"phrasal verb","base":"run back"}]},
+            {"id":"03","en":"Where had Ayesha put her passport before she discovered it was missing?","bn":"পাসপোর্টটা হারিয়ে গেছে টের পাওয়ার আগে আয়েশা সেটা কোথায় রেখেছিল?","words":[{"w":"discovered","bn":"টের পেল","pos":"verb","base":"discover"},{"w":"missing","bn":"হারানো, খুঁজে না পাওয়া","pos":"adjective"}]},
+            {"id":"04","en":"Why had the ferry company stopped all trips to the island that day?","bn":"সেদিন ফেরি কোম্পানি কেন দ্বীপে সব যাত্রা বন্ধ করে দিয়েছিল?","words":[{"w":"ferry company","bn":"ফেরি কোম্পানি","pos":"phrase"},{"w":"island","bn":"দ্বীপ","pos":"noun"}]},
+            {"id":"05","en":"Who had recommended that noisy hostel near the train station in Ankara?","bn":"আঙ্কারার ট্রেন স্টেশনের কাছের ওই হইচই-ভরা হোস্টেলটার কথা কে সুপারিশ করেছিল?","words":[{"w":"recommended","bn":"সুপারিশ করেছিল","pos":"verb","base":"recommend"},{"w":"noisy","bn":"হইচই-ভরা","pos":"adjective"}]},
+            {"id":"06","en":"How much of their budget had they spent by the end of the first month?","bn":"প্রথম মাসের শেষে তারা তাদের বাজেটের কতটা খরচ করে ফেলেছিল?","words":[{"w":"budget","bn":"বাজেট","pos":"noun"},{"w":"by the end of","bn":"শেষ হওয়ার মধ্যে","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences, mostly had + past participle.",
+          "tipBn": "অনুচ্ছেদে had + past participle দিয়ে আগের ঘটনা, আর past simple দিয়ে পরের ঘটনা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"The missed connection","en":"Their flight from Dhaka had left two hours late, so they were already nervous when they landed in Doha. By the time they had found the transfer desk, the gate for Istanbul had closed. An officer explained that the next two flights had already sold out. Ayesha had packed a toothbrush in her hand luggage, but Zubair had put everything in his checked bag. They spent the night on airport chairs.","bn":"ঢাকা থেকে তাদের ফ্লাইট ২ ঘণ্টা দেরিতে ছেড়েছিল, তাই দোহায় নামার সময়ই তারা উদ্বিগ্ন ছিল। তারা যখন ট্রান্সফার ডেস্ক খুঁজে পেল, ততক্ষণে ইস্তাম্বুলের গেট বন্ধ হয়ে গিয়েছিল। একজন কর্মকর্তা জানালেন যে পরের দুটো ফ্লাইটের টিকিট আগেই বিক্রি হয়ে গিয়েছিল। আয়েশা তার হাতব্যাগে একটা টুথব্রাশ রেখেছিল, কিন্তু জুবায়ের সবকিছু তার চেক-ইন করা ব্যাগে ভরে দিয়েছিল। তারা রাতটা বিমানবন্দরের চেয়ারে কাটাল।","words":[{"w":"nervous","bn":"উদ্বিগ্ন","pos":"adjective"},{"w":"transfer desk","bn":"ট্রান্সফার ডেস্ক","pos":"phrase"},{"w":"sold out","bn":"বিক্রি হয়ে গিয়েছিল","pos":"phrasal verb","base":"sell out"},{"w":"toothbrush","bn":"টুথব্রাশ","pos":"noun"},{"w":"checked bag","bn":"চেক-ইন করা ব্যাগ","pos":"phrase"}]},
+            {"id":"02","title":"The suitcase that traveled alone","en":"When they finally reached Istanbul, Zubair's suitcase had not arrived. Somebody had attached the wrong tag to it in Doha, and it had flown to Frankfurt instead. By the time the airline found it, Zubair had already bought two new shirts and a jacket. The suitcase arrived three days later, and it had traveled farther than he had. Ayesha turned the whole story into a funny blog post.","bn":"অবশেষে তারা যখন ইস্তাম্বুলে পৌঁছাল, তখনো জুবায়েরের স্যুটকেস এসে পৌঁছায়নি। দোহায় কেউ একজন এতে ভুল ট্যাগ লাগিয়ে দিয়েছিল, আর সেটা ইস্তাম্বুলের বদলে ফ্রাঙ্কফুর্টে উড়ে গিয়েছিল। এয়ারলাইন যখন স্যুটকেসটা খুঁজে পেল, ততক্ষণে জুবায়ের দুটো নতুন শার্ট আর একটা জ্যাকেট কিনে ফেলেছিল। ৩ দিন পর স্যুটকেসটা এসে পৌঁছাল, আর সেটা জুবায়েরের চেয়েও বেশি পথ পাড়ি দিয়েছিল। আয়েশা পুরো ঘটনাটাকে একটা মজার ব্লগ পোস্টে পরিণত করল।","words":[{"w":"attached","bn":"লাগিয়ে দিয়েছিল","pos":"verb","base":"attach"},{"w":"tag","bn":"ট্যাগ, লেবেল","pos":"noun"},{"w":"instead","bn":"তার বদলে","pos":"adverb"},{"w":"farther","bn":"আরও দূরে","pos":"adverb","base":"far"},{"w":"turned","bn":"পরিণত করল","pos":"verb","base":"turn"}]},
+            {"id":"03","title":"Before the balloons","en":"Ayesha had wanted to ride a hot-air balloon ever since she had seen photos of Cappadocia as a student. She had saved for months and had booked the flight long before the trip. On the morning of the ride, however, strong winds had grounded every balloon. The pilots had waited for two hours before they finally canceled. She was disappointed, but she had learned to keep a spare day in every plan.","bn":"ছাত্রজীবনে কাপাদোকিয়ার ছবি দেখার পর থেকেই আয়েশা গরম বাতাসের বেলুনে চড়তে চেয়েছিল। সে কয়েক মাস ধরে টাকা জমিয়েছিল এবং ভ্রমণের অনেক আগেই বেলুনযাত্রাটা বুক করে রেখেছিল। তবে চড়ার দিন সকালে জোরালো বাতাসের কারণে সব বেলুনের ওড়া বন্ধ হয়ে গিয়েছিল। পাইলটরা ২ ঘণ্টা অপেক্ষা করার পর অবশেষে যাত্রা বাতিল করলেন। সে হতাশ হলো, কিন্তু ততদিনে সে প্রতিটি পরিকল্পনায় একটা বাড়তি দিন রাখতে শিখে গিয়েছিল।","words":[{"w":"hot-air balloon","bn":"গরম বাতাসের বেলুন","pos":"phrase"},{"w":"saved","bn":"টাকা জমিয়েছিল","pos":"verb","base":"save"},{"w":"grounded","bn":"ওড়া বন্ধ করে দিয়েছিল","pos":"verb","base":"ground"},{"w":"disappointed","bn":"হতাশ","pos":"adjective"},{"w":"spare","bn":"বাড়তি","pos":"adjective"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "passive",
+      "focus": "Describe how visas, passports and travel services are handled",
+      "focusBn": "ভিসা, পাসপোর্ট আর ভ্রমণসেবা কীভাবে সম্পন্ন করা হয় তা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + be (is/was/has been/will be) + past participle (+ by ...).",
+          "tipBn": "কাজটি কে করল তার চেয়ে কাজটি বেশি গুরুত্বপূর্ণ হলে be + past participle দিয়ে কর্মবাচ্য হয়।",
+          "items": [
+            {"id":"01","en":"Tourist visas for Japan are usually processed within five working days.","bn":"জাপানের পর্যটন ভিসা সাধারণত ৫ কর্মদিবসের মধ্যে প্রক্রিয়া করা হয়।","words":[{"w":"processed","bn":"প্রক্রিয়া করা হয়","pos":"verb","base":"process"},{"w":"working days","bn":"কর্মদিবস","pos":"phrase"}]},
+            {"id":"02","en":"Zubair's passport was stamped at the border before they were allowed into Georgia.","bn":"জর্জিয়ায় ঢুকতে দেওয়ার আগে সীমান্তে জুবায়েরের পাসপোর্টে সিল দেওয়া হলো।","words":[{"w":"stamped","bn":"সিল দেওয়া হলো","pos":"verb","base":"stamp"},{"w":"border","bn":"সীমান্ত","pos":"noun"},{"w":"allowed","bn":"অনুমতি দেওয়া হলো","pos":"verb","base":"allow"}]},
+            {"id":"03","en":"Their lost suitcase has finally been found and will be delivered to the guesthouse tonight.","bn":"তাদের হারানো স্যুটকেস অবশেষে পাওয়া গেছে এবং আজ রাতে গেস্টহাউসে পৌঁছে দেওয়া হবে।","words":[{"w":"finally","bn":"অবশেষে","pos":"adverb"},{"w":"delivered","bn":"পৌঁছে দেওয়া হবে","pos":"verb","base":"deliver"}]},
+            {"id":"04","en":"All passengers are asked to keep their boarding passes until they leave the plane.","bn":"প্লেন থেকে নামা পর্যন্ত সব যাত্রীকে বোর্ডিং পাস নিজের কাছে রাখতে অনুরোধ করা হচ্ছে।","words":[{"w":"asked","bn":"অনুরোধ করা হয়","pos":"verb","base":"ask"},{"w":"boarding passes","bn":"বোর্ডিং পাস","pos":"phrase"}]},
+            {"id":"05","en":"Ayesha's honest hotel reviews are read by thousands of travelers every month.","bn":"আয়েশার অকপট হোটেল রিভিউগুলো প্রতি মাসে হাজার হাজার ভ্রমণকারী পড়েন।","words":[{"w":"honest","bn":"অকপট, সৎ","pos":"adjective"},{"w":"travelers","bn":"ভ্রমণকারী","pos":"noun","base":"traveler"}]},
+            {"id":"06","en":"The old city walls were built in the fifth century and have been carefully restored.","bn":"পুরোনো নগরপ্রাচীর ৫ম শতাব্দীতে নির্মাণ করা হয়েছিল এবং যত্নের সাথে সংস্কার করা হয়েছে।","words":[{"w":"city walls","bn":"নগরপ্রাচীর","pos":"phrase"},{"w":"century","bn":"শতাব্দী","pos":"noun"},{"w":"restored","bn":"সংস্কার করা হয়েছে","pos":"verb","base":"restore"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + be + not + past participle + ...",
+          "tipBn": "be-এর রূপের (is, was, has been, hadn't been) পরে not বসে, তারপর past participle।",
+          "items": [
+            {"id":"01","en":"Bangladeshi passport holders are not given visas on arrival in Japan.","bn":"জাপানে বাংলাদেশি পাসপোর্টধারীদের অন-অ্যারাইভাল ভিসা দেওয়া হয় না।","words":[{"w":"passport holders","bn":"পাসপোর্টধারী","pos":"phrase"},{"w":"visas on arrival","bn":"পৌঁছানোর পর দেওয়া ভিসা","pos":"phrase"}]},
+            {"id":"02","en":"Zubair's visa application wasn't accepted because a bank statement was missing.","bn":"একটা ব্যাংক স্টেটমেন্ট না থাকায় জুবায়েরের ভিসার আবেদন গ্রহণ করা হয়নি।","words":[{"w":"accepted","bn":"গ্রহণ করা হয়নি","pos":"verb","base":"accept"},{"w":"bank statement","bn":"ব্যাংক স্টেটমেন্ট","pos":"phrase"}]},
+            {"id":"03","en":"Their hotel booking hadn't been confirmed, so they had to find another room at midnight.","bn":"তাদের হোটেল বুকিং নিশ্চিত করা হয়নি, তাই মাঝরাতে তাদের আরেকটা রুম খুঁজতে হলো।","words":[{"w":"confirmed","bn":"নিশ্চিত করা","pos":"verb","base":"confirm"},{"w":"at midnight","bn":"মাঝরাতে","pos":"phrase"}]},
+            {"id":"04","en":"Photos are not allowed inside the palace, and bags must be left at the entrance.","bn":"প্রাসাদের ভেতরে ছবি তোলার অনুমতি নেই, আর ব্যাগ প্রবেশপথে রেখে যেতে হবে।","words":[{"w":"palace","bn":"প্রাসাদ","pos":"noun"},{"w":"entrance","bn":"প্রবেশপথ","pos":"noun"}]},
+            {"id":"05","en":"The delayed passengers weren't offered any food or hotel rooms by the airline.","bn":"দেরিতে আটকে পড়া যাত্রীদের এয়ারলাইনের পক্ষ থেকে কোনো খাবার বা হোটেল রুম দেওয়া হয়নি।","words":[{"w":"delayed","bn":"দেরিতে আটকে পড়া","pos":"adjective"},{"w":"offered","bn":"দেওয়া হয়নি, প্রস্তাব করা হয়নি","pos":"verb","base":"offer"}]},
+            {"id":"06","en":"Ayesha's blog has never been paid by any hotel for a positive review.","bn":"ভালো রিভিউয়ের জন্য আয়েশার ব্লগকে কখনো কোনো হোটেলের কাছ থেকে টাকা দেওয়া হয়নি।","words":[{"w":"paid","bn":"টাকা দেওয়া হয়েছে","pos":"verb","base":"pay"},{"w":"positive review","bn":"ইতিবাচক রিভিউ","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Be/Has/Will/Can + subject + (be/been) + past participle ...?",
+          "tipBn": "প্রশ্ন করতে is, was, has, will বা can শুরুতে বসে, তারপর subject আর past participle।",
+          "items": [
+            {"id":"01","en":"Is a return ticket required when you apply for a tourist visa to Georgia?","bn":"জর্জিয়ার পর্যটন ভিসার আবেদন করার সময় কি ফিরতি টিকিট চাওয়া হয়?","words":[{"w":"return ticket","bn":"ফিরতি টিকিট","pos":"phrase"},{"w":"required","bn":"প্রয়োজন হয়","pos":"verb","base":"require"}]},
+            {"id":"02","en":"Were your passports checked again before you boarded the night train to Tbilisi?","bn":"তিবিলিসির রাতের ট্রেনে ওঠার আগে কি তোমাদের পাসপোর্ট আবার পরীক্ষা করা হয়েছিল?","words":[{"w":"checked","bn":"পরীক্ষা করা হয়েছিল","pos":"verb","base":"check"},{"w":"boarded","bn":"উঠলে","pos":"verb","base":"board"}]},
+            {"id":"03","en":"Has Zubair's visa finally been approved by the Japanese embassy in Dhaka?","bn":"ঢাকার জাপানি দূতাবাস থেকে কি অবশেষে জুবায়েরের ভিসা অনুমোদন করা হয়েছে?","words":[{"w":"approved","bn":"অনুমোদন করা হয়েছে","pos":"verb","base":"approve"},{"w":"embassy","bn":"দূতাবাস","pos":"noun"}]},
+            {"id":"04","en":"Will breakfast be included if we book directly through the hotel website?","bn":"হোটেলের ওয়েবসাইটে সরাসরি বুক করলে কি নাস্তা অন্তর্ভুক্ত থাকবে?","words":[{"w":"included","bn":"অন্তর্ভুক্ত","pos":"verb","base":"include"},{"w":"directly","bn":"সরাসরি","pos":"adverb"}]},
+            {"id":"05","en":"Can museum tickets be bought online to avoid the long queues?","bn":"লম্বা লাইন এড়াতে কি জাদুঘরের টিকিট অনলাইনে কেনা যায়?","words":[{"w":"bought","bn":"কেনা","pos":"verb","base":"buy"},{"w":"avoid","bn":"এড়ানো","pos":"verb"},{"w":"queues","bn":"লাইন, সারি","pos":"noun","base":"queue"}]},
+            {"id":"06","en":"Was the boat tour on the Bosphorus canceled because of the storm warning?","bn":"ঝড়ের সতর্কবার্তার কারণে কি বসফরাসের নৌভ্রমণটা বাতিল করা হয়েছিল?","words":[{"w":"canceled","bn":"বাতিল করা হয়েছিল","pos":"verb","base":"cancel"},{"w":"storm warning","bn":"ঝড়ের সতর্কবার্তা","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "indirect-question",
+          "pattern": "Could you tell me / Do you know whether / I wonder if + subject + passive verb ...",
+          "tipBn": "ভদ্রভাবে জানতে চাইলে Could you tell me বা Do you know whether দিয়ে শুরু হয়, আর ভেতরের অংশ সাধারণ বাক্যের মতো থাকে।",
+          "items": [
+            {"id":"01","en":"Could you tell me where the visa application forms are collected?","bn":"দয়া করে বলবেন কি, ভিসার আবেদনপত্র কোথায় জমা নেওয়া হয়?","words":[{"w":"Could you tell me","bn":"বলতে পারবেন কি","pos":"phrase"},{"w":"collected","bn":"জমা নেওয়া হয়","pos":"verb","base":"collect"}]},
+            {"id":"02","en":"Do you know whether lost luggage is delivered to the hotel free of charge?","bn":"আপনি কি জানেন, হারানো মালপত্র বিনা খরচে হোটেলে পৌঁছে দেওয়া হয় কি না?","words":[{"w":"whether","bn":"কি না","pos":"conjunction"},{"w":"free of charge","bn":"বিনা খরচে","pos":"phrase"}]},
+            {"id":"03","en":"I was wondering if our room could be cleaned while we are out today.","bn":"আজ আমরা বাইরে থাকার সময় আমাদের রুমটা পরিষ্কার করে দেওয়া যাবে কি না, জানতে চাইছিলাম।","words":[{"w":"wondering","bn":"ভাবছিলাম, জানতে চাইছিলাম","pos":"verb","base":"wonder"},{"w":"cleaned","bn":"পরিষ্কার করা","pos":"verb","base":"clean"}]},
+            {"id":"04","en":"Could you let me know when the new passport will be issued?","bn":"নতুন পাসপোর্ট কবে ইস্যু করা হবে, দয়া করে আমাকে জানাবেন কি?","words":[{"w":"let me know","bn":"আমাকে জানানো","pos":"phrase"},{"w":"issued","bn":"ইস্যু করা, প্রদান করা","pos":"verb","base":"issue"}]},
+            {"id":"05","en":"Would you mind telling us how the entry fee is paid at the national park gate?","bn":"জাতীয় উদ্যানের গেটে প্রবেশ ফি কীভাবে পরিশোধ করা হয়, আমাদের একটু বলবেন কি?","words":[{"w":"Would you mind","bn":"কিছু মনে করবেন কি","pos":"phrase"},{"w":"entry fee","bn":"প্রবেশ ফি","pos":"phrase"}]},
+            {"id":"06","en":"I'd like to know why my bag was opened and searched at customs.","bn":"কাস্টমসে আমার ব্যাগ কেন খুলে তল্লাশি করা হলো, তা আমি জানতে চাই।","words":[{"w":"searched","bn":"তল্লাশি করা হলো","pos":"verb","base":"search"},{"w":"customs","bn":"শুল্ক বিভাগ, কাস্টমস","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences, mostly be + past participle.",
+          "tipBn": "অনুচ্ছেদে বিভিন্ন কালের কর্মবাচ্য (is done, was done, has been done) দিয়ে প্রক্রিয়া আর ঘটনা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Applying for a Japanese visa","en":"Japanese tourist visas are not issued at the airport, so Zubair's application was prepared weeks in advance. His passport, photos and bank statements were checked by a travel agent in Dhaka. The documents were then submitted to the embassy. After an anxious wait, he was told that his visa had been approved. The passport was returned with a bright new visa inside.","bn":"জাপানের পর্যটন ভিসা বিমানবন্দরে দেওয়া হয় না, তাই জুবায়েরের আবেদন কয়েক সপ্তাহ আগে থেকেই তৈরি করা হয়েছিল। ঢাকায় একজন ট্রাভেল এজেন্ট তার পাসপোর্ট, ছবি আর ব্যাংক স্টেটমেন্ট পরীক্ষা করলেন। এরপর কাগজপত্রগুলো দূতাবাসে জমা দেওয়া হলো। উদ্বেগভরা অপেক্ষার পর তাকে জানানো হলো যে তার ভিসা অনুমোদন করা হয়েছে। ভেতরে ঝকঝকে নতুন ভিসাসহ পাসপোর্টটা ফেরত দেওয়া হলো।","words":[{"w":"issued","bn":"প্রদান করা হয়","pos":"verb","base":"issue"},{"w":"in advance","bn":"আগে থেকে","pos":"phrase"},{"w":"submitted","bn":"জমা দেওয়া হলো","pos":"verb","base":"submit"},{"w":"anxious","bn":"উদ্বেগভরা","pos":"adjective"},{"w":"approved","bn":"অনুমোদন করা হয়েছে","pos":"verb","base":"approve"}]},
+            {"id":"02","title":"How a lost bag is traced","en":"When a bag goes missing, a report is filled in at the baggage desk. Each bag is given a reference number, and its route is traced through the airline's computer system. Within a few days, most bags are located and sent on the next available flight. They are usually delivered straight to the passenger's hotel. Sadly, a few bags are never found at all.","bn":"কোনো ব্যাগ হারিয়ে গেলে ব্যাগেজ ডেস্কে একটা রিপোর্ট পূরণ করা হয়। প্রতিটি ব্যাগকে একটা রেফারেন্স নম্বর দেওয়া হয়, আর এয়ারলাইনের কম্পিউটার সিস্টেমে তার পথ খুঁজে বের করা হয়। কয়েক দিনের মধ্যে বেশিরভাগ ব্যাগের খোঁজ পাওয়া যায় এবং পরের খালি ফ্লাইটে পাঠিয়ে দেওয়া হয়। সাধারণত সেগুলো সরাসরি যাত্রীর হোটেলে পৌঁছে দেওয়া হয়। দুঃখের বিষয়, অল্প কিছু ব্যাগ আর কখনোই খুঁজে পাওয়া যায় না।","words":[{"w":"goes missing","bn":"হারিয়ে যায়","pos":"phrase","base":"go missing"},{"w":"reference number","bn":"রেফারেন্স নম্বর","pos":"phrase"},{"w":"traced","bn":"খুঁজে বের করা হয়","pos":"verb","base":"trace"},{"w":"located","bn":"খোঁজ পাওয়া যায়","pos":"verb","base":"locate"},{"w":"available","bn":"খালি, প্রাপ্য","pos":"adjective"}]},
+            {"id":"03","title":"Review: a cave hotel","en":"Our cave hotel in Cappadocia was recommended by several readers, and it did not disappoint. The rooms have been carved into the soft rock and are decorated with handmade carpets. Breakfast is served on a rooftop terrace with views of the valley. Our bags were carried up the steep stairs by the friendly staff. The hotel is often booked months ahead, so plan early.","bn":"কাপাদোকিয়ায় আমাদের গুহা-হোটেলটির কথা বেশ কয়েকজন পাঠক সুপারিশ করেছিলেন, আর এটি হতাশ করেনি। রুমগুলো নরম পাথর খোদাই করে তৈরি করা হয়েছে এবং হাতে বোনা কার্পেট দিয়ে সাজানো। উপত্যকার দৃশ্যসহ ছাদের বারান্দায় নাস্তা পরিবেশন করা হয়। বন্ধুসুলভ কর্মীরা খাড়া সিঁড়ি বেয়ে আমাদের ব্যাগগুলো ওপরে তুলে দিয়েছিলেন। হোটেলটি প্রায়ই কয়েক মাস আগে থেকে বুক হয়ে যায়, তাই আগেভাগে পরিকল্পনা করুন।","words":[{"w":"carved","bn":"খোদাই করা","pos":"verb","base":"carve"},{"w":"decorated","bn":"সাজানো","pos":"verb","base":"decorate"},{"w":"rooftop terrace","bn":"ছাদের বারান্দা","pos":"phrase"},{"w":"steep","bn":"খাড়া","pos":"adjective"},{"w":"ahead","bn":"আগে থেকে","pos":"adverb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Reflect on regrets and lessons from the trip",
+      "focusBn": "ভ্রমণের আফসোস আর শিক্ষা নিয়ে তৃতীয় ও মিশ্র শর্তবাক্য",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + had + past participle, would have + past participle. / If + past, would + verb (mixed).",
+          "tipBn": "অতীতের কাল্পনিক অবস্থায় If + had + past participle আর would have বসে; মিশ্র শর্তে অতীত আর বর্তমান মেশানো হয়।",
+          "items": [
+            {"id":"01","en":"If Ayesha had checked the visa rules earlier, she would have saved a lot of stress.","bn":"আয়েশা যদি আগে ভিসার নিয়ম দেখে নিত, তাহলে অনেক দুশ্চিন্তা থেকে বেঁচে যেত।","words":[{"w":"visa rules","bn":"ভিসার নিয়ম","pos":"phrase"},{"w":"saved","bn":"বাঁচাত","pos":"verb","base":"save"},{"w":"stress","bn":"মানসিক চাপ","pos":"noun"}]},
+            {"id":"02","en":"If their first flight had left on time, they would have caught the connection in Doha.","bn":"প্রথম ফ্লাইটটা সময়মতো ছাড়লে তারা দোহায় সংযোগ ফ্লাইটটা ধরতে পারত।","words":[{"w":"caught","bn":"ধরতে পারত","pos":"verb","base":"catch"},{"w":"connection","bn":"সংযোগ ফ্লাইট","pos":"noun"}]},
+            {"id":"03","en":"If Zubair had packed a change of clothes in his hand luggage, he would be more comfortable now.","bn":"জুবায়ের যদি হাতব্যাগে এক সেট বাড়তি কাপড় রাখত, তাহলে এখন সে আরও স্বস্তিতে থাকত।","words":[{"w":"a change of clothes","bn":"এক সেট বাড়তি কাপড়","pos":"phrase"},{"w":"comfortable","bn":"স্বস্তিতে, আরামে","pos":"adjective"}]},
+            {"id":"04","en":"Ayesha would have flown over Cappadocia if the wind had dropped that morning.","bn":"সেদিন সকালে বাতাস কমে গেলে আয়েশা কাপাদোকিয়ার ওপর দিয়ে উড়ে বেড়াত।","words":[{"w":"flown","bn":"উড়ে বেড়াত","pos":"verb","base":"fly"},{"w":"dropped","bn":"কমে গেল","pos":"verb","base":"drop"}]},
+            {"id":"05","en":"If Ayesha were less adventurous, she would have stayed in her office job in Chattogram.","bn":"আয়েশা যদি কম দুঃসাহসী হতো, তাহলে চট্টগ্রামে তার অফিসের চাকরিতেই থেকে যেত।","words":[{"w":"adventurous","bn":"দুঃসাহসী, অভিযানপ্রিয়","pos":"adjective"},{"w":"office job","bn":"অফিসের চাকরি","pos":"phrase"}]},
+            {"id":"06","en":"Had they booked the guesthouse directly, they would have paid much less.","bn":"গেস্টহাউসটা সরাসরি বুক করলে তারা অনেক কম টাকা দিত।","words":[{"w":"Had they booked","bn":"তারা যদি বুক করত","pos":"phrase"},{"w":"directly","bn":"সরাসরি","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + hadn't + past participle, wouldn't have + past participle ...",
+          "tipBn": "শর্ত বা ফলাফল না-বোধক হলে hadn't, wouldn't have বা weren't ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"If they hadn't missed the connection, they wouldn't have met the kind family from Sylhet at the airport.","bn":"সংযোগ ফ্লাইট মিস না করলে তারা বিমানবন্দরে সিলেটের সেই সহৃদয় পরিবারের দেখা পেত না।","words":[{"w":"missed","bn":"মিস করত","pos":"verb","base":"miss"},{"w":"kind","bn":"সহৃদয়, দয়ালু","pos":"adjective"}]},
+            {"id":"02","en":"Zubair wouldn't be so tired today if he hadn't spent the night on airport chairs.","bn":"জুবায়ের যদি রাতটা বিমানবন্দরের চেয়ারে না কাটাত, তাহলে আজ সে এত ক্লান্ত থাকত না।","words":[{"w":"tired","bn":"ক্লান্ত","pos":"adjective"},{"w":"spent","bn":"কাটাত","pos":"verb","base":"spend"}]},
+            {"id":"03","en":"If the hotel hadn't upgraded their room, Ayesha wouldn't have written such a glowing review.","bn":"হোটেল তাদের রুম আপগ্রেড না করলে আয়েশা এত প্রশংসাভরা রিভিউ লিখত না।","words":[{"w":"upgraded","bn":"উন্নত রুম দিয়েছিল","pos":"verb","base":"upgrade"},{"w":"glowing","bn":"প্রশংসাভরা","pos":"adjective"}]},
+            {"id":"04","en":"If Ayesha hadn't kept copies of her documents, she couldn't have replaced her passport so quickly.","bn":"আয়েশা যদি তার কাগজপত্রের কপি না রাখত, তাহলে এত দ্রুত নতুন পাসপোর্ট করাতে পারত না।","words":[{"w":"documents","bn":"কাগজপত্র","pos":"noun","base":"document"},{"w":"replaced","bn":"বদলে নিতে পারত","pos":"verb","base":"replace"}]},
+            {"id":"05","en":"We wouldn't have found that hidden beach if a local fisherman hadn't shown us the path.","bn":"একজন স্থানীয় জেলে আমাদের পথটা না দেখালে আমরা ওই লুকানো সৈকতটা খুঁজে পেতাম না।","words":[{"w":"hidden","bn":"লুকানো","pos":"adjective"},{"w":"local fisherman","bn":"স্থানীয় জেলে","pos":"phrase"},{"w":"shown","bn":"দেখিয়েছিল","pos":"verb","base":"show"}]},
+            {"id":"06","en":"If Zubair weren't afraid of heights, he wouldn't have refused the cable car ride.","bn":"জুবায়েরের যদি উচ্চতাভীতি না থাকত, তাহলে সে কেবল কারে চড়তে অস্বীকার করত না।","words":[{"w":"afraid of heights","bn":"উচ্চতাভীতি","pos":"phrase"},{"w":"refused","bn":"অস্বীকার করত","pos":"verb","base":"refuse"},{"w":"cable car","bn":"কেবল কার","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + would + subject + (have + past participle) + if ...?",
+          "tipBn": "প্রশ্নশব্দের পরে would বা would have বসে, আর অতীতের কাল্পনিক শর্ত If + had + past participle দিয়ে বলা হয়।",
+          "items": [
+            {"id":"01","en":"What would you have done if you had lost your passport abroad?","bn":"বিদেশে পাসপোর্ট হারিয়ে ফেললে তুমি কী করতে?","words":[{"w":"lost","bn":"হারিয়ে ফেলতে","pos":"verb","base":"lose"},{"w":"abroad","bn":"বিদেশে","pos":"adverb"}]},
+            {"id":"02","en":"Where would they have slept if the airport lounge had been closed?","bn":"বিমানবন্দরের লাউঞ্জ বন্ধ থাকলে তারা কোথায় ঘুমাত?","words":[{"w":"slept","bn":"ঘুমাত","pos":"verb","base":"sleep"},{"w":"lounge","bn":"বিশ্রামকক্ষ, লাউঞ্জ","pos":"noun"}]},
+            {"id":"03","en":"How would Ayesha's life be different if she had stayed in her office job?","bn":"অফিসের চাকরিতে থেকে গেলে আয়েশার জীবন এখন কেমন অন্যরকম হতো?","words":[{"w":"different","bn":"ভিন্ন, অন্যরকম","pos":"adjective"},{"w":"office job","bn":"অফিসের চাকরি","pos":"phrase"}]},
+            {"id":"04","en":"Which country would you have visited first if you had had more time?","bn":"হাতে আরও সময় থাকলে তুমি প্রথমে কোন দেশে যেতে?","words":[{"w":"Which","bn":"কোন","pos":"other"},{"w":"had had","bn":"থাকত","pos":"phrase"}]},
+            {"id":"05","en":"Who would have looked after the blog if Ayesha had fallen ill during the trip?","bn":"ভ্রমণের সময় আয়েশা অসুস্থ হয়ে পড়লে ব্লগটা কে দেখাশোনা করত?","words":[{"w":"looked after","bn":"দেখাশোনা করত","pos":"phrasal verb","base":"look after"},{"w":"fallen ill","bn":"অসুস্থ হয়ে পড়ত","pos":"phrase","base":"fall ill"}]},
+            {"id":"06","en":"How much money would they have saved if they had traveled in the off-season?","bn":"অফ-সিজনে ভ্রমণ করলে তারা কত টাকা বাঁচাতে পারত?","words":[{"w":"saved","bn":"বাঁচাত","pos":"verb","base":"save"},{"w":"off-season","bn":"কম ভিড়ের মৌসুম","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences with third and mixed conditionals.",
+          "tipBn": "অনুচ্ছেদে If + had + past participle আর would have দিয়ে অতীতের আফসোস ও শিক্ষার কথা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Lessons from Doha","en":"Looking back, Ayesha knows the night in Doha could have been avoided. If they had chosen a longer connection time, they would have caught their flight easily. If Zubair had packed a few basics in his hand luggage, he wouldn't have felt so miserable. On the other hand, if they hadn't been stuck there, they would never have met the Sylheti family who later invited them to their home in Sylhet.","bn":"পেছন ফিরে তাকালে আয়েশা বোঝে, দোহার সেই রাতটা এড়ানো যেত। তারা যদি আরও লম্বা সংযোগ-সময় বেছে নিত, তাহলে সহজেই তাদের ফ্লাইট ধরতে পারত। জুবায়ের যদি হাতব্যাগে কিছু প্রয়োজনীয় জিনিস রাখত, তাহলে তার এত খারাপ লাগত না। অন্যদিকে, তারা যদি সেখানে আটকে না পড়ত, তাহলে সিলেটের সেই পরিবারের সাথে কখনোই দেখা হতো না, যারা পরে তাদের সিলেটের বাড়িতে দাওয়াত দিয়েছিল।","words":[{"w":"Looking back","bn":"পেছন ফিরে তাকালে","pos":"phrase"},{"w":"avoided","bn":"এড়ানো","pos":"verb","base":"avoid"},{"w":"basics","bn":"প্রয়োজনীয় জিনিস","pos":"noun"},{"w":"miserable","bn":"খুব খারাপ, দুর্দশাগ্রস্ত","pos":"adjective"},{"w":"stuck","bn":"আটকে পড়া","pos":"adjective"}]},
+            {"id":"02","title":"If the wind had dropped","en":"Ayesha still wonders about the balloon ride she missed. If the wind had dropped that morning, she would have floated over the valleys at sunrise. She would have taken the photos she had dreamed of for years. But if the flight had gone ahead, she wouldn't have spent the day exploring an underground city instead. Now she says the change of plan gave her the best story of the trip.","bn":"যে বেলুনযাত্রাটা হাতছাড়া হয়েছিল, সেটার কথা আয়েশা এখনো ভাবে। সেদিন সকালে বাতাস কমে গেলে সে সূর্যোদয়ের সময় উপত্যকাগুলোর ওপর দিয়ে ভেসে বেড়াত। সে সেই ছবিগুলো তুলত, যেগুলোর স্বপ্ন সে বহু বছর ধরে দেখেছিল। কিন্তু বেলুনযাত্রাটা হলে সে তার বদলে একটা পাতালনগরী ঘুরে দিনটা কাটাত না। এখন সে বলে, পরিকল্পনার এই বদলই তাকে পুরো ভ্রমণের সবচেয়ে সুন্দর গল্পটা দিয়েছে।","words":[{"w":"wonders","bn":"ভাবে","pos":"verb","base":"wonder"},{"w":"floated","bn":"ভেসে বেড়াত","pos":"verb","base":"float"},{"w":"gone ahead","bn":"নির্ধারিতভাবে হতো","pos":"phrasal verb","base":"go ahead"},{"w":"underground city","bn":"পাতালনগরী","pos":"phrase"},{"w":"change of plan","bn":"পরিকল্পনার বদল","pos":"phrase"}]},
+            {"id":"03","title":"Advice to new travelers","en":"In her final post, Ayesha shared what she would have done differently. If they had bought travel insurance, Zubair's lost suitcase would not have cost them so much. If she had learned some basic Turkish before the trip, she would have made more local friends. And if she weren't so stubborn, she would have rested on the days she felt sick. Her readers called it her most useful post yet.","bn":"শেষ পোস্টে আয়েশা জানাল, কোন কাজগুলো সে অন্যভাবে করত। তারা যদি ভ্রমণ বিমা কিনত, তাহলে জুবায়েরের হারানো স্যুটকেসের জন্য তাদের এত খরচ হতো না। ভ্রমণের আগে কিছু সাধারণ তুর্কি শিখে নিলে সে আরও স্থানীয় বন্ধু বানাতে পারত। আর সে যদি এত জেদি না হতো, তাহলে যেদিনগুলোতে অসুস্থ লাগছিল, সেদিন বিশ্রাম নিত। তার পাঠকেরা এটাকে এ পর্যন্ত তার সবচেয়ে কাজের পোস্ট বলল।","words":[{"w":"differently","bn":"অন্যভাবে","pos":"adverb"},{"w":"travel insurance","bn":"ভ্রমণ বিমা","pos":"phrase"},{"w":"stubborn","bn":"জেদি","pos":"adjective"},{"w":"rested","bn":"বিশ্রাম নিত","pos":"verb","base":"rest"},{"w":"useful","bn":"কাজের, উপকারী","pos":"adjective"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}
