@@ -1,0 +1,272 @@
+{
+  "topic": "family-friends",
+  "level": "advanced",
+  "title": "Family Across Continents",
+  "story": "Nadia Chowdhury grew up in Dhanmondi, Dhaka, and has lived in Toronto for twelve years with her husband Imran and their teenage children, Zara and Rayan. Her widowed mother still lives in the family home in Dhaka, where Nadia's younger brother Tanim looks after her. Nadia's closest friend from university, Priya, lives in Melbourne. After her mother's fall last November, the whole family is learning to share responsibility across continents.",
+  "storyBn": "নাদিয়া চৌধুরী ঢাকার ধানমন্ডিতে বড় হয়েছে, আর ১২ বছর ধরে স্বামী ইমরান এবং কিশোর বয়সী দুই সন্তান জারা ও রায়ানকে নিয়ে টরন্টোতে থাকে। তার বিধবা মা এখনো ঢাকার পারিবারিক বাড়িতে থাকেন, যেখানে নাদিয়ার ছোট ভাই তানিম তাঁর দেখাশোনা করে। বিশ্ববিদ্যালয়জীবনের সবচেয়ে কাছের বন্ধু প্রিয়া থাকে মেলবোর্নে। গত নভেম্বরে মা পড়ে যাওয়ার পর থেকে পুরো পরিবার মহাদেশ পেরিয়ে দায়িত্ব ভাগ করে নিতে শিখছে।",
+  "units": [
+    {
+      "grammar": "present-perfect-continuous",
+      "focus": "Talk about ongoing family responsibilities and long-distance ties",
+      "focusBn": "চলমান পারিবারিক দায়িত্ব আর দূরের সম্পর্ক নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + has/have been + verb-ing + for/since/lately ...",
+          "tipBn": "অতীতে শুরু হয়ে এখনো চলছে এমন কাজ বলতে has বা have been এর পরে verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"Nadia has been living in Toronto for almost twelve years, but she still calls Dhaka home.","bn":"নাদিয়া প্রায় ১২ বছর ধরে টরন্টোতে থাকছে, কিন্তু এখনো ঢাকাকেই নিজের বাড়ি বলে।","words":[{"w":"has been living","bn":"থেকে আসছে","pos":"phrase","base":"live"},{"w":"still","bn":"এখনো","pos":"adverb"}]},
+            {"id":"02","en":"Her younger brother Tanim has been taking care of their mother since their father passed away.","bn":"বাবা মারা যাওয়ার পর থেকে তার ছোট ভাই তানিম তাদের মায়ের দেখাশোনা করে আসছে।","words":[{"w":"taking care of","bn":"দেখাশোনা করা","pos":"phrase","base":"take care of"},{"w":"passed away","bn":"মারা গেছেন","pos":"phrasal verb","base":"pass away"}]},
+            {"id":"03","en":"Nadia and her university friend Priya have been video chatting across time zones every Sunday for years.","bn":"নাদিয়া আর তার বিশ্ববিদ্যালয়ের বন্ধু প্রিয়া বহু বছর ধরে প্রতি রবিবার ভিন্ন টাইম জোন পেরিয়ে ভিডিওতে কথা বলে আসছে।","words":[{"w":"video chatting","bn":"ভিডিওতে কথা বলা","pos":"verb","base":"video chat"},{"w":"across time zones","bn":"ভিন্ন সময়-অঞ্চল পেরিয়ে","pos":"phrase"}]},
+            {"id":"04","en":"Zara has been arguing with her parents about her career choices lately.","bn":"ইদানীং জারা তার ক্যারিয়ারের সিদ্ধান্ত নিয়ে মা-বাবার সাথে তর্ক করছে।","words":[{"w":"career choices","bn":"পেশা বাছাই","pos":"phrase"},{"w":"lately","bn":"ইদানীং","pos":"adverb"}]},
+            {"id":"05","en":"Nadia has been sending money to Dhaka every month to help cover her mother's medical bills.","bn":"মায়ের চিকিৎসার খরচ মেটাতে সাহায্য করার জন্য নাদিয়া প্রতি মাসে ঢাকায় টাকা পাঠিয়ে আসছে।","words":[{"w":"cover","bn":"খরচ মেটানো","pos":"verb"},{"w":"medical bills","bn":"চিকিৎসার খরচ","pos":"phrase"}]},
+            {"id":"06","en":"Imran has been encouraging the kids to learn Bangla so that they can talk to their grandmother.","bn":"ইমরান বাচ্চাদের বাংলা শিখতে উৎসাহ দিয়ে আসছে, যাতে তারা নানির সাথে কথা বলতে পারে।","words":[{"w":"encouraging","bn":"উৎসাহ দিচ্ছে","pos":"verb","base":"encourage"},{"w":"so that","bn":"যাতে","pos":"conjunction"},{"w":"grandmother","bn":"নানি, দাদি","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hasn't/haven't been + verb-ing ...",
+          "tipBn": "has বা have এর পরে not বসে, তারপর been আর verb-ing।",
+          "items": [
+            {"id":"01","en":"Nadia hasn't been sleeping well since she heard about her mother's fall.","bn":"মায়ের পড়ে যাওয়ার খবর শোনার পর থেকে নাদিয়ার ঠিকমতো ঘুম হচ্ছে না।","words":[{"w":"sleeping well","bn":"ঠিকমতো ঘুমানো","pos":"phrase","base":"sleep well"},{"w":"fall","bn":"পড়ে যাওয়া","pos":"noun"}]},
+            {"id":"02","en":"Tanim hasn't been getting much help from the rest of the family.","bn":"তানিম পরিবারের বাকিদের কাছ থেকে তেমন সাহায্য পাচ্ছে না।","words":[{"w":"getting","bn":"পাচ্ছে","pos":"verb","base":"get"},{"w":"the rest of","bn":"বাকি সবাই","pos":"phrase"}]},
+            {"id":"03","en":"Priya hasn't been answering messages as quickly as usual since she started her new job.","bn":"নতুন চাকরি শুরু করার পর থেকে প্রিয়া আগের মতো তাড়াতাড়ি মেসেজের উত্তর দিচ্ছে না।","words":[{"w":"answering","bn":"উত্তর দিচ্ছে","pos":"verb","base":"answer"},{"w":"as quickly as usual","bn":"আগের মতো তাড়াতাড়ি","pos":"phrase"}]},
+            {"id":"04","en":"Rayan hasn't been spending much time with the family since he got his new phone.","bn":"নতুন ফোন পাওয়ার পর থেকে রায়ান পরিবারের সাথে তেমন সময় কাটাচ্ছে না।","words":[{"w":"spending","bn":"কাটাচ্ছে","pos":"verb","base":"spend"},{"w":"much time","bn":"বেশি সময়","pos":"phrase"}]},
+            {"id":"05","en":"Their mother hasn't been taking her medicine regularly, and Tanim is getting worried.","bn":"তাদের মা নিয়মিত ওষুধ খাচ্ছেন না, আর তানিম চিন্তিত হয়ে পড়ছে।","words":[{"w":"medicine","bn":"ওষুধ","pos":"noun"},{"w":"regularly","bn":"নিয়মিত","pos":"adverb"},{"w":"worried","bn":"চিন্তিত","pos":"adjective"}]},
+            {"id":"06","en":"Nadia and Imran haven't been agreeing on how strict they should be with the kids.","bn":"বাচ্চাদের সাথে কতটা কড়া হওয়া উচিত, তা নিয়ে নাদিয়া আর ইমরান একমত হতে পারছে না।","words":[{"w":"agreeing on","bn":"একমত হওয়া","pos":"phrase","base":"agree on"},{"w":"strict","bn":"কড়া","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Has/Have + subject + been + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে Has বা Have শুরুতে বসে, তারপর subject, been আর verb-ing।",
+          "items": [
+            {"id":"01","en":"Have you been calling your mother every day since her operation?","bn":"অপারেশনের পর থেকে তুমি কি প্রতিদিন মাকে ফোন করে আসছ?","words":[{"w":"calling","bn":"ফোন করছ","pos":"verb","base":"call"},{"w":"operation","bn":"অপারেশন, অস্ত্রোপচার","pos":"noun"}]},
+            {"id":"02","en":"Has Tanim been managing everything on his own all these months?","bn":"এত মাস ধরে তানিম কি সবকিছু একাই সামলাচ্ছে?","words":[{"w":"managing","bn":"সামলাচ্ছে","pos":"verb","base":"manage"},{"w":"on his own","bn":"একা","pos":"phrase"}]},
+            {"id":"03","en":"Has Zara been thinking seriously about studying art instead of medicine?","bn":"জারা কি মেডিসিনের বদলে আর্ট পড়ার কথা গুরুত্ব দিয়ে ভাবছে?","words":[{"w":"seriously","bn":"গুরুত্ব দিয়ে","pos":"adverb"},{"w":"instead of","bn":"এর বদলে","pos":"phrase"}]},
+            {"id":"04","en":"Have you and Priya been talking about meeting up somewhere this year?","bn":"তুমি আর প্রিয়া কি এ বছর কোথাও দেখা করার কথা বলছ?","words":[{"w":"meeting up","bn":"দেখা করা","pos":"phrasal verb","base":"meet up"},{"w":"somewhere","bn":"কোথাও","pos":"adverb"}]},
+            {"id":"05","en":"Has Rayan been staying up late playing online games with his friends again?","bn":"রায়ান কি আবার রাত জেগে বন্ধুদের সাথে অনলাইন গেম খেলছে?","words":[{"w":"staying up late","bn":"রাত জাগা","pos":"phrase","base":"stay up late"},{"w":"again","bn":"আবার","pos":"adverb"}]},
+            {"id":"06","en":"Have the neighbors been bringing food since your mother came home from the hospital?","bn":"মা হাসপাতাল থেকে বাড়ি ফেরার পর থেকে প্রতিবেশীরা কি খাবার নিয়ে আসছেন?","words":[{"w":"neighbors","bn":"প্রতিবেশীরা","pos":"noun","base":"neighbor"},{"w":"bringing","bn":"নিয়ে আসছে","pos":"verb","base":"bring"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + has/have + subject + been + verb-ing ...?",
+          "tipBn": "How long, What, Why ইত্যাদির পরে has বা have, তারপর subject, been আর verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"How long have you been looking after your mother on your own, Tanim?","bn":"তানিম, তুমি কতদিন ধরে একা মায়ের দেখাশোনা করছ?","words":[{"w":"How long","bn":"কতদিন ধরে","pos":"phrase"},{"w":"looking after","bn":"দেখাশোনা করা","pos":"phrasal verb","base":"look after"},{"w":"on your own","bn":"একা","pos":"phrase"}]},
+            {"id":"02","en":"What has Zara been doing to convince her parents about art school?","bn":"আর্ট স্কুলের ব্যাপারে মা-বাবাকে রাজি করাতে জারা কী করে আসছে?","words":[{"w":"convince","bn":"রাজি করানো","pos":"verb"},{"w":"art school","bn":"চারুকলা প্রতিষ্ঠান","pos":"noun"}]},
+            {"id":"03","en":"Why has Priya been feeling so lonely in Melbourne these past few months?","bn":"গত কয়েক মাস ধরে মেলবোর্নে প্রিয়ার এত একা লাগছে কেন?","words":[{"w":"lonely","bn":"একাকী","pos":"adjective"},{"w":"these past few months","bn":"গত কয়েক মাস","pos":"phrase"}]},
+            {"id":"04","en":"Who has been cooking for your mother while Tanim is at work?","bn":"তানিম অফিসে থাকার সময় তোমার মায়ের জন্য কে রান্না করে আসছে?","words":[{"w":"cooking","bn":"রান্না করছে","pos":"verb","base":"cook"},{"w":"at work","bn":"কর্মস্থলে","pos":"phrase"}]},
+            {"id":"05","en":"How have you been coping with the distance from your family?","bn":"পরিবার থেকে এত দূরে থাকাটা তুমি কীভাবে সামলাচ্ছ?","words":[{"w":"coping with","bn":"সামলানো","pos":"phrase","base":"cope with"},{"w":"distance","bn":"দূরত্ব","pos":"noun"}]},
+            {"id":"06","en":"What have you and Imran been telling the kids about their late grandfather?","bn":"তুমি আর ইমরান বাচ্চাদের তাদের প্রয়াত নানার ব্যাপারে কী বলে আসছ?","words":[{"w":"telling","bn":"বলছ","pos":"verb","base":"tell"},{"w":"late","bn":"প্রয়াত","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A text mostly in the present perfect continuous.",
+          "tipBn": "অনুচ্ছেদে চলমান দীর্ঘ কাজ বোঝাতে has/have been + verb-ing ব্যবহার হয়েছে।",
+          "items": [
+            {"id":"01","title":"A brother's quiet sacrifice","en":"Tanim has been looking after their mother for almost three years. Since her fall in November, he has been driving her to the hospital twice a week and sleeping on the sofa next to her bed. He has also been working from home to save time. Nadia has been sending money and calling every night, but she knows that Tanim has been carrying most of the weight. Lately, she has been wondering how she can share the burden more fairly.","bn":"প্রায় ৩ বছর ধরে তানিম তাদের মায়ের দেখাশোনা করছে। নভেম্বরে মা পড়ে যাওয়ার পর থেকে সে সপ্তাহে দুবার তাঁকে গাড়িতে করে হাসপাতালে নিয়ে যাচ্ছে আর তাঁর বিছানার পাশের সোফায় ঘুমাচ্ছে। সময় বাঁচাতে সে বাসা থেকেও কাজ করছে। নাদিয়া টাকা পাঠাচ্ছে আর প্রতি রাতে ফোন করছে, কিন্তু সে জানে বোঝার বেশিরভাগটাই তানিম বহন করছে। ইদানীং সে ভাবছে, কীভাবে এই দায়িত্ব আরও ন্যায্যভাবে ভাগ করে নেওয়া যায়।","words":[{"w":"looking after","bn":"দেখাশোনা করছে","pos":"phrasal verb","base":"look after"},{"w":"carrying most of the weight","bn":"বেশিরভাগ বোঝা বহন করা","pos":"idiom"},{"w":"wondering","bn":"ভাবছে","pos":"verb","base":"wonder"},{"w":"burden","bn":"বোঝা, দায়িত্ব","pos":"noun"},{"w":"fairly","bn":"ন্যায্যভাবে","pos":"adverb"}]},
+            {"id":"02","title":"Two friends, two time zones","en":"Nadia and Priya have been friends since their first week at university in Dhaka. For the past ten years, Nadia has been living in Toronto while Priya has been working in Melbourne. Because of the fourteen-hour time difference, they have been taking turns staying up late for their Sunday calls. Recently, they have been planning a reunion in Dhaka, where they first met. Both of them have been saving up for it since January.","bn":"ঢাকার বিশ্ববিদ্যালয়ে প্রথম সপ্তাহ থেকেই নাদিয়া আর প্রিয়া বন্ধু। গত ১০ বছর ধরে নাদিয়া টরন্টোতে থাকছে, আর প্রিয়া মেলবোর্নে কাজ করছে। ১৪ ঘণ্টার সময়ের পার্থক্যের কারণে রবিবারের কলের জন্য তারা পালা করে রাত জাগছে। সম্প্রতি তারা ঢাকায়, যেখানে তাদের প্রথম দেখা হয়েছিল, একটা পুনর্মিলনীর পরিকল্পনা করছে। জানুয়ারি থেকে দুজনেই এর জন্য টাকা জমাচ্ছে।","words":[{"w":"time difference","bn":"সময়ের পার্থক্য","pos":"phrase"},{"w":"taking turns","bn":"পালা করে","pos":"phrase","base":"take turns"},{"w":"reunion","bn":"পুনর্মিলনী","pos":"noun"},{"w":"saving up","bn":"টাকা জমানো","pos":"phrasal verb","base":"save up"}]},
+            {"id":"03","title":"The art school debate","en":"Zara has been drawing since she was four, and for the last year she has been taking evening classes at a local studio. Her teachers have been praising her portfolio. Nadia, however, has been hoping that Zara will study medicine like her cousins. They have been having the same argument for months, and Imran has been trying to keep the peace. Meanwhile, Zara's grandmother in Dhaka has been asking why anyone would choose a paintbrush over a stethoscope.","bn":"জারা ৪ বছর বয়স থেকে ছবি আঁকছে, আর গত এক বছর ধরে সে স্থানীয় একটা স্টুডিওতে সন্ধ্যার ক্লাস করছে। তার শিক্ষকেরা তার কাজের সংগ্রহের প্রশংসা করে আসছেন। তবে নাদিয়া আশা করে আসছে যে জারা তার কাজিনদের মতো মেডিসিন পড়বে। মাস ধরে তারা একই তর্ক করে যাচ্ছে, আর ইমরান শান্তি বজায় রাখার চেষ্টা করছে। এদিকে ঢাকায় জারার নানি জিজ্ঞেস করে যাচ্ছেন, স্টেথোস্কোপ ছেড়ে কেউ কেন তুলি বেছে নেবে।","words":[{"w":"praising","bn":"প্রশংসা করছে","pos":"verb","base":"praise"},{"w":"portfolio","bn":"কাজের নমুনা-সংগ্রহ","pos":"noun"},{"w":"keep the peace","bn":"শান্তি বজায় রাখা","pos":"idiom"},{"w":"Meanwhile","bn":"এদিকে","pos":"adverb"},{"w":"paintbrush","bn":"তুলি","pos":"noun"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-perfect",
+      "focus": "Look back on Nadia's visit home and what had changed",
+      "focusBn": "নাদিয়ার দেশে ফেরা আর তার আগে কী বদলে গিয়েছিল তা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + had + past participle (+ by the time / before / after ...)",
+          "tipBn": "অতীতের দুটি ঘটনার মধ্যে আগেরটি বোঝাতে had এর পরে past participle বসে।",
+          "items": [
+            {"id":"01","en":"By the time Nadia landed in Dhaka, Tanim had already arranged everything for their mother's surgery.","bn":"নাদিয়া ঢাকায় নামার আগেই তানিম মায়ের অপারেশনের সব ব্যবস্থা করে ফেলেছিল।","words":[{"w":"By the time","bn":"যতক্ষণে","pos":"phrase"},{"w":"arranged","bn":"ব্যবস্থা করেছিল","pos":"verb","base":"arrange"},{"w":"surgery","bn":"অস্ত্রোপচার","pos":"noun"}]},
+            {"id":"02","en":"She realized that her mother had grown much frailer since her last visit.","bn":"সে বুঝতে পারল, তার শেষবার আসার পর থেকে মা অনেক দুর্বল হয়ে পড়েছিলেন।","words":[{"w":"realized","bn":"বুঝতে পারল","pos":"verb","base":"realize"},{"w":"frailer","bn":"আরও দুর্বল","pos":"adjective","base":"frail"}]},
+            {"id":"03","en":"Before Nadia arrived, the neighbors had taken turns bringing hot meals to the flat every evening.","bn":"নাদিয়া আসার আগে প্রতিবেশীরা পালা করে প্রতি সন্ধ্যায় ফ্ল্যাটে গরম খাবার পৌঁছে দিয়েছিলেন।","words":[{"w":"taken turns","bn":"পালা করে","pos":"phrase","base":"take turns"},{"w":"meals","bn":"খাবার","pos":"noun","base":"meal"}]},
+            {"id":"04","en":"Nadia had promised her father that she would always look after the family.","bn":"নাদিয়া বাবাকে কথা দিয়েছিল যে সে সবসময় পরিবারের খেয়াল রাখবে।","words":[{"w":"promised","bn":"কথা দিয়েছিল","pos":"verb","base":"promise"},{"w":"look after","bn":"খেয়াল রাখা","pos":"phrasal verb"}]},
+            {"id":"05","en":"Rayan had grown almost three inches since his grandmother last saw him.","bn":"নানি শেষবার দেখার পর থেকে রায়ান প্রায় তিন ইঞ্চি লম্বা হয়ে গিয়েছিল।","words":[{"w":"grown","bn":"বেড়েছিল","pos":"verb","base":"grow"},{"w":"inches","bn":"ইঞ্চি","pos":"noun","base":"inch"}]},
+            {"id":"06","en":"After they had visited their father's grave, Nadia and Tanim finally talked honestly about the future.","bn":"বাবার কবর জিয়ারত করার পর নাদিয়া আর তানিম অবশেষে ভবিষ্যৎ নিয়ে খোলামেলা কথা বলল।","words":[{"w":"grave","bn":"কবর","pos":"noun"},{"w":"finally","bn":"অবশেষে","pos":"adverb"},{"w":"honestly","bn":"খোলামেলাভাবে","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hadn't + past participle ...",
+          "tipBn": "had এর পরে not বসে; সংক্ষেপে hadn't বলা হয়।",
+          "items": [
+            {"id":"01","en":"Nadia hadn't realized how exhausted Tanim was until she saw him in person.","bn":"সামনাসামনি দেখার আগে নাদিয়া বুঝতেই পারেনি তানিম কতটা ক্লান্ত।","words":[{"w":"exhausted","bn":"ভীষণ ক্লান্ত","pos":"adjective"},{"w":"until","bn":"যতক্ষণ না","pos":"conjunction"},{"w":"in person","bn":"সামনাসামনি","pos":"phrase"}]},
+            {"id":"02","en":"Their mother hadn't told anyone about the pain in her hip before she fell.","bn":"পড়ে যাওয়ার আগে তাদের মা কোমরের ব্যথার কথা কাউকে বলেননি।","words":[{"w":"pain","bn":"ব্যথা","pos":"noun"},{"w":"hip","bn":"কোমর","pos":"noun"}]},
+            {"id":"03","en":"Zara hadn't spoken Bangla for months, so she struggled at first.","bn":"জারা কয়েক মাস বাংলা বলেনি, তাই প্রথমে তার বেশ কষ্ট হয়েছিল।","words":[{"w":"struggled","bn":"হিমশিম খেয়েছিল","pos":"verb","base":"struggle"},{"w":"at first","bn":"প্রথমে","pos":"phrase"}]},
+            {"id":"04","en":"Nadia hadn't expected her old neighborhood to change so much since her last visit.","bn":"নাদিয়া ভাবেনি যে শেষবার আসার পর থেকে তার পুরোনো পাড়াটা এতটা বদলে যাবে।","words":[{"w":"expected","bn":"আশা করেছিল","pos":"verb","base":"expect"},{"w":"neighborhood","bn":"পাড়া, এলাকা","pos":"noun"}]},
+            {"id":"05","en":"Tanim hadn't asked for help because he didn't want to worry his sister.","bn":"তানিম সাহায্য চায়নি, কারণ সে বোনকে দুশ্চিন্তায় ফেলতে চায়নি।","words":[{"w":"asked for","bn":"চেয়েছিল","pos":"phrasal verb","base":"ask for"},{"w":"worry","bn":"দুশ্চিন্তায় ফেলা","pos":"verb"}]},
+            {"id":"06","en":"By the time her flight left, they still hadn't decided who would move in with their mother.","bn":"ফ্লাইট ছাড়ার সময়ও তারা ঠিক করতে পারেনি কে মায়ের সাথে থাকতে যাবে।","words":[{"w":"decided","bn":"সিদ্ধান্ত নিয়েছিল","pos":"verb","base":"decide"},{"w":"move in with","bn":"কারও সাথে থাকতে যাওয়া","pos":"phrasal verb"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Hadn't + subject + past participle ...?",
+          "tipBn": "অবাক হয়ে বা নিশ্চিত হতে Hadn't দিয়ে প্রশ্ন শুরু হয়, তারপর subject আর past participle।",
+          "items": [
+            {"id":"01","en":"Hadn't you noticed that your mother was losing weight during your video calls?","bn":"ভিডিও কলের সময় তুমি কি খেয়াল করোনি যে মায়ের ওজন কমে যাচ্ছিল?","words":[{"w":"noticed","bn":"খেয়াল করেছিলে","pos":"verb","base":"notice"},{"w":"losing weight","bn":"ওজন কমা","pos":"phrase","base":"lose weight"}]},
+            {"id":"02","en":"Hadn't Tanim already told you about the hospital bills before you arrived?","bn":"তুমি আসার আগে তানিম কি হাসপাতালের বিলের কথা তোমাকে বলেনি?","words":[{"w":"already","bn":"আগেই","pos":"adverb"},{"w":"hospital bills","bn":"হাসপাতালের বিল","pos":"phrase"}]},
+            {"id":"03","en":"Hadn't you and Imran booked the tickets months before your mother's fall?","bn":"মায়ের পড়ে যাওয়ার কয়েক মাস আগেই কি তুমি আর ইমরান টিকিট কেটে রাখোনি?","words":[{"w":"booked","bn":"বুক করেছিলে","pos":"verb","base":"book"},{"w":"fall","bn":"পড়ে যাওয়া","pos":"noun"}]},
+            {"id":"04","en":"Hadn't Priya promised to fly to Dhaka while you were still there?","bn":"তুমি ঢাকায় থাকতে থাকতেই প্রিয়া কি সেখানে আসার কথা দেয়নি?","words":[{"w":"promised","bn":"কথা দিয়েছিল","pos":"verb","base":"promise"},{"w":"fly","bn":"বিমানে যাওয়া","pos":"verb"}]},
+            {"id":"05","en":"Hadn't the children met most of their cousins before this trip to Bangladesh?","bn":"এবারের বাংলাদেশ সফরের আগে বাচ্চারা কি তাদের বেশিরভাগ কাজিনের সাথে পরিচিত হয়নি?","words":[{"w":"met","bn":"দেখা হয়েছিল","pos":"verb","base":"meet"},{"w":"most of","bn":"বেশিরভাগ","pos":"phrase"}]},
+            {"id":"06","en":"Hadn't your father asked you both never to sell the family home?","bn":"তোমাদের বাবা কি তোমাদের দুজনকে পারিবারিক বাড়িটা কখনো বিক্রি না করতে বলে যাননি?","words":[{"w":"asked","bn":"বলেছিলেন, অনুরোধ করেছিলেন","pos":"verb","base":"ask"},{"w":"family home","bn":"পারিবারিক বাড়ি","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + had + subject + past participle ...?",
+          "tipBn": "প্রশ্নশব্দের পরে had বসে, তারপর subject আর past participle; Who বা What কর্তা হলে সরাসরি had বসে।",
+          "items": [
+            {"id":"01","en":"What exactly had the doctors told your mother before they decided on surgery?","bn":"অপারেশনের সিদ্ধান্ত নেওয়ার আগে ডাক্তাররা তোমার মাকে ঠিক কী বলেছিলেন?","words":[{"w":"exactly","bn":"ঠিক, সঠিকভাবে","pos":"adverb"},{"w":"decided on","bn":"সিদ্ধান্ত নিয়েছিল","pos":"phrasal verb","base":"decide on"}]},
+            {"id":"02","en":"How long had it been since Nadia last visited her hometown?","bn":"নাদিয়া শেষবার নিজের শহরে যাওয়ার পর কত দিন পেরিয়ে গিয়েছিল?","words":[{"w":"How long","bn":"কতদিন","pos":"phrase"},{"w":"hometown","bn":"নিজের শহর","pos":"noun"}]},
+            {"id":"03","en":"Why hadn't Tanim told his sister how difficult things had become?","bn":"পরিস্থিতি কতটা কঠিন হয়ে উঠেছিল, তানিম কেন তা বোনকে বলেনি?","words":[{"w":"difficult","bn":"কঠিন","pos":"adjective"},{"w":"things","bn":"পরিস্থিতি","pos":"noun","base":"thing"}]},
+            {"id":"04","en":"Who had looked after their mother before Tanim moved back into the family home?","bn":"তানিম পারিবারিক বাড়িতে ফিরে আসার আগে কে তাদের মায়ের দেখাশোনা করেছিল?","words":[{"w":"looked after","bn":"দেখাশোনা করেছিল","pos":"phrasal verb","base":"look after"},{"w":"moved back","bn":"ফিরে এসেছিল","pos":"phrasal verb","base":"move back"}]},
+            {"id":"05","en":"Which neighbors had helped the most while the family was waiting for Nadia?","bn":"নাদিয়ার জন্য অপেক্ষার সময় কোন প্রতিবেশীরা সবচেয়ে বেশি সাহায্য করেছিলেন?","words":[{"w":"Which","bn":"কোন","pos":"pronoun"},{"w":"the most","bn":"সবচেয়ে বেশি","pos":"phrase"}]},
+            {"id":"06","en":"What had changed the most in Dhanmondi since Nadia moved abroad twelve years earlier?","bn":"১২ বছর আগে নাদিয়া বিদেশে চলে যাওয়ার পর থেকে ধানমন্ডিতে সবচেয়ে বেশি কী বদলে গিয়েছিল?","words":[{"w":"changed","bn":"বদলে গিয়েছিল","pos":"verb","base":"change"},{"w":"abroad","bn":"বিদেশে","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A text mostly in the past perfect, with past simple for the main events.",
+          "tipBn": "অনুচ্ছেদে মূল ঘটনা past simple-এ, আর তার আগের ঘটনা had + past participle দিয়ে বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Coming home","en":"When Nadia stepped out of the airport in December, she felt like a stranger. The city had grown louder and more crowded since her last visit five years earlier. Her childhood home in Dhanmondi looked smaller than she had remembered. Most of her old neighbors had moved away, but Mrs. Rahman from the third floor had stayed, and she had kept a box of Nadia's school photos all those years.","bn":"ডিসেম্বরে নাদিয়া যখন বিমানবন্দর থেকে বেরিয়ে এল, নিজেকে তার অচেনা মানুষ মনে হলো। ৫ বছর আগে তার শেষবার আসার পর থেকে শহরটা আরও কোলাহলপূর্ণ আর ভিড়ে ঠাসা হয়ে উঠেছিল। ধানমন্ডিতে তার ছোটবেলার বাড়িটা তার মনে থাকা ছবির চেয়ে ছোট দেখাচ্ছিল। তার পুরোনো প্রতিবেশীদের বেশিরভাগই অন্যত্র চলে গিয়েছিলেন, কিন্তু তিনতলার রহমান আন্টি থেকে গিয়েছিলেন, আর এত বছর ধরে তিনি নাদিয়ার স্কুলের ছবির একটা বাক্স রেখে দিয়েছিলেন।","words":[{"w":"stepped out","bn":"বেরিয়ে এল","pos":"phrasal verb","base":"step out"},{"w":"stranger","bn":"অচেনা মানুষ","pos":"noun"},{"w":"crowded","bn":"ভিড়ে ঠাসা","pos":"adjective"},{"w":"moved away","bn":"অন্যত্র চলে গিয়েছিল","pos":"phrasal verb","base":"move away"},{"w":"kept","bn":"রেখে দিয়েছিলেন","pos":"verb","base":"keep"}]},
+            {"id":"02","title":"What Tanim hadn't said","en":"On her third night in Dhaka, Nadia found a pile of unpaid bills in a drawer. Tanim had paid most of the hospital costs himself, and he had sold his motorbike to do it. He hadn't mentioned any of this on the phone. Nadia felt guilty because she had believed that her monthly transfers were covering everything. That night, the two of them talked until dawn.","bn":"ঢাকায় তৃতীয় রাতে নাদিয়া একটা ড্রয়ারে অপরিশোধিত বিলের স্তূপ খুঁজে পেল। হাসপাতালের বেশিরভাগ খরচ তানিম নিজেই দিয়েছিল, আর তার জন্য সে নিজের মোটরসাইকেলটা বিক্রি করে দিয়েছিল। ফোনে সে এসবের কিছুই বলেনি। নাদিয়ার নিজেকে অপরাধী মনে হলো, কারণ সে ভেবেছিল তার প্রতি মাসের পাঠানো টাকায় সব খরচ মিটে যাচ্ছে। সেই রাতে দুজন ভোর পর্যন্ত কথা বলল।","words":[{"w":"pile","bn":"স্তূপ","pos":"noun"},{"w":"unpaid","bn":"অপরিশোধিত","pos":"adjective"},{"w":"mentioned","bn":"উল্লেখ করেছিল","pos":"verb","base":"mention"},{"w":"guilty","bn":"অপরাধী","pos":"adjective"},{"w":"transfers","bn":"পাঠানো টাকা","pos":"noun","base":"transfer"},{"w":"dawn","bn":"ভোর","pos":"noun"}]},
+            {"id":"03","title":"A grandmother's surprise","en":"Nadia had worried that her children wouldn't connect with their grandmother. However, by the end of the first week, Zara and her grandmother had become inseparable. Her grandmother had found Zara's sketchbook and had asked her to draw a portrait. Nobody had expected that the old lady, who had once called art a waste of time, would hang the portrait above her bed.","bn":"নাদিয়া দুশ্চিন্তা করেছিল যে তার সন্তানদের সাথে নানির মনের মিল হবে না। কিন্তু প্রথম সপ্তাহ শেষ হওয়ার আগেই জারা আর তার নানি একেবারে অবিচ্ছেদ্য হয়ে উঠেছিল। নানি জারার স্কেচবুকটা খুঁজে পেয়েছিলেন আর তাকে একটা প্রতিকৃতি আঁকতে বলেছিলেন। যে বৃদ্ধা একসময় শিল্পকে সময়ের অপচয় বলতেন, তিনি সেই প্রতিকৃতিটা নিজের বিছানার ওপরে টাঙাবেন, এটা কেউ ভাবেনি।","words":[{"w":"connect with","bn":"মনের মিল হওয়া","pos":"phrasal verb"},{"w":"inseparable","bn":"অবিচ্ছেদ্য","pos":"adjective"},{"w":"sketchbook","bn":"আঁকার খাতা","pos":"noun"},{"w":"portrait","bn":"প্রতিকৃতি","pos":"noun"},{"w":"waste of time","bn":"সময়ের অপচয়","pos":"phrase"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "passive",
+      "focus": "Talk about family decisions, events and support that are arranged",
+      "focusBn": "পারিবারিক সিদ্ধান্ত, অনুষ্ঠান আর সহায়তার ব্যবস্থা নিয়ে কর্মবাচ্যে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + be (is/was/has been/will be) + past participle (+ by ...)",
+          "tipBn": "কাজটি কে করল তার চেয়ে কাজটি বেশি গুরুত্বপূর্ণ হলে be + past participle দিয়ে কর্মবাচ্য হয়।",
+          "items": [
+            {"id":"01","en":"A family meeting was held on a video call to decide who would care for their mother.","bn":"মায়ের দেখাশোনা কে করবে তা ঠিক করতে ভিডিও কলে একটা পারিবারিক মিটিং করা হয়েছিল।","words":[{"w":"was held","bn":"অনুষ্ঠিত হয়েছিল","pos":"phrase","base":"be held"},{"w":"care for","bn":"যত্ন নেওয়া","pos":"phrasal verb"}]},
+            {"id":"02","en":"A full-time nurse has been hired to stay with their mother during the day.","bn":"দিনের বেলায় মায়ের সাথে থাকার জন্য একজন সার্বক্ষণিক নার্স রাখা হয়েছে।","words":[{"w":"full-time","bn":"সার্বক্ষণিক","pos":"adjective"},{"w":"hired","bn":"নিয়োগ দেওয়া হয়েছে","pos":"verb","base":"hire"}]},
+            {"id":"03","en":"From now on, the costs will be shared equally between Nadia and Tanim.","bn":"এখন থেকে খরচ নাদিয়া আর তানিমের মধ্যে সমানভাবে ভাগ করা হবে।","words":[{"w":"From now on","bn":"এখন থেকে","pos":"phrase"},{"w":"shared","bn":"ভাগ করা","pos":"verb","base":"share"},{"w":"equally","bn":"সমানভাবে","pos":"adverb"}]},
+            {"id":"04","en":"Zara's artwork is being displayed at a youth exhibition in downtown Toronto this month.","bn":"এই মাসে টরন্টো শহরের কেন্দ্রে তরুণদের এক প্রদর্শনীতে জারার শিল্পকর্ম প্রদর্শিত হচ্ছে।","words":[{"w":"artwork","bn":"শিল্পকর্ম","pos":"noun"},{"w":"displayed","bn":"প্রদর্শিত","pos":"verb","base":"display"},{"w":"exhibition","bn":"প্রদর্শনী","pos":"noun"}]},
+            {"id":"05","en":"When Priya lost her father, she was flooded with messages from old friends across the world.","bn":"প্রিয়া যখন বাবাকে হারাল, তখন সারা পৃথিবীর পুরোনো বন্ধুদের মেসেজে তার ফোন ভরে গিয়েছিল।","words":[{"w":"lost","bn":"হারাল","pos":"verb","base":"lose"},{"w":"flooded with","bn":"ভরে যাওয়া","pos":"phrase","base":"flood with"},{"w":"across the world","bn":"সারা পৃথিবীতে","pos":"phrase"}]},
+            {"id":"06","en":"The family home in Dhanmondi has been owned by the Chowdhurys for three generations.","bn":"ধানমন্ডির পারিবারিক বাড়িটা তিন প্রজন্ম ধরে চৌধুরী পরিবারের মালিকানায় আছে।","words":[{"w":"owned","bn":"মালিকানায় থাকা","pos":"verb","base":"own"},{"w":"generations","bn":"প্রজন্ম","pos":"noun","base":"generation"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + be + not + past participle ...",
+          "tipBn": "be-এর রূপের পরে not বসে, তারপর past participle: hasn't been made, wasn't told।",
+          "items": [
+            {"id":"01","en":"The decision about selling the house hasn't been made yet, and nobody wants to rush it.","bn":"বাড়ি বিক্রির সিদ্ধান্ত এখনো নেওয়া হয়নি, আর কেউ তাড়াহুড়া করতে চায় না।","words":[{"w":"decision","bn":"সিদ্ধান্ত","pos":"noun"},{"w":"rush","bn":"তাড়াহুড়া করা","pos":"verb"}]},
+            {"id":"02","en":"Tanim's sacrifices were never fully appreciated by the rest of the family.","bn":"পরিবারের বাকিদের কাছে তানিমের ত্যাগ কখনো পুরোপুরি স্বীকৃতি পায়নি।","words":[{"w":"sacrifices","bn":"ত্যাগ","pos":"noun","base":"sacrifice"},{"w":"fully","bn":"পুরোপুরি","pos":"adverb"},{"w":"appreciated","bn":"মূল্যায়িত","pos":"verb","base":"appreciate"}]},
+            {"id":"03","en":"Since the argument last week, phones aren't allowed at the dinner table anymore.","bn":"গত সপ্তাহের ঝগড়ার পর থেকে খাবারের টেবিলে আর ফোন রাখতে দেওয়া হয় না।","words":[{"w":"allowed","bn":"অনুমতি দেওয়া","pos":"verb","base":"allow"},{"w":"anymore","bn":"আর","pos":"adverb"}]},
+            {"id":"04","en":"Their mother was not told about the full cost of the surgery.","bn":"মাকে অপারেশনের পুরো খরচের কথা জানানো হয়নি।","words":[{"w":"was not told","bn":"জানানো হয়নি","pos":"phrase","base":"be told"},{"w":"full cost","bn":"পুরো খরচ","pos":"phrase"}]},
+            {"id":"05","en":"The kids' opinions weren't asked for when the summer trip was planned.","bn":"গ্রীষ্মের ভ্রমণের পরিকল্পনা করার সময় বাচ্চাদের মতামত জানতে চাওয়া হয়নি।","words":[{"w":"opinions","bn":"মতামত","pos":"noun","base":"opinion"},{"w":"asked for","bn":"জানতে চাওয়া","pos":"phrasal verb","base":"ask for"}]},
+            {"id":"06","en":"The kids won't be forced to choose a career they don't love.","bn":"বাচ্চাদের এমন কোনো পেশা বেছে নিতে বাধ্য করা হবে না, যা তারা ভালোবাসে না।","words":[{"w":"forced","bn":"বাধ্য করা","pos":"verb","base":"force"},{"w":"career","bn":"পেশা","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Be/Has/Will + subject + (been/be) + past participle ...?",
+          "tipBn": "কর্মবাচ্যের প্রশ্নে is, was, has বা will শুরুতে বসে, আর past participle শেষে থাকে।",
+          "items": [
+            {"id":"01","en":"Has a date been set yet for the opening of Zara's first exhibition?","bn":"জারার প্রথম প্রদর্শনীর উদ্বোধনের তারিখ কি এর মধ্যে ঠিক করা হয়েছে?","words":[{"w":"set","bn":"ঠিক করা","pos":"verb"},{"w":"opening","bn":"উদ্বোধন","pos":"noun"}]},
+            {"id":"02","en":"Was your mother discharged from the hospital before you arrived in Dhaka?","bn":"তুমি ঢাকায় পৌঁছানোর আগে কি তোমার মাকে হাসপাতাল থেকে ছুটি দেওয়া হয়েছিল?","words":[{"w":"discharged","bn":"ছুটি দেওয়া","pos":"verb","base":"discharge"},{"w":"arrived","bn":"পৌঁছেছিলে","pos":"verb","base":"arrive"}]},
+            {"id":"03","en":"Will the nurse's salary be shared between you and your brother?","bn":"নার্সের বেতন কি তোমার আর তোমার ভাইয়ের মধ্যে ভাগ করে নেওয়া হবে?","words":[{"w":"salary","bn":"বেতন","pos":"noun"},{"w":"shared","bn":"ভাগ করা","pos":"verb","base":"share"}]},
+            {"id":"04","en":"Were you and Priya introduced by a mutual friend at university?","bn":"বিশ্ববিদ্যালয়ে কি এক কমন বন্ধুর মাধ্যমে তোমার আর প্রিয়ার পরিচয় করিয়ে দেওয়া হয়েছিল?","words":[{"w":"introduced","bn":"পরিচয় করিয়ে দেওয়া","pos":"verb","base":"introduce"},{"w":"mutual friend","bn":"দুজনেরই পরিচিত বন্ধু","pos":"phrase"}]},
+            {"id":"05","en":"Is the family house going to be sold after all these years?","bn":"এত বছর পর কি পারিবারিক বাড়িটা বিক্রি করে দেওয়া হবে?","words":[{"w":"sold","bn":"বিক্রি করা","pos":"verb","base":"sell"},{"w":"after all these years","bn":"এত বছর পর","pos":"phrase"}]},
+            {"id":"06","en":"Are elderly parents still looked after by their children in most Bangladeshi families?","bn":"বেশিরভাগ বাংলাদেশি পরিবারে কি এখনো বয়স্ক মা-বাবার দেখাশোনা সন্তানেরাই করে?","words":[{"w":"elderly","bn":"বয়স্ক","pos":"adjective"},{"w":"looked after","bn":"দেখাশোনা করা হয়","pos":"phrasal verb","base":"look after"}]}
+          ]
+        },
+        {
+          "type": "indirect-question",
+          "pattern": "Could you tell me / Do you know / I was wondering + if/whether/wh-word + subject + passive verb ...",
+          "tipBn": "ভদ্রভাবে জানতে Could you tell me বা I was wondering দিয়ে শুরু হয়, আর ভেতরের অংশে সাধারণ বাক্যের মতো subject আগে বসে।",
+          "items": [
+            {"id":"01","en":"Could you tell me when your mother's follow-up appointment has been scheduled?","bn":"তুমি কি বলতে পারবে, তোমার মায়ের ফলো-আপ অ্যাপয়েন্টমেন্ট কবে ঠিক করা হয়েছে?","words":[{"w":"follow-up","bn":"পরবর্তী পরীক্ষা","pos":"adjective"},{"w":"appointment","bn":"সাক্ষাতের সময়","pos":"noun"},{"w":"scheduled","bn":"নির্ধারিত","pos":"verb","base":"schedule"}]},
+            {"id":"02","en":"Do you know whether the hospital bills have been paid in full?","bn":"তুমি কি জানো, হাসপাতালের বিল পুরোপুরি পরিশোধ করা হয়েছে কি না?","words":[{"w":"whether","bn":"কি না","pos":"conjunction"},{"w":"in full","bn":"পুরোপুরি","pos":"phrase"}]},
+            {"id":"03","en":"I was wondering if any of Zara's paintings will be sold at the exhibition.","bn":"আমি ভাবছিলাম, প্রদর্শনীতে জারার কোনো ছবি বিক্রি হবে কি না।","words":[{"w":"wondering","bn":"ভাবছিলাম","pos":"verb","base":"wonder"},{"w":"paintings","bn":"ছবি, চিত্রকর্ম","pos":"noun","base":"painting"}]},
+            {"id":"04","en":"Would you mind telling me how the decision about the house was made?","bn":"বাড়ির ব্যাপারে সিদ্ধান্তটা কীভাবে নেওয়া হয়েছিল, আমাকে বলতে কি তোমার আপত্তি আছে?","words":[{"w":"Would you mind","bn":"আপত্তি আছে কি","pos":"phrase"},{"w":"decision","bn":"সিদ্ধান্ত","pos":"noun"}]},
+            {"id":"05","en":"Can you find out whether Priya has been told about the reunion plans?","bn":"তুমি কি খোঁজ নিতে পারবে, প্রিয়াকে পুনর্মিলনীর পরিকল্পনার কথা জানানো হয়েছে কি না?","words":[{"w":"find out","bn":"খোঁজ নেওয়া","pos":"phrasal verb"},{"w":"reunion","bn":"পুনর্মিলনী","pos":"noun"}]},
+            {"id":"06","en":"I'd like to know who will be invited to the memorial dinner for your father.","bn":"তোমার বাবার স্মরণে আয়োজিত নৈশভোজে কাদের দাওয়াত দেওয়া হবে, আমি জানতে চাই।","words":[{"w":"I'd like to know","bn":"আমি জানতে চাই","pos":"phrase"},{"w":"memorial","bn":"স্মরণসভা, স্মরণে","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A text mostly in the passive voice.",
+          "tipBn": "অনুচ্ছেদে কাজটির ওপর জোর দিতে বিভিন্ন কালের কর্মবাচ্য ব্যবহার হয়েছে।",
+          "items": [
+            {"id":"01","title":"The family meeting","en":"Last Sunday, a family meeting was held over video call. Several important decisions were made. It was decided that a full-time nurse would be hired and that the costs would be shared equally. Nadia was given responsibility for the paperwork and bank matters, which can be handled online from Toronto. For the first time in years, Tanim's efforts were openly acknowledged.","bn":"গত রবিবার ভিডিও কলে একটা পারিবারিক মিটিং করা হয়েছিল। বেশ কয়েকটি গুরুত্বপূর্ণ সিদ্ধান্ত নেওয়া হয়েছিল। ঠিক করা হয়েছিল যে একজন সার্বক্ষণিক নার্স রাখা হবে আর খরচ সমানভাবে ভাগ করা হবে। নাদিয়াকে কাগজপত্র আর ব্যাংকের কাজের দায়িত্ব দেওয়া হয়েছিল, যেগুলো টরন্টো থেকে অনলাইনে সামলানো যায়। বহু বছরের মধ্যে প্রথমবার তানিমের পরিশ্রমকে খোলাখুলি স্বীকৃতি দেওয়া হয়েছিল।","words":[{"w":"was held","bn":"অনুষ্ঠিত হয়েছিল","pos":"phrase","base":"be held"},{"w":"hired","bn":"নিয়োগ দেওয়া","pos":"verb","base":"hire"},{"w":"paperwork","bn":"কাগজপত্রের কাজ","pos":"noun"},{"w":"handled","bn":"সামলানো","pos":"verb","base":"handle"},{"w":"acknowledged","bn":"স্বীকৃতি দেওয়া হয়েছিল","pos":"verb","base":"acknowledge"}]},
+            {"id":"02","title":"Supporting Priya","en":"When Priya's father passed away in Melbourne, the news was shared in their university group within an hour. Flowers were sent from three continents, and a small online prayer meeting was organized by old classmates. Nadia was deeply moved by how quickly everyone responded. Although Priya couldn't be hugged in person, she later said she had never felt so supported.","bn":"মেলবোর্নে প্রিয়ার বাবা মারা যাওয়ার পর এক ঘণ্টার মধ্যেই খবরটা তাদের বিশ্ববিদ্যালয়ের গ্রুপে জানানো হয়েছিল। তিনটি মহাদেশ থেকে ফুল পাঠানো হয়েছিল, আর পুরোনো সহপাঠীরা অনলাইনে একটা ছোট প্রার্থনা সভার আয়োজন করেছিল। সবাই কত দ্রুত সাড়া দিল, তা দেখে নাদিয়া গভীরভাবে আবেগাপ্লুত হয়েছিল। প্রিয়াকে সামনাসামনি জড়িয়ে ধরা না গেলেও পরে সে বলেছিল, এর আগে কখনো সে এতটা পাশে কাউকে পায়নি।","words":[{"w":"passed away","bn":"মারা গেলেন","pos":"phrasal verb","base":"pass away"},{"w":"continents","bn":"মহাদেশ","pos":"noun","base":"continent"},{"w":"moved","bn":"আবেগাপ্লুত","pos":"adjective"},{"w":"hugged","bn":"জড়িয়ে ধরা","pos":"verb","base":"hug"},{"w":"supported","bn":"সমর্থন পাওয়া","pos":"adjective"}]},
+            {"id":"03","title":"New house rules","en":"After weeks of arguments, some new rules were introduced at home in Toronto. Phones are now kept in a basket during meals, and screen time is limited on school nights. In return, the kids are allowed to choose the weekend activity. Zara's art classes will be paid for by her parents, as long as her grades are maintained. So far, the rules have been respected by everyone, even Imran.","bn":"কয়েক সপ্তাহ ধরে তর্কের পর টরন্টোর বাসায় কিছু নতুন নিয়ম চালু করা হয়েছিল। এখন খাওয়ার সময় ফোনগুলো একটা ঝুড়িতে রাখা হয়, আর স্কুলের আগের রাতে স্ক্রিন দেখার সময় সীমিত রাখা হয়। বিনিময়ে বাচ্চাদের সপ্তাহান্তের কার্যক্রম বেছে নিতে দেওয়া হয়। জারার আর্ট ক্লাসের খরচ তার মা-বাবা দেবেন, যতক্ষণ তার ফলাফল ভালো থাকে। এখন পর্যন্ত সবাই নিয়মগুলো মেনে চলছে, এমনকি ইমরানও।","words":[{"w":"introduced","bn":"চালু করা হয়েছিল","pos":"verb","base":"introduce"},{"w":"screen time","bn":"স্ক্রিন দেখার সময়","pos":"phrase"},{"w":"In return","bn":"বিনিময়ে","pos":"phrase"},{"w":"as long as","bn":"যতক্ষণ","pos":"conjunction"},{"w":"maintained","bn":"বজায় রাখা","pos":"verb","base":"maintain"},{"w":"respected","bn":"মেনে চলা হয়েছে","pos":"verb","base":"respect"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Reflect on past choices, regrets and advice",
+      "focusBn": "অতীতের সিদ্ধান্ত, আক্ষেপ আর পরামর্শ নিয়ে ভাবা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + had + past participle, would have + past participle. / If + had + past participle, would + verb (now).",
+          "tipBn": "অতীতের কাল্পনিক শর্তে If + had + past participle আর would have বসে; ফল বর্তমানে হলে would + verb বসে।",
+          "items": [
+            {"id":"01","en":"If Nadia had known about her mother's pain earlier, she would have flown home immediately.","bn":"নাদিয়া যদি মায়ের ব্যথার কথা আগে জানত, তাহলে সে সঙ্গে সঙ্গে দেশে চলে যেত।","words":[{"w":"flown home","bn":"দেশে ফিরে যাওয়া","pos":"phrase","base":"fly home"},{"w":"immediately","bn":"সঙ্গে সঙ্গে","pos":"adverb"}]},
+            {"id":"02","en":"If Tanim had asked for help sooner, he would be much less exhausted now.","bn":"তানিম যদি আরও আগে সাহায্য চাইত, তাহলে এখন সে অনেক কম ক্লান্ত থাকত।","words":[{"w":"sooner","bn":"আরও আগে","pos":"adverb","base":"soon"},{"w":"exhausted","bn":"ভীষণ ক্লান্ত","pos":"adjective"}]},
+            {"id":"03","en":"If Nadia had stayed in Dhaka, she would probably be living near her mother today.","bn":"নাদিয়া যদি ঢাকায় থেকে যেত, তাহলে আজ হয়তো মায়ের কাছাকাছিই থাকত।","words":[{"w":"stayed","bn":"থেকে যেত","pos":"verb","base":"stay"},{"w":"probably","bn":"সম্ভবত","pos":"adverb"}]},
+            {"id":"04","en":"Priya would have felt completely alone if her friends had stayed silent.","bn":"প্রিয়ার বন্ধুরা যদি চুপ থাকত, তাহলে সে নিজেকে পুরোপুরি একা মনে করত।","words":[{"w":"completely","bn":"পুরোপুরি","pos":"adverb"},{"w":"silent","bn":"চুপ","pos":"adjective"}]},
+            {"id":"05","en":"If Zara had followed her mother's advice, she would be studying biology right now instead of painting.","bn":"জারা যদি মায়ের পরামর্শ মানত, তাহলে এখন ছবি আঁকার বদলে জীববিজ্ঞান পড়ত।","words":[{"w":"followed","bn":"মেনে চলত","pos":"verb","base":"follow"},{"w":"advice","bn":"পরামর্শ","pos":"noun"},{"w":"instead of","bn":"এর বদলে","pos":"phrase"}]},
+            {"id":"06","en":"If I had been in your position, I would have spoken to my brother much earlier.","bn":"আমি তোমার জায়গায় থাকলে অনেক আগেই ভাইয়ের সাথে কথা বলতাম।","words":[{"w":"in your position","bn":"তোমার জায়গায়","pos":"phrase"},{"w":"much earlier","bn":"অনেক আগে","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + hadn't + past participle, wouldn't (have) + verb ...",
+          "tipBn": "শর্ত বা ফল যেকোনো অংশে hadn't বা wouldn't বসিয়ে না-বোধক শর্তবাক্য হয়।",
+          "items": [
+            {"id":"01","en":"If Nadia hadn't moved to Canada, she wouldn't miss her family so much now.","bn":"নাদিয়া যদি কানাডায় না যেত, তাহলে এখন পরিবারকে এত মিস করত না।","words":[{"w":"moved","bn":"চলে গিয়েছিল","pos":"verb","base":"move"},{"w":"miss","bn":"অভাব বোধ করা","pos":"verb"}]},
+            {"id":"02","en":"Their mother wouldn't have fallen if someone had been with her that night.","bn":"সেই রাতে কেউ যদি তাঁর সাথে থাকত, তাহলে মা পড়ে যেতেন না।","words":[{"w":"fallen","bn":"পড়ে যাওয়া","pos":"verb","base":"fall"},{"w":"someone","bn":"কেউ","pos":"pronoun"}]},
+            {"id":"03","en":"If the neighbors hadn't helped, Tanim couldn't have managed those first weeks alone.","bn":"প্রতিবেশীরা সাহায্য না করলে তানিম প্রথম সপ্তাহগুলো একা সামলাতে পারত না।","words":[{"w":"managed","bn":"সামলাতে পারা","pos":"verb","base":"manage"},{"w":"alone","bn":"একা","pos":"adverb"}]},
+            {"id":"04","en":"Nadia and Priya wouldn't still be friends if they hadn't made the effort to call every week.","bn":"নাদিয়া আর প্রিয়া যদি প্রতি সপ্তাহে ফোন করার চেষ্টা না করত, তাহলে আজও তারা বন্ধু থাকত না।","words":[{"w":"still","bn":"এখনো","pos":"adverb"},{"w":"made the effort","bn":"চেষ্টা করেছিল","pos":"phrase","base":"make the effort"}]},
+            {"id":"05","en":"If Imran hadn't stepped in, the argument about Zara's future wouldn't have ended so peacefully.","bn":"ইমরান যদি এগিয়ে না আসত, তাহলে জারার ভবিষ্যৎ নিয়ে তর্কটা এত শান্তভাবে শেষ হতো না।","words":[{"w":"stepped in","bn":"এগিয়ে এসেছিল, হস্তক্ষেপ করেছিল","pos":"phrasal verb","base":"step in"},{"w":"peacefully","bn":"শান্তভাবে","pos":"adverb"}]},
+            {"id":"06","en":"Rayan wouldn't be so close to his grandmother now if he hadn't spent the winter in Dhaka.","bn":"রায়ান যদি শীতকালটা ঢাকায় না কাটাত, তাহলে এখন নানির সাথে তার এত ঘনিষ্ঠতা থাকত না।","words":[{"w":"close to","bn":"ঘনিষ্ঠ","pos":"phrase"},{"w":"spent","bn":"কাটিয়েছিল","pos":"verb","base":"spend"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + would (have) + subject + verb + if + had + past participle?",
+          "tipBn": "প্রশ্নশব্দের পরে would বা would have বসে, আর অতীতের কাল্পনিক শর্তটা If + had দিয়ে আসে।",
+          "items": [
+            {"id":"01","en":"What would you have done if your brother had kept the bills secret from you?","bn":"তোমার ভাই যদি বিলের ব্যাপারটা তোমার কাছ থেকে গোপন রাখত, তুমি কী করতে?","words":[{"w":"kept","bn":"রেখেছিল","pos":"verb","base":"keep"},{"w":"secret","bn":"গোপন","pos":"adjective"}]},
+            {"id":"02","en":"How would your life be different today if you had never left Bangladesh?","bn":"তুমি যদি কখনো বাংলাদেশ না ছাড়তে, তাহলে আজ তোমার জীবন কতটা অন্যরকম হতো?","words":[{"w":"different","bn":"অন্যরকম","pos":"adjective"},{"w":"left","bn":"ছেড়ে গিয়েছিলে","pos":"verb","base":"leave"}]},
+            {"id":"03","en":"Where would Zara be studying now if her parents had refused to support her?","bn":"জারার মা-বাবা যদি তাকে সমর্থন করতে রাজি না হতেন, তাহলে এখন সে কোথায় পড়ত?","words":[{"w":"refused","bn":"অস্বীকার করেছিল","pos":"verb","base":"refuse"},{"w":"support","bn":"সমর্থন করা","pos":"verb"}]},
+            {"id":"04","en":"Who would have looked after your mother if Tanim had taken that job in Singapore?","bn":"তানিম যদি সিঙ্গাপুরের সেই চাকরিটা নিত, তাহলে তোমার মায়ের দেখাশোনা কে করত?","words":[{"w":"looked after","bn":"দেখাশোনা করা","pos":"phrasal verb","base":"look after"},{"w":"taken","bn":"নিয়েছিল","pos":"verb","base":"take"}]},
+            {"id":"05","en":"How would Priya have coped if her friends hadn't reached out to her?","bn":"বন্ধুরা যদি প্রিয়ার খোঁজ না নিত, তাহলে সে কীভাবে সামলাত?","words":[{"w":"coped","bn":"সামলানো","pos":"verb","base":"cope"},{"w":"reached out","bn":"খোঁজ নিয়েছিল","pos":"phrasal verb","base":"reach out"}]},
+            {"id":"06","en":"What would have happened if the family had sold the house last year?","bn":"পরিবারটা যদি গত বছর বাড়িটা বিক্রি করে দিত, তাহলে কী হতো?","words":[{"w":"happened","bn":"ঘটত","pos":"verb","base":"happen"},{"w":"sold","bn":"বিক্রি করেছিল","pos":"verb","base":"sell"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A text with third and mixed conditionals.",
+          "tipBn": "অনুচ্ছেদে অতীতের কাল্পনিক শর্ত আর তার অতীত বা বর্তমান ফল নিয়ে কথা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Nadia's what-ifs","en":"Nadia sometimes wonders how different things would be if she had stayed in Dhaka. If she had taken the job at her uncle's firm, she would be living a few streets away from her mother now. Tanim wouldn't have carried the burden alone, and their mother might not have fallen. On the other hand, if she hadn't moved, Zara and Rayan would never have had the chances they have today.","bn":"নাদিয়া মাঝে মাঝে ভাবে, সে যদি ঢাকায় থেকে যেত, তাহলে সবকিছু কতটা অন্যরকম হতো। সে যদি চাচার প্রতিষ্ঠানের চাকরিটা নিত, তাহলে এখন মায়ের বাসা থেকে কয়েকটা রাস্তা দূরে থাকত। তানিমকে একা বোঝা বইতে হতো না, আর হয়তো মা পড়েও যেতেন না। অন্যদিকে, সে যদি দেশ না ছাড়ত, তাহলে জারা আর রায়ান আজকের সুযোগগুলো কখনো পেত না।","words":[{"w":"wonders","bn":"ভাবে","pos":"verb","base":"wonder"},{"w":"firm","bn":"প্রতিষ্ঠান","pos":"noun"},{"w":"burden","bn":"বোঝা","pos":"noun"},{"w":"On the other hand","bn":"অন্যদিকে","pos":"phrase"},{"w":"chances","bn":"সুযোগ","pos":"noun","base":"chance"}]},
+            {"id":"02","title":"Advice for a neighbor","en":"Last month, Nadia's neighbor Sarah asked for advice about her elderly father, who lives alone in Vancouver. Nadia told her honestly what she had learned. If she had talked openly with Tanim two years earlier, they would have avoided many misunderstandings. If they had shared the costs from the beginning, Tanim wouldn't be in debt today. Sarah listened carefully and called her sister that same evening.","bn":"গত মাসে নাদিয়ার প্রতিবেশী সারাহ তার বয়স্ক বাবার ব্যাপারে পরামর্শ চাইলেন, যিনি ভ্যাঙ্কুভারে একা থাকেন। নাদিয়া খোলাখুলি তাকে বলল সে কী শিখেছে। সে যদি ২ বছর আগে তানিমের সাথে খোলামেলা কথা বলত, তাহলে তারা অনেক ভুল বোঝাবুঝি এড়াতে পারত। তারা যদি শুরু থেকেই খরচ ভাগ করে নিত, তাহলে আজ তানিম ঋণগ্রস্ত থাকত না। সারাহ মন দিয়ে শুনলেন এবং সেদিন সন্ধ্যায়ই তার বোনকে ফোন করলেন।","words":[{"w":"elderly","bn":"বয়স্ক","pos":"adjective"},{"w":"openly","bn":"খোলামেলাভাবে","pos":"adverb"},{"w":"misunderstandings","bn":"ভুল বোঝাবুঝি","pos":"noun","base":"misunderstanding"},{"w":"in debt","bn":"ঋণগ্রস্ত","pos":"phrase"}]},
+            {"id":"03","title":"Thanks to old friends","en":"Priya says that last year would have broken her if her friends hadn't been there. If Nadia hadn't called her every night after the funeral, she would have stopped eating properly. If her classmates hadn't organized the online prayer meeting, she would have felt forgotten. Today, she is stronger, and she believes she wouldn't be planning the reunion in Dhaka if those friends had let her drift away.","bn":"প্রিয়া বলে, বন্ধুরা পাশে না থাকলে গত বছরটা তাকে ভেঙে দিত। শেষকৃত্যের পর নাদিয়া যদি প্রতি রাতে তাকে ফোন না করত, তাহলে সে ঠিকমতো খাওয়াই ছেড়ে দিত। সহপাঠীরা যদি অনলাইনে প্রার্থনা সভার আয়োজন না করত, তাহলে তার মনে হতো সবাই তাকে ভুলে গেছে। আজ সে আগের চেয়ে শক্ত, আর সে বিশ্বাস করে, সেই বন্ধুরা যদি তাকে দূরে সরে যেতে দিত, তাহলে আজ সে ঢাকায় পুনর্মিলনীর পরিকল্পনা করত না।","words":[{"w":"broken","bn":"ভেঙে দেওয়া","pos":"verb","base":"break"},{"w":"funeral","bn":"শেষকৃত্য","pos":"noun"},{"w":"properly","bn":"ঠিকমতো","pos":"adverb"},{"w":"drift away","bn":"দূরে সরে যাওয়া","pos":"phrasal verb"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

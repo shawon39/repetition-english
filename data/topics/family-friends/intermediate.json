@@ -1,0 +1,272 @@
+{
+  "topic": "family-friends",
+  "level": "intermediate",
+  "title": "Farhan's Family Ties",
+  "story": "Farhan, 32, lives in Mirpur, Dhaka, with his wife Lima and their five-year-old daughter Ayra. His parents live in Sylhet, his elder sister Shormi lives in Chattogram, and Uncle Habib, his father's younger brother, works in Italy. His school friend Rana has just come back from Malaysia. This year Farhan's parents are celebrating their 35th wedding anniversary.",
+  "storyBn": "৩২ বছরের ফারহান ঢাকার মিরপুরে স্ত্রী লিমা আর ৫ বছরের মেয়ে আয়রাকে নিয়ে থাকে। তার মা-বাবা থাকেন সিলেটে, বড় বোন শর্মি থাকে চট্টগ্রামে, আর বাবার ছোট ভাই হাবিব চাচা ইতালিতে চাকরি করেন। তার স্কুলের বন্ধু রানা সবেমাত্র মালয়েশিয়া থেকে ফিরেছে। এ বছর ফারহানের মা-বাবা তাদের ৩৫তম বিবাহবার্ষিকী উদযাপন করছেন।",
+  "units": [
+    {
+      "grammar": "present-perfect",
+      "focus": "Talk about recent family news and staying in touch",
+      "focusBn": "পরিবারের সাম্প্রতিক খবর আর যোগাযোগ রাখা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + have/has + past participle (+ just/already/for/since) ...",
+          "tipBn": "অতীতে শুরু হয়ে এখনো প্রাসঙ্গিক কাজ বলতে have বা has এর পরে verb-এর past participle বসে।",
+          "items": [
+            {"id":"01","en":"Farhan has lived in Dhaka for almost ten years now.","bn":"ফারহান প্রায় ১০ বছর ধরে ঢাকায় আছে।","words":[{"w":"for","bn":"ধরে","pos":"preposition"},{"w":"almost","bn":"প্রায়","pos":"adverb"}]},
+            {"id":"02","en":"His old school friend Rana has just come back from Malaysia.","bn":"তার স্কুলের পুরোনো বন্ধু রানা সবেমাত্র মালয়েশিয়া থেকে ফিরেছে।","words":[{"w":"just","bn":"সবেমাত্র","pos":"adverb"},{"w":"come back","bn":"ফিরে আসা","pos":"phrasal verb"}]},
+            {"id":"03","en":"Farhan's parents have already invited everyone to their anniversary dinner.","bn":"ফারহানের মা-বাবা ইতিমধ্যে সবাইকে তাদের বিবাহবার্ষিকীর ডিনারে দাওয়াত দিয়ে ফেলেছেন।","words":[{"w":"already","bn":"ইতিমধ্যে","pos":"adverb"},{"w":"invited","bn":"দাওয়াত দিয়েছে","pos":"verb","base":"invite"},{"w":"anniversary","bn":"বিবাহবার্ষিকী","pos":"noun"}]},
+            {"id":"04","en":"His elder sister Shormi has started a family group chat.","bn":"তার বড় বোন শর্মি একটা পারিবারিক গ্রুপ চ্যাট খুলেছে।","words":[{"w":"elder sister","bn":"বড় বোন","pos":"phrase"},{"w":"group chat","bn":"গ্রুপ চ্যাট","pos":"noun"}]},
+            {"id":"05","en":"Ayra has grown so much since her last birthday.","bn":"গত জন্মদিনের পর থেকে আয়রা অনেক বড় হয়ে গেছে।","words":[{"w":"grown","bn":"বড় হয়েছে","pos":"verb","base":"grow"},{"w":"since","bn":"থেকে","pos":"preposition"}]},
+            {"id":"06","en":"Lima and Shormi have become close friends over the years.","bn":"বছরের পর বছর ধরে লিমা আর শর্মি ঘনিষ্ঠ বন্ধু হয়ে উঠেছে।","words":[{"w":"close","bn":"ঘনিষ্ঠ","pos":"adjective"},{"w":"over the years","bn":"বছরের পর বছর ধরে","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + haven't/hasn't + past participle (+ yet/since/for) ...",
+          "tipBn": "have বা has এর পরে not বসে; never দিয়েও না-বোধক হয়; yet সাধারণত শেষে বসে।",
+          "items": [
+            {"id":"01","en":"Farhan hasn't visited his parents in Sylhet since last Eid.","bn":"গত ঈদের পর থেকে ফারহান সিলেটে মা-বাবার কাছে যায়নি।","words":[{"w":"visited","bn":"দেখতে গেছে","pos":"verb","base":"visit"},{"w":"since","bn":"থেকে","pos":"preposition"}]},
+            {"id":"02","en":"Rana hasn't changed at all in five years.","bn":"৫ বছরে রানা একটুও বদলায়নি।","words":[{"w":"changed","bn":"বদলেছে","pos":"verb","base":"change"},{"w":"at all","bn":"একটুও","pos":"phrase"}]},
+            {"id":"03","en":"Shormi hasn't replied to Farhan's message yet.","bn":"শর্মি এখনো ফারহানের মেসেজের উত্তর দেয়নি।","words":[{"w":"replied","bn":"উত্তর দিয়েছে","pos":"verb","base":"reply"},{"w":"yet","bn":"এখনো","pos":"adverb"}]},
+            {"id":"04","en":"Lima has never missed a family wedding.","bn":"লিমা কখনো কোনো পারিবারিক বিয়ে বাদ দেয়নি।","words":[{"w":"never","bn":"কখনো না","pos":"adverb"},{"w":"missed","bn":"বাদ দিয়েছে","pos":"verb","base":"miss"}]},
+            {"id":"05","en":"We haven't taken a proper family photo for years.","bn":"অনেক বছর ধরে আমরা একটা ঠিকঠাক পারিবারিক ছবি তুলিনি।","words":[{"w":"proper","bn":"ঠিকঠাক","pos":"adjective"},{"w":"for years","bn":"বহু বছর ধরে","pos":"phrase"}]},
+            {"id":"06","en":"Ayra hasn't met her cousins from Chattogram yet.","bn":"আয়রার এখনো চট্টগ্রামের কাজিনদের সাথে দেখা হয়নি।","words":[{"w":"met","bn":"দেখা হয়েছে","pos":"verb","base":"meet"},{"w":"cousins","bn":"ফুপাতো ভাইবোন","pos":"noun","base":"cousin"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Have/Has + subject + past participle (+ ever/yet) ...?",
+          "tipBn": "প্রশ্ন করতে Have বা Has শুরুতে বসে; ever মানে কখনো, yet মানে এখনো।",
+          "items": [
+            {"id":"01","en":"Have you called your parents this week?","bn":"তুমি কি এই সপ্তাহে মা-বাবাকে ফোন করেছ?","words":[{"w":"called","bn":"ফোন করেছ","pos":"verb","base":"call"},{"w":"parents","bn":"মা-বাবা","pos":"noun","base":"parent"}]},
+            {"id":"02","en":"Has Rana found a job in Dhaka yet?","bn":"রানা কি এর মধ্যে ঢাকায় কোনো চাকরি পেয়েছে?","words":[{"w":"found","bn":"পেয়েছে","pos":"verb","base":"find"},{"w":"yet","bn":"এখনো, এর মধ্যে","pos":"adverb"}]},
+            {"id":"03","en":"Have you ever been to a village wedding?","bn":"তুমি কি কখনো গ্রামের বিয়েতে গিয়েছ?","words":[{"w":"ever","bn":"কখনো","pos":"adverb"},{"w":"been to","bn":"গিয়েছ","pos":"phrase"}]},
+            {"id":"04","en":"Has Shormi booked her bus ticket to Sylhet?","bn":"শর্মি কি সিলেটের বাসের টিকিট কেটেছে?","words":[{"w":"booked","bn":"বুক করেছে, কেটেছে","pos":"verb","base":"book"},{"w":"ticket","bn":"টিকিট","pos":"noun"}]},
+            {"id":"05","en":"Have your parents planned anything special for their anniversary?","bn":"তোমার মা-বাবা কি তাদের বিবাহবার্ষিকীর জন্য বিশেষ কিছু পরিকল্পনা করেছেন?","words":[{"w":"planned","bn":"পরিকল্পনা করেছে","pos":"verb","base":"plan"},{"w":"special","bn":"বিশেষ","pos":"adjective"}]},
+            {"id":"06","en":"Has Ayra made any new friends at school?","bn":"আয়রা কি স্কুলে নতুন কোনো বন্ধু বানিয়েছে?","words":[{"w":"made","bn":"বানিয়েছে","pos":"verb","base":"make"},{"w":"friends","bn":"বন্ধু","pos":"noun","base":"friend"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + have/has + subject + past participle ...?",
+          "tipBn": "How long, What, Who ইত্যাদির পরে have বা has, তারপর subject আর past participle বসে।",
+          "items": [
+            {"id":"01","en":"How long have you and Rana known each other?","bn":"তুমি আর রানা কতদিন ধরে একে অপরকে চেনো?","words":[{"w":"How long","bn":"কতদিন ধরে","pos":"phrase"},{"w":"known","bn":"চেনা","pos":"verb","base":"know"}]},
+            {"id":"02","en":"What has Shormi posted in the family group?","bn":"শর্মি পারিবারিক গ্রুপে কী পোস্ট করেছে?","words":[{"w":"posted","bn":"পোস্ট করেছে","pos":"verb","base":"post"},{"w":"group","bn":"গ্রুপ, দল","pos":"noun"}]},
+            {"id":"03","en":"Why haven't you visited your parents in Sylhet recently?","bn":"তুমি সম্প্রতি সিলেটে মা-বাবার কাছে যাওনি কেন?","words":[{"w":"visited","bn":"বেড়াতে গেছ","pos":"verb","base":"visit"},{"w":"recently","bn":"সম্প্রতি","pos":"adverb"}]},
+            {"id":"04","en":"Where has Rana been all these years?","bn":"এত বছর রানা কোথায় ছিল?","words":[{"w":"been","bn":"ছিল","pos":"verb","base":"be"},{"w":"all these years","bn":"এত বছর","pos":"phrase"}]},
+            {"id":"05","en":"Who has organized the anniversary dinner for your parents?","bn":"তোমার মা-বাবার বিবাহবার্ষিকীর ডিনারের আয়োজন কে করেছে?","words":[{"w":"organized","bn":"আয়োজন করেছে","pos":"verb","base":"organize"},{"w":"anniversary","bn":"বিবাহবার্ষিকী","pos":"noun"}]},
+            {"id":"06","en":"How much has Ayra grown since you last saw her?","bn":"তুমি শেষবার দেখার পর থেকে আয়রা কতটা বড় হয়েছে?","words":[{"w":"How much","bn":"কতটা","pos":"phrase"},{"w":"grown","bn":"বড় হয়েছে","pos":"verb","base":"grow"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short text mostly in the present perfect.",
+          "tipBn": "অনুচ্ছেদে বেশিরভাগ বাক্য have/has + past participle দিয়ে লেখা।",
+          "items": [
+            {"id":"01","title":"An old friend comes home","en":"Rana has just moved back to Dhaka after six years in Malaysia. He has already called Farhan twice, and they have made plans to meet this weekend. Farhan has missed his old friend a lot. They have stayed in touch online, but they haven't seen each other in person since 2019.","bn":"মালয়েশিয়ায় ৬ বছর কাটিয়ে রানা সবেমাত্র ঢাকায় ফিরে এসেছে। সে এর মধ্যেই ফারহানকে দুবার ফোন করেছে, আর তারা এই সপ্তাহান্তে দেখা করার পরিকল্পনা করেছে। ফারহান তার পুরোনো বন্ধুকে খুব মিস করেছে। তারা অনলাইনে যোগাযোগ রেখেছে, কিন্তু ২০১৯ সালের পর থেকে তাদের সামনাসামনি দেখা হয়নি।","words":[{"w":"moved back","bn":"ফিরে এসেছে","pos":"phrasal verb","base":"move back"},{"w":"missed","bn":"অভাব বোধ করেছে","pos":"verb","base":"miss"},{"w":"stayed in touch","bn":"যোগাযোগ রেখেছে","pos":"phrase","base":"stay in touch"},{"w":"in person","bn":"সামনাসামনি","pos":"phrase"}]},
+            {"id":"02","title":"The family group chat","en":"Shormi has created a group chat for the whole family. Since then, everyone has shared photos, recipes and news every day. Even Farhan's mother has learned how to send voice messages. The group has brought the family closer, although Farhan has muted it during office hours.","bn":"শর্মি পুরো পরিবারের জন্য একটা গ্রুপ চ্যাট খুলেছে। তখন থেকে সবাই প্রতিদিন ছবি, রান্নার রেসিপি আর খবর শেয়ার করছে। এমনকি ফারহানের মা-ও ভয়েস মেসেজ পাঠাতে শিখে গেছেন। গ্রুপটা পরিবারকে আরও কাছাকাছি এনেছে, যদিও ফারহান অফিসের সময়ে এটা মিউট করে রেখেছে।","words":[{"w":"created","bn":"তৈরি করেছে","pos":"verb","base":"create"},{"w":"shared","bn":"শেয়ার করেছে","pos":"verb","base":"share"},{"w":"voice messages","bn":"ভয়েস মেসেজ","pos":"noun","base":"voice message"},{"w":"closer","bn":"আরও কাছাকাছি","pos":"adjective","base":"close"},{"w":"muted","bn":"মিউট করেছে","pos":"verb","base":"mute"}]},
+            {"id":"03","title":"Ayra's new friends","en":"Ayra has been at school for three months now. She has made two good friends, Tasnim and Rohan, and she has already invited them to her birthday party. Lima has met their mothers, and the three families have started meeting at the park on Fridays.","bn":"আয়রা এখন ৩ মাস ধরে স্কুলে যাচ্ছে। সে দুজন ভালো বন্ধু বানিয়েছে, তাসনিম আর রোহান, আর এর মধ্যেই তাদের তার জন্মদিনের পার্টিতে দাওয়াত দিয়েছে। লিমা তাদের মায়েদের সাথে পরিচিত হয়েছে, আর তিন পরিবার শুক্রবারে পার্কে দেখা করা শুরু করেছে।","words":[{"w":"made","bn":"বানিয়েছে","pos":"verb","base":"make"},{"w":"already","bn":"ইতিমধ্যে","pos":"adverb"},{"w":"invited","bn":"দাওয়াত দিয়েছে","pos":"verb","base":"invite"},{"w":"started","bn":"শুরু করেছে","pos":"verb","base":"start"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-continuous",
+      "focus": "Describe what was happening at last Eid's family gathering",
+      "focusBn": "গত ঈদের পারিবারিক আড্ডায় কী ঘটছিল তা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + was/were + verb-ing (+ when/while ...)",
+          "tipBn": "অতীতে কোনো সময়ে চলমান কাজ বলতে was বা were এর পরে verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"Last Eid, the whole family was sitting together in the yard in Sylhet.","bn":"গত ঈদে পুরো পরিবার সিলেটের বাড়ির উঠানে একসাথে বসে ছিল।","words":[{"w":"whole","bn":"পুরো","pos":"adjective"},{"w":"yard","bn":"উঠান","pos":"noun"}]},
+            {"id":"02","en":"Mom and Shormi were making pitha in the kitchen all afternoon.","bn":"মা আর শর্মি সারা বিকেল রান্নাঘরে পিঠা বানাচ্ছিলেন।","words":[{"w":"pitha","bn":"পিঠা","pos":"noun"},{"w":"all afternoon","bn":"সারা বিকেল","pos":"phrase"}]},
+            {"id":"03","en":"The children were playing hide-and-seek while the adults were chatting.","bn":"বড়রা যখন গল্প করছিল, বাচ্চারা তখন লুকোচুরি খেলছিল।","words":[{"w":"hide-and-seek","bn":"লুকোচুরি","pos":"noun"},{"w":"adults","bn":"বড়রা","pos":"noun","base":"adult"},{"w":"chatting","bn":"গল্প করছিল","pos":"verb","base":"chat"}]},
+            {"id":"04","en":"Farhan was taking photos when the power suddenly went out.","bn":"ফারহান যখন ছবি তুলছিল, তখন হঠাৎ বিদ্যুৎ চলে গেল।","words":[{"w":"suddenly","bn":"হঠাৎ","pos":"adverb"},{"w":"went out","bn":"চলে গেল, নিভে গেল","pos":"phrasal verb","base":"go out"}]},
+            {"id":"05","en":"Dad was telling old family stories by candlelight.","bn":"বাবা মোমবাতির আলোয় পরিবারের পুরোনো গল্প বলছিলেন।","words":[{"w":"telling","bn":"বলছিলেন","pos":"verb","base":"tell"},{"w":"candlelight","bn":"মোমবাতির আলো","pos":"noun"}]},
+            {"id":"06","en":"Uncle Habib was calling from Italy while everyone was eating dessert.","bn":"সবাই যখন মিষ্টি খাচ্ছিল, হাবিব চাচা তখন ইতালি থেকে ফোন করছিলেন।","words":[{"w":"Uncle","bn":"চাচা","pos":"noun"},{"w":"dessert","bn":"শেষ পাতের মিষ্টি","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + wasn't/weren't + verb-ing ...",
+          "tipBn": "was বা were এর পরে not বসে; সংক্ষেপে wasn't, weren't বলা হয়।",
+          "items": [
+            {"id":"01","en":"Nobody was looking at their phones during dinner.","bn":"রাতের খাবারের সময় কেউ ফোনের দিকে তাকিয়ে ছিল না।","words":[{"w":"Nobody","bn":"কেউ না","pos":"pronoun"},{"w":"during","bn":"চলাকালে","pos":"preposition"}]},
+            {"id":"02","en":"Farhan wasn't paying attention when Ayra fell off the swing.","bn":"আয়রা যখন দোলনা থেকে পড়ে গেল, ফারহান তখন খেয়াল করছিল না।","words":[{"w":"paying attention","bn":"খেয়াল করা","pos":"phrase","base":"pay attention"},{"w":"fell off","bn":"পড়ে গেল","pos":"phrasal verb","base":"fall off"},{"w":"swing","bn":"দোলনা","pos":"noun"}]},
+            {"id":"03","en":"The fan wasn't working because of the power cut.","bn":"লোডশেডিংয়ের কারণে পাখা চলছিল না।","words":[{"w":"working","bn":"চলছিল","pos":"verb","base":"work"},{"w":"power cut","bn":"লোডশেডিং","pos":"noun"}]},
+            {"id":"04","en":"Shormi's husband wasn't feeling well that evening.","bn":"সেদিন সন্ধ্যায় শর্মির স্বামীর শরীরটা ভালো লাগছিল না।","words":[{"w":"husband","bn":"স্বামী","pos":"noun"},{"w":"feeling well","bn":"শরীর ভালো লাগা","pos":"phrase","base":"feel well"}]},
+            {"id":"05","en":"Lima and Shormi weren't arguing, they were only joking.","bn":"লিমা আর শর্মি ঝগড়া করছিল না, তারা শুধু মজা করছিল।","words":[{"w":"arguing","bn":"ঝগড়া করছিল","pos":"verb","base":"argue"},{"w":"joking","bn":"মজা করছিল","pos":"verb","base":"joke"}]},
+            {"id":"06","en":"The children weren't sleeping when the guests left at midnight.","bn":"মাঝরাতে অতিথিরা যখন চলে গেল, বাচ্চারা তখনো ঘুমাচ্ছিল না।","words":[{"w":"guests","bn":"অতিথিরা","pos":"noun","base":"guest"},{"w":"midnight","bn":"মাঝরাত","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Was/Were + subject + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে Was বা Were বাক্যের শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Were you sitting in the yard when the power went out?","bn":"বিদ্যুৎ চলে যাওয়ার সময় তুমি কি উঠানে বসে ছিলে?","words":[{"w":"yard","bn":"উঠান","pos":"noun"},{"w":"went out","bn":"চলে গেল","pos":"phrasal verb","base":"go out"}]},
+            {"id":"02","en":"Was your mom making pitha all afternoon?","bn":"তোমার মা কি সারা বিকেল পিঠা বানাচ্ছিলেন?","words":[{"w":"making","bn":"বানাচ্ছিল","pos":"verb","base":"make"},{"w":"all afternoon","bn":"সারা বিকেল","pos":"phrase"}]},
+            {"id":"03","en":"Was Uncle Habib calling from Italy during dinner?","bn":"রাতের খাবারের সময় হাবিব চাচা কি ইতালি থেকে ফোন করছিলেন?","words":[{"w":"calling","bn":"ফোন করছিল","pos":"verb","base":"call"},{"w":"during","bn":"চলাকালে","pos":"preposition"}]},
+            {"id":"04","en":"Were the children still playing at ten o'clock?","bn":"রাত ১০টায়ও কি বাচ্চারা খেলছিল?","words":[{"w":"still","bn":"তখনো","pos":"adverb"},{"w":"o'clock","bn":"টা (সময়)","pos":"adverb"}]},
+            {"id":"05","en":"Was Farhan taking photos of the whole family?","bn":"ফারহান কি পুরো পরিবারের ছবি তুলছিল?","words":[{"w":"taking photos","bn":"ছবি তোলা","pos":"phrase","base":"take photos"},{"w":"whole","bn":"পুরো","pos":"adjective"}]},
+            {"id":"06","en":"Was it raining when you arrived in Sylhet?","bn":"তোমরা যখন সিলেটে পৌঁছালে, তখন কি বৃষ্টি হচ্ছিল?","words":[{"w":"raining","bn":"বৃষ্টি হচ্ছিল","pos":"verb","base":"rain"},{"w":"arrived","bn":"পৌঁছালে","pos":"verb","base":"arrive"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + was/were + subject + verb-ing ...?",
+          "tipBn": "প্রশ্নশব্দের পরে was বা were, তারপর subject আর verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"What were you doing when the lights went out?","bn":"বাতি নিভে যাওয়ার সময় তুমি কী করছিলে?","words":[{"w":"lights","bn":"বাতি","pos":"noun","base":"light"},{"w":"went out","bn":"নিভে গেল","pos":"phrasal verb","base":"go out"}]},
+            {"id":"02","en":"Who was sitting next to Dad at dinner?","bn":"রাতের খাবারে বাবার পাশে কে বসে ছিল?","words":[{"w":"sitting","bn":"বসে ছিল","pos":"verb","base":"sit"},{"w":"next to","bn":"পাশে","pos":"preposition"}]},
+            {"id":"03","en":"Why were Lima and Shormi laughing so loudly?","bn":"লিমা আর শর্মি এত জোরে হাসছিল কেন?","words":[{"w":"laughing","bn":"হাসছিল","pos":"verb","base":"laugh"},{"w":"loudly","bn":"জোরে","pos":"adverb"}]},
+            {"id":"04","en":"Where were the children playing during the power cut?","bn":"লোডশেডিংয়ের সময় বাচ্চারা কোথায় খেলছিল?","words":[{"w":"during","bn":"চলাকালে","pos":"preposition"},{"w":"power cut","bn":"লোডশেডিং","pos":"noun"}]},
+            {"id":"05","en":"Which story was Dad telling by candlelight?","bn":"বাবা মোমবাতির আলোয় কোন গল্পটা বলছিলেন?","words":[{"w":"Which","bn":"কোনটি","pos":"pronoun"},{"w":"candlelight","bn":"মোমবাতির আলো","pos":"noun"}]},
+            {"id":"06","en":"How was Ayra feeling after she fell off the swing?","bn":"দোলনা থেকে পড়ে যাওয়ার পর আয়রার কেমন লাগছিল?","words":[{"w":"feeling","bn":"অনুভব করছিল","pos":"verb","base":"feel"},{"w":"swing","bn":"দোলনা","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short text mostly in the past continuous.",
+          "tipBn": "অনুচ্ছেদে অতীতের চলমান দৃশ্য was/were + verb-ing দিয়ে বর্ণনা করা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Eid night in Sylhet","en":"It was Eid night, and the house in Sylhet was full of people. Mom was serving biryani while Shormi was pouring tea for the guests. In the yard, the children were running around with sparklers. Farhan was watching them and thinking about his own childhood.","bn":"সেদিন ছিল ঈদের রাত, আর সিলেটের বাড়িটা মানুষে ভরা ছিল। মা বিরিয়ানি পরিবেশন করছিলেন, আর শর্মি অতিথিদের জন্য চা ঢালছিল। উঠানে বাচ্চারা ফুলঝুরি হাতে ছোটাছুটি করছিল। ফারহান তাদের দেখছিল আর নিজের ছোটবেলার কথা ভাবছিল।","words":[{"w":"serving","bn":"পরিবেশন করছিলেন","pos":"verb","base":"serve"},{"w":"pouring","bn":"ঢালছিল","pos":"verb","base":"pour"},{"w":"sparklers","bn":"ফুলঝুরি","pos":"noun","base":"sparkler"},{"w":"childhood","bn":"ছোটবেলা, শৈশব","pos":"noun"}]},
+            {"id":"02","title":"The power cut","en":"We were eating dessert when the power suddenly went out. At first, Ayra was crying because she was scared of the dark. Then Dad lit some candles and started telling stories. Soon everyone was laughing, and nobody was thinking about the heat anymore.","bn":"আমরা মিষ্টি খাচ্ছিলাম, এমন সময় হঠাৎ বিদ্যুৎ চলে গেল। প্রথমে আয়রা কাঁদছিল, কারণ সে অন্ধকারে ভয় পাচ্ছিল। তারপর বাবা কয়েকটা মোমবাতি জ্বালালেন আর গল্প বলা শুরু করলেন। কিছুক্ষণের মধ্যেই সবাই হাসছিল, আর গরমের কথা কেউ আর ভাবছিল না।","words":[{"w":"went out","bn":"চলে গেল","pos":"phrasal verb","base":"go out"},{"w":"scared of","bn":"ভয় পাওয়া","pos":"phrase"},{"w":"lit","bn":"জ্বালালেন","pos":"verb","base":"light"},{"w":"anymore","bn":"আর","pos":"adverb"}]},
+            {"id":"03","title":"A video call from Italy","en":"While the family was having tea, Uncle Habib was trying to call from Italy. The internet was working badly, so his face kept freezing on the screen. Everyone was shouting hello at the same time. Even so, Dad was smiling the whole time because he was talking to his little brother.","bn":"পরিবারের সবাই যখন চা খাচ্ছিল, হাবিব চাচা তখন ইতালি থেকে ফোন করার চেষ্টা করছিলেন। ইন্টারনেট ঠিকমতো চলছিল না, তাই স্ক্রিনে তাঁর মুখ বারবার আটকে যাচ্ছিল। সবাই একসাথে চিৎকার করে হ্যালো বলছিল। তবুও বাবা পুরো সময়টা হাসছিলেন, কারণ তিনি তাঁর ছোট ভাইয়ের সাথে কথা বলছিলেন।","words":[{"w":"trying","bn":"চেষ্টা করছিলেন","pos":"verb","base":"try"},{"w":"kept freezing","bn":"বারবার আটকে যাচ্ছিল","pos":"phrase","base":"keep freezing"},{"w":"shouting","bn":"চিৎকার করছিল","pos":"verb","base":"shout"},{"w":"Even so","bn":"তবুও","pos":"phrase"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "modals",
+      "focus": "Give advice and talk about duties to family, friends and neighbors",
+      "focusBn": "পরিবার, বন্ধু ও প্রতিবেশীর প্রতি দায়িত্ব আর পরামর্শ নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + should/must/have to/might/can + verb (base) ...",
+          "tipBn": "should পরামর্শ, must ও have to বাধ্যবাধকতা, might সম্ভাবনা আর can সামর্থ্য বোঝায়; এদের পরে verb মূল রূপে বসে।",
+          "items": [
+            {"id":"01","en":"You should call your parents at least twice a week.","bn":"তোমার উচিত সপ্তাহে অন্তত দুবার মা-বাবাকে ফোন করা।","words":[{"w":"should","bn":"উচিত","pos":"verb"},{"w":"at least","bn":"অন্তত","pos":"phrase"},{"w":"twice","bn":"দুবার","pos":"adverb"}]},
+            {"id":"02","en":"Farhan has to help his father with the bills this month.","bn":"এই মাসে বিল দেওয়ার ব্যাপারে ফারহানকে বাবাকে সাহায্য করতে হবে।","words":[{"w":"has to","bn":"করতেই হবে","pos":"phrase"},{"w":"bills","bn":"বিল","pos":"noun","base":"bill"}]},
+            {"id":"03","en":"We might visit Rana's family in Gulshan this weekend.","bn":"এই সপ্তাহান্তে আমরা হয়তো গুলশানে রানার পরিবারের সাথে দেখা করতে যাব।","words":[{"w":"might","bn":"হয়তো","pos":"verb"},{"w":"weekend","bn":"সপ্তাহান্ত","pos":"noun"}]},
+            {"id":"04","en":"Shormi can look after Ayra while you go to the doctor.","bn":"তুমি যখন ডাক্তারের কাছে যাবে, শর্মি তখন আয়রাকে দেখে রাখতে পারবে।","words":[{"w":"look after","bn":"দেখাশোনা করা","pos":"phrasal verb"},{"w":"while","bn":"যখন","pos":"conjunction"}]},
+            {"id":"05","en":"Neighbors should help each other in difficult times.","bn":"বিপদের সময় প্রতিবেশীদের একে অপরকে সাহায্য করা উচিত।","words":[{"w":"each other","bn":"একে অপরকে","pos":"pronoun"},{"w":"difficult times","bn":"বিপদের সময়","pos":"phrase"}]},
+            {"id":"06","en":"You must apologize to Lima before dinner.","bn":"রাতের খাবারের আগে তোমাকে অবশ্যই লিমার কাছে ক্ষমা চাইতে হবে।","words":[{"w":"must","bn":"অবশ্যই","pos":"verb"},{"w":"apologize","bn":"ক্ষমা চাওয়া","pos":"verb"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + shouldn't/mustn't/can't/don't have to/might not + verb (base) ...",
+          "tipBn": "mustn't মানে কিছুতেই না, কিন্তু don't have to মানে দরকার নেই; দুটোর অর্থ আলাদা।",
+          "items": [
+            {"id":"01","en":"You shouldn't shout at your sister, even when you're angry.","bn":"রাগ হলেও বোনের সাথে চিৎকার করা তোমার উচিত না।","words":[{"w":"shout at","bn":"চিৎকার করা","pos":"phrasal verb"},{"w":"even when","bn":"এমনকি যখন","pos":"phrase"}]},
+            {"id":"02","en":"Farhan doesn't have to bring anything to the dinner.","bn":"ফারহানকে ডিনারে কিছু নিয়ে আসতে হবে না।","words":[{"w":"doesn't have to","bn":"দরকার নেই","pos":"phrase"},{"w":"bring","bn":"নিয়ে আসা","pos":"verb"}]},
+            {"id":"03","en":"Rana can't come to the anniversary dinner because of work.","bn":"অফিসের কাজের কারণে রানা বিবাহবার্ষিকীর ডিনারে আসতে পারবে না।","words":[{"w":"can't","bn":"পারবে না","pos":"verb"},{"w":"because of","bn":"কারণে","pos":"phrase"}]},
+            {"id":"04","en":"You mustn't tell Ayra about her birthday surprise.","bn":"আয়রাকে তার জন্মদিনের সারপ্রাইজের কথা কিছুতেই বলা যাবে না।","words":[{"w":"mustn't","bn":"কিছুতেই না","pos":"verb"},{"w":"surprise","bn":"চমক, সারপ্রাইজ","pos":"noun"}]},
+            {"id":"05","en":"We shouldn't play loud music at night because of our neighbors.","bn":"প্রতিবেশীদের কথা ভেবে রাতে আমাদের জোরে গান বাজানো উচিত না।","words":[{"w":"loud","bn":"জোরে","pos":"adjective"},{"w":"neighbors","bn":"প্রতিবেশীরা","pos":"noun","base":"neighbor"}]},
+            {"id":"06","en":"Dad might not travel to Dhaka this winter.","bn":"বাবা হয়তো এই শীতে ঢাকায় আসবেন না।","words":[{"w":"might not","bn":"হয়তো না","pos":"phrase"},{"w":"winter","bn":"শীতকাল","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Should/Can/Could/May + subject + verb (base) ...? / Do + subject + have to ...?",
+          "tipBn": "প্রশ্ন করতে modal বাক্যের শুরুতে বসে; have to এর প্রশ্নে Do বা Does লাগে।",
+          "items": [
+            {"id":"01","en":"Should I bring a gift for Rana's mother?","bn":"আমার কি রানার মায়ের জন্য উপহার নিয়ে যাওয়া উচিত?","words":[{"w":"Should","bn":"উচিত কি","pos":"verb"},{"w":"gift","bn":"উপহার","pos":"noun"}]},
+            {"id":"02","en":"Can you pick up Ayra from school today?","bn":"তুমি কি আজ আয়রাকে স্কুল থেকে আনতে পারবে?","words":[{"w":"pick up","bn":"আনতে যাওয়া","pos":"phrasal verb"},{"w":"Can","bn":"পারবে কি","pos":"verb"}]},
+            {"id":"03","en":"Do we have to stay for the whole wedding?","bn":"আমাদের কি বিয়ের পুরো অনুষ্ঠানে থাকতে হবে?","words":[{"w":"have to","bn":"করতে হবে","pos":"phrase"},{"w":"whole","bn":"পুরো","pos":"adjective"}]},
+            {"id":"04","en":"Could you lend me your car for the weekend?","bn":"তুমি কি সপ্তাহান্তের জন্য তোমার গাড়িটা আমাকে ধার দিতে পারবে?","words":[{"w":"Could","bn":"পারবে কি (ভদ্রভাবে)","pos":"verb"},{"w":"lend","bn":"ধার দেওয়া","pos":"verb"}]},
+            {"id":"05","en":"May I invite a few friends to the party?","bn":"আমি কি পার্টিতে কয়েকজন বন্ধুকে দাওয়াত দিতে পারি?","words":[{"w":"May","bn":"পারি কি (অনুমতি)","pos":"verb"},{"w":"a few","bn":"কয়েকজন","pos":"phrase"}]},
+            {"id":"06","en":"Should we call Uncle Habib on his birthday?","bn":"হাবিব চাচার জন্মদিনে কি আমাদের তাঁকে ফোন করা উচিত?","words":[{"w":"Uncle","bn":"চাচা","pos":"noun"},{"w":"birthday","bn":"জন্মদিন","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "tag-question",
+          "pattern": "Statement with a modal, + opposite short tag?",
+          "tipBn": "হ্যাঁ-বোধক বাক্যের পরে না-বোধক ট্যাগ, আর না-বোধক বাক্যের পরে হ্যাঁ-বোধক ট্যাগ বসে।",
+          "items": [
+            {"id":"01","en":"We should visit Mom and Dad more often, shouldn't we?","bn":"মা-বাবার কাছে আমাদের আরও ঘন ঘন যাওয়া উচিত, তাই না?","words":[{"w":"more often","bn":"আরও ঘন ঘন","pos":"phrase"},{"w":"shouldn't we","bn":"তাই না","pos":"phrase"}]},
+            {"id":"02","en":"You can't stay angry with your best friend forever, can you?","bn":"প্রিয় বন্ধুর ওপর তুমি তো চিরকাল রাগ করে থাকতে পারবে না, তাই না?","words":[{"w":"stay angry","bn":"রাগ করে থাকা","pos":"phrase"},{"w":"forever","bn":"চিরকাল","pos":"adverb"}]},
+            {"id":"03","en":"Shormi could help us with the cooking, couldn't she?","bn":"শর্মি রান্নায় আমাদের সাহায্য করতে পারে, তাই না?","words":[{"w":"could","bn":"পারত, পারে","pos":"verb"},{"w":"cooking","bn":"রান্না","pos":"noun"}]},
+            {"id":"04","en":"Ayra shouldn't eat so many sweets, should she?","bn":"আয়রার এত মিষ্টি খাওয়া উচিত না, তাই না?","words":[{"w":"shouldn't","bn":"উচিত না","pos":"verb"},{"w":"sweets","bn":"মিষ্টি","pos":"noun","base":"sweet"}]},
+            {"id":"05","en":"We have to buy a gift for the anniversary, don't we?","bn":"বিবাহবার্ষিকীর জন্য আমাদের একটা উপহার কিনতে হবে, তাই না?","words":[{"w":"have to","bn":"করতে হবে","pos":"phrase"},{"w":"anniversary","bn":"বিবাহবার্ষিকী","pos":"noun"}]},
+            {"id":"06","en":"You can come to our house on Friday, can't you?","bn":"তুমি শুক্রবার আমাদের বাসায় আসতে পারবে, তাই না?","words":[{"w":"can","bn":"পারা","pos":"verb"},{"w":"can't you","bn":"তাই না","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short text using should, must, have to, might, could and can.",
+          "tipBn": "অনুচ্ছেদে পরামর্শ, দায়িত্ব আর সম্ভাবনা বোঝাতে modal ব্যবহার হয়েছে।",
+          "items": [
+            {"id":"01","title":"Tips for a new neighbor","en":"When you move to a new building, you should introduce yourself to your neighbors. You could take a small box of sweets. You don't have to become best friends, but you should be polite and helpful. One day, you might need their help too.","bn":"নতুন কোনো বিল্ডিংয়ে উঠলে প্রতিবেশীদের কাছে নিজের পরিচয় দেওয়া উচিত। তুমি এক বাক্স মিষ্টি নিয়ে যেতে পারো। সবচেয়ে ভালো বন্ধু হওয়ার দরকার নেই, কিন্তু ভদ্র আর সাহায্যকারী হওয়া উচিত। একদিন হয়তো তোমারও তাদের সাহায্য লাগতে পারে।","words":[{"w":"introduce yourself","bn":"নিজের পরিচয় দেওয়া","pos":"phrase"},{"w":"don't have to","bn":"দরকার নেই","pos":"phrase"},{"w":"polite","bn":"ভদ্র","pos":"adjective"},{"w":"helpful","bn":"সাহায্যকারী","pos":"adjective"}]},
+            {"id":"02","title":"Farhan's duties","en":"Farhan's father is getting older, so Farhan has to send money home every month. He must also call his parents regularly. His sister says he shouldn't worry so much, because she works from home and can visit them often. Still, Farhan feels he should do more.","bn":"ফারহানের বাবার বয়স বাড়ছে, তাই ফারহানকে প্রতি মাসে বাড়িতে টাকা পাঠাতে হয়। তাকে নিয়মিত মা-বাবাকে ফোনও করতে হয়। তার বোন বলে, তার এত চিন্তা করা উচিত না, কারণ সে বাসা থেকে কাজ করে আর প্রায়ই তাঁদের দেখতে যেতে পারে। তবুও ফারহানের মনে হয়, তার আরও কিছু করা উচিত।","words":[{"w":"getting older","bn":"বয়স বাড়ছে","pos":"phrase","base":"get older"},{"w":"has to","bn":"করতেই হয়","pos":"phrase"},{"w":"regularly","bn":"নিয়মিত","pos":"adverb"},{"w":"worry","bn":"চিন্তা করা","pos":"verb"}]},
+            {"id":"03","title":"Making up after an argument","en":"Farhan and Lima had a small argument about holiday plans last night. Farhan knows he should apologize first. He might buy her favorite flowers, or he could cook her breakfast. Either way, they must talk calmly and find a plan that works for both of them.","bn":"গত রাতে ছুটির পরিকল্পনা নিয়ে ফারহান আর লিমার মধ্যে ছোট একটা কথা কাটাকাটি হয়েছিল। ফারহান জানে, তারই আগে ক্ষমা চাওয়া উচিত। সে হয়তো লিমার প্রিয় ফুল কিনবে, অথবা তার জন্য নাশতা বানাতে পারে। যেভাবেই হোক, তাদের শান্তভাবে কথা বলে দুজনের জন্যই চলে এমন একটা পরিকল্পনা ঠিক করতে হবে।","words":[{"w":"argument","bn":"কথা কাটাকাটি","pos":"noun"},{"w":"apologize","bn":"ক্ষমা চাওয়া","pos":"verb"},{"w":"Either way","bn":"যেভাবেই হোক","pos":"phrase"},{"w":"calmly","bn":"শান্তভাবে","pos":"adverb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Talk about possible and imagined situations with family and friends",
+      "focusBn": "পরিবার ও বন্ধুদের নিয়ে সম্ভাব্য ও কাল্পনিক পরিস্থিতির কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + present, will + verb. / If + past, would + verb.",
+          "tipBn": "সম্ভাব্য ঘটনায় If + present আর will বসে; কাল্পনিক ঘটনায় If + past আর would বসে।",
+          "items": [
+            {"id":"01","en":"If Rana comes to Sylhet, we will show him the tea gardens.","bn":"রানা যদি সিলেটে আসে, আমরা তাকে চা-বাগান দেখাব।","words":[{"w":"show","bn":"দেখানো","pos":"verb"},{"w":"tea gardens","bn":"চা-বাগান","pos":"noun","base":"tea garden"}]},
+            {"id":"02","en":"If I had more time off, I would visit my parents every month.","bn":"আমার যদি আরও ছুটি থাকত, তাহলে আমি প্রতি মাসে মা-বাবার কাছে যেতাম।","words":[{"w":"time off","bn":"ছুটি","pos":"phrase"},{"w":"would","bn":"করতাম","pos":"verb"}]},
+            {"id":"03","en":"If you invite Rana's parents, Mom will cook her famous beef curry.","bn":"তুমি যদি রানার মা-বাবাকে দাওয়াত দাও, মা তাঁর বিখ্যাত গরুর মাংস রান্না করবেন।","words":[{"w":"invite","bn":"দাওয়াত দেওয়া","pos":"verb"},{"w":"famous","bn":"বিখ্যাত","pos":"adjective"}]},
+            {"id":"04","en":"If Uncle Habib lived in Bangladesh, he would come to every family event.","bn":"হাবিব চাচা যদি বাংলাদেশে থাকতেন, তাহলে পরিবারের প্রতিটি অনুষ্ঠানে আসতেন।","words":[{"w":"lived","bn":"থাকত","pos":"verb","base":"live"},{"w":"event","bn":"অনুষ্ঠান","pos":"noun"}]},
+            {"id":"05","en":"Ayra will be thrilled if her cousins stay for the weekend.","bn":"কাজিনরা যদি সপ্তাহান্তে থেকে যায়, আয়রা ভীষণ খুশি হবে।","words":[{"w":"thrilled","bn":"ভীষণ খুশি","pos":"adjective"},{"w":"cousins","bn":"কাজিন","pos":"noun","base":"cousin"}]},
+            {"id":"06","en":"If I were you, I would call Shormi and say sorry.","bn":"আমি তোমার জায়গায় থাকলে শর্মিকে ফোন করে দুঃখ প্রকাশ করতাম।","words":[{"w":"If I were you","bn":"আমি তোমার জায়গায় থাকলে","pos":"phrase"},{"w":"say sorry","bn":"দুঃখ প্রকাশ করা","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + don't/didn't ..., won't/wouldn't + verb. / ... unless ...",
+          "tipBn": "শর্তবাক্যের যেকোনো অংশ না-বোধক হতে পারে; unless মানে যদি না।",
+          "items": [
+            {"id":"01","en":"If you don't call your mother tonight, she will worry.","bn":"আজ রাতে মাকে ফোন না করলে উনি চিন্তা করবেন।","words":[{"w":"tonight","bn":"আজ রাতে","pos":"adverb"},{"w":"worry","bn":"চিন্তা করা","pos":"verb"}]},
+            {"id":"02","en":"If Gulshan weren't so far from Mirpur, we would meet more often.","bn":"গুলশান যদি মিরপুর থেকে এত দূরে না হতো, আমরা আরও ঘন ঘন দেখা করতাম।","words":[{"w":"so far","bn":"এত দূরে","pos":"phrase"},{"w":"more often","bn":"আরও ঘন ঘন","pos":"phrase"}]},
+            {"id":"03","en":"Ayra won't sleep if we don't tell her a story first.","bn":"আগে একটা গল্প না বললে আয়রা ঘুমাবে না।","words":[{"w":"won't","bn":"করবে না","pos":"verb"},{"w":"first","bn":"আগে","pos":"adverb"}]},
+            {"id":"04","en":"I wouldn't take the night bus to Sylhet if I had a car.","bn":"আমার গাড়ি থাকলে আমি রাতের বাসে সিলেট যেতাম না।","words":[{"w":"wouldn't","bn":"করতাম না","pos":"verb"},{"w":"night bus","bn":"রাতের বাস","pos":"noun"}]},
+            {"id":"05","en":"If Lima weren't so patient, we wouldn't solve our arguments so quickly.","bn":"লিমা যদি এত ধৈর্যশীল না হতো, আমরা এত তাড়াতাড়ি ঝগড়া মেটাতে পারতাম না।","words":[{"w":"patient","bn":"ধৈর্যশীল","pos":"adjective"},{"w":"solve","bn":"মেটানো, সমাধান করা","pos":"verb"},{"w":"arguments","bn":"ঝগড়া","pos":"noun","base":"argument"}]},
+            {"id":"06","en":"We won't finish the cooking on time unless Shormi helps us.","bn":"শর্মি সাহায্য না করলে আমরা সময়মতো রান্না শেষ করতে পারব না।","words":[{"w":"on time","bn":"সময়মতো","pos":"phrase"},{"w":"unless","bn":"যদি না","pos":"conjunction"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + will/would + subject + verb + if ...?",
+          "tipBn": "প্রশ্নশব্দের পরে will বা would বসে, আর শর্তটা if দিয়ে আসে।",
+          "items": [
+            {"id":"01","en":"What will Rana do if he can't find a job in Dhaka?","bn":"রানা যদি ঢাকায় চাকরি না পায়, তাহলে সে কী করবে?","words":[{"w":"find","bn":"পাওয়া, খুঁজে পাওয়া","pos":"verb"},{"w":"job","bn":"চাকরি","pos":"noun"}]},
+            {"id":"02","en":"Where would you live if you could choose any city?","bn":"তুমি যদি যেকোনো শহর বেছে নিতে পারতে, তাহলে কোথায় থাকতে?","words":[{"w":"choose","bn":"বেছে নেওয়া","pos":"verb"},{"w":"any","bn":"যেকোনো","pos":"adjective"}]},
+            {"id":"03","en":"How will your parents celebrate if all their children come home?","bn":"সব সন্তান বাড়ি এলে তোমার মা-বাবা কীভাবে উদযাপন করবেন?","words":[{"w":"celebrate","bn":"উদযাপন করা","pos":"verb"},{"w":"children","bn":"সন্তানেরা","pos":"noun","base":"child"}]},
+            {"id":"04","en":"What would you say if your best friend forgot your birthday?","bn":"তোমার প্রিয় বন্ধু যদি তোমার জন্মদিন ভুলে যেত, তুমি কী বলতে?","words":[{"w":"forgot","bn":"ভুলে যেত","pos":"verb","base":"forget"},{"w":"best friend","bn":"প্রিয় বন্ধু","pos":"phrase"}]},
+            {"id":"05","en":"Who will look after Ayra if you both work late on Thursday?","bn":"বৃহস্পতিবার তোমরা দুজনেই দেরি পর্যন্ত কাজ করলে আয়রাকে কে দেখবে?","words":[{"w":"look after","bn":"দেখাশোনা করা","pos":"phrasal verb"},{"w":"work late","bn":"দেরি পর্যন্ত কাজ করা","pos":"phrase"}]},
+            {"id":"06","en":"How would you feel if your sister moved abroad?","bn":"তোমার বোন যদি বিদেশে চলে যেত, তোমার কেমন লাগত?","words":[{"w":"moved","bn":"চলে যেত","pos":"verb","base":"move"},{"w":"abroad","bn":"বিদেশে","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "A short text with first and second conditionals.",
+          "tipBn": "অনুচ্ছেদে If দিয়ে সম্ভাব্য আর কাল্পনিক পরিস্থিতির কথা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Planning the anniversary","en":"If everyone arrives in Sylhet by Thursday, we will have the anniversary dinner on Friday night. If it rains, we will eat inside instead of in the yard. Shormi says she will bake a cake if someone buys the ingredients. If Uncle Habib calls, we will put him on the big TV screen.","bn":"সবাই যদি বৃহস্পতিবারের মধ্যে সিলেটে পৌঁছায়, তাহলে আমরা শুক্রবার রাতে বিবাহবার্ষিকীর ডিনার করব। বৃষ্টি হলে আমরা উঠানের বদলে ঘরের ভেতরে খাব। শর্মি বলছে, কেউ উপকরণগুলো কিনে দিলে সে একটা কেক বানাবে। হাবিব চাচা ফোন করলে আমরা তাঁকে বড় টিভির পর্দায় দেখাব।","words":[{"w":"arrives","bn":"পৌঁছায়","pos":"verb","base":"arrive"},{"w":"instead of","bn":"এর বদলে","pos":"phrase"},{"w":"bake","bn":"বেক করা","pos":"verb"},{"w":"ingredients","bn":"উপকরণ","pos":"noun","base":"ingredient"}]},
+            {"id":"02","title":"If he lived closer","en":"Farhan often thinks about his parents. If he lived in Sylhet, he would see them every day and help them with small things. His father wouldn't have to climb the stairs to fix the water tank. But if he left Dhaka, he would lose his job.","bn":"ফারহান প্রায়ই তার মা-বাবার কথা ভাবে। সে যদি সিলেটে থাকত, তাহলে প্রতিদিন তাঁদের দেখত আর ছোটখাটো কাজে সাহায্য করত। পানির ট্যাংক ঠিক করতে তার বাবাকে সিঁড়ি বেয়ে উঠতে হতো না। কিন্তু সে যদি ঢাকা ছেড়ে যেত, তাহলে তার চাকরিটা চলে যেত।","words":[{"w":"climb","bn":"বেয়ে ওঠা","pos":"verb"},{"w":"stairs","bn":"সিঁড়ি","pos":"noun"},{"w":"water tank","bn":"পানির ট্যাংক","pos":"noun"},{"w":"lose","bn":"হারানো","pos":"verb"}]},
+            {"id":"03","title":"A friend's advice","en":"Rana gave Farhan some honest advice over tea. If Farhan worked from home two days a week, he could visit Sylhet much more often. If his boss agrees, Farhan will try it next month. If it works, the whole family will be happier.","bn":"চা খেতে খেতে রানা ফারহানকে কিছু খোলামেলা পরামর্শ দিল। ফারহান যদি সপ্তাহে দুই দিন বাসা থেকে কাজ করত, তাহলে আরও অনেক ঘন ঘন সিলেটে যেতে পারত। বস রাজি হলে ফারহান আগামী মাসে এটা চেষ্টা করে দেখবে। এটা কাজে লাগলে পুরো পরিবার আরও খুশি থাকবে।","words":[{"w":"honest","bn":"সৎ, খোলামেলা","pos":"adjective"},{"w":"advice","bn":"পরামর্শ","pos":"noun"},{"w":"worked from home","bn":"বাসা থেকে কাজ করত","pos":"phrase","base":"work from home"},{"w":"agrees","bn":"রাজি হয়","pos":"verb","base":"agree"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

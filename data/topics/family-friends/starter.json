@@ -1,0 +1,247 @@
+{
+  "topic": "family-friends",
+  "level": "starter",
+  "title": "Mitu's Big Family",
+  "story": "Mitu is eight years old. She lives in Mirpur, Dhaka, with her mom, her dad, her big brother Sakib and Grandma, her dad's mother. Her best friend Tania lives next door. Uncle Karim, her mom's brother, lives in Chattogram, and Grandpa, her mom's father, lives in Barishal.",
+  "storyBn": "মিতুর বয়স ৮ বছর। সে ঢাকার মিরপুরে মা, বাবা, বড় ভাই সাকিব আর দাদির সাথে থাকে। তার সবচেয়ে ভালো বন্ধু তানিয়া পাশের বাসায় থাকে। তার মামা করিম থাকেন চট্টগ্রামে, আর নানা থাকেন বরিশালে।",
+  "units": [
+    {
+      "grammar": "present-simple",
+      "focus": "Introduce your family and describe people",
+      "focusBn": "নিজের পরিবারের পরিচয় দেওয়া ও মানুষের বর্ণনা দেওয়া",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + is + adjective. / Subject + verb(s) + ...",
+          "tipBn": "মানুষের বর্ণনায় is বসে; he, she বা নামের পরে verb-এর সাথে s যোগ হয়।",
+          "items": [
+            {"id":"01","en":"Mitu has a big family.","bn":"মিতুর একটা বড় পরিবার আছে।","words":[{"w":"family","bn":"পরিবার","pos":"noun"}]},
+            {"id":"02","en":"Mitu is 8 years old.","bn":"মিতুর বয়স ৮ বছর।","words":[{"w":"years old","bn":"বছর বয়স","pos":"phrase"}]},
+            {"id":"03","en":"Her brother Sakib is tall.","bn":"তার ভাই সাকিব লম্বা।","words":[{"w":"brother","bn":"ভাই","pos":"noun"},{"w":"tall","bn":"লম্বা","pos":"adjective"}]},
+            {"id":"04","en":"Grandma has white hair.","bn":"দাদির চুল সাদা।","words":[{"w":"Grandma","bn":"দাদি, নানি","pos":"noun"},{"w":"hair","bn":"চুল","pos":"noun"}]},
+            {"id":"05","en":"Dad works in a bank.","bn":"বাবা একটা ব্যাংকে চাকরি করেন।","words":[{"w":"works","bn":"কাজ করে","pos":"verb","base":"work"}]},
+            {"id":"06","en":"Mom is kind and funny.","bn":"মা দয়ালু আর মজার মানুষ।","words":[{"w":"kind","bn":"দয়ালু","pos":"adjective"},{"w":"funny","bn":"মজার","pos":"adjective"}]},
+            {"id":"07","en":"Tania is Mitu's best friend.","bn":"তানিয়া মিতুর সবচেয়ে ভালো বন্ধু।","words":[{"w":"best friend","bn":"সবচেয়ে ভালো বন্ধু","pos":"phrase"}]},
+            {"id":"08","en":"Tania lives next door.","bn":"তানিয়া পাশের বাসায় থাকে।","words":[{"w":"lives","bn":"থাকে","pos":"verb","base":"live"},{"w":"next door","bn":"পাশের বাসায়","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + is not + adjective. / Subject + don't/doesn't + verb.",
+          "tipBn": "is এর পরে not বসে; অন্য verb-এর আগে don't বা doesn't বসে।",
+          "items": [
+            {"id":"01","en":"Sakib is not short.","bn":"সাকিব খাটো নয়।","words":[{"w":"short","bn":"খাটো","pos":"adjective"}]},
+            {"id":"02","en":"Grandma doesn't have black hair.","bn":"দাদির চুল কালো নয়।","words":[{"w":"black","bn":"কালো","pos":"adjective"},{"w":"hair","bn":"চুল","pos":"noun"}]},
+            {"id":"03","en":"Dad doesn't work on Fridays.","bn":"বাবা শুক্রবারে কাজ করেন না।","words":[{"w":"Fridays","bn":"শুক্রবার","pos":"noun","base":"Friday"}]},
+            {"id":"04","en":"Tania doesn't live far away.","bn":"তানিয়া দূরে থাকে না।","words":[{"w":"far away","bn":"দূরে","pos":"phrase"}]},
+            {"id":"05","en":"Uncle Karim doesn't live in Dhaka.","bn":"করিম মামা ঢাকায় থাকেন না।","words":[{"w":"Uncle","bn":"মামা, চাচা","pos":"noun"}]},
+            {"id":"06","en":"Mitu and Sakib don't fight much.","bn":"মিতু আর সাকিব বেশি ঝগড়া করে না।","words":[{"w":"fight","bn":"ঝগড়া করা","pos":"verb"},{"w":"much","bn":"বেশি","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Is + subject + adjective? / Do/Does + subject + verb ...?",
+          "tipBn": "প্রশ্ন করতে Is অথবা Do/Does বাক্যের শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Is Sakib tall?","bn":"সাকিব কি লম্বা?","words":[{"w":"tall","bn":"লম্বা","pos":"adjective"}]},
+            {"id":"02","en":"Does Grandma live with you?","bn":"দাদি কি তোমাদের সাথে থাকেন?","words":[{"w":"live with","bn":"সাথে থাকা","pos":"phrase"}]},
+            {"id":"03","en":"Is Tania your best friend?","bn":"তানিয়া কি তোমার সবচেয়ে ভালো বন্ধু?","words":[{"w":"best friend","bn":"সবচেয়ে ভালো বন্ধু","pos":"phrase"}]},
+            {"id":"04","en":"Does your dad work in a bank?","bn":"তোমার বাবা কি ব্যাংকে চাকরি করেন?","words":[{"w":"bank","bn":"ব্যাংক","pos":"noun"}]},
+            {"id":"05","en":"Do you have any cousins?","bn":"তোমার কি কোনো কাজিন আছে?","words":[{"w":"cousins","bn":"কাজিন, চাচাতো-মামাতো ভাইবোন","pos":"noun","base":"cousin"}]},
+            {"id":"06","en":"Is your mom a teacher?","bn":"তোমার মা কি শিক্ষক?","words":[{"w":"teacher","bn":"শিক্ষক","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + is/do/does + subject ...?",
+          "tipBn": "How old, Who, Where ইত্যাদি প্রশ্নশব্দ শুরুতে বসে, তারপর is বা do/does।",
+          "items": [
+            {"id":"01","en":"How old is Mitu?","bn":"মিতুর বয়স কত?","words":[{"w":"How old","bn":"বয়স কত","pos":"phrase"}]},
+            {"id":"02","en":"Where does Uncle Karim live?","bn":"করিম মামা কোথায় থাকেন?","words":[{"w":"Uncle","bn":"মামা, চাচা","pos":"noun"},{"w":"live","bn":"থাকা","pos":"verb"}]},
+            {"id":"03","en":"Who is your best friend?","bn":"তোমার সবচেয়ে ভালো বন্ধু কে?","words":[{"w":"Who","bn":"কে","pos":"pronoun"},{"w":"best friend","bn":"সবচেয়ে ভালো বন্ধু","pos":"phrase"}]},
+            {"id":"04","en":"What does your dad do?","bn":"তোমার বাবা কী করেন?","words":[{"w":"do","bn":"কাজ করা","pos":"verb"}]},
+            {"id":"05","en":"What color is Grandma's hair?","bn":"দাদির চুলের রং কী?","words":[{"w":"color","bn":"রং","pos":"noun"}]},
+            {"id":"06","en":"How many brothers do you have?","bn":"তোমার কয়জন ভাই আছে?","words":[{"w":"How many","bn":"কয়জন, কয়টি","pos":"phrase"},{"w":"brothers","bn":"ভাই","pos":"noun","base":"brother"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "present-continuous",
+      "focus": "Talk about a family lunch happening now",
+      "focusBn": "এখন চলমান পারিবারিক দুপুরের খাবার নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + verb-ing ...",
+          "tipBn": "এখন যা ঘটছে তা বলতে am, is বা are এর পরে verb-এর সাথে ing যোগ হয়।",
+          "items": [
+            {"id":"01","en":"Uncle Karim is staying with us this week.","bn":"করিম মামা এই সপ্তাহে আমাদের সাথে থাকছেন।","words":[{"w":"staying","bn":"থাকছে","pos":"verb","base":"stay"}]},
+            {"id":"02","en":"Mom is cooking biryani.","bn":"মা বিরিয়ানি রান্না করছেন।","words":[{"w":"cooking","bn":"রান্না করছে","pos":"verb","base":"cook"}]},
+            {"id":"03","en":"Mitu is setting the table.","bn":"মিতু টেবিল সাজাচ্ছে।","words":[{"w":"setting the table","bn":"টেবিল সাজানো","pos":"phrase"}]},
+            {"id":"04","en":"Grandma is telling a story.","bn":"দাদি একটা গল্প বলছেন।","words":[{"w":"telling","bn":"বলছে","pos":"verb","base":"tell"},{"w":"story","bn":"গল্প","pos":"noun"}]},
+            {"id":"05","en":"Sakib and Uncle Karim are talking.","bn":"সাকিব আর করিম মামা কথা বলছেন।","words":[{"w":"talking","bn":"কথা বলছে","pos":"verb","base":"talk"}]},
+            {"id":"06","en":"Everyone is laughing at the table.","bn":"টেবিলে সবাই হাসছে।","words":[{"w":"Everyone","bn":"সবাই","pos":"pronoun"},{"w":"laughing","bn":"হাসছে","pos":"verb","base":"laugh"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + verb-ing ...",
+          "tipBn": "am, is বা are এর পরে not বসিয়ে না-বোধক বাক্য হয়।",
+          "items": [
+            {"id":"01","en":"Mom is not cooking fish today.","bn":"মা আজ মাছ রান্না করছেন না।","words":[{"w":"fish","bn":"মাছ","pos":"noun"}]},
+            {"id":"02","en":"Sakib isn't helping Mitu.","bn":"সাকিব মিতুকে সাহায্য করছে না।","words":[{"w":"helping","bn":"সাহায্য করছে","pos":"verb","base":"help"}]},
+            {"id":"03","en":"Grandma is not sleeping now.","bn":"দাদি এখন ঘুমাচ্ছেন না।","words":[{"w":"sleeping","bn":"ঘুমাচ্ছে","pos":"verb","base":"sleep"}]},
+            {"id":"04","en":"Uncle Karim isn't staying at a hotel.","bn":"করিম মামা হোটেলে থাকছেন না।","words":[{"w":"staying","bn":"থাকছে","pos":"verb","base":"stay"},{"w":"hotel","bn":"হোটেল","pos":"noun"}]},
+            {"id":"05","en":"The children aren't fighting now.","bn":"বাচ্চারা এখন ঝগড়া করছে না।","words":[{"w":"children","bn":"বাচ্চারা","pos":"noun","base":"child"},{"w":"fighting","bn":"ঝগড়া করছে","pos":"verb","base":"fight"}]},
+            {"id":"06","en":"Nobody is using a phone at lunch.","bn":"দুপুরের খাবারের সময় কেউ ফোন চালাচ্ছে না।","words":[{"w":"Nobody","bn":"কেউ না","pos":"pronoun"},{"w":"using","bn":"ব্যবহার করছে","pos":"verb","base":"use"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে am, is বা are বাক্যের শুরুতে চলে যায়।",
+          "items": [
+            {"id":"01","en":"Is Mom cooking biryani?","bn":"মা কি বিরিয়ানি রান্না করছেন?","words":[{"w":"cooking","bn":"রান্না করছে","pos":"verb","base":"cook"}]},
+            {"id":"02","en":"Is Uncle Karim staying with you?","bn":"করিম মামা কি তোমাদের সাথে থাকছেন?","words":[{"w":"staying","bn":"থাকছে","pos":"verb","base":"stay"}]},
+            {"id":"03","en":"Are you setting the table, Mitu?","bn":"মিতু, তুমি কি টেবিল সাজাচ্ছ?","words":[{"w":"setting the table","bn":"টেবিল সাজানো","pos":"phrase"}]},
+            {"id":"04","en":"Is Grandma telling a funny story?","bn":"দাদি কি মজার গল্প বলছেন?","words":[{"w":"funny","bn":"মজার","pos":"adjective"},{"w":"story","bn":"গল্প","pos":"noun"}]},
+            {"id":"05","en":"Are your cousins coming too?","bn":"তোমার কাজিনরাও কি আসছে?","words":[{"w":"cousins","bn":"কাজিন","pos":"noun","base":"cousin"},{"w":"coming","bn":"আসছে","pos":"verb","base":"come"}]},
+            {"id":"06","en":"Is Tania eating with us?","bn":"তানিয়া কি আমাদের সাথে খাচ্ছে?","words":[{"w":"eating","bn":"খাচ্ছে","pos":"verb","base":"eat"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + verb-ing?",
+          "tipBn": "প্রশ্নশব্দ শুরুতে বসে, তারপর is বা are, তারপর subject আর verb-ing।",
+          "items": [
+            {"id":"01","en":"What is Mom cooking?","bn":"মা কী রান্না করছেন?","words":[{"w":"cooking","bn":"রান্না করছে","pos":"verb","base":"cook"}]},
+            {"id":"02","en":"Who is Sakib talking to?","bn":"সাকিব কার সাথে কথা বলছে?","words":[{"w":"talking to","bn":"কারও সাথে কথা বলা","pos":"phrase"}]},
+            {"id":"03","en":"Why is everyone laughing?","bn":"সবাই হাসছে কেন?","words":[{"w":"laughing","bn":"হাসছে","pos":"verb","base":"laugh"}]},
+            {"id":"04","en":"Where is Uncle Karim sitting?","bn":"করিম মামা কোথায় বসে আছেন?","words":[{"w":"sitting","bn":"বসে আছে","pos":"verb","base":"sit"}]},
+            {"id":"05","en":"What are the children doing?","bn":"বাচ্চারা কী করছে?","words":[{"w":"children","bn":"বাচ্চারা","pos":"noun","base":"child"}]},
+            {"id":"06","en":"How long is Uncle Karim staying?","bn":"করিম মামা কতদিন থাকছেন?","words":[{"w":"How long","bn":"কতদিন","pos":"phrase"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-simple",
+      "focus": "Talk about Sakib's birthday last week",
+      "focusBn": "গত সপ্তাহে সাকিবের জন্মদিন নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb (past) + ...",
+          "tipBn": "অতীতের কাজ বলতে verb-এর past রূপ বসে: came, gave, sent।",
+          "items": [
+            {"id":"01","en":"Sakib turned 14 last Friday.","bn":"গত শুক্রবার সাকিবের ১৪ বছর পূর্ণ হলো।","words":[{"w":"turned","bn":"বয়সে পা দিল","pos":"verb","base":"turn"}]},
+            {"id":"02","en":"We had a party at home.","bn":"আমরা বাসায় একটা পার্টি করলাম।","words":[{"w":"had a party","bn":"পার্টি করলাম","pos":"phrase"}]},
+            {"id":"03","en":"Tania came with a gift.","bn":"তানিয়া একটা উপহার নিয়ে এলো।","words":[{"w":"came","bn":"এলো","pos":"verb","base":"come"},{"w":"gift","bn":"উপহার","pos":"noun"}]},
+            {"id":"04","en":"Aunt Rina sent a big cake.","bn":"রিনা ফুপু একটা বড় কেক পাঠালেন।","words":[{"w":"Aunt","bn":"ফুপু, খালা","pos":"noun"},{"w":"sent","bn":"পাঠাল","pos":"verb","base":"send"}]},
+            {"id":"05","en":"Grandma gave Sakib a watch.","bn":"দাদি সাকিবকে একটা ঘড়ি দিলেন।","words":[{"w":"gave","bn":"দিল","pos":"verb","base":"give"},{"w":"watch","bn":"ঘড়ি","pos":"noun"}]},
+            {"id":"06","en":"Uncle Karim called him from Chattogram.","bn":"করিম মামা চট্টগ্রাম থেকে ওকে ফোন করলেন।","words":[{"w":"called","bn":"ফোন করল","pos":"verb","base":"call"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + didn't + verb (base) + ...",
+          "tipBn": "অতীতের না-বোধক বাক্যে didn't বসে আর verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Aunt Rina didn't come to the party.","bn":"রিনা ফুপু পার্টিতে আসেননি।","words":[{"w":"Aunt","bn":"ফুপু, খালা","pos":"noun"},{"w":"party","bn":"পার্টি, অনুষ্ঠান","pos":"noun"}]},
+            {"id":"02","en":"Tania didn't come late.","bn":"তানিয়া দেরি করে আসেনি।","words":[{"w":"late","bn":"দেরিতে","pos":"adverb"}]},
+            {"id":"03","en":"We didn't go to a restaurant.","bn":"আমরা রেস্টুরেন্টে যাইনি।","words":[{"w":"restaurant","bn":"রেস্টুরেন্ট","pos":"noun"}]},
+            {"id":"04","en":"Sakib didn't cut the cake alone.","bn":"সাকিব একা কেক কাটেনি।","words":[{"w":"cut","bn":"কাটা","pos":"verb"},{"w":"alone","bn":"একা","pos":"adverb"}]},
+            {"id":"05","en":"Grandma didn't give him a toy.","bn":"দাদি ওকে কোনো খেলনা দেননি।","words":[{"w":"toy","bn":"খেলনা","pos":"noun"}]},
+            {"id":"06","en":"Uncle Karim didn't forget his birthday.","bn":"করিম মামা ওর জন্মদিনের কথা ভোলেননি।","words":[{"w":"forget","bn":"ভুলে যাওয়া","pos":"verb"},{"w":"birthday","bn":"জন্মদিন","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Did + subject + verb (base) + ...?",
+          "tipBn": "অতীতের প্রশ্নে Did শুরুতে বসে আর verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Did Sakib turn 14 last Friday?","bn":"গত শুক্রবার কি সাকিবের ১৪ বছর পূর্ণ হলো?","words":[{"w":"turn","bn":"বয়সে পা দেওয়া","pos":"verb"}]},
+            {"id":"02","en":"Did you have a party at home?","bn":"তোমরা কি বাসায় পার্টি করেছিলে?","words":[{"w":"have a party","bn":"পার্টি করা","pos":"phrase"}]},
+            {"id":"03","en":"Did Tania bring a gift?","bn":"তানিয়া কি উপহার এনেছিল?","words":[{"w":"bring","bn":"আনা","pos":"verb"},{"w":"gift","bn":"উপহার","pos":"noun"}]},
+            {"id":"04","en":"Did Aunt Rina send a cake?","bn":"রিনা ফুপু কি কেক পাঠিয়েছিলেন?","words":[{"w":"send","bn":"পাঠানো","pos":"verb"}]},
+            {"id":"05","en":"Did Sakib like the watch?","bn":"সাকিবের কি ঘড়িটা পছন্দ হয়েছিল?","words":[{"w":"like","bn":"পছন্দ করা","pos":"verb"},{"w":"watch","bn":"ঘড়ি","pos":"noun"}]},
+            {"id":"06","en":"Did your friends sing for you?","bn":"তোমার বন্ধুরা কি তোমার জন্য গান গেয়েছিল?","words":[{"w":"sing","bn":"গান গাওয়া","pos":"verb"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + did + subject + verb (base)? / Who + verb (past)?",
+          "tipBn": "প্রশ্নশব্দের পরে did বসে আর verb মূল রূপে থাকে; Who দিয়ে কর্তা জানতে চাইলে verb past রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"When did Sakib turn 14?","bn":"সাকিবের ১৪ বছর পূর্ণ হলো কবে?","words":[{"w":"When","bn":"কখন, কবে","pos":"adverb"}]},
+            {"id":"02","en":"What did Grandma give him?","bn":"দাদি ওকে কী দিলেন?","words":[{"w":"give","bn":"দেওয়া","pos":"verb"}]},
+            {"id":"03","en":"Who sent the big cake?","bn":"বড় কেকটা কে পাঠিয়েছিল?","words":[{"w":"sent","bn":"পাঠাল","pos":"verb","base":"send"}]},
+            {"id":"04","en":"How many friends came to the party?","bn":"পার্টিতে কয়জন বন্ধু এসেছিল?","words":[{"w":"How many","bn":"কয়জন","pos":"phrase"},{"w":"came","bn":"এলো","pos":"verb","base":"come"}]},
+            {"id":"05","en":"Where did you buy the balloons?","bn":"তোমরা বেলুনগুলো কোথায় কিনেছিলে?","words":[{"w":"balloons","bn":"বেলুন","pos":"noun","base":"balloon"}]},
+            {"id":"06","en":"Why did Uncle Karim call?","bn":"করিম মামা ফোন করেছিলেন কেন?","words":[{"w":"call","bn":"ফোন করা","pos":"verb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "future-will",
+      "focus": "Make plans and promises for Eid with family",
+      "focusBn": "পরিবারের সাথে ঈদের পরিকল্পনা ও প্রতিশ্রুতি দেওয়া",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + will + verb (base) + ...",
+          "tipBn": "ভবিষ্যতের কাজ বা প্রতিশ্রুতি বলতে will এর পরে verb মূল রূপে বসে।",
+          "items": [
+            {"id":"01","en":"We will visit Grandpa for Eid.","bn":"ঈদে আমরা নানার বাড়ি বেড়াতে যাব।","words":[{"w":"visit","bn":"বেড়াতে যাওয়া","pos":"verb"},{"w":"Grandpa","bn":"নানা, দাদা","pos":"noun"}]},
+            {"id":"02","en":"Mitu will wear a new dress.","bn":"মিতু নতুন জামা পরবে।","words":[{"w":"wear","bn":"পরা","pos":"verb"},{"w":"dress","bn":"জামা","pos":"noun"}]},
+            {"id":"03","en":"Mom will cook sweet vermicelli.","bn":"মা মিষ্টি সেমাই রান্না করবেন।","words":[{"w":"vermicelli","bn":"সেমাই","pos":"noun"}]},
+            {"id":"04","en":"I will call Tania on Eid day.","bn":"ঈদের দিন আমি তানিয়াকে ফোন করব।","words":[{"w":"call","bn":"ফোন করা","pos":"verb"}]},
+            {"id":"05","en":"Grandpa will give us Eid money.","bn":"নানা আমাদের সালামি দেবেন।","words":[{"w":"Eid money","bn":"সালামি","pos":"phrase"}]},
+            {"id":"06","en":"Sakib will carry Grandma's bag.","bn":"সাকিব দাদির ব্যাগ বয়ে নেবে।","words":[{"w":"carry","bn":"বহন করা","pos":"verb"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + won't (will not) + verb (base) + ...",
+          "tipBn": "will এর পরে not বসে; সংক্ষেপে won't বলা হয়।",
+          "items": [
+            {"id":"01","en":"We won't stay in Dhaka for Eid.","bn":"ঈদে আমরা ঢাকায় থাকব না।","words":[{"w":"won't","bn":"করবে না","pos":"other"},{"w":"stay","bn":"থাকা","pos":"verb"}]},
+            {"id":"02","en":"Mitu won't wear her old dress.","bn":"মিতু তার পুরোনো জামা পরবে না।","words":[{"w":"old","bn":"পুরোনো","pos":"adjective"}]},
+            {"id":"03","en":"I will not forget to call Tania.","bn":"আমি তানিয়াকে ফোন করতে ভুলব না।","words":[{"w":"forget","bn":"ভুলে যাওয়া","pos":"verb"}]},
+            {"id":"04","en":"Tania won't come with us.","bn":"তানিয়া আমাদের সাথে যাবে না।","words":[{"w":"come with","bn":"সাথে যাওয়া","pos":"phrase"}]},
+            {"id":"05","en":"Grandpa won't forget the Eid money.","bn":"নানা সালামি দিতে ভুলবেন না।","words":[{"w":"Eid money","bn":"সালামি","pos":"phrase"}]},
+            {"id":"06","en":"The bus won't leave late.","bn":"বাস দেরিতে ছাড়বে না।","words":[{"w":"leave","bn":"ছেড়ে যাওয়া","pos":"verb"},{"w":"late","bn":"দেরিতে","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Will + subject + verb (base) + ...?",
+          "tipBn": "প্রশ্ন করতে Will বাক্যের শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Will you visit Grandpa for Eid?","bn":"তোমরা কি ঈদে নানার বাড়ি বেড়াতে যাবে?","words":[{"w":"visit","bn":"বেড়াতে যাওয়া","pos":"verb"}]},
+            {"id":"02","en":"Will Mitu wear a new dress?","bn":"মিতু কি নতুন জামা পরবে?","words":[{"w":"dress","bn":"জামা","pos":"noun"}]},
+            {"id":"03","en":"Will Mom cook sweet vermicelli?","bn":"মা কি মিষ্টি সেমাই রান্না করবেন?","words":[{"w":"sweet","bn":"মিষ্টি","pos":"adjective"},{"w":"vermicelli","bn":"সেমাই","pos":"noun"}]},
+            {"id":"04","en":"Will Aunt Rina come too?","bn":"রিনা ফুপুও কি আসবেন?","words":[{"w":"Aunt","bn":"ফুপু, খালা","pos":"noun"}]},
+            {"id":"05","en":"Will you call me on Eid day?","bn":"ঈদের দিন তুমি কি আমাকে ফোন করবে?","words":[{"w":"call","bn":"ফোন করা","pos":"verb"}]},
+            {"id":"06","en":"Will Grandpa be happy to see us?","bn":"নানা কি আমাদের দেখে খুশি হবেন?","words":[{"w":"happy","bn":"খুশি","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + will + subject + verb (base)? / Who + will + verb?",
+          "tipBn": "প্রশ্নশব্দের পরে will বসে, তারপর subject আর verb মূল রূপে।",
+          "items": [
+            {"id":"01","en":"When will you leave for Barishal?","bn":"তোমরা কবে বরিশালের উদ্দেশে রওনা দেবে?","words":[{"w":"leave for","bn":"রওনা দেওয়া","pos":"phrase"}]},
+            {"id":"02","en":"What will Mitu wear on Eid day?","bn":"ঈদের দিন মিতু কী পরবে?","words":[{"w":"wear","bn":"পরা","pos":"verb"}]},
+            {"id":"03","en":"Who will carry Grandma's bag?","bn":"দাদির ব্যাগ কে বয়ে নেবে?","words":[{"w":"carry","bn":"বহন করা","pos":"verb"}]},
+            {"id":"04","en":"How long will you stay there?","bn":"তোমরা সেখানে কতদিন থাকবে?","words":[{"w":"How long","bn":"কতদিন","pos":"phrase"}]},
+            {"id":"05","en":"What will Grandpa give you?","bn":"নানা তোমাদের কী দেবেন?","words":[{"w":"Grandpa","bn":"নানা, দাদা","pos":"noun"}]},
+            {"id":"06","en":"Where will Uncle Karim spend Eid?","bn":"করিম মামা কোথায় ঈদ করবেন?","words":[{"w":"spend","bn":"কাটানো","pos":"verb"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

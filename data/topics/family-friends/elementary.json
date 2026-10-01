@@ -1,0 +1,271 @@
+{
+  "topic": "family-friends",
+  "level": "elementary",
+  "title": "Ruma's New Life in Dhaka",
+  "story": "Ruma is 24 and works in an office in Dhaka. She lives in Uttara with her younger sister Nupur, a college student. Their kind neighbor Mrs. Haque lives downstairs, and Joya is Ruma's friend from work. Their parents live in Rajshahi, and next month their cousin Arif, their mom's brother's son, is getting married there.",
+  "storyBn": "রুমার বয়স ২৪, সে ঢাকার একটা অফিসে চাকরি করে। সে উত্তরায় তার ছোট বোন নূপুরের সাথে থাকে; নূপুর কলেজে পড়ে। তাদের দয়ালু প্রতিবেশী হক আন্টি নিচতলায় থাকেন, আর জয়া রুমার অফিসের বন্ধু। তাদের মা-বাবা থাকেন রাজশাহীতে, আর আগামী মাসে সেখানে তাদের মামাতো ভাই আরিফের বিয়ে।",
+  "units": [
+    {
+      "grammar": "present-simple",
+      "focus": "Talk about neighbors, friends and family habits",
+      "focusBn": "প্রতিবেশী, বন্ধু ও পরিবারের অভ্যাস নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb(s) + ... / Subject + is + adjective.",
+          "tipBn": "অভ্যাস ও সাধারণ সত্য বলতে present simple বসে; he, she বা নামের পরে verb-এ s যোগ হয়।",
+          "items": [
+            {"id":"01","en":"Ruma lives in Uttara with her younger sister.","bn":"রুমা উত্তরায় তার ছোট বোনের সাথে থাকে।","words":[{"w":"younger sister","bn":"ছোট বোন","pos":"phrase"}]},
+            {"id":"02","en":"Their neighbor, Mrs. Haque, is very friendly.","bn":"তাদের প্রতিবেশী হক আন্টি খুব মিশুক।","words":[{"w":"neighbor","bn":"প্রতিবেশী","pos":"noun"},{"w":"friendly","bn":"মিশুক, বন্ধুসুলভ","pos":"adjective"}]},
+            {"id":"03","en":"Mrs. Haque often sends them homemade food.","bn":"হক আন্টি প্রায়ই তাদের জন্য বাসায় রান্না করা খাবার পাঠান।","words":[{"w":"often","bn":"প্রায়ই","pos":"adverb"},{"w":"homemade","bn":"ঘরে তৈরি","pos":"adjective"}]},
+            {"id":"04","en":"Ruma and Joya work in the same office.","bn":"রুমা আর জয়া একই অফিসে কাজ করে।","words":[{"w":"same","bn":"একই","pos":"adjective"}]},
+            {"id":"05","en":"Joya is cheerful and always on time.","bn":"জয়া হাসিখুশি আর সবসময় সময়মতো আসে।","words":[{"w":"cheerful","bn":"হাসিখুশি","pos":"adjective"},{"w":"on time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"06","en":"Mom calls Ruma from Rajshahi every evening.","bn":"মা প্রতিদিন সন্ধ্যায় রাজশাহী থেকে রুমাকে ফোন করেন।","words":[{"w":"calls","bn":"ফোন করে","pos":"verb","base":"call"},{"w":"every evening","bn":"প্রতি সন্ধ্যায়","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + don't/doesn't + verb (base). / Subject + is not + adjective.",
+          "tipBn": "verb-এর আগে don't বা doesn't বসে; is এর পরে not বসে; never মানে কখনো না।",
+          "items": [
+            {"id":"01","en":"Ruma doesn't live with her parents.","bn":"রুমা তার মা-বাবার সাথে থাকে না।","words":[{"w":"parents","bn":"মা-বাবা","pos":"noun","base":"parent"}]},
+            {"id":"02","en":"Mrs. Haque isn't strict at all.","bn":"হক আন্টি একটুও কড়া নন।","words":[{"w":"strict","bn":"কড়া","pos":"adjective"},{"w":"at all","bn":"একটুও","pos":"phrase"}]},
+            {"id":"03","en":"Nupur doesn't cook on weekdays.","bn":"নূপুর সপ্তাহের কাজের দিনগুলোতে রান্না করে না।","words":[{"w":"weekdays","bn":"কাজের দিন","pos":"noun","base":"weekday"}]},
+            {"id":"04","en":"Joya doesn't live near Ruma.","bn":"জয়া রুমার কাছাকাছি থাকে না।","words":[{"w":"near","bn":"কাছে","pos":"preposition"}]},
+            {"id":"05","en":"Joya is never late for work.","bn":"জয়া কখনো অফিসে দেরি করে না।","words":[{"w":"never","bn":"কখনো না","pos":"adverb"},{"w":"late","bn":"দেরি","pos":"adjective"}]},
+            {"id":"06","en":"Mom never misses her evening call.","bn":"মা কখনো সন্ধ্যার ফোনটা বাদ দেন না।","words":[{"w":"misses","bn":"বাদ দেয়","pos":"verb","base":"miss"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Do/Does + subject + verb (base) ...? / Is + subject + adjective?",
+          "tipBn": "প্রশ্ন করতে Do, Does বা Is বাক্যের শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Does Ruma live with her younger sister?","bn":"রুমা কি তার ছোট বোনের সাথে থাকে?","words":[{"w":"younger sister","bn":"ছোট বোন","pos":"phrase"}]},
+            {"id":"02","en":"Is Mrs. Haque friendly with everyone?","bn":"হক আন্টি কি সবার সাথে মিশুক?","words":[{"w":"friendly","bn":"মিশুক, বন্ধুসুলভ","pos":"adjective"}]},
+            {"id":"03","en":"Do your neighbors visit you often?","bn":"তোমার প্রতিবেশীরা কি প্রায়ই তোমার বাসায় আসেন?","words":[{"w":"neighbors","bn":"প্রতিবেশীরা","pos":"noun","base":"neighbor"},{"w":"visit","bn":"বেড়াতে আসা","pos":"verb"}]},
+            {"id":"04","en":"Does Joya work in your office?","bn":"জয়া কি তোমার অফিসে কাজ করে?","words":[{"w":"work","bn":"কাজ করা","pos":"verb"}]},
+            {"id":"05","en":"Do you and Joya eat lunch together?","bn":"তুমি আর জয়া কি একসাথে দুপুরের খাবার খাও?","words":[{"w":"together","bn":"একসাথে","pos":"adverb"}]},
+            {"id":"06","en":"Does your mom call you every evening?","bn":"তোমার মা কি প্রতিদিন সন্ধ্যায় তোমাকে ফোন করেন?","words":[{"w":"every evening","bn":"প্রতি সন্ধ্যায়","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Don't/Doesn't/Isn't/Aren't + subject + ...?",
+          "tipBn": "অবাক হয়ে বা নিশ্চিত হতে Don't, Doesn't, Isn't বা Aren't দিয়ে প্রশ্ন শুরু হয়।",
+          "items": [
+            {"id":"01","en":"Doesn't Mrs. Haque have grandchildren?","bn":"হক আন্টির কি নাতি-নাতনি নেই?","words":[{"w":"grandchildren","bn":"নাতি-নাতনি","pos":"noun","base":"grandchild"}]},
+            {"id":"02","en":"Isn't Joya your best friend at work?","bn":"জয়া কি অফিসে তোমার সবচেয়ে কাছের বন্ধু নয়?","words":[{"w":"best friend","bn":"সবচেয়ে কাছের বন্ধু","pos":"phrase"}]},
+            {"id":"03","en":"Don't you miss your parents?","bn":"তোমার কি মা-বাবার কথা মনে পড়ে না?","words":[{"w":"miss","bn":"অভাব বোধ করা, মনে পড়া","pos":"verb"}]},
+            {"id":"04","en":"Doesn't Nupur help you at home?","bn":"নূপুর কি বাসায় তোমাকে সাহায্য করে না?","words":[{"w":"help","bn":"সাহায্য করা","pos":"verb"}]},
+            {"id":"05","en":"Aren't your neighbors friendly?","bn":"তোমার প্রতিবেশীরা কি মিশুক নন?","words":[{"w":"neighbors","bn":"প্রতিবেশীরা","pos":"noun","base":"neighbor"},{"w":"friendly","bn":"মিশুক","pos":"adjective"}]},
+            {"id":"06","en":"Doesn't your mom call every evening?","bn":"তোমার মা কি প্রতিদিন সন্ধ্যায় ফোন করেন না?","words":[{"w":"every evening","bn":"প্রতি সন্ধ্যায়","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + do/does/is + subject ...?",
+          "tipBn": "Where, How often, Who ইত্যাদি প্রশ্নশব্দ শুরুতে বসে, তারপর do/does বা is।",
+          "items": [
+            {"id":"01","en":"Where does Ruma's family live?","bn":"রুমার পরিবার কোথায় থাকে?","words":[{"w":"family","bn":"পরিবার","pos":"noun"}]},
+            {"id":"02","en":"How often does Mrs. Haque send food?","bn":"হক আন্টি কত ঘন ঘন খাবার পাঠান?","words":[{"w":"How often","bn":"কত ঘন ঘন","pos":"phrase"}]},
+            {"id":"03","en":"What does Nupur study at college?","bn":"নূপুর কলেজে কী নিয়ে পড়ে?","words":[{"w":"study","bn":"পড়াশোনা করা","pos":"verb"}]},
+            {"id":"04","en":"Who is your closest friend at work?","bn":"অফিসে তোমার সবচেয়ে কাছের বন্ধু কে?","words":[{"w":"closest","bn":"সবচেয়ে কাছের","pos":"adjective","base":"close"}]},
+            {"id":"05","en":"Why does Joya like Ruma so much?","bn":"জয়া রুমাকে এত পছন্দ করে কেন?","words":[{"w":"so much","bn":"এত বেশি","pos":"phrase"}]},
+            {"id":"06","en":"What time does your mom usually call?","bn":"তোমার মা সাধারণত কয়টায় ফোন করেন?","words":[{"w":"What time","bn":"কয়টায়","pos":"phrase"},{"w":"usually","bn":"সাধারণত","pos":"adverb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "present-continuous",
+      "focus": "Talk during a video call with family",
+      "focusBn": "পরিবারের সাথে ভিডিও কলে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + verb-ing ...",
+          "tipBn": "এই মুহূর্তে যা ঘটছে তা বলতে am, is বা are এর পরে verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"Ruma is video calling her parents right now.","bn":"রুমা এখন তার মা-বাবার সাথে ভিডিও কলে কথা বলছে।","words":[{"w":"video calling","bn":"ভিডিও কল করছে","pos":"verb","base":"video call"},{"w":"right now","bn":"ঠিক এখন","pos":"phrase"}]},
+            {"id":"02","en":"Dad is showing her the new garden.","bn":"বাবা তাকে নতুন বাগানটা দেখাচ্ছেন।","words":[{"w":"showing","bn":"দেখাচ্ছে","pos":"verb","base":"show"},{"w":"garden","bn":"বাগান","pos":"noun"}]},
+            {"id":"03","en":"Mom is smiling and waving at the screen.","bn":"মা হাসছেন আর স্ক্রিনের দিকে হাত নাড়ছেন।","words":[{"w":"waving","bn":"হাত নাড়ছে","pos":"verb","base":"wave"},{"w":"screen","bn":"পর্দা, স্ক্রিন","pos":"noun"}]},
+            {"id":"04","en":"Nupur is sitting next to Ruma.","bn":"নূপুর রুমার পাশে বসে আছে।","words":[{"w":"next to","bn":"পাশে","pos":"preposition"}]},
+            {"id":"05","en":"Aunt Shila is visiting them this week.","bn":"শিলা খালা এই সপ্তাহে ওদের বাসায় বেড়াচ্ছেন।","words":[{"w":"Aunt","bn":"খালা, ফুপু","pos":"noun"},{"w":"visiting","bn":"বেড়াতে আসছে","pos":"verb","base":"visit"}]},
+            {"id":"06","en":"Everyone is talking at the same time.","bn":"সবাই একসাথে কথা বলছে।","words":[{"w":"at the same time","bn":"একই সময়ে","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + verb-ing ...",
+          "tipBn": "am, is বা are এর পরে not বসে; সংক্ষেপে isn't, aren't বলা হয়।",
+          "items": [
+            {"id":"01","en":"Ruma isn't calling from the office.","bn":"রুমা অফিস থেকে ফোন করছে না।","words":[{"w":"calling","bn":"ফোন করছে","pos":"verb","base":"call"}]},
+            {"id":"02","en":"The internet isn't working well today.","bn":"আজ ইন্টারনেট ঠিকমতো কাজ করছে না।","words":[{"w":"working","bn":"কাজ করছে","pos":"verb","base":"work"}]},
+            {"id":"03","en":"Mom isn't crying this time.","bn":"মা এবার কাঁদছেন না।","words":[{"w":"crying","bn":"কাঁদছে","pos":"verb","base":"cry"},{"w":"this time","bn":"এবার","pos":"phrase"}]},
+            {"id":"04","en":"Nupur isn't talking much today.","bn":"নূপুর আজ বেশি কথা বলছে না।","words":[{"w":"much","bn":"বেশি","pos":"adverb"}]},
+            {"id":"05","en":"Aunt Shila isn't staying for long.","bn":"শিলা খালা বেশিদিন থাকছেন না।","words":[{"w":"staying","bn":"থাকছে","pos":"verb","base":"stay"},{"w":"for long","bn":"বেশিদিন","pos":"phrase"}]},
+            {"id":"06","en":"Nobody is listening to Dad.","bn":"কেউ বাবার কথা শুনছে না।","words":[{"w":"Nobody","bn":"কেউ না","pos":"pronoun"},{"w":"listening to","bn":"কথা শোনা","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে am, is বা are বাক্যের শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Are you video calling your parents?","bn":"তুমি কি তোমার মা-বাবার সাথে ভিডিও কলে কথা বলছ?","words":[{"w":"video calling","bn":"ভিডিও কল করছে","pos":"verb","base":"video call"}]},
+            {"id":"02","en":"Is Dad showing you the garden?","bn":"বাবা কি তোমাকে বাগানটা দেখাচ্ছেন?","words":[{"w":"showing","bn":"দেখাচ্ছে","pos":"verb","base":"show"}]},
+            {"id":"03","en":"Is the video freezing again?","bn":"ভিডিও কি আবার আটকে যাচ্ছে?","words":[{"w":"freezing","bn":"আটকে যাচ্ছে","pos":"verb","base":"freeze"}]},
+            {"id":"04","en":"Is Aunt Shila staying with you?","bn":"শিলা খালা কি তোমাদের সাথে থাকছেন?","words":[{"w":"staying","bn":"থাকছে","pos":"verb","base":"stay"}]},
+            {"id":"05","en":"Are you eating well these days?","bn":"তুমি কি আজকাল ঠিকমতো খাওয়াদাওয়া করছ?","words":[{"w":"these days","bn":"আজকাল","pos":"phrase"}]},
+            {"id":"06","en":"Is Nupur studying hard for her exams?","bn":"নূপুর কি পরীক্ষার জন্য মন দিয়ে পড়ছে?","words":[{"w":"studying hard","bn":"মন দিয়ে পড়ছে","pos":"phrase"},{"w":"exams","bn":"পরীক্ষা","pos":"noun","base":"exam"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + verb-ing?",
+          "tipBn": "প্রশ্নশব্দ শুরুতে, তারপর is বা are, তারপর subject আর verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"Who are you talking to, Ruma?","bn":"রুমা, তুমি কার সাথে কথা বলছ?","words":[{"w":"talking to","bn":"কারও সাথে কথা বলা","pos":"phrase"}]},
+            {"id":"02","en":"What is Dad showing you?","bn":"বাবা তোমাকে কী দেখাচ্ছেন?","words":[{"w":"showing","bn":"দেখাচ্ছে","pos":"verb","base":"show"}]},
+            {"id":"03","en":"Why is Mom waving at the screen?","bn":"মা স্ক্রিনের দিকে হাত নাড়ছেন কেন?","words":[{"w":"waving","bn":"হাত নাড়ছে","pos":"verb","base":"wave"}]},
+            {"id":"04","en":"Where is Aunt Shila staying?","bn":"শিলা খালা কোথায় থাকছেন?","words":[{"w":"Aunt","bn":"খালা, ফুপু","pos":"noun"}]},
+            {"id":"05","en":"How is Nupur doing at college?","bn":"কলেজে নূপুরের পড়াশোনা কেমন চলছে?","words":[{"w":"doing","bn":"কেমন চলছে","pos":"verb","base":"do"}]},
+            {"id":"06","en":"What are you cooking for dinner tonight?","bn":"আজ রাতের খাবারে তুমি কী রান্না করছ?","words":[{"w":"dinner","bn":"রাতের খাবার","pos":"noun"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-simple",
+      "focus": "Talk about an argument with a friend and making up",
+      "focusBn": "বন্ধুর সাথে ঝগড়া আর মিটমাট নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb (past) + ...",
+          "tipBn": "অতীতের ঘটনা বলতে verb-এর past রূপ বসে: had, forgot, said।",
+          "items": [
+            {"id":"01","en":"Ruma and Joya had an argument last week.","bn":"গত সপ্তাহে রুমা আর জয়ার মধ্যে তর্ক হয়েছিল।","words":[{"w":"argument","bn":"তর্ক, কথা কাটাকাটি","pos":"noun"}]},
+            {"id":"02","en":"Joya forgot Ruma's birthday.","bn":"জয়া রুমার জন্মদিন ভুলে গিয়েছিল।","words":[{"w":"forgot","bn":"ভুলে গেল","pos":"verb","base":"forget"},{"w":"birthday","bn":"জন্মদিন","pos":"noun"}]},
+            {"id":"03","en":"Ruma felt hurt and stayed quiet.","bn":"রুমা কষ্ট পেয়েছিল আর চুপ করে ছিল।","words":[{"w":"felt hurt","bn":"কষ্ট পেল","pos":"phrase","base":"feel hurt"},{"w":"quiet","bn":"চুপ","pos":"adjective"}]},
+            {"id":"04","en":"The next day, Joya said sorry.","bn":"পরের দিন জয়া দুঃখ প্রকাশ করল।","words":[{"w":"said sorry","bn":"দুঃখ প্রকাশ করল","pos":"phrase","base":"say sorry"}]},
+            {"id":"05","en":"She bought Ruma a small gift.","bn":"সে রুমার জন্য একটা ছোট উপহার কিনল।","words":[{"w":"bought","bn":"কিনল","pos":"verb","base":"buy"},{"w":"gift","bn":"উপহার","pos":"noun"}]},
+            {"id":"06","en":"They made up and laughed about it.","bn":"তারা মিটমাট করে নিল আর ব্যাপারটা নিয়ে হাসল।","words":[{"w":"made up","bn":"মিটমাট করল","pos":"phrasal verb","base":"make up"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + didn't + verb (base) + ...",
+          "tipBn": "অতীতের না-বোধক বাক্যে didn't বসে আর verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Ruma and Joya didn't talk for two days.","bn":"রুমা আর জয়া ২ দিন কথা বলেনি।","words":[{"w":"talk","bn":"কথা বলা","pos":"verb"}]},
+            {"id":"02","en":"Joya didn't remember Ruma's birthday.","bn":"জয়ার রুমার জন্মদিন মনে ছিল না।","words":[{"w":"remember","bn":"মনে রাখা","pos":"verb"}]},
+            {"id":"03","en":"Ruma didn't answer Joya's calls.","bn":"রুমা জয়ার ফোন ধরেনি।","words":[{"w":"answer","bn":"ফোন ধরা, উত্তর দেওয়া","pos":"verb"}]},
+            {"id":"04","en":"Joya didn't wait long to say sorry.","bn":"দুঃখ প্রকাশ করতে জয়া বেশি দেরি করেনি।","words":[{"w":"wait long","bn":"বেশি দেরি করা","pos":"phrase"}]},
+            {"id":"05","en":"The gift didn't cost much.","bn":"উপহারটার দাম বেশি ছিল না।","words":[{"w":"cost","bn":"দাম পড়া","pos":"verb"}]},
+            {"id":"06","en":"They didn't stay angry for long.","bn":"তারা বেশিক্ষণ রাগ করে থাকেনি।","words":[{"w":"angry","bn":"রাগান্বিত","pos":"adjective"},{"w":"for long","bn":"বেশিক্ষণ","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Did + subject + verb (base) + ...?",
+          "tipBn": "অতীতের প্রশ্নে Did শুরুতে বসে আর verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Did you and Joya have an argument?","bn":"তোমার আর জয়ার কি তর্ক হয়েছিল?","words":[{"w":"argument","bn":"তর্ক, কথা কাটাকাটি","pos":"noun"}]},
+            {"id":"02","en":"Did Joya forget your birthday?","bn":"জয়া কি তোমার জন্মদিন ভুলে গিয়েছিল?","words":[{"w":"forget","bn":"ভুলে যাওয়া","pos":"verb"}]},
+            {"id":"03","en":"Did Ruma tell her sister about it?","bn":"রুমা কি ব্যাপারটা তার বোনকে বলেছিল?","words":[{"w":"tell","bn":"বলা","pos":"verb"}]},
+            {"id":"04","en":"Did Joya say sorry the next day?","bn":"পরের দিন জয়া কি দুঃখ প্রকাশ করেছিল?","words":[{"w":"say sorry","bn":"দুঃখ প্রকাশ করা","pos":"phrase"}]},
+            {"id":"05","en":"Did you like her gift?","bn":"তোমার কি ওর উপহারটা পছন্দ হয়েছিল?","words":[{"w":"gift","bn":"উপহার","pos":"noun"}]},
+            {"id":"06","en":"Did Mrs. Haque give you any advice?","bn":"হক আন্টি কি তোমাকে কোনো পরামর্শ দিয়েছিলেন?","words":[{"w":"advice","bn":"পরামর্শ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Didn't + subject + verb (base) + ...?",
+          "tipBn": "অবাক হয়ে বা নিশ্চিত হতে Didn't দিয়ে প্রশ্ন শুরু হয় আর verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Didn't Joya call you on your birthday?","bn":"জয়া কি তোমার জন্মদিনে তোমাকে ফোন করেনি?","words":[{"w":"call","bn":"ফোন করা","pos":"verb"}]},
+            {"id":"02","en":"Didn't you feel hurt?","bn":"তুমি কি কষ্ট পাওনি?","words":[{"w":"feel hurt","bn":"কষ্ট পাওয়া","pos":"phrase"}]},
+            {"id":"03","en":"Didn't Ruma answer the phone?","bn":"রুমা কি ফোন ধরেনি?","words":[{"w":"answer","bn":"ফোন ধরা","pos":"verb"}]},
+            {"id":"04","en":"Didn't Joya buy you a gift?","bn":"জয়া কি তোমার জন্য উপহার কেনেনি?","words":[{"w":"buy","bn":"কেনা","pos":"verb"}]},
+            {"id":"05","en":"Didn't Nupur try to help?","bn":"নূপুর কি সাহায্য করার চেষ্টা করেনি?","words":[{"w":"try","bn":"চেষ্টা করা","pos":"verb"}]},
+            {"id":"06","en":"Didn't you two make up quickly?","bn":"তোমরা দুজন কি তাড়াতাড়ি মিটমাট করে নাওনি?","words":[{"w":"make up","bn":"মিটমাট করা","pos":"phrasal verb"},{"w":"quickly","bn":"তাড়াতাড়ি","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + did + subject + verb (base)? / Who + verb (past)?",
+          "tipBn": "প্রশ্নশব্দের পরে did বসে আর verb মূল রূপে থাকে; Who কর্তা হলে verb past রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Why did you and Joya argue?","bn":"তোমার আর জয়ার তর্ক হলো কেন?","words":[{"w":"argue","bn":"তর্ক করা","pos":"verb"}]},
+            {"id":"02","en":"When did Joya say sorry?","bn":"জয়া কবে দুঃখ প্রকাশ করেছিল?","words":[{"w":"say sorry","bn":"দুঃখ প্রকাশ করা","pos":"phrase"}]},
+            {"id":"03","en":"What did she buy for you?","bn":"সে তোমার জন্য কী কিনেছিল?","words":[{"w":"buy","bn":"কেনা","pos":"verb"}]},
+            {"id":"04","en":"How did you feel after the fight?","bn":"ঝগড়ার পরে তোমার কেমন লেগেছিল?","words":[{"w":"feel","bn":"অনুভব করা","pos":"verb"},{"w":"fight","bn":"ঝগড়া","pos":"noun"}]},
+            {"id":"05","en":"Who helped you two make up?","bn":"তোমাদের দুজনকে মিটমাট করতে কে সাহায্য করেছিল?","words":[{"w":"make up","bn":"মিটমাট করা","pos":"phrasal verb"}]},
+            {"id":"06","en":"Where did you meet the next day?","bn":"পরের দিন তোমরা কোথায় দেখা করেছিলে?","words":[{"w":"meet","bn":"দেখা করা","pos":"verb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "future-going-to",
+      "focus": "Talk about plans for a cousin's wedding",
+      "focusBn": "মামাতো ভাইয়ের বিয়ের পরিকল্পনা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + going to + verb (base) ...",
+          "tipBn": "আগে থেকে ঠিক করা পরিকল্পনা বলতে am/is/are going to এর পরে verb মূল রূপে বসে।",
+          "items": [
+            {"id":"01","en":"Their cousin Arif is going to get married next month.","bn":"আগামী মাসে তাদের মামাতো ভাই আরিফের বিয়ে হতে যাচ্ছে।","words":[{"w":"cousin","bn":"মামাতো ভাই, কাজিন","pos":"noun"},{"w":"get married","bn":"বিয়ে করা","pos":"phrase"}]},
+            {"id":"02","en":"Ruma is going to take a week off.","bn":"রুমা এক সপ্তাহের ছুটি নিতে যাচ্ছে।","words":[{"w":"week off","bn":"এক সপ্তাহের ছুটি","pos":"phrase"}]},
+            {"id":"03","en":"The sisters are going to travel to Rajshahi by train.","bn":"দুই বোন ট্রেনে করে রাজশাহী যাচ্ছে।","words":[{"w":"travel","bn":"ভ্রমণ করা, যাওয়া","pos":"verb"},{"w":"by train","bn":"ট্রেনে","pos":"phrase"}]},
+            {"id":"04","en":"Nupur is going to wear a yellow sari.","bn":"নূপুর একটা হলুদ শাড়ি পরবে।","words":[{"w":"yellow","bn":"হলুদ","pos":"adjective"},{"w":"sari","bn":"শাড়ি","pos":"noun"}]},
+            {"id":"05","en":"Ruma is going to invite Joya to the wedding.","bn":"রুমা জয়াকে বিয়েতে দাওয়াত দিতে যাচ্ছে।","words":[{"w":"invite","bn":"দাওয়াত দেওয়া","pos":"verb"},{"w":"wedding","bn":"বিয়ে, বিয়ের অনুষ্ঠান","pos":"noun"}]},
+            {"id":"06","en":"Mom is going to cook for many guests.","bn":"মা অনেক অতিথির জন্য রান্না করবেন।","words":[{"w":"guests","bn":"অতিথি","pos":"noun","base":"guest"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + going to + verb (base) ...",
+          "tipBn": "am, is বা are এর পরে not বসে, তারপর going to আর verb মূল রূপে।",
+          "items": [
+            {"id":"01","en":"The wedding isn't going to be in Dhaka.","bn":"বিয়েটা ঢাকায় হচ্ছে না।","words":[{"w":"wedding","bn":"বিয়ে","pos":"noun"}]},
+            {"id":"02","en":"Ruma isn't going to work during the wedding week.","bn":"বিয়ের সপ্তাহে রুমা অফিস করবে না।","words":[{"w":"during","bn":"চলাকালে","pos":"preposition"}]},
+            {"id":"03","en":"They aren't going to take the bus.","bn":"তারা বাসে যাচ্ছে না।","words":[{"w":"take the bus","bn":"বাসে যাওয়া","pos":"phrase"}]},
+            {"id":"04","en":"Nupur isn't going to wear jeans at the wedding.","bn":"নূপুর বিয়েতে জিন্স পরবে না।","words":[{"w":"wear","bn":"পরা","pos":"verb"},{"w":"jeans","bn":"জিন্স প্যান্ট","pos":"noun"}]},
+            {"id":"05","en":"Joya isn't going to miss the wedding.","bn":"জয়া বিয়েটা মিস করবে না।","words":[{"w":"miss","bn":"বাদ পড়া, মিস করা","pos":"verb"}]},
+            {"id":"06","en":"Mom isn't going to cook everything alone.","bn":"মা সব রান্না একা করবেন না।","words":[{"w":"everything","bn":"সবকিছু","pos":"pronoun"},{"w":"alone","bn":"একা","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + going to + verb (base) ...?",
+          "tipBn": "প্রশ্ন করতে am, is বা are শুরুতে বসে, তারপর subject আর going to।",
+          "items": [
+            {"id":"01","en":"Is Arif going to get married next month?","bn":"আরিফ কি আগামী মাসে বিয়ে করতে যাচ্ছে?","words":[{"w":"get married","bn":"বিয়ে করা","pos":"phrase"}]},
+            {"id":"02","en":"Are you going to take a week off?","bn":"তুমি কি এক সপ্তাহের ছুটি নিতে যাচ্ছ?","words":[{"w":"week off","bn":"এক সপ্তাহের ছুটি","pos":"phrase"}]},
+            {"id":"03","en":"Are you going to travel by train?","bn":"তোমরা কি ট্রেনে যাচ্ছ?","words":[{"w":"by train","bn":"ট্রেনে","pos":"phrase"}]},
+            {"id":"04","en":"Is Joya going to come to the wedding?","bn":"জয়া কি বিয়েতে আসছে?","words":[{"w":"wedding","bn":"বিয়ে","pos":"noun"}]},
+            {"id":"05","en":"Are you going to buy a gift for the couple?","bn":"তোমরা কি নবদম্পতির জন্য উপহার কিনবে?","words":[{"w":"couple","bn":"দম্পতি","pos":"noun"}]},
+            {"id":"06","en":"Is it going to be a big wedding?","bn":"বিয়েটা কি বড় আয়োজনে হতে যাচ্ছে?","words":[{"w":"big","bn":"বড়","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + going to + verb (base)?",
+          "tipBn": "প্রশ্নশব্দ শুরুতে, তারপর is বা are, তারপর subject, going to আর verb।",
+          "items": [
+            {"id":"01","en":"When is Arif going to get married?","bn":"আরিফ কবে বিয়ে করতে যাচ্ছে?","words":[{"w":"get married","bn":"বিয়ে করা","pos":"phrase"}]},
+            {"id":"02","en":"Who is Arif going to marry?","bn":"আরিফ কাকে বিয়ে করতে যাচ্ছে?","words":[{"w":"marry","bn":"বিয়ে করা","pos":"verb"}]},
+            {"id":"03","en":"How are you going to travel to Rajshahi?","bn":"তোমরা রাজশাহী কীভাবে যাবে?","words":[{"w":"travel","bn":"যাওয়া, ভ্রমণ করা","pos":"verb"}]},
+            {"id":"04","en":"What are you going to wear?","bn":"তুমি কী পরবে?","words":[{"w":"wear","bn":"পরা","pos":"verb"}]},
+            {"id":"05","en":"What are you going to give the couple?","bn":"তোমরা নবদম্পতিকে কী দেবে?","words":[{"w":"couple","bn":"দম্পতি","pos":"noun"}]},
+            {"id":"06","en":"How long are you going to stay in Rajshahi?","bn":"তোমরা রাজশাহীতে কতদিন থাকবে?","words":[{"w":"How long","bn":"কতদিন","pos":"phrase"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}
