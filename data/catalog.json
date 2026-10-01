@@ -79,6 +79,48 @@
       "titleBn": "কেনাকাটা",
       "icon": "shopping-bag",
       "description": "Markets, prices, sizes, returns and online orders."
+    },
+    {
+      "id": "travel",
+      "title": "Travel",
+      "titleBn": "ভ্রমণ",
+      "icon": "plane",
+      "description": "Tickets, hotels, airports, sightseeing and asking for help on a trip."
+    },
+    {
+      "id": "health",
+      "title": "Health",
+      "titleBn": "স্বাস্থ্য",
+      "icon": "stethoscope",
+      "description": "Feeling sick, seeing a doctor, medicine and staying healthy."
+    },
+    {
+      "id": "transport",
+      "title": "Transport & Directions",
+      "titleBn": "যাতায়াত ও পথনির্দেশ",
+      "icon": "bus",
+      "description": "Buses, rickshaws, trains, traffic and finding your way."
+    },
+    {
+      "id": "money",
+      "title": "Money & Banking",
+      "titleBn": "টাকা ও ব্যাংক",
+      "icon": "wallet",
+      "description": "Saving, spending, bank accounts, mobile payments and bills."
+    },
+    {
+      "id": "family-friends",
+      "title": "Family & Friends",
+      "titleBn": "পরিবার ও বন্ধু",
+      "icon": "users",
+      "description": "Relatives, friendships, visits, invitations and talking about people."
+    },
+    {
+      "id": "school-study",
+      "title": "School & Study",
+      "titleBn": "স্কুল ও পড়াশোনা",
+      "icon": "graduation-cap",
+      "description": "Classes, homework, exams, teachers and university life."
     }
   ],
   "grammar": {

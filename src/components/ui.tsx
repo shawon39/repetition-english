@@ -1,4 +1,4 @@
-import { BookOpen, Briefcase, ChefHat, CloudSun, House, ShoppingBag, Sunrise, type LucideIcon } from 'lucide-react';
+import { BookOpen, Briefcase, Bus, ChefHat, CloudSun, GraduationCap, House, Plane, ShoppingBag, Stethoscope, Sunrise, Users, Wallet, type LucideIcon } from 'lucide-react';
 import { motion } from 'motion/react';
 import { useId, type ReactNode } from 'react';
 
@@ -11,6 +11,12 @@ const ICONS: Record<string, LucideIcon> = {
   sunrise: Sunrise,
   'chef-hat': ChefHat,
   'shopping-bag': ShoppingBag,
+  plane: Plane,
+  stethoscope: Stethoscope,
+  bus: Bus,
+  wallet: Wallet,
+  users: Users,
+  'graduation-cap': GraduationCap,
 };
 
 /** The loop mark: a ring with one bead, the moment of "one more time". */
