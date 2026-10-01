@@ -38,7 +38,9 @@ types, same item counts.
 5. **Natural, correct English.** Write what a fluent speaker would really say.
    Use standard spelling (either US or UK, but stay consistent in a file; prefer
    US spelling).
-6. **No full sentence translations.** Only difficult words get Bengali meanings.
+6. **Two kinds of Bengali meaning.** Every item has a full-sentence meaning
+   (`bn`), shown only when the learner asks for it, and difficult words carry
+   their own meaning (`words`).
 
 ## 3. Levels
 
@@ -102,7 +104,22 @@ Paragraph items (intermediate and advanced only):
   `{ "w": "swept", "bn": "ঝাড়ু দিয়েছিল", "pos": "verb", "base": "sweep" }`.
 - Do not list the same word twice in one item.
 
-## 7. Session fields
+## 7. Full-sentence meaning (`bn`)
+
+- Natural, standard Bangla as spoken in Bangladesh (চলিত ভাষা). Translate the
+  meaning, not word by word.
+- Keep the **tense** and the **sentence type** of the English: a negative stays
+  negative, a question stays a question and ends with `?`. Statements end with `।`.
+- Write names in Bengali script (Nila → নীলা, Dhaka → ঢাকা) and numbers in
+  Bengali digits (`৩৫ ডিগ্রি`, `৭টা`, `৫০০ টাকা`).
+- Common English loanwords that Bangladeshis really use are fine (মিটিং, ইমেইল, অফিস).
+- Paragraphs are translated in full, sentence by sentence.
+- Translators write `data/bn/<topic>/<level>.json` as
+  `{ "<grammar>/<type>/<id>": "বাংলা" }` (keys from
+  `node scripts/export-items.mjs <topic> <level>`), then run
+  `node scripts/merge-bn.mjs <topic>` to put each `bn` into the track.
+
+## 8. Session fields
 
 - `pattern`: the sentence formula in English, short and consistent.
   Example: `"It + is + adjective (+ time word)."` or
@@ -110,14 +127,14 @@ Paragraph items (intermediate and advanced only):
 - `tipBn`: one short Bengali sentence that explains the pattern.
   Example: `"প্রশ্ন করতে Did শুরুতে বসে এবং verb তার মূল রূপে থাকে।"`
 
-## 8. Numbers and symbols
+## 9. Numbers and symbols
 
 - Write temperatures as `30 degrees`, never `30°C`.
 - Write times as `7 o'clock`, `7:30`, or `seven thirty`.
 - Money: `500 taka`, `20 dollars`. No currency symbols.
 - Avoid emoji, quotes inside sentences, and brackets.
 
-## 9. File format
+## 10. File format
 
 ```json
 {
@@ -137,8 +154,8 @@ Paragraph items (intermediate and advanced only):
           "pattern": "It + is + adjective (+ time word).",
           "tipBn": "আবহাওয়া বোঝাতে It is দিয়ে বাক্য শুরু হয়।",
           "items": [
-            { "id": "01", "en": "It is hot today.", "words": [{ "w": "hot", "bn": "গরম", "pos": "adjective" }] },
-            { "id": "02", "en": "The sky is blue.", "words": [{ "w": "sky", "bn": "আকাশ", "pos": "noun" }] }
+            { "id": "01", "en": "It is hot today.", "bn": "আজ গরম।", "words": [{ "w": "hot", "bn": "গরম", "pos": "adjective" }] },
+            { "id": "02", "en": "The sky is blue.", "bn": "আকাশ নীল।", "words": [{ "w": "sky", "bn": "আকাশ", "pos": "noun" }] }
           ]
         }
       ]

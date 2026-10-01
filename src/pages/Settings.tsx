@@ -1,23 +1,24 @@
-import { Download, Upload, Trash2, Volume2 } from 'lucide-react';
-import { useRef } from 'react';
+import { useRef, useState } from 'react';
 import { catalog } from '../lib/content';
-import { pickVoice, recognitionSupported, ttsSupported, useSpeaker, useVoices } from '../lib/speech';
+import { pickVoice, ttsSupported, useSpeaker, useVoices } from '../lib/speech';
 import { useStore } from '../lib/store';
-import type { LevelId, PracticeMode, ProgressState, Theme } from '../lib/types';
-import { Bn, Toggle } from '../components/ui';
+import type { LevelId, ProgressState, Theme } from '../lib/types';
+import { Page, Segmented, Switch } from '../components/ui';
 
 export function Settings() {
   const { state, settings, updateSettings, reset, importState } = useStore();
   const voices = useVoices();
   const { speak } = useSpeaker();
   const file = useRef<HTMLInputElement>(null);
+  const [confirmReset, setConfirmReset] = useState(false);
+  const [message, setMessage] = useState('');
   const current = pickVoice(voices, settings.voice);
 
   const exportData = () => {
     const blob = new Blob([JSON.stringify(state, null, 2)], { type: 'application/json' });
     const a = document.createElement('a');
     a.href = URL.createObjectURL(blob);
-    a.download = `repetition-english-progress-${new Date().toISOString().slice(0, 10)}.json`;
+    a.download = `repetition-progress-${new Date().toISOString().slice(0, 10)}.json`;
     a.click();
     URL.revokeObjectURL(a.href);
   };
@@ -27,166 +28,147 @@ export function Settings() {
       const data = JSON.parse(await f.text()) as ProgressState;
       if (data.v !== 1 || typeof data.items !== 'object') throw new Error('bad file');
       importState(data);
+      setMessage('Progress imported.');
     } catch {
-      alert('This file is not a Repetition English progress file.');
+      setMessage('That file is not a Repetition progress file.');
     }
   };
 
+  const toggle = (name: string, hint: string, key: 'showMeaning' | 'fade' | 'strict' | 'paceGuard' | 'autoListen') => (
+    <div className="setting">
+      <div className="setting-text">
+        <span className="setting-name">{name}</span>
+        <span className="setting-hint">{hint}</span>
+      </div>
+      <Switch label={name} checked={settings[key]} onChange={(v) => updateSettings({ [key]: v })} />
+    </div>
+  );
+
   return (
-    <div className="page narrow">
-      <header className="page-head">
-        <div>
-          <p className="eyebrow">Settings</p>
-          <h1>Make repetition fit you</h1>
-        </div>
-      </header>
+    <Page className="page narrow">
+      <h1 className="title">Settings</h1>
 
-      <section className="card settings-card">
-        <h2>Learning</h2>
-        <div className="field">
-          <span className="field-label">My level</span>
-          <div className="segmented wide">
-            {catalog.levels.map((l) => (
-              <button key={l.id} className={settings.level === l.id ? 'on' : ''} onClick={() => updateSettings({ level: l.id as LevelId })}>
-                {l.title} <small>{l.cefr}</small>
-              </button>
-            ))}
+      <section className="settings">
+        <div className="setting">
+          <div className="setting-text">
+            <span className="setting-name">Level</span>
           </div>
+          <Segmented<LevelId>
+            small
+            label="Level"
+            value={settings.level}
+            onChange={(level) => updateSettings({ level })}
+            options={catalog.levels.map((l) => ({ value: l.id, label: l.title }))}
+          />
         </div>
-        <div className="field">
-          <span className="field-label">Daily goal</span>
-          <div className="segmented wide">
-            {[50, 100, 200, 300].map((g) => (
-              <button key={g} className={settings.dailyGoal === g ? 'on' : ''} onClick={() => updateSettings({ dailyGoal: g })}>
-                {g} reps
-              </button>
-            ))}
+        <div className="setting">
+          <div className="setting-text">
+            <span className="setting-name">Daily goal</span>
+            <span className="setting-hint">Reps per day</span>
           </div>
+          <Segmented<string>
+            small
+            label="Daily goal"
+            value={String(settings.dailyGoal)}
+            onChange={(v) => updateSettings({ dailyGoal: Number(v) })}
+            options={['50', '100', '200', '300'].map((v) => ({ value: v, label: v }))}
+          />
         </div>
-        <div className="field">
-          <span className="field-label">Default practice mode</span>
-          <div className="segmented wide">
-            {(['read', 'speak', 'type'] as PracticeMode[]).map((m) => (
-              <button
-                key={m}
-                className={settings.mode === m ? 'on' : ''}
-                disabled={m === 'speak' && !recognitionSupported}
-                onClick={() => updateSettings({ mode: m })}
-              >
-                {m === 'read' ? 'Read aloud' : m === 'speak' ? 'Speak (mic check)' : 'Type'}
+        {toggle('Show Bangla meaning first', 'Open the full-sentence meaning on every sentence.', 'showMeaning')}
+        {toggle('Memory fade', 'Words disappear a little more with every rep.', 'fade')}
+        {toggle('Finish every rep', 'The next sentence unlocks only after the last rep.', 'strict')}
+        {toggle('Pace guard', 'Repeat waits about as long as the sentence takes to say.', 'paceGuard')}
+        {toggle('Play each sentence', 'Hear the sentence once when it appears.', 'autoListen')}
+        {ttsSupported && (
+          <div className="setting">
+            <div className="setting-text">
+              <span className="setting-name">Voice</span>
+              <button className="link" style={{ border: 0, background: 'none', padding: 0, alignSelf: 'flex-start' }} onClick={() => speak('It is a beautiful day.')}>
+                Play a sample
               </button>
-            ))}
-          </div>
-          {!recognitionSupported && <p className="muted small">Speak mode needs Chrome or Edge on a laptop.</p>}
-        </div>
-        <Toggle
-          checked={settings.strict}
-          onChange={(v) => updateSettings({ strict: v })}
-          label="Strict repetition"
-          hint="Next stays locked until you finish every rep of the sentence."
-        />
-        <Toggle
-          checked={settings.paceGuard}
-          onChange={(v) => updateSettings({ paceGuard: v })}
-          label="Pace guard"
-          hint="In read-aloud mode the rep button waits about as long as it takes to say the sentence."
-        />
-        <Toggle
-          checked={settings.fade}
-          onChange={(v) => updateSettings({ fade: v })}
-          label="Memory fade"
-          hint="Words disappear a little more with every rep. The last rep is from memory."
-        />
-      </section>
-
-      <section className="card settings-card">
-        <h2>Language</h2>
-        <Toggle
-          checked={settings.showBangla}
-          onChange={(v) => updateSettings({ showBangla: v })}
-          label={
-            <>
-              Show <Bn>বাংলা</Bn>
-            </>
-          }
-          hint="Bengali hints under difficult words, and Bengali titles and tips. Tapping a word always shows its meaning."
-        />
-      </section>
-
-      <section className="card settings-card">
-        <h2>Audio</h2>
-        {ttsSupported ? (
-          <>
-            <div className="field">
-              <span className="field-label">Voice</span>
-              <div className="row">
-                <select value={current?.voiceURI ?? ''} onChange={(e) => updateSettings({ voice: e.target.value || null })}>
-                  {!voices.length && <option value="">Browser default voice</option>}
-                  {voices.map((v) => (
-                    <option key={v.voiceURI} value={v.voiceURI}>
-                      {v.name} ({v.lang})
-                    </option>
-                  ))}
-                </select>
-                <button className="btn btn-secondary" onClick={() => speak('It is a beautiful day. Let us repeat it again.')}>
-                  <Volume2 size={16} /> Test
-                </button>
-              </div>
             </div>
-            <div className="field">
-              <span className="field-label">Speed · {settings.rate.toFixed(2)}×</span>
-              <input
-                type="range"
-                min={0.6}
-                max={1.2}
-                step={0.05}
-                value={settings.rate}
-                onChange={(e) => updateSettings({ rate: Number(e.target.value) })}
-              />
-            </div>
-          </>
-        ) : (
-          <p className="muted">This browser cannot play speech.</p>
+            <select value={current?.voiceURI ?? ''} onChange={(e) => updateSettings({ voice: e.target.value || null })} aria-label="Voice">
+              {!voices.length && <option value="">Browser default</option>}
+              {voices.map((v) => (
+                <option key={v.voiceURI} value={v.voiceURI}>
+                  {v.name}
+                </option>
+              ))}
+            </select>
+          </div>
         )}
-        <Toggle
-          checked={settings.autoListen}
-          onChange={(v) => updateSettings({ autoListen: v })}
-          label="Play each sentence automatically"
-          hint="Hear the sentence once when it appears."
-        />
-      </section>
-
-      <section className="card settings-card">
-        <h2>Appearance</h2>
-        <div className="segmented wide">
-          {(['system', 'light', 'dark'] as Theme[]).map((t) => (
-            <button key={t} className={settings.theme === t ? 'on' : ''} onClick={() => updateSettings({ theme: t })}>
-              {t[0].toUpperCase() + t.slice(1)}
-            </button>
-          ))}
+        <div className="setting">
+          <div className="setting-text">
+            <span className="setting-name">Speed</span>
+            <span className="setting-hint">{settings.rate.toFixed(2)}×</span>
+          </div>
+          <input
+            type="range"
+            aria-label="Speech speed"
+            min={0.6}
+            max={1.2}
+            step={0.05}
+            value={settings.rate}
+            onChange={(e) => updateSettings({ rate: Number(e.target.value) })}
+          />
         </div>
-      </section>
-
-      <section className="card settings-card">
-        <h2>Your data</h2>
-        <p className="muted small">Progress is saved in this browser only. Export it to keep a copy or move to another laptop.</p>
-        <div className="row">
-          <button className="btn btn-secondary" onClick={exportData}>
-            <Download size={16} /> Export progress
+        <div className="setting">
+          <div className="setting-text">
+            <span className="setting-name">Appearance</span>
+          </div>
+          <Segmented<Theme>
+            small
+            label="Appearance"
+            value={settings.theme}
+            onChange={(theme) => updateSettings({ theme })}
+            options={[
+              { value: 'system', label: 'System' },
+              { value: 'light', label: 'Light' },
+              { value: 'dark', label: 'Dark' },
+            ]}
+          />
+        </div>
+        <div className="setting">
+          <div className="setting-text">
+            <span className="setting-name">Your progress</span>
+            <span className="setting-hint">{message || 'Saved in this browser. Export it to keep a copy.'}</span>
+          </div>
+          <button className="btn btn-quiet" onClick={exportData}>
+            Export
           </button>
-          <button className="btn btn-secondary" onClick={() => file.current?.click()}>
-            <Upload size={16} /> Import
+          <button className="btn btn-quiet" onClick={() => file.current?.click()}>
+            Import
           </button>
           <input ref={file} type="file" accept="application/json" hidden onChange={(e) => e.target.files?.[0] && onImport(e.target.files[0])} />
-          <span className="spacer" />
-          <button
-            className="btn btn-danger"
-            onClick={() => confirm('Delete all reps, reviews and streaks? Settings stay.') && reset()}
-          >
-            <Trash2 size={16} /> Reset progress
-          </button>
+        </div>
+        <div className="setting">
+          <div className="setting-text">
+            <span className="setting-name">Reset progress</span>
+            <span className="setting-hint">Deletes all reps, reviews and streaks. Settings stay.</span>
+          </div>
+          {confirmReset ? (
+            <>
+              <button className="btn btn-quiet" onClick={() => setConfirmReset(false)}>
+                Cancel
+              </button>
+              <button
+                className="btn btn-quiet danger"
+                onClick={() => {
+                  reset();
+                  setConfirmReset(false);
+                  setMessage('Progress reset.');
+                }}
+              >
+                Delete everything
+              </button>
+            </>
+          ) : (
+            <button className="btn btn-quiet danger" onClick={() => setConfirmReset(true)}>
+              Reset
+            </button>
+          )}
         </div>
       </section>
-    </div>
+    </Page>
   );
 }

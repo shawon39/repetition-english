@@ -98,6 +98,13 @@ function checkItem(file, level, type, where, item, index, seen) {
     }
   }
 
+  if (!item.bn) report(file, `${where}.bn`, 'missing full-sentence Bengali meaning');
+  else {
+    checkText(file, `${where}.bn`, item.bn, { bengali: true });
+    const isQ = ['yes-no-question', 'negative-question', 'wh-question', 'tag-question'].includes(type);
+    if (isQ && !item.bn.trim().endsWith('?')) report(file, `${where}.bn`, `question meaning should end with "?": "${item.bn}"`, false);
+  }
+
   if (!Array.isArray(item.words) || item.words.length === 0) {
     report(file, `${where}.words`, 'needs at least one glossed word');
     return;

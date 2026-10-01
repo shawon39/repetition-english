@@ -15,14 +15,14 @@
           "pattern": "Subject + verb(s) ... / Subject + am, is, are + adjective.",
           "tipBn": "প্রতিদিনের অভ্যাস বা সত্য বোঝাতে verb-এর মূল রূপ বসে; he/she/it হলে verb-এর সাথে s/es যোগ হয়।",
           "items": [
-            { "id": "01", "en": "We eat rice every day.", "words": [{ "w": "rice", "bn": "ভাত", "pos": "noun" }, { "w": "every day", "bn": "প্রতিদিন", "pos": "phrase" }] },
-            { "id": "02", "en": "My mother cooks dal for lunch.", "words": [{ "w": "cooks", "bn": "রান্না করেন", "pos": "verb", "base": "cook" }, { "w": "lunch", "bn": "দুপুরের খাবার", "pos": "noun" }] },
-            { "id": "03", "en": "The fish curry is spicy.", "words": [{ "w": "fish curry", "bn": "মাছের তরকারি", "pos": "noun" }, { "w": "spicy", "bn": "ঝাল", "pos": "adjective" }] },
-            { "id": "04", "en": "Rafi is always hungry.", "words": [{ "w": "always", "bn": "সবসময়", "pos": "adverb" }, { "w": "hungry", "bn": "ক্ষুধার্ত", "pos": "adjective" }] },
-            { "id": "05", "en": "Nani drinks tea with milk.", "words": [{ "w": "drinks", "bn": "পান করেন", "pos": "verb", "base": "drink" }, { "w": "milk", "bn": "দুধ", "pos": "noun" }] },
-            { "id": "06", "en": "Breakfast is at eight o'clock.", "words": [{ "w": "breakfast", "bn": "সকালের নাশতা", "pos": "noun" }] },
-            { "id": "07", "en": "Mita likes sweet yogurt.", "words": [{ "w": "sweet", "bn": "মিষ্টি", "pos": "adjective" }, { "w": "yogurt", "bn": "দই", "pos": "noun" }] },
-            { "id": "08", "en": "The kitchen is small and clean.", "words": [{ "w": "kitchen", "bn": "রান্নাঘর", "pos": "noun" }, { "w": "clean", "bn": "পরিষ্কার", "pos": "adjective" }] }
+            {"id":"01","en":"We eat rice every day.","bn":"আমরা প্রতিদিন ভাত খাই।","words":[{"w":"rice","bn":"ভাত","pos":"noun"},{"w":"every day","bn":"প্রতিদিন","pos":"phrase"}]},
+            {"id":"02","en":"My mother cooks dal for lunch.","bn":"আমার মা দুপুরের খাবারের জন্য ডাল রান্না করেন।","words":[{"w":"cooks","bn":"রান্না করেন","pos":"verb","base":"cook"},{"w":"lunch","bn":"দুপুরের খাবার","pos":"noun"}]},
+            {"id":"03","en":"The fish curry is spicy.","bn":"মাছের তরকারিটা ঝাল।","words":[{"w":"fish curry","bn":"মাছের তরকারি","pos":"noun"},{"w":"spicy","bn":"ঝাল","pos":"adjective"}]},
+            {"id":"04","en":"Rafi is always hungry.","bn":"রাফির সবসময় খিদে পায়।","words":[{"w":"always","bn":"সবসময়","pos":"adverb"},{"w":"hungry","bn":"ক্ষুধার্ত","pos":"adjective"}]},
+            {"id":"05","en":"Nani drinks tea with milk.","bn":"নানি দুধ দিয়ে চা খান।","words":[{"w":"drinks","bn":"পান করেন","pos":"verb","base":"drink"},{"w":"milk","bn":"দুধ","pos":"noun"}]},
+            {"id":"06","en":"Breakfast is at eight o'clock.","bn":"সকালের নাশতা ৮টায়।","words":[{"w":"breakfast","bn":"সকালের নাশতা","pos":"noun"}]},
+            {"id":"07","en":"Mita likes sweet yogurt.","bn":"মিতা মিষ্টি দই পছন্দ করে।","words":[{"w":"sweet","bn":"মিষ্টি","pos":"adjective"},{"w":"yogurt","bn":"দই","pos":"noun"}]},
+            {"id":"08","en":"The kitchen is small and clean.","bn":"রান্নাঘরটা ছোট আর পরিষ্কার।","words":[{"w":"kitchen","bn":"রান্নাঘর","pos":"noun"},{"w":"clean","bn":"পরিষ্কার","pos":"adjective"}]}
           ]
         },
         {
@@ -30,12 +30,12 @@
           "pattern": "Subject + don't / doesn't + verb ... / Subject + isn't, aren't + adjective.",
           "tipBn": "না-বোধক করতে verb-এর আগে don't/doesn't বসে; am/is/are-এর পরে not বসে।",
           "items": [
-            { "id": "01", "en": "We don't eat rice for breakfast.", "words": [{ "w": "breakfast", "bn": "সকালের নাশতা", "pos": "noun" }] },
-            { "id": "02", "en": "My mother doesn't use much oil.", "words": [{ "w": "use", "bn": "ব্যবহার করা", "pos": "verb" }, { "w": "oil", "bn": "তেল", "pos": "noun" }] },
-            { "id": "03", "en": "The fish curry isn't too spicy.", "words": [{ "w": "too", "bn": "খুব বেশি", "pos": "adverb" }, { "w": "spicy", "bn": "ঝাল", "pos": "adjective" }] },
-            { "id": "04", "en": "Nani doesn't drink tea at night.", "words": [{ "w": "drink", "bn": "পান করা", "pos": "verb" }, { "w": "at night", "bn": "রাতে", "pos": "phrase" }] },
-            { "id": "05", "en": "Rafi doesn't like bitter gourd.", "words": [{ "w": "bitter gourd", "bn": "করলা", "pos": "noun" }] },
-            { "id": "06", "en": "The kitchen isn't very big.", "words": [{ "w": "kitchen", "bn": "রান্নাঘর", "pos": "noun" }, { "w": "big", "bn": "বড়", "pos": "adjective" }] }
+            {"id":"01","en":"We don't eat rice for breakfast.","bn":"আমরা সকালের নাশতায় ভাত খাই না।","words":[{"w":"breakfast","bn":"সকালের নাশতা","pos":"noun"}]},
+            {"id":"02","en":"My mother doesn't use much oil.","bn":"আমার মা বেশি তেল ব্যবহার করেন না।","words":[{"w":"use","bn":"ব্যবহার করা","pos":"verb"},{"w":"oil","bn":"তেল","pos":"noun"}]},
+            {"id":"03","en":"The fish curry isn't too spicy.","bn":"মাছের তরকারিটা খুব বেশি ঝাল না।","words":[{"w":"too","bn":"খুব বেশি","pos":"adverb"},{"w":"spicy","bn":"ঝাল","pos":"adjective"}]},
+            {"id":"04","en":"Nani doesn't drink tea at night.","bn":"নানি রাতে চা খান না।","words":[{"w":"drink","bn":"পান করা","pos":"verb"},{"w":"at night","bn":"রাতে","pos":"phrase"}]},
+            {"id":"05","en":"Rafi doesn't like bitter gourd.","bn":"রাফি করলা পছন্দ করে না।","words":[{"w":"bitter gourd","bn":"করলা","pos":"noun"}]},
+            {"id":"06","en":"The kitchen isn't very big.","bn":"রান্নাঘরটা খুব বড় না।","words":[{"w":"kitchen","bn":"রান্নাঘর","pos":"noun"},{"w":"big","bn":"বড়","pos":"adjective"}]}
           ]
         },
         {
@@ -43,12 +43,12 @@
           "pattern": "Do / Does + subject + verb ...? / Is, Are + subject + adjective?",
           "tipBn": "প্রশ্ন করতে Do/Does বা Is/Are বাক্যের শুরুতে বসে।",
           "items": [
-            { "id": "01", "en": "Do you eat rice every day?", "words": [{ "w": "rice", "bn": "ভাত", "pos": "noun" }] },
-            { "id": "02", "en": "Is the fish curry spicy?", "words": [{ "w": "spicy", "bn": "ঝাল", "pos": "adjective" }] },
-            { "id": "03", "en": "Does Rafi like sweet yogurt?", "words": [{ "w": "like", "bn": "পছন্দ করা", "pos": "verb" }, { "w": "yogurt", "bn": "দই", "pos": "noun" }] },
-            { "id": "04", "en": "Are you hungry now?", "words": [{ "w": "hungry", "bn": "ক্ষুধার্ত", "pos": "adjective" }] },
-            { "id": "05", "en": "Do you wash the rice first?", "words": [{ "w": "wash", "bn": "ধোয়া", "pos": "verb" }, { "w": "first", "bn": "প্রথমে", "pos": "adverb" }] },
-            { "id": "06", "en": "Is dinner ready?", "words": [{ "w": "dinner", "bn": "রাতের খাবার", "pos": "noun" }, { "w": "ready", "bn": "তৈরি", "pos": "adjective" }] }
+            {"id":"01","en":"Do you eat rice every day?","bn":"তুমি কি প্রতিদিন ভাত খাও?","words":[{"w":"rice","bn":"ভাত","pos":"noun"}]},
+            {"id":"02","en":"Is the fish curry spicy?","bn":"মাছের তরকারিটা কি ঝাল?","words":[{"w":"spicy","bn":"ঝাল","pos":"adjective"}]},
+            {"id":"03","en":"Does Rafi like sweet yogurt?","bn":"রাফি কি মিষ্টি দই পছন্দ করে?","words":[{"w":"like","bn":"পছন্দ করা","pos":"verb"},{"w":"yogurt","bn":"দই","pos":"noun"}]},
+            {"id":"04","en":"Are you hungry now?","bn":"তোমার কি এখন খিদে পেয়েছে?","words":[{"w":"hungry","bn":"ক্ষুধার্ত","pos":"adjective"}]},
+            {"id":"05","en":"Do you wash the rice first?","bn":"তুমি কি আগে চাল ধুয়ে নাও?","words":[{"w":"wash","bn":"ধোয়া","pos":"verb"},{"w":"first","bn":"প্রথমে","pos":"adverb"}]},
+            {"id":"06","en":"Is dinner ready?","bn":"রাতের খাবার কি তৈরি?","words":[{"w":"dinner","bn":"রাতের খাবার","pos":"noun"},{"w":"ready","bn":"তৈরি","pos":"adjective"}]}
           ]
         },
         {
@@ -56,12 +56,12 @@
           "pattern": "Wh- word + do / does + subject + verb? / Wh- word + is + ...?",
           "tipBn": "What, Who, When-এর মতো প্রশ্নশব্দ শুরুতে বসে, তারপর do/does বা is/are আসে।",
           "items": [
-            { "id": "01", "en": "What do you eat for breakfast?", "words": [{ "w": "breakfast", "bn": "সকালের নাশতা", "pos": "noun" }] },
-            { "id": "02", "en": "Who cooks dinner in your house?", "words": [{ "w": "cooks", "bn": "রান্না করে", "pos": "verb", "base": "cook" }, { "w": "dinner", "bn": "রাতের খাবার", "pos": "noun" }] },
-            { "id": "03", "en": "When do you eat lunch?", "words": [{ "w": "lunch", "bn": "দুপুরের খাবার", "pos": "noun" }] },
-            { "id": "04", "en": "What is your favorite food?", "words": [{ "w": "favorite", "bn": "প্রিয়", "pos": "adjective" }] },
-            { "id": "05", "en": "How does the dal taste?", "words": [{ "w": "taste", "bn": "স্বাদ লাগা", "pos": "verb" }] },
-            { "id": "06", "en": "Where does your mother keep the salt?", "words": [{ "w": "keep", "bn": "রাখা", "pos": "verb" }, { "w": "salt", "bn": "লবণ", "pos": "noun" }] }
+            {"id":"01","en":"What do you eat for breakfast?","bn":"তুমি সকালের নাশতায় কী খাও?","words":[{"w":"breakfast","bn":"সকালের নাশতা","pos":"noun"}]},
+            {"id":"02","en":"Who cooks dinner in your house?","bn":"তোমাদের বাসায় রাতের খাবার কে রান্না করে?","words":[{"w":"cooks","bn":"রান্না করে","pos":"verb","base":"cook"},{"w":"dinner","bn":"রাতের খাবার","pos":"noun"}]},
+            {"id":"03","en":"When do you eat lunch?","bn":"তুমি দুপুরের খাবার কখন খাও?","words":[{"w":"lunch","bn":"দুপুরের খাবার","pos":"noun"}]},
+            {"id":"04","en":"What is your favorite food?","bn":"তোমার প্রিয় খাবার কী?","words":[{"w":"favorite","bn":"প্রিয়","pos":"adjective"}]},
+            {"id":"05","en":"How does the dal taste?","bn":"ডালের স্বাদ কেমন?","words":[{"w":"taste","bn":"স্বাদ লাগা","pos":"verb"}]},
+            {"id":"06","en":"Where does your mother keep the salt?","bn":"তোমার মা লবণ কোথায় রাখেন?","words":[{"w":"keep","bn":"রাখা","pos":"verb"},{"w":"salt","bn":"লবণ","pos":"noun"}]}
           ]
         }
       ]
@@ -76,12 +76,12 @@
           "pattern": "Subject + am / is / are + verb-ing ...",
           "tipBn": "এখন চলছে এমন কাজ বোঝাতে am/is/are-এর পরে verb-এর সাথে ing যোগ হয়।",
           "items": [
-            { "id": "01", "en": "My mother is cooking rice.", "words": [{ "w": "cooking", "bn": "রান্না করছেন", "pos": "verb", "base": "cook" }] },
-            { "id": "02", "en": "Mita is washing the vegetables.", "words": [{ "w": "washing", "bn": "ধুচ্ছে", "pos": "verb", "base": "wash" }, { "w": "vegetables", "bn": "সবজি", "pos": "noun" }] },
-            { "id": "03", "en": "The water is boiling.", "words": [{ "w": "boiling", "bn": "ফুটছে", "pos": "verb", "base": "boil" }] },
-            { "id": "04", "en": "Rafi is cutting onions.", "words": [{ "w": "cutting", "bn": "কাটছে", "pos": "verb", "base": "cut" }, { "w": "onions", "bn": "পেঁয়াজ", "pos": "noun" }] },
-            { "id": "05", "en": "I am making tea for Nani.", "words": [{ "w": "making", "bn": "বানাচ্ছি", "pos": "verb", "base": "make" }] },
-            { "id": "06", "en": "The fish is frying in hot oil.", "words": [{ "w": "frying", "bn": "ভাজা হচ্ছে", "pos": "verb", "base": "fry" }, { "w": "oil", "bn": "তেল", "pos": "noun" }] }
+            {"id":"01","en":"My mother is cooking rice.","bn":"আমার মা ভাত রান্না করছেন।","words":[{"w":"cooking","bn":"রান্না করছেন","pos":"verb","base":"cook"}]},
+            {"id":"02","en":"Mita is washing the vegetables.","bn":"মিতা সবজি ধুচ্ছে।","words":[{"w":"washing","bn":"ধুচ্ছে","pos":"verb","base":"wash"},{"w":"vegetables","bn":"সবজি","pos":"noun"}]},
+            {"id":"03","en":"The water is boiling.","bn":"পানি ফুটছে।","words":[{"w":"boiling","bn":"ফুটছে","pos":"verb","base":"boil"}]},
+            {"id":"04","en":"Rafi is cutting onions.","bn":"রাফি পেঁয়াজ কাটছে।","words":[{"w":"cutting","bn":"কাটছে","pos":"verb","base":"cut"},{"w":"onions","bn":"পেঁয়াজ","pos":"noun"}]},
+            {"id":"05","en":"I am making tea for Nani.","bn":"আমি নানির জন্য চা বানাচ্ছি।","words":[{"w":"making","bn":"বানাচ্ছি","pos":"verb","base":"make"}]},
+            {"id":"06","en":"The fish is frying in hot oil.","bn":"মাছটা গরম তেলে ভাজা হচ্ছে।","words":[{"w":"frying","bn":"ভাজা হচ্ছে","pos":"verb","base":"fry"},{"w":"oil","bn":"তেল","pos":"noun"}]}
           ]
         },
         {
@@ -89,12 +89,12 @@
           "pattern": "Subject + am / is / are + not + verb-ing ...",
           "tipBn": "am/is/are-এর পরে not বসিয়ে চলমান কাজের না-বোধক বাক্য হয়।",
           "items": [
-            { "id": "01", "en": "My mother isn't cooking meat today.", "words": [{ "w": "meat", "bn": "মাংস", "pos": "noun" }] },
-            { "id": "02", "en": "Mita isn't washing the plates.", "words": [{ "w": "washing", "bn": "ধুচ্ছে", "pos": "verb", "base": "wash" }, { "w": "plates", "bn": "থালা, প্লেট", "pos": "noun" }] },
-            { "id": "03", "en": "The water isn't boiling yet.", "words": [{ "w": "boiling", "bn": "ফুটছে", "pos": "verb", "base": "boil" }, { "w": "yet", "bn": "এখনও", "pos": "adverb" }] },
-            { "id": "04", "en": "Rafi isn't helping in the kitchen.", "words": [{ "w": "helping", "bn": "সাহায্য করছে", "pos": "verb", "base": "help" }] },
-            { "id": "05", "en": "I am not adding sugar to the tea.", "words": [{ "w": "adding", "bn": "দিচ্ছি", "pos": "verb", "base": "add" }, { "w": "sugar", "bn": "চিনি", "pos": "noun" }] },
-            { "id": "06", "en": "We aren't eating in front of the TV.", "words": [{ "w": "in front of", "bn": "সামনে", "pos": "phrase" }] }
+            {"id":"01","en":"My mother isn't cooking meat today.","bn":"আমার মা আজ মাংস রান্না করছেন না।","words":[{"w":"meat","bn":"মাংস","pos":"noun"}]},
+            {"id":"02","en":"Mita isn't washing the plates.","bn":"মিতা প্লেটগুলো ধুচ্ছে না।","words":[{"w":"washing","bn":"ধুচ্ছে","pos":"verb","base":"wash"},{"w":"plates","bn":"থালা, প্লেট","pos":"noun"}]},
+            {"id":"03","en":"The water isn't boiling yet.","bn":"পানি এখনো ফুটছে না।","words":[{"w":"boiling","bn":"ফুটছে","pos":"verb","base":"boil"},{"w":"yet","bn":"এখনও","pos":"adverb"}]},
+            {"id":"04","en":"Rafi isn't helping in the kitchen.","bn":"রাফি রান্নাঘরে সাহায্য করছে না।","words":[{"w":"helping","bn":"সাহায্য করছে","pos":"verb","base":"help"}]},
+            {"id":"05","en":"I am not adding sugar to the tea.","bn":"আমি চায়ে চিনি দিচ্ছি না।","words":[{"w":"adding","bn":"দিচ্ছি","pos":"verb","base":"add"},{"w":"sugar","bn":"চিনি","pos":"noun"}]},
+            {"id":"06","en":"We aren't eating in front of the TV.","bn":"আমরা টিভির সামনে বসে খাচ্ছি না।","words":[{"w":"in front of","bn":"সামনে","pos":"phrase"}]}
           ]
         },
         {
@@ -102,12 +102,12 @@
           "pattern": "Am / Is / Are + subject + verb-ing ...?",
           "tipBn": "প্রশ্ন করতে am/is/are বাক্যের শুরুতে বসে, তারপর subject ও verb-ing আসে।",
           "items": [
-            { "id": "01", "en": "Is your mother cooking rice?", "words": [{ "w": "cooking", "bn": "রান্না করছেন", "pos": "verb", "base": "cook" }] },
-            { "id": "02", "en": "Is Rafi cutting the onions?", "words": [{ "w": "cutting", "bn": "কাটছে", "pos": "verb", "base": "cut" }, { "w": "onions", "bn": "পেঁয়াজ", "pos": "noun" }] },
-            { "id": "03", "en": "Is the oil getting hot?", "words": [{ "w": "oil", "bn": "তেল", "pos": "noun" }, { "w": "getting hot", "bn": "গরম হচ্ছে", "pos": "phrase" }] },
-            { "id": "04", "en": "Are you making tea for Nani?", "words": [{ "w": "making", "bn": "বানাচ্ছ", "pos": "verb", "base": "make" }] },
-            { "id": "05", "en": "Are you stirring the dal?", "words": [{ "w": "stirring", "bn": "নাড়ছ", "pos": "verb", "base": "stir" }] },
-            { "id": "06", "en": "Is your father setting the table?", "words": [{ "w": "setting the table", "bn": "খাবার টেবিল সাজানো", "pos": "phrase" }] }
+            {"id":"01","en":"Is your mother cooking rice?","bn":"তোমার মা কি ভাত রান্না করছেন?","words":[{"w":"cooking","bn":"রান্না করছেন","pos":"verb","base":"cook"}]},
+            {"id":"02","en":"Is Rafi cutting the onions?","bn":"রাফি কি পেঁয়াজগুলো কাটছে?","words":[{"w":"cutting","bn":"কাটছে","pos":"verb","base":"cut"},{"w":"onions","bn":"পেঁয়াজ","pos":"noun"}]},
+            {"id":"03","en":"Is the oil getting hot?","bn":"তেল কি গরম হচ্ছে?","words":[{"w":"oil","bn":"তেল","pos":"noun"},{"w":"getting hot","bn":"গরম হচ্ছে","pos":"phrase"}]},
+            {"id":"04","en":"Are you making tea for Nani?","bn":"তুমি কি নানির জন্য চা বানাচ্ছ?","words":[{"w":"making","bn":"বানাচ্ছ","pos":"verb","base":"make"}]},
+            {"id":"05","en":"Are you stirring the dal?","bn":"তুমি কি ডাল নাড়ছ?","words":[{"w":"stirring","bn":"নাড়ছ","pos":"verb","base":"stir"}]},
+            {"id":"06","en":"Is your father setting the table?","bn":"তোমার বাবা কি টেবিল সাজাচ্ছেন?","words":[{"w":"setting the table","bn":"খাবার টেবিল সাজানো","pos":"phrase"}]}
           ]
         },
         {
@@ -115,12 +115,12 @@
           "pattern": "Wh- word + am / is / are + subject + verb-ing?",
           "tipBn": "প্রশ্নশব্দের পরে am/is/are, তারপর subject ও verb-ing বসে।",
           "items": [
-            { "id": "01", "en": "What are you cooking?", "words": [{ "w": "cooking", "bn": "রান্না করছ", "pos": "verb", "base": "cook" }] },
-            { "id": "02", "en": "What is Rafi eating?", "words": [{ "w": "eating", "bn": "খাচ্ছে", "pos": "verb", "base": "eat" }] },
-            { "id": "03", "en": "Who is washing the pots?", "words": [{ "w": "washing", "bn": "ধুচ্ছে", "pos": "verb", "base": "wash" }, { "w": "pots", "bn": "হাঁড়ি", "pos": "noun" }] },
-            { "id": "04", "en": "Where are you putting the spices?", "words": [{ "w": "putting", "bn": "রাখছ", "pos": "verb", "base": "put" }, { "w": "spices", "bn": "মসলা", "pos": "noun" }] },
-            { "id": "05", "en": "Why are you adding more water?", "words": [{ "w": "adding", "bn": "দিচ্ছ", "pos": "verb", "base": "add" }] },
-            { "id": "06", "en": "What is boiling on the stove?", "words": [{ "w": "boiling", "bn": "ফুটছে", "pos": "verb", "base": "boil" }, { "w": "stove", "bn": "চুলা", "pos": "noun" }] }
+            {"id":"01","en":"What are you cooking?","bn":"তুমি কী রান্না করছ?","words":[{"w":"cooking","bn":"রান্না করছ","pos":"verb","base":"cook"}]},
+            {"id":"02","en":"What is Rafi eating?","bn":"রাফি কী খাচ্ছে?","words":[{"w":"eating","bn":"খাচ্ছে","pos":"verb","base":"eat"}]},
+            {"id":"03","en":"Who is washing the pots?","bn":"হাঁড়িগুলো কে ধুচ্ছে?","words":[{"w":"washing","bn":"ধুচ্ছে","pos":"verb","base":"wash"},{"w":"pots","bn":"হাঁড়ি","pos":"noun"}]},
+            {"id":"04","en":"Where are you putting the spices?","bn":"তুমি মসলাগুলো কোথায় রাখছ?","words":[{"w":"putting","bn":"রাখছ","pos":"verb","base":"put"},{"w":"spices","bn":"মসলা","pos":"noun"}]},
+            {"id":"05","en":"Why are you adding more water?","bn":"তুমি আরও পানি দিচ্ছ কেন?","words":[{"w":"adding","bn":"দিচ্ছ","pos":"verb","base":"add"}]},
+            {"id":"06","en":"What is boiling on the stove?","bn":"চুলায় কী ফুটছে?","words":[{"w":"boiling","bn":"ফুটছে","pos":"verb","base":"boil"},{"w":"stove","bn":"চুলা","pos":"noun"}]}
           ]
         }
       ]
@@ -135,12 +135,12 @@
           "pattern": "Subject + verb (past) ...",
           "tipBn": "অতীতের কাজ বোঝাতে verb-এর past রূপ বসে, যেমন cooked, ate।",
           "items": [
-            { "id": "01", "en": "We ate fish curry yesterday.", "words": [{ "w": "ate", "bn": "খেয়েছিলাম", "pos": "verb", "base": "eat" }, { "w": "yesterday", "bn": "গতকাল", "pos": "adverb" }] },
-            { "id": "02", "en": "My mother fried eggplant last night.", "words": [{ "w": "fried", "bn": "ভেজেছিলেন", "pos": "verb", "base": "fry" }, { "w": "eggplant", "bn": "বেগুন", "pos": "noun" }] },
-            { "id": "03", "en": "Mita cooked rice by herself.", "words": [{ "w": "cooked", "bn": "রান্না করেছিল", "pos": "verb", "base": "cook" }, { "w": "by herself", "bn": "নিজে নিজে", "pos": "phrase" }] },
-            { "id": "04", "en": "Rafi finished all the rice.", "words": [{ "w": "finished", "bn": "শেষ করেছিল", "pos": "verb", "base": "finish" }] },
-            { "id": "05", "en": "The dal was very salty.", "words": [{ "w": "salty", "bn": "নোনতা, লবণাক্ত", "pos": "adjective" }] },
-            { "id": "06", "en": "Nani made pitha last winter.", "words": [{ "w": "made", "bn": "বানিয়েছিলেন", "pos": "verb", "base": "make" }, { "w": "winter", "bn": "শীতকাল", "pos": "noun" }] }
+            {"id":"01","en":"We ate fish curry yesterday.","bn":"আমরা গতকাল মাছের তরকারি খেয়েছিলাম।","words":[{"w":"ate","bn":"খেয়েছিলাম","pos":"verb","base":"eat"},{"w":"yesterday","bn":"গতকাল","pos":"adverb"}]},
+            {"id":"02","en":"My mother fried eggplant last night.","bn":"আমার মা গতরাতে বেগুন ভেজেছিলেন।","words":[{"w":"fried","bn":"ভেজেছিলেন","pos":"verb","base":"fry"},{"w":"eggplant","bn":"বেগুন","pos":"noun"}]},
+            {"id":"03","en":"Mita cooked rice by herself.","bn":"মিতা নিজে নিজে ভাত রান্না করেছিল।","words":[{"w":"cooked","bn":"রান্না করেছিল","pos":"verb","base":"cook"},{"w":"by herself","bn":"নিজে নিজে","pos":"phrase"}]},
+            {"id":"04","en":"Rafi finished all the rice.","bn":"রাফি সব ভাত শেষ করে ফেলেছিল।","words":[{"w":"finished","bn":"শেষ করেছিল","pos":"verb","base":"finish"}]},
+            {"id":"05","en":"The dal was very salty.","bn":"ডালটা খুব লবণাক্ত ছিল।","words":[{"w":"salty","bn":"নোনতা, লবণাক্ত","pos":"adjective"}]},
+            {"id":"06","en":"Nani made pitha last winter.","bn":"নানি গত শীতে পিঠা বানিয়েছিলেন।","words":[{"w":"made","bn":"বানিয়েছিলেন","pos":"verb","base":"make"},{"w":"winter","bn":"শীতকাল","pos":"noun"}]}
           ]
         },
         {
@@ -148,12 +148,12 @@
           "pattern": "Subject + didn't + verb (base) ... / Subject + wasn't + adjective.",
           "tipBn": "অতীতের না-বোধক বাক্যে didn't বসে এবং verb তার মূল রূপে থাকে।",
           "items": [
-            { "id": "01", "en": "We didn't eat meat yesterday.", "words": [{ "w": "meat", "bn": "মাংস", "pos": "noun" }] },
-            { "id": "02", "en": "Mita didn't burn the rice.", "words": [{ "w": "burn", "bn": "পোড়ানো", "pos": "verb" }] },
-            { "id": "03", "en": "The fish wasn't fresh.", "words": [{ "w": "fresh", "bn": "তাজা", "pos": "adjective" }] },
-            { "id": "04", "en": "Rafi didn't finish his vegetables.", "words": [{ "w": "finish", "bn": "শেষ করা", "pos": "verb" }, { "w": "vegetables", "bn": "সবজি", "pos": "noun" }] },
-            { "id": "05", "en": "My mother didn't add enough salt.", "words": [{ "w": "add", "bn": "দেওয়া, যোগ করা", "pos": "verb" }, { "w": "enough", "bn": "যথেষ্ট", "pos": "adjective" }] },
-            { "id": "06", "en": "Nobody washed the dishes last night.", "words": [{ "w": "nobody", "bn": "কেউ না", "pos": "pronoun" }, { "w": "dishes", "bn": "থালাবাসন", "pos": "noun" }] }
+            {"id":"01","en":"We didn't eat meat yesterday.","bn":"আমরা গতকাল মাংস খাইনি।","words":[{"w":"meat","bn":"মাংস","pos":"noun"}]},
+            {"id":"02","en":"Mita didn't burn the rice.","bn":"মিতা ভাত পোড়ায়নি।","words":[{"w":"burn","bn":"পোড়ানো","pos":"verb"}]},
+            {"id":"03","en":"The fish wasn't fresh.","bn":"মাছটা টাটকা ছিল না।","words":[{"w":"fresh","bn":"তাজা","pos":"adjective"}]},
+            {"id":"04","en":"Rafi didn't finish his vegetables.","bn":"রাফি তার সবজিগুলো শেষ করেনি।","words":[{"w":"finish","bn":"শেষ করা","pos":"verb"},{"w":"vegetables","bn":"সবজি","pos":"noun"}]},
+            {"id":"05","en":"My mother didn't add enough salt.","bn":"আমার মা যথেষ্ট লবণ দেননি।","words":[{"w":"add","bn":"দেওয়া, যোগ করা","pos":"verb"},{"w":"enough","bn":"যথেষ্ট","pos":"adjective"}]},
+            {"id":"06","en":"Nobody washed the dishes last night.","bn":"গতরাতে কেউ থালাবাসন ধোয়নি।","words":[{"w":"nobody","bn":"কেউ না","pos":"pronoun"},{"w":"dishes","bn":"থালাবাসন","pos":"noun"}]}
           ]
         },
         {
@@ -161,12 +161,12 @@
           "pattern": "Did + subject + verb (base) ...? / Was, Were + subject + adjective?",
           "tipBn": "অতীতের প্রশ্নে Did শুরুতে বসে এবং verb মূল রূপে থাকে।",
           "items": [
-            { "id": "01", "en": "Did you eat fish curry yesterday?", "words": [{ "w": "fish curry", "bn": "মাছের তরকারি", "pos": "noun" }] },
-            { "id": "02", "en": "Did your mother fry the eggplant?", "words": [{ "w": "fry", "bn": "ভাজা", "pos": "verb" }, { "w": "eggplant", "bn": "বেগুন", "pos": "noun" }] },
-            { "id": "03", "en": "Was the dal salty?", "words": [{ "w": "salty", "bn": "নোনতা, লবণাক্ত", "pos": "adjective" }] },
-            { "id": "04", "en": "Did Nani make pitha in winter?", "words": [{ "w": "make", "bn": "বানানো", "pos": "verb" }, { "w": "winter", "bn": "শীতকাল", "pos": "noun" }] },
-            { "id": "05", "en": "Did you enjoy the dinner?", "words": [{ "w": "enjoy", "bn": "উপভোগ করা", "pos": "verb" }] },
-            { "id": "06", "en": "Were the mangoes sweet?", "words": [{ "w": "mangoes", "bn": "আম", "pos": "noun" }, { "w": "sweet", "bn": "মিষ্টি", "pos": "adjective" }] }
+            {"id":"01","en":"Did you eat fish curry yesterday?","bn":"তুমি কি গতকাল মাছের তরকারি খেয়েছিলে?","words":[{"w":"fish curry","bn":"মাছের তরকারি","pos":"noun"}]},
+            {"id":"02","en":"Did your mother fry the eggplant?","bn":"তোমার মা কি বেগুনটা ভেজেছিলেন?","words":[{"w":"fry","bn":"ভাজা","pos":"verb"},{"w":"eggplant","bn":"বেগুন","pos":"noun"}]},
+            {"id":"03","en":"Was the dal salty?","bn":"ডালটা কি লবণাক্ত ছিল?","words":[{"w":"salty","bn":"নোনতা, লবণাক্ত","pos":"adjective"}]},
+            {"id":"04","en":"Did Nani make pitha in winter?","bn":"নানি কি শীতকালে পিঠা বানিয়েছিলেন?","words":[{"w":"make","bn":"বানানো","pos":"verb"},{"w":"winter","bn":"শীতকাল","pos":"noun"}]},
+            {"id":"05","en":"Did you enjoy the dinner?","bn":"তুমি কি রাতের খাবারটা উপভোগ করেছিলে?","words":[{"w":"enjoy","bn":"উপভোগ করা","pos":"verb"}]},
+            {"id":"06","en":"Were the mangoes sweet?","bn":"আমগুলো কি মিষ্টি ছিল?","words":[{"w":"mangoes","bn":"আম","pos":"noun"},{"w":"sweet","bn":"মিষ্টি","pos":"adjective"}]}
           ]
         },
         {
@@ -174,12 +174,12 @@
           "pattern": "Wh- word + did + subject + verb (base)?",
           "tipBn": "প্রশ্নশব্দের পরে did বসে, আর verb মূল রূপে থাকে।",
           "items": [
-            { "id": "01", "en": "What did you have for lunch?", "words": [{ "w": "have", "bn": "খাওয়া", "pos": "verb" }, { "w": "lunch", "bn": "দুপুরের খাবার", "pos": "noun" }] },
-            { "id": "02", "en": "Who cooked the fish curry?", "words": [{ "w": "cooked", "bn": "রান্না করেছিল", "pos": "verb", "base": "cook" }] },
-            { "id": "03", "en": "Where did you eat last night?", "words": [{ "w": "last night", "bn": "গতরাতে", "pos": "phrase" }] },
-            { "id": "04", "en": "Why was the rice so hard?", "words": [{ "w": "hard", "bn": "শক্ত", "pos": "adjective" }] },
-            { "id": "05", "en": "How much salt did you add?", "words": [{ "w": "salt", "bn": "লবণ", "pos": "noun" }, { "w": "add", "bn": "দেওয়া, যোগ করা", "pos": "verb" }] },
-            { "id": "06", "en": "Which spices did your mother use?", "words": [{ "w": "spices", "bn": "মসলা", "pos": "noun" }, { "w": "use", "bn": "ব্যবহার করা", "pos": "verb" }] }
+            {"id":"01","en":"What did you have for lunch?","bn":"তুমি দুপুরে কী খেয়েছিলে?","words":[{"w":"have","bn":"খাওয়া","pos":"verb"},{"w":"lunch","bn":"দুপুরের খাবার","pos":"noun"}]},
+            {"id":"02","en":"Who cooked the fish curry?","bn":"মাছের তরকারিটা কে রান্না করেছিল?","words":[{"w":"cooked","bn":"রান্না করেছিল","pos":"verb","base":"cook"}]},
+            {"id":"03","en":"Where did you eat last night?","bn":"তুমি গতরাতে কোথায় খেয়েছিলে?","words":[{"w":"last night","bn":"গতরাতে","pos":"phrase"}]},
+            {"id":"04","en":"Why was the rice so hard?","bn":"ভাতটা এত শক্ত ছিল কেন?","words":[{"w":"hard","bn":"শক্ত","pos":"adjective"}]},
+            {"id":"05","en":"How much salt did you add?","bn":"তুমি কতটুকু লবণ দিয়েছিলে?","words":[{"w":"salt","bn":"লবণ","pos":"noun"},{"w":"add","bn":"দেওয়া, যোগ করা","pos":"verb"}]},
+            {"id":"06","en":"Which spices did your mother use?","bn":"তোমার মা কোন কোন মসলা ব্যবহার করেছিলেন?","words":[{"w":"spices","bn":"মসলা","pos":"noun"},{"w":"use","bn":"ব্যবহার করা","pos":"verb"}]}
           ]
         }
       ]
@@ -194,12 +194,12 @@
           "pattern": "Subject + will ('ll) + verb (base) ...",
           "tipBn": "প্রতিশ্রুতি, তাৎক্ষণিক সিদ্ধান্ত বা ভবিষ্যতের কথা বলতে will-এর পরে verb-এর মূল রূপ বসে।",
           "items": [
-            { "id": "01", "en": "I will help you in the kitchen.", "words": [{ "w": "help", "bn": "সাহায্য করা", "pos": "verb" }] },
-            { "id": "02", "en": "Guests will come for dinner tomorrow.", "words": [{ "w": "guests", "bn": "অতিথি", "pos": "noun" }, { "w": "tomorrow", "bn": "আগামীকাল", "pos": "adverb" }] },
-            { "id": "03", "en": "I'll wash the dishes.", "words": [{ "w": "dishes", "bn": "থালাবাসন", "pos": "noun" }] },
-            { "id": "04", "en": "My mother will cook beef for Eid.", "words": [{ "w": "beef", "bn": "গরুর মাংস", "pos": "noun" }] },
-            { "id": "05", "en": "Rafi will bring the plates.", "words": [{ "w": "bring", "bn": "আনা", "pos": "verb" }, { "w": "plates", "bn": "থালা, প্লেট", "pos": "noun" }] },
-            { "id": "06", "en": "The rice will be ready soon.", "words": [{ "w": "ready", "bn": "তৈরি", "pos": "adjective" }, { "w": "soon", "bn": "শীঘ্রই", "pos": "adverb" }] }
+            {"id":"01","en":"I will help you in the kitchen.","bn":"আমি রান্নাঘরে তোমাকে সাহায্য করব।","words":[{"w":"help","bn":"সাহায্য করা","pos":"verb"}]},
+            {"id":"02","en":"Guests will come for dinner tomorrow.","bn":"আগামীকাল মেহমানরা রাতের খাবারে আসবেন।","words":[{"w":"guests","bn":"অতিথি","pos":"noun"},{"w":"tomorrow","bn":"আগামীকাল","pos":"adverb"}]},
+            {"id":"03","en":"I'll wash the dishes.","bn":"আমি থালাবাসন ধুয়ে দেব।","words":[{"w":"dishes","bn":"থালাবাসন","pos":"noun"}]},
+            {"id":"04","en":"My mother will cook beef for Eid.","bn":"আমার মা ঈদে গরুর মাংস রান্না করবেন।","words":[{"w":"beef","bn":"গরুর মাংস","pos":"noun"}]},
+            {"id":"05","en":"Rafi will bring the plates.","bn":"রাফি প্লেটগুলো নিয়ে আসবে।","words":[{"w":"bring","bn":"আনা","pos":"verb"},{"w":"plates","bn":"থালা, প্লেট","pos":"noun"}]},
+            {"id":"06","en":"The rice will be ready soon.","bn":"ভাত শিগগিরই তৈরি হয়ে যাবে।","words":[{"w":"ready","bn":"তৈরি","pos":"adjective"},{"w":"soon","bn":"শীঘ্রই","pos":"adverb"}]}
           ]
         },
         {
@@ -207,12 +207,12 @@
           "pattern": "Subject + won't (will not) + verb (base) ...",
           "tipBn": "ভবিষ্যতের না-বোধক বাক্যে will not বা won't বসে।",
           "items": [
-            { "id": "01", "en": "I won't add too much chili.", "words": [{ "w": "too much", "bn": "খুব বেশি", "pos": "phrase" }, { "w": "chili", "bn": "মরিচ", "pos": "noun" }] },
-            { "id": "02", "en": "The guests won't come late.", "words": [{ "w": "guests", "bn": "অতিথি", "pos": "noun" }, { "w": "late", "bn": "দেরিতে", "pos": "adverb" }] },
-            { "id": "03", "en": "Rafi won't forget the spoons.", "words": [{ "w": "forget", "bn": "ভুলে যাওয়া", "pos": "verb" }, { "w": "spoons", "bn": "চামচ", "pos": "noun" }] },
-            { "id": "04", "en": "I won't eat sweets before dinner.", "words": [{ "w": "sweets", "bn": "মিষ্টি", "pos": "noun" }] },
-            { "id": "05", "en": "The rice won't take long.", "words": [{ "w": "take long", "bn": "বেশি সময় লাগা", "pos": "phrase" }] },
-            { "id": "06", "en": "Nani won't eat the spicy curry.", "words": [{ "w": "spicy", "bn": "ঝাল", "pos": "adjective" }, { "w": "curry", "bn": "তরকারি", "pos": "noun" }] }
+            {"id":"01","en":"I won't add too much chili.","bn":"আমি বেশি মরিচ দেব না।","words":[{"w":"too much","bn":"খুব বেশি","pos":"phrase"},{"w":"chili","bn":"মরিচ","pos":"noun"}]},
+            {"id":"02","en":"The guests won't come late.","bn":"মেহমানরা দেরি করে আসবেন না।","words":[{"w":"guests","bn":"অতিথি","pos":"noun"},{"w":"late","bn":"দেরিতে","pos":"adverb"}]},
+            {"id":"03","en":"Rafi won't forget the spoons.","bn":"রাফি চামচগুলোর কথা ভুলবে না।","words":[{"w":"forget","bn":"ভুলে যাওয়া","pos":"verb"},{"w":"spoons","bn":"চামচ","pos":"noun"}]},
+            {"id":"04","en":"I won't eat sweets before dinner.","bn":"আমি রাতের খাবারের আগে মিষ্টি খাব না।","words":[{"w":"sweets","bn":"মিষ্টি","pos":"noun"}]},
+            {"id":"05","en":"The rice won't take long.","bn":"ভাত হতে বেশি সময় লাগবে না।","words":[{"w":"take long","bn":"বেশি সময় লাগা","pos":"phrase"}]},
+            {"id":"06","en":"Nani won't eat the spicy curry.","bn":"নানি ঝাল তরকারিটা খাবেন না।","words":[{"w":"spicy","bn":"ঝাল","pos":"adjective"},{"w":"curry","bn":"তরকারি","pos":"noun"}]}
           ]
         },
         {
@@ -220,12 +220,12 @@
           "pattern": "Will + subject + verb (base) ...?",
           "tipBn": "প্রশ্ন করতে Will বাক্যের শুরুতে বসে, তারপর subject ও verb-এর মূল রূপ আসে।",
           "items": [
-            { "id": "01", "en": "Will you help me in the kitchen?", "words": [{ "w": "help", "bn": "সাহায্য করা", "pos": "verb" }] },
-            { "id": "02", "en": "Will the guests come for dinner?", "words": [{ "w": "guests", "bn": "অতিথি", "pos": "noun" }] },
-            { "id": "03", "en": "Will you wash the dishes tonight?", "words": [{ "w": "dishes", "bn": "থালাবাসন", "pos": "noun" }, { "w": "tonight", "bn": "আজ রাতে", "pos": "adverb" }] },
-            { "id": "04", "en": "Will your mother cook beef for Eid?", "words": [{ "w": "beef", "bn": "গরুর মাংস", "pos": "noun" }] },
-            { "id": "05", "en": "Will you try the mango pickle?", "words": [{ "w": "try", "bn": "চেখে দেখা", "pos": "verb" }, { "w": "pickle", "bn": "আচার", "pos": "noun" }] },
-            { "id": "06", "en": "Will there be enough food?", "words": [{ "w": "enough", "bn": "যথেষ্ট", "pos": "adjective" }] }
+            {"id":"01","en":"Will you help me in the kitchen?","bn":"তুমি কি রান্নাঘরে আমাকে সাহায্য করবে?","words":[{"w":"help","bn":"সাহায্য করা","pos":"verb"}]},
+            {"id":"02","en":"Will the guests come for dinner?","bn":"মেহমানরা কি রাতের খাবারে আসবেন?","words":[{"w":"guests","bn":"অতিথি","pos":"noun"}]},
+            {"id":"03","en":"Will you wash the dishes tonight?","bn":"তুমি কি আজ রাতে থালাবাসন ধোবে?","words":[{"w":"dishes","bn":"থালাবাসন","pos":"noun"},{"w":"tonight","bn":"আজ রাতে","pos":"adverb"}]},
+            {"id":"04","en":"Will your mother cook beef for Eid?","bn":"তোমার মা কি ঈদে গরুর মাংস রান্না করবেন?","words":[{"w":"beef","bn":"গরুর মাংস","pos":"noun"}]},
+            {"id":"05","en":"Will you try the mango pickle?","bn":"তুমি কি আমের আচারটা চেখে দেখবে?","words":[{"w":"try","bn":"চেখে দেখা","pos":"verb"},{"w":"pickle","bn":"আচার","pos":"noun"}]},
+            {"id":"06","en":"Will there be enough food?","bn":"যথেষ্ট খাবার থাকবে কি?","words":[{"w":"enough","bn":"যথেষ্ট","pos":"adjective"}]}
           ]
         },
         {
@@ -233,12 +233,12 @@
           "pattern": "Wh- word + will + subject + verb (base)?",
           "tipBn": "প্রশ্নশব্দের পরে will, তারপর subject ও verb-এর মূল রূপ বসে।",
           "items": [
-            { "id": "01", "en": "What will you cook tomorrow?", "words": [{ "w": "cook", "bn": "রান্না করা", "pos": "verb" }] },
-            { "id": "02", "en": "Who will cut the vegetables?", "words": [{ "w": "cut", "bn": "কাটা", "pos": "verb" }, { "w": "vegetables", "bn": "সবজি", "pos": "noun" }] },
-            { "id": "03", "en": "When will dinner be ready?", "words": [{ "w": "ready", "bn": "তৈরি", "pos": "adjective" }] },
-            { "id": "04", "en": "What will you serve the guests?", "words": [{ "w": "serve", "bn": "পরিবেশন করা", "pos": "verb" }] },
-            { "id": "05", "en": "How many people will come?", "words": [{ "w": "how many", "bn": "কতজন", "pos": "phrase" }] },
-            { "id": "06", "en": "Which dessert will you make?", "words": [{ "w": "dessert", "bn": "মিষ্টান্ন, ডেজার্ট", "pos": "noun" }] }
+            {"id":"01","en":"What will you cook tomorrow?","bn":"তুমি আগামীকাল কী রান্না করবে?","words":[{"w":"cook","bn":"রান্না করা","pos":"verb"}]},
+            {"id":"02","en":"Who will cut the vegetables?","bn":"সবজিগুলো কে কাটবে?","words":[{"w":"cut","bn":"কাটা","pos":"verb"},{"w":"vegetables","bn":"সবজি","pos":"noun"}]},
+            {"id":"03","en":"When will dinner be ready?","bn":"রাতের খাবার কখন তৈরি হবে?","words":[{"w":"ready","bn":"তৈরি","pos":"adjective"}]},
+            {"id":"04","en":"What will you serve the guests?","bn":"তুমি মেহমানদের কী খেতে দেবে?","words":[{"w":"serve","bn":"পরিবেশন করা","pos":"verb"}]},
+            {"id":"05","en":"How many people will come?","bn":"কতজন মানুষ আসবেন?","words":[{"w":"how many","bn":"কতজন","pos":"phrase"}]},
+            {"id":"06","en":"Which dessert will you make?","bn":"তুমি কোন মিষ্টান্নটা বানাবে?","words":[{"w":"dessert","bn":"মিষ্টান্ন, ডেজার্ট","pos":"noun"}]}
           ]
         }
       ]

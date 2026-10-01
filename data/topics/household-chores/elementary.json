@@ -15,12 +15,12 @@
           "pattern": "Subject + verb(s) + object (+ time or place).",
           "tipBn": "নিয়মিত কাজ বোঝাতে present simple হয়; he/she এর পরে verb এ s বা es লাগে।",
           "items": [
-            { "id": "01", "en": "Tania does the laundry every Friday morning.", "words": [{ "w": "does the laundry", "bn": "কাপড় ধোয়ার কাজ করে", "pos": "phrase" }] },
-            { "id": "02", "en": "Arif puts away his toys before dinner.", "words": [{ "w": "puts away", "bn": "গুছিয়ে রাখে", "pos": "phrasal verb", "base": "put away" }, { "w": "toys", "bn": "খেলনা", "pos": "noun" }] },
-            { "id": "03", "en": "Karim usually hangs the wet clothes on the balcony.", "words": [{ "w": "usually", "bn": "সাধারণত", "pos": "adverb" }, { "w": "hangs", "bn": "মেলে দেন", "pos": "verb", "base": "hang" }, { "w": "balcony", "bn": "বারান্দা", "pos": "noun" }] },
-            { "id": "04", "en": "Nadia wipes the kitchen counter after every meal.", "words": [{ "w": "wipes", "bn": "মোছেন", "pos": "verb", "base": "wipe" }, { "w": "kitchen counter", "bn": "রান্নাঘরের তাক", "pos": "noun" }, { "w": "meal", "bn": "বেলার খাবার", "pos": "noun" }] },
-            { "id": "05", "en": "The chore chart is on the fridge door.", "words": [{ "w": "chore chart", "bn": "কাজের তালিকা", "pos": "noun" }, { "w": "fridge", "bn": "ফ্রিজ", "pos": "noun" }] },
-            { "id": "06", "en": "Grandma sorts the dirty clothes by color.", "words": [{ "w": "sorts", "bn": "আলাদা করেন", "pos": "verb", "base": "sort" }, { "w": "by color", "bn": "রং অনুযায়ী", "pos": "phrase" }] }
+            {"id":"01","en":"Tania does the laundry every Friday morning.","bn":"তানিয়া প্রতি শুক্রবার সকালে কাপড় ধোয়।","words":[{"w":"does the laundry","bn":"কাপড় ধোয়ার কাজ করে","pos":"phrase"}]},
+            {"id":"02","en":"Arif puts away his toys before dinner.","bn":"আরিফ রাতের খাবারের আগে তার খেলনাগুলো গুছিয়ে রাখে।","words":[{"w":"puts away","bn":"গুছিয়ে রাখে","pos":"phrasal verb","base":"put away"},{"w":"toys","bn":"খেলনা","pos":"noun"}]},
+            {"id":"03","en":"Karim usually hangs the wet clothes on the balcony.","bn":"করিম সাধারণত ভেজা কাপড়গুলো বারান্দায় মেলে দেয়।","words":[{"w":"usually","bn":"সাধারণত","pos":"adverb"},{"w":"hangs","bn":"মেলে দেন","pos":"verb","base":"hang"},{"w":"balcony","bn":"বারান্দা","pos":"noun"}]},
+            {"id":"04","en":"Nadia wipes the kitchen counter after every meal.","bn":"নাদিয়া প্রতিবার খাওয়ার পর রান্নাঘরের কাউন্টার মোছে।","words":[{"w":"wipes","bn":"মোছেন","pos":"verb","base":"wipe"},{"w":"kitchen counter","bn":"রান্নাঘরের তাক","pos":"noun"},{"w":"meal","bn":"বেলার খাবার","pos":"noun"}]},
+            {"id":"05","en":"The chore chart is on the fridge door.","bn":"কাজের তালিকাটা ফ্রিজের দরজায় আছে।","words":[{"w":"chore chart","bn":"কাজের তালিকা","pos":"noun"},{"w":"fridge","bn":"ফ্রিজ","pos":"noun"}]},
+            {"id":"06","en":"Grandma sorts the dirty clothes by color.","bn":"দাদি ময়লা কাপড়গুলো রং অনুযায়ী আলাদা করে।","words":[{"w":"sorts","bn":"আলাদা করেন","pos":"verb","base":"sort"},{"w":"by color","bn":"রং অনুযায়ী","pos":"phrase"}]}
           ]
         },
         {
@@ -28,12 +28,12 @@
           "pattern": "Subject + don't/doesn't + verb (base) ... / Subject + never + verb(s).",
           "tipBn": "don't বা doesn't এর পরে verb মূল রূপে থাকে; never থাকলে do লাগে না।",
           "items": [
-            { "id": "01", "en": "Tania doesn't do the laundry on weekdays.", "words": [{ "w": "weekdays", "bn": "কর্মদিবস", "pos": "noun" }] },
-            { "id": "02", "en": "Arif doesn't always put away his toys.", "words": [{ "w": "always", "bn": "সবসময়", "pos": "adverb" }, { "w": "put away", "bn": "গুছিয়ে রাখা", "pos": "phrasal verb" }] },
-            { "id": "03", "en": "Karim never irons his own shirts.", "words": [{ "w": "never", "bn": "কখনো না", "pos": "adverb" }, { "w": "irons", "bn": "ইস্ত্রি করেন", "pos": "verb", "base": "iron" }] },
-            { "id": "04", "en": "We don't have a dishwasher at home.", "words": [{ "w": "dishwasher", "bn": "থালা ধোয়ার মেশিন", "pos": "noun" }] },
-            { "id": "05", "en": "Nadia doesn't leave dirty dishes in the sink.", "words": [{ "w": "leave", "bn": "ফেলে রাখা", "pos": "verb" }, { "w": "sink", "bn": "সিংক, বেসিন", "pos": "noun" }] },
-            { "id": "06", "en": "Grandma doesn't like a messy room.", "words": [{ "w": "messy", "bn": "অগোছালো", "pos": "adjective" }] }
+            {"id":"01","en":"Tania doesn't do the laundry on weekdays.","bn":"তানিয়া সপ্তাহের কাজের দিনগুলোতে কাপড় ধোয় না।","words":[{"w":"weekdays","bn":"কর্মদিবস","pos":"noun"}]},
+            {"id":"02","en":"Arif doesn't always put away his toys.","bn":"আরিফ সবসময় তার খেলনাগুলো গুছিয়ে রাখে না।","words":[{"w":"always","bn":"সবসময়","pos":"adverb"},{"w":"put away","bn":"গুছিয়ে রাখা","pos":"phrasal verb"}]},
+            {"id":"03","en":"Karim never irons his own shirts.","bn":"করিম কখনো নিজের শার্ট নিজে ইস্ত্রি করে না।","words":[{"w":"never","bn":"কখনো না","pos":"adverb"},{"w":"irons","bn":"ইস্ত্রি করেন","pos":"verb","base":"iron"}]},
+            {"id":"04","en":"We don't have a dishwasher at home.","bn":"আমাদের বাসায় কোনো ডিশওয়াশার নেই।","words":[{"w":"dishwasher","bn":"থালা ধোয়ার মেশিন","pos":"noun"}]},
+            {"id":"05","en":"Nadia doesn't leave dirty dishes in the sink.","bn":"নাদিয়া সিঙ্কে ময়লা থালাবাসন ফেলে রাখে না।","words":[{"w":"leave","bn":"ফেলে রাখা","pos":"verb"},{"w":"sink","bn":"সিংক, বেসিন","pos":"noun"}]},
+            {"id":"06","en":"Grandma doesn't like a messy room.","bn":"দাদি অগোছালো ঘর পছন্দ করে না।","words":[{"w":"messy","bn":"অগোছালো","pos":"adjective"}]}
           ]
         },
         {
@@ -41,12 +41,12 @@
           "pattern": "Do/Does + subject + verb (base) ...? / Is/Are + subject ...?",
           "tipBn": "Do বা Does দিয়ে প্রশ্ন শুরু হয়; to be থাকলে Is বা Are শুরুতে যায়।",
           "items": [
-            { "id": "01", "en": "Does Tania do the laundry every Friday?", "words": [{ "w": "laundry", "bn": "কাপড় ধোয়ার কাজ", "pos": "noun" }] },
-            { "id": "02", "en": "Does Karim hang the clothes on the balcony?", "words": [{ "w": "hang", "bn": "মেলে দেওয়া", "pos": "verb" }] },
-            { "id": "03", "en": "Is the chore chart on the fridge?", "words": [{ "w": "chore chart", "bn": "কাজের তালিকা", "pos": "noun" }] },
-            { "id": "04", "en": "Do you sweep under the bed?", "words": [{ "w": "sweep", "bn": "ঝাড়ু দেওয়া", "pos": "verb" }, { "w": "under", "bn": "নিচে", "pos": "preposition" }] },
-            { "id": "05", "en": "Does Arif feed the fish every day?", "words": [{ "w": "feed", "bn": "খাবার দেওয়া", "pos": "verb" }] },
-            { "id": "06", "en": "Are the curtains dirty again?", "words": [{ "w": "curtains", "bn": "পর্দা", "pos": "noun" }] }
+            {"id":"01","en":"Does Tania do the laundry every Friday?","bn":"তানিয়া কি প্রতি শুক্রবার কাপড় ধোয়?","words":[{"w":"laundry","bn":"কাপড় ধোয়ার কাজ","pos":"noun"}]},
+            {"id":"02","en":"Does Karim hang the clothes on the balcony?","bn":"করিম কি কাপড়গুলো বারান্দায় মেলে দেয়?","words":[{"w":"hang","bn":"মেলে দেওয়া","pos":"verb"}]},
+            {"id":"03","en":"Is the chore chart on the fridge?","bn":"কাজের তালিকাটা কি ফ্রিজে আছে?","words":[{"w":"chore chart","bn":"কাজের তালিকা","pos":"noun"}]},
+            {"id":"04","en":"Do you sweep under the bed?","bn":"তুমি কি খাটের নিচে ঝাড়ু দাও?","words":[{"w":"sweep","bn":"ঝাড়ু দেওয়া","pos":"verb"},{"w":"under","bn":"নিচে","pos":"preposition"}]},
+            {"id":"05","en":"Does Arif feed the fish every day?","bn":"আরিফ কি প্রতিদিন মাছকে খাবার দেয়?","words":[{"w":"feed","bn":"খাবার দেওয়া","pos":"verb"}]},
+            {"id":"06","en":"Are the curtains dirty again?","bn":"পর্দাগুলো কি আবার ময়লা হয়ে গেছে?","words":[{"w":"curtains","bn":"পর্দা","pos":"noun"}]}
           ]
         },
         {
@@ -54,12 +54,12 @@
           "pattern": "Don't/Doesn't/Isn't/Aren't + subject + ...?",
           "tipBn": "নিশ্চিত হতে বা অবাক হয়ে প্রশ্ন করতে শুরুতে Don't, Doesn't বা Isn't বসে।",
           "items": [
-            { "id": "01", "en": "Doesn't Nadia wipe the counter after lunch?", "words": [{ "w": "wipe", "bn": "মোছা", "pos": "verb" }, { "w": "counter", "bn": "রান্নাঘরের তাক", "pos": "noun" }] },
-            { "id": "02", "en": "Isn't the bucket under the sink?", "words": [{ "w": "bucket", "bn": "বালতি", "pos": "noun" }] },
-            { "id": "03", "en": "Don't you make your bed every morning?", "words": [{ "w": "make your bed", "bn": "বিছানা গোছানো", "pos": "phrase" }] },
-            { "id": "04", "en": "Doesn't Grandma sort the clothes by color?", "words": [{ "w": "sort", "bn": "আলাদা করা", "pos": "verb" }] },
-            { "id": "05", "en": "Aren't these towels clean and dry?", "words": [{ "w": "towels", "bn": "তোয়ালে", "pos": "noun" }, { "w": "dry", "bn": "শুকনো", "pos": "adjective" }] },
-            { "id": "06", "en": "Don't we need more dish soap?", "words": [{ "w": "dish soap", "bn": "থালা ধোয়ার সাবান", "pos": "noun" }] }
+            {"id":"01","en":"Doesn't Nadia wipe the counter after lunch?","bn":"নাদিয়া কি দুপুরের খাবারের পর কাউন্টার মোছে না?","words":[{"w":"wipe","bn":"মোছা","pos":"verb"},{"w":"counter","bn":"রান্নাঘরের তাক","pos":"noun"}]},
+            {"id":"02","en":"Isn't the bucket under the sink?","bn":"বালতিটা কি সিঙ্কের নিচে নেই?","words":[{"w":"bucket","bn":"বালতি","pos":"noun"}]},
+            {"id":"03","en":"Don't you make your bed every morning?","bn":"তুমি কি প্রতিদিন সকালে তোমার বিছানা গোছাও না?","words":[{"w":"make your bed","bn":"বিছানা গোছানো","pos":"phrase"}]},
+            {"id":"04","en":"Doesn't Grandma sort the clothes by color?","bn":"দাদি কি কাপড়গুলো রং অনুযায়ী আলাদা করে না?","words":[{"w":"sort","bn":"আলাদা করা","pos":"verb"}]},
+            {"id":"05","en":"Aren't these towels clean and dry?","bn":"এই তোয়ালেগুলো কি পরিষ্কার আর শুকনো না?","words":[{"w":"towels","bn":"তোয়ালে","pos":"noun"},{"w":"dry","bn":"শুকনো","pos":"adjective"}]},
+            {"id":"06","en":"Don't we need more dish soap?","bn":"আমাদের কি আরও থালা ধোয়ার সাবান লাগবে না?","words":[{"w":"dish soap","bn":"থালা ধোয়ার সাবান","pos":"noun"}]}
           ]
         },
         {
@@ -67,12 +67,12 @@
           "pattern": "Wh-word + do/does + subject + verb (base) ...? / Who + verb(s)?",
           "tipBn": "প্রশ্নবোধক শব্দের পরে do বা does বসে; Who কর্তা হলে verb এ s যোগ হয়।",
           "items": [
-            { "id": "01", "en": "Who takes out the garbage in your family?", "words": [{ "w": "takes out", "bn": "বাইরে ফেলে", "pos": "phrasal verb", "base": "take out" }, { "w": "garbage", "bn": "আবর্জনা", "pos": "noun" }] },
-            { "id": "02", "en": "What time does Karim water the plants?", "words": [{ "w": "What time", "bn": "কয়টায়", "pos": "phrase" }, { "w": "water", "bn": "পানি দেওয়া", "pos": "verb" }] },
-            { "id": "03", "en": "How often does Nadia change the bedsheets?", "words": [{ "w": "How often", "bn": "কত ঘন ঘন", "pos": "phrase" }, { "w": "change", "bn": "বদলানো", "pos": "verb" }, { "w": "bedsheets", "bn": "বিছানার চাদর", "pos": "noun" }] },
-            { "id": "04", "en": "Where do you keep the broom?", "words": [{ "w": "keep", "bn": "রাখা", "pos": "verb" }, { "w": "broom", "bn": "ঝাড়ু", "pos": "noun" }] },
-            { "id": "05", "en": "Why does Grandma check the chore chart?", "words": [{ "w": "check", "bn": "দেখে নেওয়া", "pos": "verb" }] },
-            { "id": "06", "en": "Which chore does Arif like best?", "words": [{ "w": "chore", "bn": "ঘরের কাজ", "pos": "noun" }, { "w": "like best", "bn": "সবচেয়ে পছন্দ করা", "pos": "phrase" }] }
+            {"id":"01","en":"Who takes out the garbage in your family?","bn":"তোমার পরিবারে কে ময়লা বাইরে ফেলে?","words":[{"w":"takes out","bn":"বাইরে ফেলে","pos":"phrasal verb","base":"take out"},{"w":"garbage","bn":"আবর্জনা","pos":"noun"}]},
+            {"id":"02","en":"What time does Karim water the plants?","bn":"করিম কয়টার সময় গাছে পানি দেয়?","words":[{"w":"What time","bn":"কয়টায়","pos":"phrase"},{"w":"water","bn":"পানি দেওয়া","pos":"verb"}]},
+            {"id":"03","en":"How often does Nadia change the bedsheets?","bn":"নাদিয়া কত ঘন ঘন বিছানার চাদর বদলায়?","words":[{"w":"How often","bn":"কত ঘন ঘন","pos":"phrase"},{"w":"change","bn":"বদলানো","pos":"verb"},{"w":"bedsheets","bn":"বিছানার চাদর","pos":"noun"}]},
+            {"id":"04","en":"Where do you keep the broom?","bn":"তুমি ঝাড়ুটা কোথায় রাখো?","words":[{"w":"keep","bn":"রাখা","pos":"verb"},{"w":"broom","bn":"ঝাড়ু","pos":"noun"}]},
+            {"id":"05","en":"Why does Grandma check the chore chart?","bn":"দাদি কাজের তালিকাটা কেন দেখে?","words":[{"w":"check","bn":"দেখে নেওয়া","pos":"verb"}]},
+            {"id":"06","en":"Which chore does Arif like best?","bn":"আরিফ কোন কাজটা সবচেয়ে বেশি পছন্দ করে?","words":[{"w":"chore","bn":"ঘরের কাজ","pos":"noun"},{"w":"like best","bn":"সবচেয়ে পছন্দ করা","pos":"phrase"}]}
           ]
         }
       ]
@@ -87,12 +87,12 @@
           "pattern": "Subject + am/is/are + verb-ing + object (+ right now).",
           "tipBn": "এই মুহূর্তে চলছে এমন কাজে am/is/are + verb-ing ব্যবহার হয়।",
           "items": [
-            { "id": "01", "en": "Tania is scrubbing the bathroom floor right now.", "words": [{ "w": "scrubbing", "bn": "ঘষে পরিষ্কার করছে", "pos": "verb", "base": "scrub" }, { "w": "right now", "bn": "ঠিক এখন", "pos": "phrase" }] },
-            { "id": "02", "en": "Arif is picking up toys from the carpet.", "words": [{ "w": "picking up", "bn": "তুলছে", "pos": "phrasal verb", "base": "pick up" }, { "w": "carpet", "bn": "কার্পেট", "pos": "noun" }] },
-            { "id": "03", "en": "Karim is changing the light bulb in the dining room.", "words": [{ "w": "changing", "bn": "বদলাচ্ছেন", "pos": "verb", "base": "change" }, { "w": "light bulb", "bn": "বাল্ব", "pos": "noun" }] },
-            { "id": "04", "en": "Nadia is making a list of cleaning supplies.", "words": [{ "w": "list", "bn": "তালিকা", "pos": "noun" }, { "w": "cleaning supplies", "bn": "পরিষ্কারের জিনিসপত্র", "pos": "noun" }] },
-            { "id": "05", "en": "Grandma is folding the clean clothes on the bed.", "words": [{ "w": "folding", "bn": "ভাঁজ করছেন", "pos": "verb", "base": "fold" }] },
-            { "id": "06", "en": "The washing machine is making a strange noise.", "words": [{ "w": "washing machine", "bn": "কাপড় ধোয়ার মেশিন", "pos": "noun" }, { "w": "strange", "bn": "অদ্ভুত", "pos": "adjective" }, { "w": "noise", "bn": "শব্দ", "pos": "noun" }] }
+            {"id":"01","en":"Tania is scrubbing the bathroom floor right now.","bn":"তানিয়া এই মুহূর্তে বাথরুমের মেঝে ঘষে পরিষ্কার করছে।","words":[{"w":"scrubbing","bn":"ঘষে পরিষ্কার করছে","pos":"verb","base":"scrub"},{"w":"right now","bn":"ঠিক এখন","pos":"phrase"}]},
+            {"id":"02","en":"Arif is picking up toys from the carpet.","bn":"আরিফ কার্পেট থেকে খেলনা তুলছে।","words":[{"w":"picking up","bn":"তুলছে","pos":"phrasal verb","base":"pick up"},{"w":"carpet","bn":"কার্পেট","pos":"noun"}]},
+            {"id":"03","en":"Karim is changing the light bulb in the dining room.","bn":"করিম খাবার ঘরের লাইট বাল্ব বদলাচ্ছে।","words":[{"w":"changing","bn":"বদলাচ্ছেন","pos":"verb","base":"change"},{"w":"light bulb","bn":"বাল্ব","pos":"noun"}]},
+            {"id":"04","en":"Nadia is making a list of cleaning supplies.","bn":"নাদিয়া পরিষ্কার করার জিনিসপত্রের একটা তালিকা বানাচ্ছে।","words":[{"w":"list","bn":"তালিকা","pos":"noun"},{"w":"cleaning supplies","bn":"পরিষ্কারের জিনিসপত্র","pos":"noun"}]},
+            {"id":"05","en":"Grandma is folding the clean clothes on the bed.","bn":"দাদি বিছানার ওপর পরিষ্কার কাপড়গুলো ভাঁজ করছে।","words":[{"w":"folding","bn":"ভাঁজ করছেন","pos":"verb","base":"fold"}]},
+            {"id":"06","en":"The washing machine is making a strange noise.","bn":"ওয়াশিং মেশিনটা একটা অদ্ভুত শব্দ করছে।","words":[{"w":"washing machine","bn":"কাপড় ধোয়ার মেশিন","pos":"noun"},{"w":"strange","bn":"অদ্ভুত","pos":"adjective"},{"w":"noise","bn":"শব্দ","pos":"noun"}]}
           ]
         },
         {
@@ -100,12 +100,12 @@
           "pattern": "Subject + am/is/are + not + verb-ing ...",
           "tipBn": "isn't, aren't বা am not দিয়ে বোঝায় কাজটি এখন হচ্ছে না।",
           "items": [
-            { "id": "01", "en": "Tania isn't cleaning the bathroom alone.", "words": [{ "w": "alone", "bn": "একা", "pos": "adverb" }] },
-            { "id": "02", "en": "Arif isn't helping at the moment.", "words": [{ "w": "at the moment", "bn": "এই মুহূর্তে", "pos": "phrase" }] },
-            { "id": "03", "en": "Karim isn't using the old ladder.", "words": [{ "w": "ladder", "bn": "মই", "pos": "noun" }] },
-            { "id": "04", "en": "Nadia isn't shopping online this time.", "words": [{ "w": "online", "bn": "অনলাইনে", "pos": "adverb" }, { "w": "this time", "bn": "এবার", "pos": "phrase" }] },
-            { "id": "05", "en": "The washing machine isn't spinning properly.", "words": [{ "w": "spinning", "bn": "ঘুরছে", "pos": "verb", "base": "spin" }, { "w": "properly", "bn": "ঠিকমতো", "pos": "adverb" }] },
-            { "id": "06", "en": "We aren't wasting any water today.", "words": [{ "w": "wasting", "bn": "নষ্ট করছি", "pos": "verb", "base": "waste" }] }
+            {"id":"01","en":"Tania isn't cleaning the bathroom alone.","bn":"তানিয়া একা বাথরুম পরিষ্কার করছে না।","words":[{"w":"alone","bn":"একা","pos":"adverb"}]},
+            {"id":"02","en":"Arif isn't helping at the moment.","bn":"আরিফ এই মুহূর্তে সাহায্য করছে না।","words":[{"w":"at the moment","bn":"এই মুহূর্তে","pos":"phrase"}]},
+            {"id":"03","en":"Karim isn't using the old ladder.","bn":"করিম পুরনো মইটা ব্যবহার করছে না।","words":[{"w":"ladder","bn":"মই","pos":"noun"}]},
+            {"id":"04","en":"Nadia isn't shopping online this time.","bn":"নাদিয়া এবার অনলাইনে কেনাকাটা করছে না।","words":[{"w":"online","bn":"অনলাইনে","pos":"adverb"},{"w":"this time","bn":"এবার","pos":"phrase"}]},
+            {"id":"05","en":"The washing machine isn't spinning properly.","bn":"ওয়াশিং মেশিনটা ঠিকমতো ঘুরছে না।","words":[{"w":"spinning","bn":"ঘুরছে","pos":"verb","base":"spin"},{"w":"properly","bn":"ঠিকমতো","pos":"adverb"}]},
+            {"id":"06","en":"We aren't wasting any water today.","bn":"আমরা আজ একটুও পানি নষ্ট করছি না।","words":[{"w":"wasting","bn":"নষ্ট করছি","pos":"verb","base":"waste"}]}
           ]
         },
         {
@@ -113,12 +113,12 @@
           "pattern": "Am/Is/Are + subject + verb-ing ...?",
           "tipBn": "প্রশ্ন করতে am/is/are শুরুতে আসে, verb-ing আগের মতোই থাকে।",
           "items": [
-            { "id": "01", "en": "Is Tania scrubbing the bathroom floor?", "words": [{ "w": "scrubbing", "bn": "ঘষে পরিষ্কার করছে", "pos": "verb", "base": "scrub" }] },
-            { "id": "02", "en": "Is Grandma folding the clothes on the bed?", "words": [{ "w": "folding", "bn": "ভাঁজ করছেন", "pos": "verb", "base": "fold" }] },
-            { "id": "03", "en": "Is the washing machine still running?", "words": [{ "w": "still", "bn": "এখনো", "pos": "adverb" }, { "w": "running", "bn": "চলছে", "pos": "verb", "base": "run" }] },
-            { "id": "04", "en": "Are the kids helping their parents today?", "words": [{ "w": "kids", "bn": "বাচ্চারা", "pos": "noun" }, { "w": "helping", "bn": "সাহায্য করছে", "pos": "verb", "base": "help" }] },
-            { "id": "05", "en": "Is Karim fixing the dining room light?", "words": [{ "w": "fixing", "bn": "ঠিক করছেন", "pos": "verb", "base": "fix" }] },
-            { "id": "06", "en": "Are you listening to music while you clean?", "words": [{ "w": "while", "bn": "যখন, সময়", "pos": "conjunction" }] }
+            {"id":"01","en":"Is Tania scrubbing the bathroom floor?","bn":"তানিয়া কি বাথরুমের মেঝে ঘষে পরিষ্কার করছে?","words":[{"w":"scrubbing","bn":"ঘষে পরিষ্কার করছে","pos":"verb","base":"scrub"}]},
+            {"id":"02","en":"Is Grandma folding the clothes on the bed?","bn":"দাদি কি বিছানার ওপর কাপড়গুলো ভাঁজ করছে?","words":[{"w":"folding","bn":"ভাঁজ করছেন","pos":"verb","base":"fold"}]},
+            {"id":"03","en":"Is the washing machine still running?","bn":"ওয়াশিং মেশিনটা কি এখনো চলছে?","words":[{"w":"still","bn":"এখনো","pos":"adverb"},{"w":"running","bn":"চলছে","pos":"verb","base":"run"}]},
+            {"id":"04","en":"Are the kids helping their parents today?","bn":"বাচ্চারা কি আজ তাদের মা-বাবাকে সাহায্য করছে?","words":[{"w":"kids","bn":"বাচ্চারা","pos":"noun"},{"w":"helping","bn":"সাহায্য করছে","pos":"verb","base":"help"}]},
+            {"id":"05","en":"Is Karim fixing the dining room light?","bn":"করিম কি খাবার ঘরের লাইটটা ঠিক করছে?","words":[{"w":"fixing","bn":"ঠিক করছেন","pos":"verb","base":"fix"}]},
+            {"id":"06","en":"Are you listening to music while you clean?","bn":"তুমি কি পরিষ্কার করতে করতে গান শুনছ?","words":[{"w":"while","bn":"যখন, সময়","pos":"conjunction"}]}
           ]
         },
         {
@@ -126,12 +126,12 @@
           "pattern": "Wh-word + am/is/are + subject + verb-ing?",
           "tipBn": "প্রশ্নবোধক শব্দ, তারপর am/is/are, subject আর verb-ing বসে।",
           "items": [
-            { "id": "01", "en": "What is Arif hiding under his bed?", "words": [{ "w": "hiding", "bn": "লুকাচ্ছে", "pos": "verb", "base": "hide" }] },
-            { "id": "02", "en": "Why is Tania wearing rubber gloves?", "words": [{ "w": "rubber gloves", "bn": "রাবারের দস্তানা", "pos": "noun" }] },
-            { "id": "03", "en": "Where is Karim putting the ladder?", "words": [{ "w": "putting", "bn": "রাখছেন", "pos": "verb", "base": "put" }, { "w": "ladder", "bn": "মই", "pos": "noun" }] },
-            { "id": "04", "en": "Who is cleaning the ceiling fan?", "words": [{ "w": "ceiling fan", "bn": "ছাদের পাখা", "pos": "noun" }] },
-            { "id": "05", "en": "How are you removing that stain?", "words": [{ "w": "removing", "bn": "তুলছ", "pos": "verb", "base": "remove" }, { "w": "stain", "bn": "দাগ", "pos": "noun" }] },
-            { "id": "06", "en": "Which windows is Nadia washing?", "words": [{ "w": "windows", "bn": "জানালা", "pos": "noun" }] }
+            {"id":"01","en":"What is Arif hiding under his bed?","bn":"আরিফ তার খাটের নিচে কী লুকাচ্ছে?","words":[{"w":"hiding","bn":"লুকাচ্ছে","pos":"verb","base":"hide"}]},
+            {"id":"02","en":"Why is Tania wearing rubber gloves?","bn":"তানিয়া রাবারের গ্লাভস পরে আছে কেন?","words":[{"w":"rubber gloves","bn":"রাবারের দস্তানা","pos":"noun"}]},
+            {"id":"03","en":"Where is Karim putting the ladder?","bn":"করিম মইটা কোথায় রাখছে?","words":[{"w":"putting","bn":"রাখছেন","pos":"verb","base":"put"},{"w":"ladder","bn":"মই","pos":"noun"}]},
+            {"id":"04","en":"Who is cleaning the ceiling fan?","bn":"কে সিলিং ফ্যানটা পরিষ্কার করছে?","words":[{"w":"ceiling fan","bn":"ছাদের পাখা","pos":"noun"}]},
+            {"id":"05","en":"How are you removing that stain?","bn":"তুমি ওই দাগটা কীভাবে তুলছ?","words":[{"w":"removing","bn":"তুলছ","pos":"verb","base":"remove"},{"w":"stain","bn":"দাগ","pos":"noun"}]},
+            {"id":"06","en":"Which windows is Nadia washing?","bn":"নাদিয়া কোন জানালাগুলো ধুচ্ছে?","words":[{"w":"windows","bn":"জানালা","pos":"noun"}]}
           ]
         }
       ]
@@ -146,12 +146,12 @@
           "pattern": "Subject + verb (past) + object (+ time word).",
           "tipBn": "অতীতের কাজে regular verb এ -ed লাগে, irregular verb এর রূপ আলাদা (hang থেকে hung)।",
           "items": [
-            { "id": "01", "en": "We cleaned the whole flat last Friday.", "words": [{ "w": "whole", "bn": "পুরো", "pos": "adjective" }, { "w": "flat", "bn": "ফ্ল্যাট, বাসা", "pos": "noun" }] },
-            { "id": "02", "en": "Tania washed the curtains and hung them outside.", "words": [{ "w": "curtains", "bn": "পর্দা", "pos": "noun" }, { "w": "hung", "bn": "ঝুলিয়ে দিল", "pos": "verb", "base": "hang" }] },
-            { "id": "03", "en": "Arif found his lost sock under the sofa.", "words": [{ "w": "found", "bn": "খুঁজে পেল", "pos": "verb", "base": "find" }, { "w": "lost", "bn": "হারানো", "pos": "adjective" }] },
-            { "id": "04", "en": "Karim cleared the blocked kitchen drain.", "words": [{ "w": "cleared", "bn": "পরিষ্কার করলেন", "pos": "verb", "base": "clear" }, { "w": "blocked", "bn": "আটকে যাওয়া", "pos": "adjective" }, { "w": "drain", "bn": "পানি যাওয়ার নালা", "pos": "noun" }] },
-            { "id": "05", "en": "Nadia threw away the old newspapers.", "words": [{ "w": "threw away", "bn": "ফেলে দিলেন", "pos": "phrasal verb", "base": "throw away" }] },
-            { "id": "06", "en": "Grandma made tea for everyone afterwards.", "words": [{ "w": "afterwards", "bn": "পরে", "pos": "adverb" }] }
+            {"id":"01","en":"We cleaned the whole flat last Friday.","bn":"আমরা গত শুক্রবার পুরো ফ্ল্যাটটা পরিষ্কার করেছিলাম।","words":[{"w":"whole","bn":"পুরো","pos":"adjective"},{"w":"flat","bn":"ফ্ল্যাট, বাসা","pos":"noun"}]},
+            {"id":"02","en":"Tania washed the curtains and hung them outside.","bn":"তানিয়া পর্দাগুলো ধুয়ে বাইরে মেলে দিয়েছিল।","words":[{"w":"curtains","bn":"পর্দা","pos":"noun"},{"w":"hung","bn":"ঝুলিয়ে দিল","pos":"verb","base":"hang"}]},
+            {"id":"03","en":"Arif found his lost sock under the sofa.","bn":"আরিফ সোফার নিচে তার হারানো মোজাটা খুঁজে পেয়েছিল।","words":[{"w":"found","bn":"খুঁজে পেল","pos":"verb","base":"find"},{"w":"lost","bn":"হারানো","pos":"adjective"}]},
+            {"id":"04","en":"Karim cleared the blocked kitchen drain.","bn":"করিম রান্নাঘরের আটকে যাওয়া নালাটা পরিষ্কার করেছিল।","words":[{"w":"cleared","bn":"পরিষ্কার করলেন","pos":"verb","base":"clear"},{"w":"blocked","bn":"আটকে যাওয়া","pos":"adjective"},{"w":"drain","bn":"পানি যাওয়ার নালা","pos":"noun"}]},
+            {"id":"05","en":"Nadia threw away the old newspapers.","bn":"নাদিয়া পুরনো খবরের কাগজগুলো ফেলে দিয়েছিল।","words":[{"w":"threw away","bn":"ফেলে দিলেন","pos":"phrasal verb","base":"throw away"}]},
+            {"id":"06","en":"Grandma made tea for everyone afterwards.","bn":"পরে দাদি সবার জন্য চা বানিয়েছিল।","words":[{"w":"afterwards","bn":"পরে","pos":"adverb"}]}
           ]
         },
         {
@@ -159,12 +159,12 @@
           "pattern": "Subject + didn't + verb (base) ... / Nobody + verb (past) ...",
           "tipBn": "didn't এর পরে verb আবার মূল রূপে ফিরে যায়।",
           "items": [
-            { "id": "01", "en": "We didn't clean the roof last Friday.", "words": [{ "w": "roof", "bn": "ছাদ", "pos": "noun" }] },
-            { "id": "02", "en": "Tania didn't iron the curtains.", "words": [{ "w": "iron", "bn": "ইস্ত্রি করা", "pos": "verb" }] },
-            { "id": "03", "en": "Arif didn't find his other sock.", "words": [{ "w": "find", "bn": "খুঁজে পাওয়া", "pos": "verb" }, { "w": "other", "bn": "অন্যটা", "pos": "adjective" }] },
-            { "id": "04", "en": "The drain didn't smell bad after that.", "words": [{ "w": "drain", "bn": "পানি যাওয়ার নালা", "pos": "noun" }, { "w": "smell", "bn": "গন্ধ ছড়ানো", "pos": "verb" }] },
-            { "id": "05", "en": "Nadia didn't throw away the empty boxes.", "words": [{ "w": "throw away", "bn": "ফেলে দেওয়া", "pos": "phrasal verb" }, { "w": "empty", "bn": "খালি", "pos": "adjective" }] },
-            { "id": "06", "en": "Nobody wanted to clean the toilet.", "words": [{ "w": "Nobody", "bn": "কেউ না", "pos": "pronoun" }, { "w": "toilet", "bn": "টয়লেট", "pos": "noun" }] }
+            {"id":"01","en":"We didn't clean the roof last Friday.","bn":"আমরা গত শুক্রবার ছাদ পরিষ্কার করিনি।","words":[{"w":"roof","bn":"ছাদ","pos":"noun"}]},
+            {"id":"02","en":"Tania didn't iron the curtains.","bn":"তানিয়া পর্দাগুলো ইস্ত্রি করেনি।","words":[{"w":"iron","bn":"ইস্ত্রি করা","pos":"verb"}]},
+            {"id":"03","en":"Arif didn't find his other sock.","bn":"আরিফ তার অন্য মোজাটা খুঁজে পায়নি।","words":[{"w":"find","bn":"খুঁজে পাওয়া","pos":"verb"},{"w":"other","bn":"অন্যটা","pos":"adjective"}]},
+            {"id":"04","en":"The drain didn't smell bad after that.","bn":"এরপর নালা থেকে আর খারাপ গন্ধ আসেনি।","words":[{"w":"drain","bn":"পানি যাওয়ার নালা","pos":"noun"},{"w":"smell","bn":"গন্ধ ছড়ানো","pos":"verb"}]},
+            {"id":"05","en":"Nadia didn't throw away the empty boxes.","bn":"নাদিয়া খালি বাক্সগুলো ফেলে দেয়নি।","words":[{"w":"throw away","bn":"ফেলে দেওয়া","pos":"phrasal verb"},{"w":"empty","bn":"খালি","pos":"adjective"}]},
+            {"id":"06","en":"Nobody wanted to clean the toilet.","bn":"কেউই টয়লেট পরিষ্কার করতে চায়নি।","words":[{"w":"Nobody","bn":"কেউ না","pos":"pronoun"},{"w":"toilet","bn":"টয়লেট","pos":"noun"}]}
           ]
         },
         {
@@ -172,12 +172,12 @@
           "pattern": "Did + subject + verb (base) ...? / Was/Were + subject ...?",
           "tipBn": "Did দিয়ে প্রশ্নে verb মূল রূপে থাকে; to be হলে Was বা Were শুরুতে বসে।",
           "items": [
-            { "id": "01", "en": "Did Tania wash the curtains by hand?", "words": [{ "w": "by hand", "bn": "হাতে", "pos": "phrase" }] },
-            { "id": "02", "en": "Did Arif find his lost sock?", "words": [{ "w": "find", "bn": "খুঁজে পাওয়া", "pos": "verb" }] },
-            { "id": "03", "en": "Did Karim clear the kitchen drain?", "words": [{ "w": "clear", "bn": "পরিষ্কার করা", "pos": "verb" }, { "w": "drain", "bn": "পানি যাওয়ার নালা", "pos": "noun" }] },
-            { "id": "04", "en": "Did you remember to buy bleach?", "words": [{ "w": "remember", "bn": "মনে রাখা", "pos": "verb" }, { "w": "bleach", "bn": "ব্লিচ", "pos": "noun" }] },
-            { "id": "05", "en": "Was the bathroom very dirty?", "words": [{ "w": "dirty", "bn": "নোংরা", "pos": "adjective" }] },
-            { "id": "06", "en": "Were the children tired after the cleaning?", "words": [{ "w": "tired", "bn": "ক্লান্ত", "pos": "adjective" }] }
+            {"id":"01","en":"Did Tania wash the curtains by hand?","bn":"তানিয়া কি পর্দাগুলো হাতে ধুয়েছিল?","words":[{"w":"by hand","bn":"হাতে","pos":"phrase"}]},
+            {"id":"02","en":"Did Arif find his lost sock?","bn":"আরিফ কি তার হারানো মোজাটা খুঁজে পেয়েছিল?","words":[{"w":"find","bn":"খুঁজে পাওয়া","pos":"verb"}]},
+            {"id":"03","en":"Did Karim clear the kitchen drain?","bn":"করিম কি রান্নাঘরের নালাটা পরিষ্কার করেছিল?","words":[{"w":"clear","bn":"পরিষ্কার করা","pos":"verb"},{"w":"drain","bn":"পানি যাওয়ার নালা","pos":"noun"}]},
+            {"id":"04","en":"Did you remember to buy bleach?","bn":"তুমি কি ব্লিচ কেনার কথা মনে রেখেছিলে?","words":[{"w":"remember","bn":"মনে রাখা","pos":"verb"},{"w":"bleach","bn":"ব্লিচ","pos":"noun"}]},
+            {"id":"05","en":"Was the bathroom very dirty?","bn":"বাথরুমটা কি খুব নোংরা ছিল?","words":[{"w":"dirty","bn":"নোংরা","pos":"adjective"}]},
+            {"id":"06","en":"Were the children tired after the cleaning?","bn":"পরিষ্কারের পর বাচ্চারা কি ক্লান্ত ছিল?","words":[{"w":"tired","bn":"ক্লান্ত","pos":"adjective"}]}
           ]
         },
         {
@@ -185,12 +185,12 @@
           "pattern": "Didn't/Wasn't/Weren't + subject + ...?",
           "tipBn": "অতীতের কোনো কাজ নিয়ে নিশ্চিত হতে Didn't, Wasn't বা Weren't দিয়ে প্রশ্ন শুরু হয়।",
           "items": [
-            { "id": "01", "en": "Didn't you mop the floor this morning?", "words": [{ "w": "mop", "bn": "মোছা", "pos": "verb" }] },
-            { "id": "02", "en": "Didn't Nadia throw away those newspapers?", "words": [{ "w": "throw away", "bn": "ফেলে দেওয়া", "pos": "phrasal verb" }, { "w": "newspapers", "bn": "খবরের কাগজ", "pos": "noun" }] },
-            { "id": "03", "en": "Wasn't the kitchen sink blocked yesterday?", "words": [{ "w": "sink", "bn": "সিংক, বেসিন", "pos": "noun" }, { "w": "blocked", "bn": "আটকে যাওয়া", "pos": "adjective" }] },
-            { "id": "04", "en": "Didn't Arif promise to tidy his desk?", "words": [{ "w": "promise", "bn": "কথা দেওয়া", "pos": "verb" }, { "w": "tidy", "bn": "গোছানো", "pos": "verb" }] },
-            { "id": "05", "en": "Weren't the windows cleaner last week?", "words": [{ "w": "cleaner", "bn": "আরও পরিষ্কার", "pos": "adjective" }] },
-            { "id": "06", "en": "Didn't Tania hang the towels outside?", "words": [{ "w": "hang", "bn": "মেলে দেওয়া", "pos": "verb" }, { "w": "outside", "bn": "বাইরে", "pos": "adverb" }] }
+            {"id":"01","en":"Didn't you mop the floor this morning?","bn":"তুমি কি আজ সকালে মেঝে মোছোনি?","words":[{"w":"mop","bn":"মোছা","pos":"verb"}]},
+            {"id":"02","en":"Didn't Nadia throw away those newspapers?","bn":"নাদিয়া কি ওই খবরের কাগজগুলো ফেলে দেয়নি?","words":[{"w":"throw away","bn":"ফেলে দেওয়া","pos":"phrasal verb"},{"w":"newspapers","bn":"খবরের কাগজ","pos":"noun"}]},
+            {"id":"03","en":"Wasn't the kitchen sink blocked yesterday?","bn":"গতকাল কি রান্নাঘরের সিঙ্কটা আটকে ছিল না?","words":[{"w":"sink","bn":"সিংক, বেসিন","pos":"noun"},{"w":"blocked","bn":"আটকে যাওয়া","pos":"adjective"}]},
+            {"id":"04","en":"Didn't Arif promise to tidy his desk?","bn":"আরিফ কি তার ডেস্ক গোছানোর কথা দেয়নি?","words":[{"w":"promise","bn":"কথা দেওয়া","pos":"verb"},{"w":"tidy","bn":"গোছানো","pos":"verb"}]},
+            {"id":"05","en":"Weren't the windows cleaner last week?","bn":"গত সপ্তাহে কি জানালাগুলো আরও পরিষ্কার ছিল না?","words":[{"w":"cleaner","bn":"আরও পরিষ্কার","pos":"adjective"}]},
+            {"id":"06","en":"Didn't Tania hang the towels outside?","bn":"তানিয়া কি তোয়ালেগুলো বাইরে মেলে দেয়নি?","words":[{"w":"hang","bn":"মেলে দেওয়া","pos":"verb"},{"w":"outside","bn":"বাইরে","pos":"adverb"}]}
           ]
         },
         {
@@ -198,12 +198,12 @@
           "pattern": "Wh-word + did + subject + verb (base)? / Who + verb (past)?",
           "tipBn": "প্রশ্নবোধক শব্দের পরে did বসে; Who কর্তা হলে past verb সরাসরি বসে।",
           "items": [
-            { "id": "01", "en": "What did Arif find under the sofa?", "words": [{ "w": "find", "bn": "খুঁজে পাওয়া", "pos": "verb" }, { "w": "sofa", "bn": "সোফা", "pos": "noun" }] },
-            { "id": "02", "en": "How long did the cleaning take?", "words": [{ "w": "How long", "bn": "কতক্ষণ", "pos": "phrase" }, { "w": "take", "bn": "সময় লাগা", "pos": "verb" }] },
-            { "id": "03", "en": "Who broke the blue flower vase?", "words": [{ "w": "broke", "bn": "ভাঙল", "pos": "verb", "base": "break" }, { "w": "flower vase", "bn": "ফুলদানি", "pos": "noun" }] },
-            { "id": "04", "en": "Why did Karim call the plumber?", "words": [{ "w": "plumber", "bn": "কলের মিস্ত্রি", "pos": "noun" }] },
-            { "id": "05", "en": "Where did Tania hang the wet curtains?", "words": [{ "w": "hang", "bn": "মেলে দেওয়া", "pos": "verb" }, { "w": "curtains", "bn": "পর্দা", "pos": "noun" }] },
-            { "id": "06", "en": "When did you last change the bedsheets?", "words": [{ "w": "last", "bn": "শেষবার", "pos": "adverb" }, { "w": "bedsheets", "bn": "বিছানার চাদর", "pos": "noun" }] }
+            {"id":"01","en":"What did Arif find under the sofa?","bn":"আরিফ সোফার নিচে কী খুঁজে পেয়েছিল?","words":[{"w":"find","bn":"খুঁজে পাওয়া","pos":"verb"},{"w":"sofa","bn":"সোফা","pos":"noun"}]},
+            {"id":"02","en":"How long did the cleaning take?","bn":"পরিষ্কার করতে কত সময় লেগেছিল?","words":[{"w":"How long","bn":"কতক্ষণ","pos":"phrase"},{"w":"take","bn":"সময় লাগা","pos":"verb"}]},
+            {"id":"03","en":"Who broke the blue flower vase?","bn":"নীল ফুলদানিটা কে ভেঙেছিল?","words":[{"w":"broke","bn":"ভাঙল","pos":"verb","base":"break"},{"w":"flower vase","bn":"ফুলদানি","pos":"noun"}]},
+            {"id":"04","en":"Why did Karim call the plumber?","bn":"করিম কেন প্লাম্বারকে ডেকেছিল?","words":[{"w":"plumber","bn":"কলের মিস্ত্রি","pos":"noun"}]},
+            {"id":"05","en":"Where did Tania hang the wet curtains?","bn":"তানিয়া ভেজা পর্দাগুলো কোথায় মেলে দিয়েছিল?","words":[{"w":"hang","bn":"মেলে দেওয়া","pos":"verb"},{"w":"curtains","bn":"পর্দা","pos":"noun"}]},
+            {"id":"06","en":"When did you last change the bedsheets?","bn":"তুমি শেষবার কবে বিছানার চাদর বদলেছিলে?","words":[{"w":"last","bn":"শেষবার","pos":"adverb"},{"w":"bedsheets","bn":"বিছানার চাদর","pos":"noun"}]}
           ]
         }
       ]
@@ -218,12 +218,12 @@
           "pattern": "Subject + am/is/are + going to + verb (base).",
           "tipBn": "আগে থেকে ঠিক করা পরিকল্পনা বা চোখে দেখা লক্ষণ বোঝাতে going to + verb বসে।",
           "items": [
-            { "id": "01", "en": "Tania is going to clean the fridge tomorrow.", "words": [{ "w": "fridge", "bn": "ফ্রিজ", "pos": "noun" }] },
-            { "id": "02", "en": "We're going to paint Arif's room next month.", "words": [{ "w": "paint", "bn": "রং করা", "pos": "verb" }] },
-            { "id": "03", "en": "Karim is going to replace the broken tap.", "words": [{ "w": "replace", "bn": "বদলানো", "pos": "verb" }, { "w": "broken", "bn": "ভাঙা", "pos": "adjective" }] },
-            { "id": "04", "en": "Nadia is going to buy a new mop this evening.", "words": [{ "w": "mop", "bn": "ঘর মোছার মপ", "pos": "noun" }] },
-            { "id": "05", "en": "The bin is full, so it's going to smell.", "words": [{ "w": "bin", "bn": "ময়লার ঝুড়ি", "pos": "noun" }, { "w": "smell", "bn": "গন্ধ ছড়ানো", "pos": "verb" }] },
-            { "id": "06", "en": "Grandma is going to teach Arif how to sew buttons.", "words": [{ "w": "sew", "bn": "সেলাই করা", "pos": "verb" }, { "w": "buttons", "bn": "বোতাম", "pos": "noun" }] }
+            {"id":"01","en":"Tania is going to clean the fridge tomorrow.","bn":"তানিয়া আগামীকাল ফ্রিজটা পরিষ্কার করতে যাচ্ছে।","words":[{"w":"fridge","bn":"ফ্রিজ","pos":"noun"}]},
+            {"id":"02","en":"We're going to paint Arif's room next month.","bn":"আমরা আগামী মাসে আরিফের ঘর রং করতে যাচ্ছি।","words":[{"w":"paint","bn":"রং করা","pos":"verb"}]},
+            {"id":"03","en":"Karim is going to replace the broken tap.","bn":"করিম ভাঙা কলটা বদলাতে যাচ্ছে।","words":[{"w":"replace","bn":"বদলানো","pos":"verb"},{"w":"broken","bn":"ভাঙা","pos":"adjective"}]},
+            {"id":"04","en":"Nadia is going to buy a new mop this evening.","bn":"নাদিয়া আজ সন্ধ্যায় একটা নতুন মপ কিনতে যাচ্ছে।","words":[{"w":"mop","bn":"ঘর মোছার মপ","pos":"noun"}]},
+            {"id":"05","en":"The bin is full, so it's going to smell.","bn":"ময়লার ঝুড়িটা ভরা, তাই এটা থেকে গন্ধ বের হতে যাচ্ছে।","words":[{"w":"bin","bn":"ময়লার ঝুড়ি","pos":"noun"},{"w":"smell","bn":"গন্ধ ছড়ানো","pos":"verb"}]},
+            {"id":"06","en":"Grandma is going to teach Arif how to sew buttons.","bn":"দাদি আরিফকে বোতাম সেলাই করা শেখাতে যাচ্ছে।","words":[{"w":"sew","bn":"সেলাই করা","pos":"verb"},{"w":"buttons","bn":"বোতাম","pos":"noun"}]}
           ]
         },
         {
@@ -231,12 +231,12 @@
           "pattern": "Subject + am/is/are + not + going to + verb (base).",
           "tipBn": "am/is/are এর পরে not বসিয়ে বোঝানো হয় এমন পরিকল্পনা নেই।",
           "items": [
-            { "id": "01", "en": "Tania isn't going to clean the fridge alone.", "words": [{ "w": "alone", "bn": "একা", "pos": "adverb" }] },
-            { "id": "02", "en": "We aren't going to paint the kitchen this year.", "words": [{ "w": "paint", "bn": "রং করা", "pos": "verb" }] },
-            { "id": "03", "en": "Karim isn't going to call a plumber this time.", "words": [{ "w": "plumber", "bn": "কলের মিস্ত্রি", "pos": "noun" }, { "w": "this time", "bn": "এবার", "pos": "phrase" }] },
-            { "id": "04", "en": "Arif isn't going to skip his chores again.", "words": [{ "w": "skip", "bn": "বাদ দেওয়া", "pos": "verb" }, { "w": "chores", "bn": "ঘরের কাজ", "pos": "noun" }] },
-            { "id": "05", "en": "I'm not going to wash these clothes by hand.", "words": [{ "w": "by hand", "bn": "হাতে", "pos": "phrase" }] },
-            { "id": "06", "en": "The stain isn't going to disappear by itself.", "words": [{ "w": "disappear", "bn": "উধাও হওয়া", "pos": "verb" }, { "w": "by itself", "bn": "নিজে নিজে", "pos": "phrase" }] }
+            {"id":"01","en":"Tania isn't going to clean the fridge alone.","bn":"তানিয়া একা ফ্রিজটা পরিষ্কার করতে যাচ্ছে না।","words":[{"w":"alone","bn":"একা","pos":"adverb"}]},
+            {"id":"02","en":"We aren't going to paint the kitchen this year.","bn":"আমরা এ বছর রান্নাঘর রং করতে যাচ্ছি না।","words":[{"w":"paint","bn":"রং করা","pos":"verb"}]},
+            {"id":"03","en":"Karim isn't going to call a plumber this time.","bn":"করিম এবার প্লাম্বার ডাকতে যাচ্ছে না।","words":[{"w":"plumber","bn":"কলের মিস্ত্রি","pos":"noun"},{"w":"this time","bn":"এবার","pos":"phrase"}]},
+            {"id":"04","en":"Arif isn't going to skip his chores again.","bn":"আরিফ আর তার কাজ ফাঁকি দিতে যাচ্ছে না।","words":[{"w":"skip","bn":"বাদ দেওয়া","pos":"verb"},{"w":"chores","bn":"ঘরের কাজ","pos":"noun"}]},
+            {"id":"05","en":"I'm not going to wash these clothes by hand.","bn":"আমি এই কাপড়গুলো হাতে ধুতে যাচ্ছি না।","words":[{"w":"by hand","bn":"হাতে","pos":"phrase"}]},
+            {"id":"06","en":"The stain isn't going to disappear by itself.","bn":"দাগটা নিজে নিজে মুছে যাবে না।","words":[{"w":"disappear","bn":"উধাও হওয়া","pos":"verb"},{"w":"by itself","bn":"নিজে নিজে","pos":"phrase"}]}
           ]
         },
         {
@@ -244,12 +244,12 @@
           "pattern": "Am/Is/Are + subject + going to + verb (base) ...?",
           "tipBn": "প্রশ্ন করতে am/is/are শুরুতে আসে, তারপর subject ও going to বসে।",
           "items": [
-            { "id": "01", "en": "Are you going to clean the fridge tomorrow?", "words": [{ "w": "fridge", "bn": "ফ্রিজ", "pos": "noun" }] },
-            { "id": "02", "en": "Is Karim going to replace the tap himself?", "words": [{ "w": "replace", "bn": "বদলানো", "pos": "verb" }, { "w": "himself", "bn": "নিজে", "pos": "pronoun" }] },
-            { "id": "03", "en": "Is Nadia going to buy a new mop?", "words": [{ "w": "mop", "bn": "ঘর মোছার মপ", "pos": "noun" }] },
-            { "id": "04", "en": "Are we going to hire a cleaner?", "words": [{ "w": "hire", "bn": "কাজে রাখা", "pos": "verb" }, { "w": "cleaner", "bn": "পরিচ্ছন্নতাকর্মী", "pos": "noun" }] },
-            { "id": "05", "en": "Is it going to rain on laundry day?", "words": [{ "w": "laundry day", "bn": "কাপড় ধোয়ার দিন", "pos": "noun" }] },
-            { "id": "06", "en": "Is Arif going to help Grandma this weekend?", "words": [{ "w": "weekend", "bn": "সাপ্তাহিক ছুটি", "pos": "noun" }] }
+            {"id":"01","en":"Are you going to clean the fridge tomorrow?","bn":"তুমি কি আগামীকাল ফ্রিজটা পরিষ্কার করতে যাচ্ছ?","words":[{"w":"fridge","bn":"ফ্রিজ","pos":"noun"}]},
+            {"id":"02","en":"Is Karim going to replace the tap himself?","bn":"করিম কি নিজেই কলটা বদলাতে যাচ্ছে?","words":[{"w":"replace","bn":"বদলানো","pos":"verb"},{"w":"himself","bn":"নিজে","pos":"pronoun"}]},
+            {"id":"03","en":"Is Nadia going to buy a new mop?","bn":"নাদিয়া কি একটা নতুন মপ কিনতে যাচ্ছে?","words":[{"w":"mop","bn":"ঘর মোছার মপ","pos":"noun"}]},
+            {"id":"04","en":"Are we going to hire a cleaner?","bn":"আমরা কি একজন পরিচ্ছন্নতাকর্মী রাখতে যাচ্ছি?","words":[{"w":"hire","bn":"কাজে রাখা","pos":"verb"},{"w":"cleaner","bn":"পরিচ্ছন্নতাকর্মী","pos":"noun"}]},
+            {"id":"05","en":"Is it going to rain on laundry day?","bn":"কাপড় ধোয়ার দিনে কি বৃষ্টি হতে যাচ্ছে?","words":[{"w":"laundry day","bn":"কাপড় ধোয়ার দিন","pos":"noun"}]},
+            {"id":"06","en":"Is Arif going to help Grandma this weekend?","bn":"আরিফ কি এই সপ্তাহান্তে দাদিকে সাহায্য করতে যাচ্ছে?","words":[{"w":"weekend","bn":"সাপ্তাহিক ছুটি","pos":"noun"}]}
           ]
         },
         {
@@ -257,12 +257,12 @@
           "pattern": "Wh-word + am/is/are + subject + going to + verb (base)?",
           "tipBn": "প্রশ্নবোধক শব্দের পরে am/is/are, subject ও going to বসে।",
           "items": [
-            { "id": "01", "en": "What are we going to do with the old clothes?", "words": [{ "w": "old clothes", "bn": "পুরনো কাপড়", "pos": "noun" }] },
-            { "id": "02", "en": "When is Karim going to fix the tap?", "words": [{ "w": "fix", "bn": "ঠিক করা", "pos": "verb" }, { "w": "tap", "bn": "কল", "pos": "noun" }] },
-            { "id": "03", "en": "Who is going to clean the balcony?", "words": [{ "w": "balcony", "bn": "বারান্দা", "pos": "noun" }] },
-            { "id": "04", "en": "How are we going to share the new chores?", "words": [{ "w": "share", "bn": "ভাগ করা", "pos": "verb" }] },
-            { "id": "05", "en": "Where are you going to put the new shelf?", "words": [{ "w": "shelf", "bn": "তাক", "pos": "noun" }] },
-            { "id": "06", "en": "Which color are we going to paint Arif's room?", "words": [{ "w": "color", "bn": "রং", "pos": "noun" }] }
+            {"id":"01","en":"What are we going to do with the old clothes?","bn":"আমরা পুরনো কাপড়গুলো দিয়ে কী করতে যাচ্ছি?","words":[{"w":"old clothes","bn":"পুরনো কাপড়","pos":"noun"}]},
+            {"id":"02","en":"When is Karim going to fix the tap?","bn":"করিম কখন কলটা ঠিক করতে যাচ্ছে?","words":[{"w":"fix","bn":"ঠিক করা","pos":"verb"},{"w":"tap","bn":"কল","pos":"noun"}]},
+            {"id":"03","en":"Who is going to clean the balcony?","bn":"কে বারান্দাটা পরিষ্কার করতে যাচ্ছে?","words":[{"w":"balcony","bn":"বারান্দা","pos":"noun"}]},
+            {"id":"04","en":"How are we going to share the new chores?","bn":"আমরা নতুন কাজগুলো কীভাবে ভাগ করে নিতে যাচ্ছি?","words":[{"w":"share","bn":"ভাগ করা","pos":"verb"}]},
+            {"id":"05","en":"Where are you going to put the new shelf?","bn":"তুমি নতুন তাকটা কোথায় রাখতে যাচ্ছ?","words":[{"w":"shelf","bn":"তাক","pos":"noun"}]},
+            {"id":"06","en":"Which color are we going to paint Arif's room?","bn":"আমরা আরিফের ঘর কোন রঙে রং করতে যাচ্ছি?","words":[{"w":"color","bn":"রং","pos":"noun"}]}
           ]
         }
       ]

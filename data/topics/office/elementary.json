@@ -15,12 +15,12 @@
           "pattern": "Subject + is/are ... / Subject + verb(s) + object + time/place.",
           "tipBn": "নিয়মিত কাজ ও স্থায়ী তথ্য বোঝাতে present simple হয়; he, she হলে verb-এ s যোগ হয়।",
           "items": [
-            { "id": "01", "en": "Tanvir works in the marketing team.", "words": [{ "w": "marketing team", "bn": "বিপণন দল, মার্কেটিং টিম", "pos": "noun" }] },
-            { "id": "02", "en": "The office opens at nine from Sunday to Thursday.", "words": [{ "w": "opens", "bn": "খোলে", "pos": "verb", "base": "open" }, { "w": "from Sunday to Thursday", "bn": "রবিবার থেকে বৃহস্পতিবার", "pos": "phrase" }] },
-            { "id": "03", "en": "Ms. Farzana is the team leader, and she is very organized.", "words": [{ "w": "team leader", "bn": "দলনেতা, টিম লিডার", "pos": "noun" }, { "w": "organized", "bn": "গোছানো, সুশৃঙ্খল", "pos": "adjective" }] },
-            { "id": "04", "en": "Tanvir usually answers client emails in the morning.", "words": [{ "w": "usually", "bn": "সাধারণত", "pos": "adverb" }, { "w": "answers", "bn": "উত্তর দেয়", "pos": "verb", "base": "answer" }] },
-            { "id": "05", "en": "We have a short team meeting every Sunday.", "words": [{ "w": "short", "bn": "ছোট, সংক্ষিপ্ত", "pos": "adjective" }, { "w": "every Sunday", "bn": "প্রতি রবিবার", "pos": "phrase" }] },
-            { "id": "06", "en": "Mitu and Arif share an office with Tanvir.", "words": [{ "w": "share", "bn": "ভাগাভাগি করে", "pos": "verb" }] }
+            {"id":"01","en":"Tanvir works in the marketing team.","bn":"তানভীর মার্কেটিং টিমে কাজ করে।","words":[{"w":"marketing team","bn":"বিপণন দল, মার্কেটিং টিম","pos":"noun"}]},
+            {"id":"02","en":"The office opens at nine from Sunday to Thursday.","bn":"অফিস রবিবার থেকে বৃহস্পতিবার ৯টায় খোলে।","words":[{"w":"opens","bn":"খোলে","pos":"verb","base":"open"},{"w":"from Sunday to Thursday","bn":"রবিবার থেকে বৃহস্পতিবার","pos":"phrase"}]},
+            {"id":"03","en":"Ms. Farzana is the team leader, and she is very organized.","bn":"ফারজানা ম্যাডাম টিম লিডার, এবং তিনি খুব গোছানো।","words":[{"w":"team leader","bn":"দলনেতা, টিম লিডার","pos":"noun"},{"w":"organized","bn":"গোছানো, সুশৃঙ্খল","pos":"adjective"}]},
+            {"id":"04","en":"Tanvir usually answers client emails in the morning.","bn":"তানভীর সাধারণত সকালে ক্লায়েন্টদের ইমেইলের উত্তর দেয়।","words":[{"w":"usually","bn":"সাধারণত","pos":"adverb"},{"w":"answers","bn":"উত্তর দেয়","pos":"verb","base":"answer"}]},
+            {"id":"05","en":"We have a short team meeting every Sunday.","bn":"আমাদের প্রতি রবিবার একটা ছোট টিম মিটিং হয়।","words":[{"w":"short","bn":"ছোট, সংক্ষিপ্ত","pos":"adjective"},{"w":"every Sunday","bn":"প্রতি রবিবার","pos":"phrase"}]},
+            {"id":"06","en":"Mitu and Arif share an office with Tanvir.","bn":"মিতু আর আরিফ তানভীরের সাথে একই অফিস রুমে বসে।","words":[{"w":"share","bn":"ভাগাভাগি করে","pos":"verb"}]}
           ]
         },
         {
@@ -28,12 +28,12 @@
           "pattern": "Subject + isn't/aren't ... / Subject + don't/doesn't + verb (base) ...",
           "tipBn": "be verb-এর পরে not বসে; অন্য verb-এর আগে don't বা doesn't বসে, আর doesn't-এর পরে verb-এ s থাকে না।",
           "items": [
-            { "id": "01", "en": "Tanvir doesn't work in the finance team.", "words": [{ "w": "finance team", "bn": "হিসাব বিভাগ, ফাইন্যান্স টিম", "pos": "noun" }] },
-            { "id": "02", "en": "The office doesn't open on Fridays.", "words": [{ "w": "open", "bn": "খোলা", "pos": "verb" }, { "w": "Fridays", "bn": "শুক্রবারে", "pos": "noun", "base": "Friday" }] },
-            { "id": "03", "en": "Ms. Farzana isn't strict, but she is very fair.", "words": [{ "w": "strict", "bn": "কড়া", "pos": "adjective" }, { "w": "fair", "bn": "ন্যায্য, নিরপেক্ষ", "pos": "adjective" }] },
-            { "id": "04", "en": "Arif doesn't like long meetings.", "words": [{ "w": "like", "bn": "পছন্দ করা", "pos": "verb" }, { "w": "long", "bn": "দীর্ঘ, লম্বা", "pos": "adjective" }] },
-            { "id": "05", "en": "We don't use paper files anymore.", "words": [{ "w": "paper files", "bn": "কাগজের ফাইল", "pos": "noun" }, { "w": "anymore", "bn": "এখন আর", "pos": "adverb" }] },
-            { "id": "06", "en": "Mitu doesn't take the bus to work.", "words": [{ "w": "take the bus", "bn": "বাসে যাওয়া", "pos": "phrase" }] }
+            {"id":"01","en":"Tanvir doesn't work in the finance team.","bn":"তানভীর ফাইন্যান্স টিমে কাজ করে না।","words":[{"w":"finance team","bn":"হিসাব বিভাগ, ফাইন্যান্স টিম","pos":"noun"}]},
+            {"id":"02","en":"The office doesn't open on Fridays.","bn":"শুক্রবারে অফিস খোলে না।","words":[{"w":"open","bn":"খোলা","pos":"verb"},{"w":"Fridays","bn":"শুক্রবারে","pos":"noun","base":"Friday"}]},
+            {"id":"03","en":"Ms. Farzana isn't strict, but she is very fair.","bn":"ফারজানা ম্যাডাম কড়া নন, কিন্তু তিনি খুব ন্যায্য।","words":[{"w":"strict","bn":"কড়া","pos":"adjective"},{"w":"fair","bn":"ন্যায্য, নিরপেক্ষ","pos":"adjective"}]},
+            {"id":"04","en":"Arif doesn't like long meetings.","bn":"আরিফ লম্বা মিটিং পছন্দ করে না।","words":[{"w":"like","bn":"পছন্দ করা","pos":"verb"},{"w":"long","bn":"দীর্ঘ, লম্বা","pos":"adjective"}]},
+            {"id":"05","en":"We don't use paper files anymore.","bn":"আমরা এখন আর কাগজের ফাইল ব্যবহার করি না।","words":[{"w":"paper files","bn":"কাগজের ফাইল","pos":"noun"},{"w":"anymore","bn":"এখন আর","pos":"adverb"}]},
+            {"id":"06","en":"Mitu doesn't take the bus to work.","bn":"মিতু বাসে করে কাজে যায় না।","words":[{"w":"take the bus","bn":"বাসে যাওয়া","pos":"phrase"}]}
           ]
         },
         {
@@ -41,12 +41,12 @@
           "pattern": "Do/Does + subject + verb (base) ...? / Is/Are + subject ...?",
           "tipBn": "Do/Does অথবা Is/Are বাক্যের শুরুতে বসিয়ে হ্যাঁ/না প্রশ্ন হয়।",
           "items": [
-            { "id": "01", "en": "Does Tanvir work in the marketing team?", "words": [{ "w": "marketing team", "bn": "বিপণন দল, মার্কেটিং টিম", "pos": "noun" }] },
-            { "id": "02", "en": "Do you have a team meeting every Sunday?", "words": [{ "w": "every Sunday", "bn": "প্রতি রবিবার", "pos": "phrase" }] },
-            { "id": "03", "en": "Is Ms. Farzana free this afternoon?", "words": [{ "w": "free", "bn": "ফাঁকা, অবসর", "pos": "adjective" }, { "w": "afternoon", "bn": "বিকেল", "pos": "noun" }] },
-            { "id": "04", "en": "Does Tanvir answer client emails in the morning?", "words": [{ "w": "answer", "bn": "উত্তর দেওয়া", "pos": "verb" }] },
-            { "id": "05", "en": "Do you need a password for the Wi-Fi?", "words": [{ "w": "need", "bn": "প্রয়োজন হওয়া, লাগা", "pos": "verb" }] },
-            { "id": "06", "en": "Is the meeting room on this floor?", "words": [{ "w": "floor", "bn": "তলা", "pos": "noun" }] }
+            {"id":"01","en":"Does Tanvir work in the marketing team?","bn":"তানভীর কি মার্কেটিং টিমে কাজ করে?","words":[{"w":"marketing team","bn":"বিপণন দল, মার্কেটিং টিম","pos":"noun"}]},
+            {"id":"02","en":"Do you have a team meeting every Sunday?","bn":"তোমাদের কি প্রতি রবিবার টিম মিটিং হয়?","words":[{"w":"every Sunday","bn":"প্রতি রবিবার","pos":"phrase"}]},
+            {"id":"03","en":"Is Ms. Farzana free this afternoon?","bn":"ফারজানা ম্যাডাম কি আজ বিকেলে ফ্রি আছেন?","words":[{"w":"free","bn":"ফাঁকা, অবসর","pos":"adjective"},{"w":"afternoon","bn":"বিকেল","pos":"noun"}]},
+            {"id":"04","en":"Does Tanvir answer client emails in the morning?","bn":"তানভীর কি সকালে ক্লায়েন্টদের ইমেইলের উত্তর দেয়?","words":[{"w":"answer","bn":"উত্তর দেওয়া","pos":"verb"}]},
+            {"id":"05","en":"Do you need a password for the Wi-Fi?","bn":"ওয়াই-ফাইয়ের জন্য কি তোমার পাসওয়ার্ড লাগে?","words":[{"w":"need","bn":"প্রয়োজন হওয়া, লাগা","pos":"verb"}]},
+            {"id":"06","en":"Is the meeting room on this floor?","bn":"মিটিং রুমটা কি এই তলায়?","words":[{"w":"floor","bn":"তলা","pos":"noun"}]}
           ]
         },
         {
@@ -54,12 +54,12 @@
           "pattern": "Don't/Doesn't/Isn't/Aren't + subject + ...?",
           "tipBn": "Don't, Doesn't, Isn't দিয়ে প্রশ্ন শুরু করলে বোঝায় আমরা হ্যাঁ উত্তর আশা করছি বা একটু অবাক হয়েছি।",
           "items": [
-            { "id": "01", "en": "Doesn't the office open at nine?", "words": [{ "w": "open", "bn": "খোলা", "pos": "verb" }] },
-            { "id": "02", "en": "Isn't Ms. Farzana the team leader?", "words": [{ "w": "team leader", "bn": "দলনেতা, টিম লিডার", "pos": "noun" }] },
-            { "id": "03", "en": "Don't you like working with Arif?", "words": [{ "w": "working with", "bn": "একসাথে কাজ করা", "pos": "phrase" }] },
-            { "id": "04", "en": "Doesn't Mitu share an office with you?", "words": [{ "w": "share", "bn": "ভাগাভাগি করা", "pos": "verb" }] },
-            { "id": "05", "en": "Isn't the client meeting on Tuesday?", "words": [{ "w": "client", "bn": "ক্লায়েন্ট, গ্রাহক", "pos": "noun" }] },
-            { "id": "06", "en": "Don't we have a deadline this week?", "words": [{ "w": "deadline", "bn": "শেষ সময়সীমা, ডেডলাইন", "pos": "noun" }] }
+            {"id":"01","en":"Doesn't the office open at nine?","bn":"অফিস কি ৯টায় খোলে না?","words":[{"w":"open","bn":"খোলা","pos":"verb"}]},
+            {"id":"02","en":"Isn't Ms. Farzana the team leader?","bn":"ফারজানা ম্যাডাম কি টিম লিডার নন?","words":[{"w":"team leader","bn":"দলনেতা, টিম লিডার","pos":"noun"}]},
+            {"id":"03","en":"Don't you like working with Arif?","bn":"তুমি কি আরিফের সাথে কাজ করতে পছন্দ করো না?","words":[{"w":"working with","bn":"একসাথে কাজ করা","pos":"phrase"}]},
+            {"id":"04","en":"Doesn't Mitu share an office with you?","bn":"মিতু কি তোমার সাথে একই অফিস রুমে বসে না?","words":[{"w":"share","bn":"ভাগাভাগি করা","pos":"verb"}]},
+            {"id":"05","en":"Isn't the client meeting on Tuesday?","bn":"ক্লায়েন্ট মিটিংটা কি মঙ্গলবারে নয়?","words":[{"w":"client","bn":"ক্লায়েন্ট, গ্রাহক","pos":"noun"}]},
+            {"id":"06","en":"Don't we have a deadline this week?","bn":"এই সপ্তাহে কি আমাদের একটা ডেডলাইন নেই?","words":[{"w":"deadline","bn":"শেষ সময়সীমা, ডেডলাইন","pos":"noun"}]}
           ]
         },
         {
@@ -67,12 +67,12 @@
           "pattern": "Wh-word + do/does + subject + verb? / Wh-word + is/are ...?",
           "tipBn": "তথ্য জানতে প্রশ্নের শুরুতে What, Where, Who, How, Which বসে, তারপর do/does বা is।",
           "items": [
-            { "id": "01", "en": "What time does the office open?", "words": [{ "w": "What time", "bn": "কয়টায়", "pos": "phrase" }] },
-            { "id": "02", "en": "Who leads the marketing team?", "words": [{ "w": "leads", "bn": "নেতৃত্ব দেয়", "pos": "verb", "base": "lead" }] },
-            { "id": "03", "en": "How does Tanvir get to work?", "words": [{ "w": "get to work", "bn": "অফিসে যাওয়া", "pos": "phrase" }] },
-            { "id": "04", "en": "Where do you keep the printer paper?", "words": [{ "w": "keep", "bn": "রাখা", "pos": "verb" }] },
-            { "id": "05", "en": "How often does the team meet?", "words": [{ "w": "How often", "bn": "কত ঘন ঘন", "pos": "phrase" }] },
-            { "id": "06", "en": "Which client does Mitu work with?", "words": [{ "w": "work with", "bn": "একসাথে কাজ করা", "pos": "phrase" }] }
+            {"id":"01","en":"What time does the office open?","bn":"অফিস কয়টায় খোলে?","words":[{"w":"What time","bn":"কয়টায়","pos":"phrase"}]},
+            {"id":"02","en":"Who leads the marketing team?","bn":"মার্কেটিং টিমের নেতৃত্ব কে দেন?","words":[{"w":"leads","bn":"নেতৃত্ব দেয়","pos":"verb","base":"lead"}]},
+            {"id":"03","en":"How does Tanvir get to work?","bn":"তানভীর কীভাবে কাজে যায়?","words":[{"w":"get to work","bn":"অফিসে যাওয়া","pos":"phrase"}]},
+            {"id":"04","en":"Where do you keep the printer paper?","bn":"তোমরা প্রিন্টারের কাগজ কোথায় রাখো?","words":[{"w":"keep","bn":"রাখা","pos":"verb"}]},
+            {"id":"05","en":"How often does the team meet?","bn":"টিম কত ঘন ঘন মিটিং করে?","words":[{"w":"How often","bn":"কত ঘন ঘন","pos":"phrase"}]},
+            {"id":"06","en":"Which client does Mitu work with?","bn":"মিতু কোন ক্লায়েন্টের সাথে কাজ করে?","words":[{"w":"work with","bn":"একসাথে কাজ করা","pos":"phrase"}]}
           ]
         }
       ]
@@ -87,12 +87,12 @@
           "pattern": "Subject + am/is/are + verb-ing (+ now / this week).",
           "tipBn": "এই মুহূর্তে বা এই সময়টায় চলমান কাজ বোঝাতে am/is/are + verb-ing হয়।",
           "items": [
-            { "id": "01", "en": "Tanvir is preparing slides for the client meeting.", "words": [{ "w": "preparing", "bn": "তৈরি করছে", "pos": "verb", "base": "prepare" }, { "w": "slides", "bn": "প্রেজেন্টেশনের স্লাইড", "pos": "noun", "base": "slide" }] },
-            { "id": "02", "en": "Mitu is designing a new poster this week.", "words": [{ "w": "designing", "bn": "নকশা করছে", "pos": "verb", "base": "design" }, { "w": "this week", "bn": "এই সপ্তাহে", "pos": "phrase" }] },
-            { "id": "03", "en": "Arif is fixing a problem with his laptop.", "words": [{ "w": "fixing", "bn": "ঠিক করছে", "pos": "verb", "base": "fix" }, { "w": "problem", "bn": "সমস্যা", "pos": "noun" }] },
-            { "id": "04", "en": "Ms. Farzana is talking to a client on a video call.", "words": [{ "w": "talking to", "bn": "কথা বলছেন", "pos": "phrase" }, { "w": "video call", "bn": "ভিডিও কল", "pos": "noun" }] },
-            { "id": "05", "en": "We are working on a big campaign this month.", "words": [{ "w": "working on", "bn": "কাজ করছি", "pos": "phrasal verb", "base": "work on" }, { "w": "campaign", "bn": "প্রচারণা, ক্যাম্পেইন", "pos": "noun" }] },
-            { "id": "06", "en": "The new intern is sitting at the empty desk.", "words": [{ "w": "intern", "bn": "শিক্ষানবিশ, ইন্টার্ন", "pos": "noun" }, { "w": "empty", "bn": "খালি", "pos": "adjective" }] }
+            {"id":"01","en":"Tanvir is preparing slides for the client meeting.","bn":"তানভীর ক্লায়েন্ট মিটিংয়ের জন্য স্লাইড তৈরি করছে।","words":[{"w":"preparing","bn":"তৈরি করছে","pos":"verb","base":"prepare"},{"w":"slides","bn":"প্রেজেন্টেশনের স্লাইড","pos":"noun","base":"slide"}]},
+            {"id":"02","en":"Mitu is designing a new poster this week.","bn":"মিতু এই সপ্তাহে একটা নতুন পোস্টার ডিজাইন করছে।","words":[{"w":"designing","bn":"নকশা করছে","pos":"verb","base":"design"},{"w":"this week","bn":"এই সপ্তাহে","pos":"phrase"}]},
+            {"id":"03","en":"Arif is fixing a problem with his laptop.","bn":"আরিফ তার ল্যাপটপের একটা সমস্যা ঠিক করছে।","words":[{"w":"fixing","bn":"ঠিক করছে","pos":"verb","base":"fix"},{"w":"problem","bn":"সমস্যা","pos":"noun"}]},
+            {"id":"04","en":"Ms. Farzana is talking to a client on a video call.","bn":"ফারজানা ম্যাডাম ভিডিও কলে একজন ক্লায়েন্টের সাথে কথা বলছেন।","words":[{"w":"talking to","bn":"কথা বলছেন","pos":"phrase"},{"w":"video call","bn":"ভিডিও কল","pos":"noun"}]},
+            {"id":"05","en":"We are working on a big campaign this month.","bn":"আমরা এই মাসে একটা বড় ক্যাম্পেইনের কাজ করছি।","words":[{"w":"working on","bn":"কাজ করছি","pos":"phrasal verb","base":"work on"},{"w":"campaign","bn":"প্রচারণা, ক্যাম্পেইন","pos":"noun"}]},
+            {"id":"06","en":"The new intern is sitting at the empty desk.","bn":"নতুন ইন্টার্ন খালি ডেস্কটাতে বসে আছে।","words":[{"w":"intern","bn":"শিক্ষানবিশ, ইন্টার্ন","pos":"noun"},{"w":"empty","bn":"খালি","pos":"adjective"}]}
           ]
         },
         {
@@ -100,12 +100,12 @@
           "pattern": "Subject + am not/isn't/aren't + verb-ing ...",
           "tipBn": "না-বোধক করতে am/is/are-এর পরে not বসে, তারপর verb-ing।",
           "items": [
-            { "id": "01", "en": "Tanvir isn't preparing the slides alone.", "words": [{ "w": "alone", "bn": "একা", "pos": "adverb" }] },
-            { "id": "02", "en": "Mitu isn't answering her phone right now.", "words": [{ "w": "answering", "bn": "ফোন ধরছে", "pos": "verb", "base": "answer" }, { "w": "right now", "bn": "এই মুহূর্তে", "pos": "phrase" }] },
-            { "id": "03", "en": "Arif isn't using his own laptop today.", "words": [{ "w": "using", "bn": "ব্যবহার করছে", "pos": "verb", "base": "use" }, { "w": "own", "bn": "নিজের", "pos": "adjective" }] },
-            { "id": "04", "en": "Ms. Farzana isn't taking calls at the moment.", "words": [{ "w": "taking calls", "bn": "ফোন ধরা", "pos": "phrase" }, { "w": "at the moment", "bn": "এই মুহূর্তে", "pos": "phrase" }] },
-            { "id": "05", "en": "We aren't working on the website this month.", "words": [{ "w": "working on", "bn": "কাজ করছি", "pos": "phrasal verb", "base": "work on" }] },
-            { "id": "06", "en": "The air conditioner isn't working again.", "words": [{ "w": "air conditioner", "bn": "এসি, শীতাতপ যন্ত্র", "pos": "noun" }, { "w": "again", "bn": "আবার", "pos": "adverb" }] }
+            {"id":"01","en":"Tanvir isn't preparing the slides alone.","bn":"তানভীর একা স্লাইডগুলো তৈরি করছে না।","words":[{"w":"alone","bn":"একা","pos":"adverb"}]},
+            {"id":"02","en":"Mitu isn't answering her phone right now.","bn":"মিতু এই মুহূর্তে তার ফোন ধরছে না।","words":[{"w":"answering","bn":"ফোন ধরছে","pos":"verb","base":"answer"},{"w":"right now","bn":"এই মুহূর্তে","pos":"phrase"}]},
+            {"id":"03","en":"Arif isn't using his own laptop today.","bn":"আরিফ আজ তার নিজের ল্যাপটপ ব্যবহার করছে না।","words":[{"w":"using","bn":"ব্যবহার করছে","pos":"verb","base":"use"},{"w":"own","bn":"নিজের","pos":"adjective"}]},
+            {"id":"04","en":"Ms. Farzana isn't taking calls at the moment.","bn":"ফারজানা ম্যাডাম এই মুহূর্তে কোনো কল ধরছেন না।","words":[{"w":"taking calls","bn":"ফোন ধরা","pos":"phrase"},{"w":"at the moment","bn":"এই মুহূর্তে","pos":"phrase"}]},
+            {"id":"05","en":"We aren't working on the website this month.","bn":"আমরা এই মাসে ওয়েবসাইটের কাজ করছি না।","words":[{"w":"working on","bn":"কাজ করছি","pos":"phrasal verb","base":"work on"}]},
+            {"id":"06","en":"The air conditioner isn't working again.","bn":"এসিটা আবার কাজ করছে না।","words":[{"w":"air conditioner","bn":"এসি, শীতাতপ যন্ত্র","pos":"noun"},{"w":"again","bn":"আবার","pos":"adverb"}]}
           ]
         },
         {
@@ -113,12 +113,12 @@
           "pattern": "Am/Is/Are + subject + verb-ing ...?",
           "tipBn": "প্রশ্ন করতে am/is/are subject-এর আগে বসে।",
           "items": [
-            { "id": "01", "en": "Is Tanvir preparing slides for the client meeting?", "words": [{ "w": "preparing", "bn": "তৈরি করছে", "pos": "verb", "base": "prepare" }] },
-            { "id": "02", "en": "Is Mitu designing the new poster?", "words": [{ "w": "designing", "bn": "নকশা করছে", "pos": "verb", "base": "design" }] },
-            { "id": "03", "en": "Are you using the meeting room now?", "words": [{ "w": "using", "bn": "ব্যবহার করছেন", "pos": "verb", "base": "use" }] },
-            { "id": "04", "en": "Is Arif still fixing his laptop?", "words": [{ "w": "still", "bn": "এখনও", "pos": "adverb" }] },
-            { "id": "05", "en": "Are you waiting for the client's reply?", "words": [{ "w": "waiting for", "bn": "অপেক্ষা করছেন", "pos": "phrasal verb", "base": "wait for" }, { "w": "reply", "bn": "উত্তর", "pos": "noun" }] },
-            { "id": "06", "en": "Is the new intern learning quickly?", "words": [{ "w": "learning", "bn": "শিখছে", "pos": "verb", "base": "learn" }, { "w": "quickly", "bn": "দ্রুত", "pos": "adverb" }] }
+            {"id":"01","en":"Is Tanvir preparing slides for the client meeting?","bn":"তানভীর কি ক্লায়েন্ট মিটিংয়ের জন্য স্লাইড তৈরি করছে?","words":[{"w":"preparing","bn":"তৈরি করছে","pos":"verb","base":"prepare"}]},
+            {"id":"02","en":"Is Mitu designing the new poster?","bn":"মিতু কি নতুন পোস্টারটা ডিজাইন করছে?","words":[{"w":"designing","bn":"নকশা করছে","pos":"verb","base":"design"}]},
+            {"id":"03","en":"Are you using the meeting room now?","bn":"তোমরা কি এখন মিটিং রুমটা ব্যবহার করছ?","words":[{"w":"using","bn":"ব্যবহার করছেন","pos":"verb","base":"use"}]},
+            {"id":"04","en":"Is Arif still fixing his laptop?","bn":"আরিফ কি এখনও তার ল্যাপটপ ঠিক করছে?","words":[{"w":"still","bn":"এখনও","pos":"adverb"}]},
+            {"id":"05","en":"Are you waiting for the client's reply?","bn":"তুমি কি ক্লায়েন্টের উত্তরের জন্য অপেক্ষা করছ?","words":[{"w":"waiting for","bn":"অপেক্ষা করছেন","pos":"phrasal verb","base":"wait for"},{"w":"reply","bn":"উত্তর","pos":"noun"}]},
+            {"id":"06","en":"Is the new intern learning quickly?","bn":"নতুন ইন্টার্ন কি তাড়াতাড়ি শিখছে?","words":[{"w":"learning","bn":"শিখছে","pos":"verb","base":"learn"},{"w":"quickly","bn":"দ্রুত","pos":"adverb"}]}
           ]
         },
         {
@@ -126,12 +126,12 @@
           "pattern": "Wh-word + am/is/are + subject + verb-ing?",
           "tipBn": "প্রথমে Wh-word, তারপর am/is/are, subject এবং verb-ing বসে।",
           "items": [
-            { "id": "01", "en": "What is Tanvir preparing for the meeting?", "words": [{ "w": "preparing", "bn": "তৈরি করছে", "pos": "verb", "base": "prepare" }] },
-            { "id": "02", "en": "Who is Ms. Farzana talking to?", "words": [{ "w": "talking to", "bn": "কথা বলছেন", "pos": "phrase" }] },
-            { "id": "03", "en": "Which project are you working on this week?", "words": [{ "w": "project", "bn": "প্রকল্প, প্রজেক্ট", "pos": "noun" }, { "w": "working on", "bn": "কাজ করছেন", "pos": "phrasal verb", "base": "work on" }] },
-            { "id": "04", "en": "Why is Arif working from home today?", "words": [{ "w": "working from home", "bn": "বাসা থেকে কাজ করছে", "pos": "phrase" }] },
-            { "id": "05", "en": "How is the new intern doing?", "words": [{ "w": "doing", "bn": "কেমন করছে", "pos": "verb", "base": "do" }] },
-            { "id": "06", "en": "What are Mitu and Arif discussing?", "words": [{ "w": "discussing", "bn": "আলোচনা করছে", "pos": "verb", "base": "discuss" }] }
+            {"id":"01","en":"What is Tanvir preparing for the meeting?","bn":"তানভীর মিটিংয়ের জন্য কী তৈরি করছে?","words":[{"w":"preparing","bn":"তৈরি করছে","pos":"verb","base":"prepare"}]},
+            {"id":"02","en":"Who is Ms. Farzana talking to?","bn":"ফারজানা ম্যাডাম কার সাথে কথা বলছেন?","words":[{"w":"talking to","bn":"কথা বলছেন","pos":"phrase"}]},
+            {"id":"03","en":"Which project are you working on this week?","bn":"এই সপ্তাহে তুমি কোন প্রজেক্টে কাজ করছ?","words":[{"w":"project","bn":"প্রকল্প, প্রজেক্ট","pos":"noun"},{"w":"working on","bn":"কাজ করছেন","pos":"phrasal verb","base":"work on"}]},
+            {"id":"04","en":"Why is Arif working from home today?","bn":"আরিফ আজ কেন বাসা থেকে কাজ করছে?","words":[{"w":"working from home","bn":"বাসা থেকে কাজ করছে","pos":"phrase"}]},
+            {"id":"05","en":"How is the new intern doing?","bn":"নতুন ইন্টার্ন কেমন করছে?","words":[{"w":"doing","bn":"কেমন করছে","pos":"verb","base":"do"}]},
+            {"id":"06","en":"What are Mitu and Arif discussing?","bn":"মিতু আর আরিফ কী নিয়ে আলোচনা করছে?","words":[{"w":"discussing","bn":"আলোচনা করছে","pos":"verb","base":"discuss"}]}
           ]
         }
       ]
@@ -146,12 +146,12 @@
           "pattern": "Subject + verb (past) ... (+ time word).",
           "tipBn": "অতীতের কাজ বলতে regular verb-এ -ed যোগ হয়, আর irregular verb-এর আলাদা রূপ আছে, যেমন gave, sent, went।",
           "items": [
-            { "id": "01", "en": "Tanvir gave a presentation to the client last Tuesday.", "words": [{ "w": "gave a presentation", "bn": "উপস্থাপনা দিল", "pos": "phrase", "base": "give a presentation" }] },
-            { "id": "02", "en": "The client liked our ideas.", "words": [{ "w": "liked", "bn": "পছন্দ করল", "pos": "verb", "base": "like" }, { "w": "ideas", "bn": "ধারণা, আইডিয়া", "pos": "noun", "base": "idea" }] },
-            { "id": "03", "en": "Mitu sent the final design on Wednesday.", "words": [{ "w": "final", "bn": "চূড়ান্ত", "pos": "adjective" }, { "w": "design", "bn": "নকশা, ডিজাইন", "pos": "noun" }] },
-            { "id": "04", "en": "Arif stayed late to finish the report.", "words": [{ "w": "stayed late", "bn": "দেরি পর্যন্ত থাকল", "pos": "phrase", "base": "stay late" }] },
-            { "id": "05", "en": "Ms. Farzana thanked the whole team in the meeting.", "words": [{ "w": "thanked", "bn": "ধন্যবাদ দিলেন", "pos": "verb", "base": "thank" }, { "w": "whole", "bn": "পুরো", "pos": "adjective" }] },
-            { "id": "06", "en": "We went out for dinner after work.", "words": [{ "w": "went out", "bn": "বাইরে গেলাম", "pos": "phrasal verb", "base": "go out" }, { "w": "after work", "bn": "অফিসের পরে", "pos": "phrase" }] }
+            {"id":"01","en":"Tanvir gave a presentation to the client last Tuesday.","bn":"তানভীর গত মঙ্গলবার ক্লায়েন্টের সামনে একটা প্রেজেন্টেশন দিয়েছিল।","words":[{"w":"gave a presentation","bn":"উপস্থাপনা দিল","pos":"phrase","base":"give a presentation"}]},
+            {"id":"02","en":"The client liked our ideas.","bn":"ক্লায়েন্ট আমাদের আইডিয়াগুলো পছন্দ করেছিলেন।","words":[{"w":"liked","bn":"পছন্দ করল","pos":"verb","base":"like"},{"w":"ideas","bn":"ধারণা, আইডিয়া","pos":"noun","base":"idea"}]},
+            {"id":"03","en":"Mitu sent the final design on Wednesday.","bn":"মিতু বুধবার ফাইনাল ডিজাইনটা পাঠিয়েছিল।","words":[{"w":"final","bn":"চূড়ান্ত","pos":"adjective"},{"w":"design","bn":"নকশা, ডিজাইন","pos":"noun"}]},
+            {"id":"04","en":"Arif stayed late to finish the report.","bn":"আরিফ রিপোর্টটা শেষ করার জন্য দেরি পর্যন্ত অফিসে ছিল।","words":[{"w":"stayed late","bn":"দেরি পর্যন্ত থাকল","pos":"phrase","base":"stay late"}]},
+            {"id":"05","en":"Ms. Farzana thanked the whole team in the meeting.","bn":"ফারজানা ম্যাডাম মিটিংয়ে পুরো টিমকে ধন্যবাদ দিয়েছিলেন।","words":[{"w":"thanked","bn":"ধন্যবাদ দিলেন","pos":"verb","base":"thank"},{"w":"whole","bn":"পুরো","pos":"adjective"}]},
+            {"id":"06","en":"We went out for dinner after work.","bn":"আমরা কাজের পরে বাইরে রাতের খাবার খেতে গিয়েছিলাম।","words":[{"w":"went out","bn":"বাইরে গেলাম","pos":"phrasal verb","base":"go out"},{"w":"after work","bn":"অফিসের পরে","pos":"phrase"}]}
           ]
         },
         {
@@ -159,12 +159,12 @@
           "pattern": "Subject + didn't + verb (base) ...",
           "tipBn": "অতীতের না-বোধক বাক্যে didn't-এর পরে verb মূল রূপে থাকে।",
           "items": [
-            { "id": "01", "en": "Tanvir didn't give the presentation alone.", "words": [{ "w": "presentation", "bn": "উপস্থাপনা, প্রেজেন্টেশন", "pos": "noun" }] },
-            { "id": "02", "en": "The client didn't like the colors at first.", "words": [{ "w": "colors", "bn": "রং", "pos": "noun", "base": "color" }, { "w": "at first", "bn": "প্রথমে", "pos": "phrase" }] },
-            { "id": "03", "en": "Mitu didn't send the design on time.", "words": [{ "w": "on time", "bn": "সময়মতো", "pos": "phrase" }] },
-            { "id": "04", "en": "Arif didn't leave the office before nine.", "words": [{ "w": "leave", "bn": "ছেড়ে যাওয়া, বের হওয়া", "pos": "verb" }] },
-            { "id": "05", "en": "Nobody missed the meeting on Sunday.", "words": [{ "w": "Nobody", "bn": "কেউ না", "pos": "pronoun" }, { "w": "missed", "bn": "বাদ দিল, অনুপস্থিত থাকল", "pos": "verb", "base": "miss" }] },
-            { "id": "06", "en": "I didn't see your message yesterday.", "words": [{ "w": "message", "bn": "বার্তা, মেসেজ", "pos": "noun" }] }
+            {"id":"01","en":"Tanvir didn't give the presentation alone.","bn":"তানভীর একা প্রেজেন্টেশনটা দেয়নি।","words":[{"w":"presentation","bn":"উপস্থাপনা, প্রেজেন্টেশন","pos":"noun"}]},
+            {"id":"02","en":"The client didn't like the colors at first.","bn":"ক্লায়েন্ট প্রথমে রংগুলো পছন্দ করেননি।","words":[{"w":"colors","bn":"রং","pos":"noun","base":"color"},{"w":"at first","bn":"প্রথমে","pos":"phrase"}]},
+            {"id":"03","en":"Mitu didn't send the design on time.","bn":"মিতু সময়মতো ডিজাইনটা পাঠায়নি।","words":[{"w":"on time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"04","en":"Arif didn't leave the office before nine.","bn":"আরিফ ৯টার আগে অফিস থেকে বের হয়নি।","words":[{"w":"leave","bn":"ছেড়ে যাওয়া, বের হওয়া","pos":"verb"}]},
+            {"id":"05","en":"Nobody missed the meeting on Sunday.","bn":"রবিবারের মিটিংটা কেউ মিস করেনি।","words":[{"w":"Nobody","bn":"কেউ না","pos":"pronoun"},{"w":"missed","bn":"বাদ দিল, অনুপস্থিত থাকল","pos":"verb","base":"miss"}]},
+            {"id":"06","en":"I didn't see your message yesterday.","bn":"আমি গতকাল তোমার মেসেজটা দেখিনি।","words":[{"w":"message","bn":"বার্তা, মেসেজ","pos":"noun"}]}
           ]
         },
         {
@@ -172,12 +172,12 @@
           "pattern": "Did + subject + verb (base) ...?",
           "tipBn": "অতীতের প্রশ্নে Did শুরুতে বসে এবং verb মূল রূপে থাকে।",
           "items": [
-            { "id": "01", "en": "Did Tanvir give the presentation last Tuesday?", "words": [{ "w": "presentation", "bn": "উপস্থাপনা, প্রেজেন্টেশন", "pos": "noun" }] },
-            { "id": "02", "en": "Did the client like our ideas?", "words": [{ "w": "ideas", "bn": "ধারণা, আইডিয়া", "pos": "noun", "base": "idea" }] },
-            { "id": "03", "en": "Did Mitu send the final design?", "words": [{ "w": "final", "bn": "চূড়ান্ত", "pos": "adjective" }] },
-            { "id": "04", "en": "Did you back up the files?", "words": [{ "w": "back up", "bn": "ব্যাকআপ রাখা", "pos": "phrasal verb" }] },
-            { "id": "05", "en": "Did Ms. Farzana approve the budget?", "words": [{ "w": "approve", "bn": "অনুমোদন করা", "pos": "verb" }, { "w": "budget", "bn": "বাজেট, খরচের পরিকল্পনা", "pos": "noun" }] },
-            { "id": "06", "en": "Did everyone get the meeting invitation?", "words": [{ "w": "everyone", "bn": "সবাই", "pos": "pronoun" }, { "w": "invitation", "bn": "আমন্ত্রণ", "pos": "noun" }] }
+            {"id":"01","en":"Did Tanvir give the presentation last Tuesday?","bn":"তানভীর কি গত মঙ্গলবার প্রেজেন্টেশনটা দিয়েছিল?","words":[{"w":"presentation","bn":"উপস্থাপনা, প্রেজেন্টেশন","pos":"noun"}]},
+            {"id":"02","en":"Did the client like our ideas?","bn":"ক্লায়েন্ট কি আমাদের আইডিয়াগুলো পছন্দ করেছিলেন?","words":[{"w":"ideas","bn":"ধারণা, আইডিয়া","pos":"noun","base":"idea"}]},
+            {"id":"03","en":"Did Mitu send the final design?","bn":"মিতু কি ফাইনাল ডিজাইনটা পাঠিয়েছিল?","words":[{"w":"final","bn":"চূড়ান্ত","pos":"adjective"}]},
+            {"id":"04","en":"Did you back up the files?","bn":"তুমি কি ফাইলগুলোর ব্যাকআপ রেখেছিলে?","words":[{"w":"back up","bn":"ব্যাকআপ রাখা","pos":"phrasal verb"}]},
+            {"id":"05","en":"Did Ms. Farzana approve the budget?","bn":"ফারজানা ম্যাডাম কি বাজেটটা অনুমোদন করেছিলেন?","words":[{"w":"approve","bn":"অনুমোদন করা","pos":"verb"},{"w":"budget","bn":"বাজেট, খরচের পরিকল্পনা","pos":"noun"}]},
+            {"id":"06","en":"Did everyone get the meeting invitation?","bn":"সবাই কি মিটিংয়ের আমন্ত্রণ পেয়েছিল?","words":[{"w":"everyone","bn":"সবাই","pos":"pronoun"},{"w":"invitation","bn":"আমন্ত্রণ","pos":"noun"}]}
           ]
         },
         {
@@ -185,12 +185,12 @@
           "pattern": "Didn't + subject + verb (base) ...?",
           "tipBn": "Didn't দিয়ে প্রশ্ন করলে বোঝায় আমরা হ্যাঁ উত্তর আশা করছি বা অবাক হয়েছি।",
           "items": [
-            { "id": "01", "en": "Didn't Tanvir give a great presentation?", "words": [{ "w": "great", "bn": "দারুণ", "pos": "adjective" }] },
-            { "id": "02", "en": "Didn't Arif stay late on Wednesday?", "words": [{ "w": "stay late", "bn": "দেরি পর্যন্ত থাকা", "pos": "phrase" }] },
-            { "id": "03", "en": "Didn't you get my email this morning?", "words": [{ "w": "this morning", "bn": "আজ সকালে", "pos": "phrase" }] },
-            { "id": "04", "en": "Didn't Ms. Farzana thank the whole team?", "words": [{ "w": "thank", "bn": "ধন্যবাদ দেওয়া", "pos": "verb" }] },
-            { "id": "05", "en": "Didn't the client call back?", "words": [{ "w": "call back", "bn": "ফিরতি ফোন করা", "pos": "phrasal verb" }] },
-            { "id": "06", "en": "Didn't we save the file on the shared drive?", "words": [{ "w": "save", "bn": "সংরক্ষণ করা, সেভ করা", "pos": "verb" }, { "w": "shared drive", "bn": "সবার ব্যবহারের ড্রাইভ", "pos": "noun" }] }
+            {"id":"01","en":"Didn't Tanvir give a great presentation?","bn":"তানভীর কি দারুণ একটা প্রেজেন্টেশন দেয়নি?","words":[{"w":"great","bn":"দারুণ","pos":"adjective"}]},
+            {"id":"02","en":"Didn't Arif stay late on Wednesday?","bn":"আরিফ কি বুধবার দেরি পর্যন্ত অফিসে থাকেনি?","words":[{"w":"stay late","bn":"দেরি পর্যন্ত থাকা","pos":"phrase"}]},
+            {"id":"03","en":"Didn't you get my email this morning?","bn":"তুমি কি আজ সকালে আমার ইমেইলটা পাওনি?","words":[{"w":"this morning","bn":"আজ সকালে","pos":"phrase"}]},
+            {"id":"04","en":"Didn't Ms. Farzana thank the whole team?","bn":"ফারজানা ম্যাডাম কি পুরো টিমকে ধন্যবাদ দেননি?","words":[{"w":"thank","bn":"ধন্যবাদ দেওয়া","pos":"verb"}]},
+            {"id":"05","en":"Didn't the client call back?","bn":"ক্লায়েন্ট কি পাল্টা ফোন করেননি?","words":[{"w":"call back","bn":"ফিরতি ফোন করা","pos":"phrasal verb"}]},
+            {"id":"06","en":"Didn't we save the file on the shared drive?","bn":"আমরা কি ফাইলটা শেয়ারড ড্রাইভে সেভ করিনি?","words":[{"w":"save","bn":"সংরক্ষণ করা, সেভ করা","pos":"verb"},{"w":"shared drive","bn":"সবার ব্যবহারের ড্রাইভ","pos":"noun"}]}
           ]
         },
         {
@@ -198,12 +198,12 @@
           "pattern": "Wh-word + did + subject + verb (base)? / Who + verb (past)?",
           "tipBn": "Wh-word-এর পরে did ও verb-এর মূল রূপ বসে; Who কর্তা হলে did লাগে না।",
           "items": [
-            { "id": "01", "en": "When did Tanvir give the presentation?", "words": [{ "w": "presentation", "bn": "উপস্থাপনা, প্রেজেন্টেশন", "pos": "noun" }] },
-            { "id": "02", "en": "What did the client say about the colors?", "words": [{ "w": "say about", "bn": "সম্পর্কে বলা", "pos": "phrase" }] },
-            { "id": "03", "en": "Why did Arif stay so late?", "words": [{ "w": "so late", "bn": "এত দেরি পর্যন্ত", "pos": "phrase" }] },
-            { "id": "04", "en": "Who designed the new poster?", "words": [{ "w": "designed", "bn": "নকশা করল", "pos": "verb", "base": "design" }] },
-            { "id": "05", "en": "Where did you put the contract?", "words": [{ "w": "put", "bn": "রাখা", "pos": "verb" }, { "w": "contract", "bn": "চুক্তিপত্র", "pos": "noun" }] },
-            { "id": "06", "en": "How long did the meeting last?", "words": [{ "w": "How long", "bn": "কতক্ষণ", "pos": "phrase" }, { "w": "last", "bn": "চলা, স্থায়ী হওয়া", "pos": "verb" }] }
+            {"id":"01","en":"When did Tanvir give the presentation?","bn":"তানভীর কখন প্রেজেন্টেশনটা দিয়েছিল?","words":[{"w":"presentation","bn":"উপস্থাপনা, প্রেজেন্টেশন","pos":"noun"}]},
+            {"id":"02","en":"What did the client say about the colors?","bn":"ক্লায়েন্ট রংগুলো নিয়ে কী বলেছিলেন?","words":[{"w":"say about","bn":"সম্পর্কে বলা","pos":"phrase"}]},
+            {"id":"03","en":"Why did Arif stay so late?","bn":"আরিফ কেন এত দেরি পর্যন্ত ছিল?","words":[{"w":"so late","bn":"এত দেরি পর্যন্ত","pos":"phrase"}]},
+            {"id":"04","en":"Who designed the new poster?","bn":"নতুন পোস্টারটা কে ডিজাইন করেছিল?","words":[{"w":"designed","bn":"নকশা করল","pos":"verb","base":"design"}]},
+            {"id":"05","en":"Where did you put the contract?","bn":"তুমি চুক্তিপত্রটা কোথায় রেখেছিলে?","words":[{"w":"put","bn":"রাখা","pos":"verb"},{"w":"contract","bn":"চুক্তিপত্র","pos":"noun"}]},
+            {"id":"06","en":"How long did the meeting last?","bn":"মিটিংটা কতক্ষণ চলেছিল?","words":[{"w":"How long","bn":"কতক্ষণ","pos":"phrase"},{"w":"last","bn":"চলা, স্থায়ী হওয়া","pos":"verb"}]}
           ]
         }
       ]
@@ -218,12 +218,12 @@
           "pattern": "Subject + am/is/are going to + verb (base) ...",
           "tipBn": "আগে থেকে ঠিক করা পরিকল্পনা বা স্পষ্ট লক্ষণ দেখে ভবিষ্যৎ বলতে be going to + verb ব্যবহার হয়।",
           "items": [
-            { "id": "01", "en": "Tanvir is going to visit the client next week.", "words": [{ "w": "visit", "bn": "দেখা করতে যাওয়া", "pos": "verb" }] },
-            { "id": "02", "en": "Mitu is going to design three social media posts.", "words": [{ "w": "social media posts", "bn": "সামাজিক মাধ্যমের পোস্ট", "pos": "noun" }] },
-            { "id": "03", "en": "We are going to launch the campaign in May.", "words": [{ "w": "launch", "bn": "চালু করা", "pos": "verb" }] },
-            { "id": "04", "en": "Ms. Farzana is going to hire a new designer.", "words": [{ "w": "hire", "bn": "নিয়োগ দেওয়া", "pos": "verb" }, { "w": "designer", "bn": "নকশাকার, ডিজাইনার", "pos": "noun" }] },
-            { "id": "05", "en": "Look at the time! We're going to miss the meeting.", "words": [{ "w": "Look at the time", "bn": "সময় দেখো", "pos": "phrase" }, { "w": "miss", "bn": "ধরতে না পারা, মিস করা", "pos": "verb" }] },
-            { "id": "06", "en": "I'm going to take two days off in June.", "words": [{ "w": "take two days off", "bn": "দুই দিন ছুটি নেওয়া", "pos": "phrase" }] }
+            {"id":"01","en":"Tanvir is going to visit the client next week.","bn":"তানভীর আগামী সপ্তাহে ক্লায়েন্টের সাথে দেখা করতে যাচ্ছে।","words":[{"w":"visit","bn":"দেখা করতে যাওয়া","pos":"verb"}]},
+            {"id":"02","en":"Mitu is going to design three social media posts.","bn":"মিতু সোশ্যাল মিডিয়ার জন্য তিনটা পোস্ট ডিজাইন করতে যাচ্ছে।","words":[{"w":"social media posts","bn":"সামাজিক মাধ্যমের পোস্ট","pos":"noun"}]},
+            {"id":"03","en":"We are going to launch the campaign in May.","bn":"আমরা মে মাসে ক্যাম্পেইনটা চালু করতে যাচ্ছি।","words":[{"w":"launch","bn":"চালু করা","pos":"verb"}]},
+            {"id":"04","en":"Ms. Farzana is going to hire a new designer.","bn":"ফারজানা ম্যাডাম একজন নতুন ডিজাইনার নিয়োগ দিতে যাচ্ছেন।","words":[{"w":"hire","bn":"নিয়োগ দেওয়া","pos":"verb"},{"w":"designer","bn":"নকশাকার, ডিজাইনার","pos":"noun"}]},
+            {"id":"05","en":"Look at the time! We're going to miss the meeting.","bn":"সময়টা দেখো! আমরা তো মিটিংটা মিস করতে যাচ্ছি।","words":[{"w":"Look at the time","bn":"সময় দেখো","pos":"phrase"},{"w":"miss","bn":"ধরতে না পারা, মিস করা","pos":"verb"}]},
+            {"id":"06","en":"I'm going to take two days off in June.","bn":"আমি জুন মাসে দুই দিন ছুটি নিতে যাচ্ছি।","words":[{"w":"take two days off","bn":"দুই দিন ছুটি নেওয়া","pos":"phrase"}]}
           ]
         },
         {
@@ -231,12 +231,12 @@
           "pattern": "Subject + am not/isn't/aren't going to + verb (base) ...",
           "tipBn": "না-বোধক পরিকল্পনা বোঝাতে am/is/are-এর পরে not going to বসে।",
           "items": [
-            { "id": "01", "en": "Tanvir isn't going to visit the client alone.", "words": [{ "w": "alone", "bn": "একা", "pos": "adverb" }] },
-            { "id": "02", "en": "We aren't going to launch the campaign in April.", "words": [{ "w": "launch", "bn": "চালু করা", "pos": "verb" }] },
-            { "id": "03", "en": "Ms. Farzana isn't going to hire anyone this month.", "words": [{ "w": "hire", "bn": "নিয়োগ দেওয়া", "pos": "verb" }, { "w": "anyone", "bn": "কাউকে", "pos": "pronoun" }] },
-            { "id": "04", "en": "I'm not going to take leave in December.", "words": [{ "w": "take leave", "bn": "ছুটি নেওয়া", "pos": "phrase" }] },
-            { "id": "05", "en": "Arif isn't going to work from home tomorrow.", "words": [{ "w": "work from home", "bn": "বাসা থেকে কাজ করা", "pos": "phrase" }] },
-            { "id": "06", "en": "The old printer isn't going to last much longer.", "words": [{ "w": "last", "bn": "টিকে থাকা", "pos": "verb" }, { "w": "much longer", "bn": "আর বেশি দিন", "pos": "phrase" }] }
+            {"id":"01","en":"Tanvir isn't going to visit the client alone.","bn":"তানভীর একা ক্লায়েন্টের সাথে দেখা করতে যাচ্ছে না।","words":[{"w":"alone","bn":"একা","pos":"adverb"}]},
+            {"id":"02","en":"We aren't going to launch the campaign in April.","bn":"আমরা এপ্রিলে ক্যাম্পেইনটা চালু করতে যাচ্ছি না।","words":[{"w":"launch","bn":"চালু করা","pos":"verb"}]},
+            {"id":"03","en":"Ms. Farzana isn't going to hire anyone this month.","bn":"ফারজানা ম্যাডাম এই মাসে কাউকে নিয়োগ দিতে যাচ্ছেন না।","words":[{"w":"hire","bn":"নিয়োগ দেওয়া","pos":"verb"},{"w":"anyone","bn":"কাউকে","pos":"pronoun"}]},
+            {"id":"04","en":"I'm not going to take leave in December.","bn":"আমি ডিসেম্বরে ছুটি নিতে যাচ্ছি না।","words":[{"w":"take leave","bn":"ছুটি নেওয়া","pos":"phrase"}]},
+            {"id":"05","en":"Arif isn't going to work from home tomorrow.","bn":"আরিফ আগামীকাল বাসা থেকে কাজ করতে যাচ্ছে না।","words":[{"w":"work from home","bn":"বাসা থেকে কাজ করা","pos":"phrase"}]},
+            {"id":"06","en":"The old printer isn't going to last much longer.","bn":"পুরোনো প্রিন্টারটা আর বেশি দিন টিকবে না।","words":[{"w":"last","bn":"টিকে থাকা","pos":"verb"},{"w":"much longer","bn":"আর বেশি দিন","pos":"phrase"}]}
           ]
         },
         {
@@ -244,12 +244,12 @@
           "pattern": "Am/Is/Are + subject + going to + verb (base) ...?",
           "tipBn": "প্রশ্ন করতে am/is/are শুরুতে বসে, তারপর subject ও going to।",
           "items": [
-            { "id": "01", "en": "Is Tanvir going to visit the client next week?", "words": [{ "w": "visit", "bn": "দেখা করতে যাওয়া", "pos": "verb" }] },
-            { "id": "02", "en": "Are we going to launch the campaign in May?", "words": [{ "w": "campaign", "bn": "প্রচারণা, ক্যাম্পেইন", "pos": "noun" }] },
-            { "id": "03", "en": "Is Ms. Farzana going to hire a new designer?", "words": [{ "w": "designer", "bn": "নকশাকার, ডিজাইনার", "pos": "noun" }] },
-            { "id": "04", "en": "Are you going to take any days off?", "words": [{ "w": "days off", "bn": "ছুটির দিন", "pos": "noun" }] },
-            { "id": "05", "en": "Is Mitu going to join the video call?", "words": [{ "w": "join", "bn": "যোগ দেওয়া", "pos": "verb" }] },
-            { "id": "06", "en": "Is it going to be a long meeting?", "words": [{ "w": "long", "bn": "দীর্ঘ, লম্বা", "pos": "adjective" }] }
+            {"id":"01","en":"Is Tanvir going to visit the client next week?","bn":"তানভীর কি আগামী সপ্তাহে ক্লায়েন্টের সাথে দেখা করতে যাচ্ছে?","words":[{"w":"visit","bn":"দেখা করতে যাওয়া","pos":"verb"}]},
+            {"id":"02","en":"Are we going to launch the campaign in May?","bn":"আমরা কি মে মাসে ক্যাম্পেইনটা চালু করতে যাচ্ছি?","words":[{"w":"campaign","bn":"প্রচারণা, ক্যাম্পেইন","pos":"noun"}]},
+            {"id":"03","en":"Is Ms. Farzana going to hire a new designer?","bn":"ফারজানা ম্যাডাম কি একজন নতুন ডিজাইনার নিয়োগ দিতে যাচ্ছেন?","words":[{"w":"designer","bn":"নকশাকার, ডিজাইনার","pos":"noun"}]},
+            {"id":"04","en":"Are you going to take any days off?","bn":"তুমি কি কোনো ছুটি নিতে যাচ্ছ?","words":[{"w":"days off","bn":"ছুটির দিন","pos":"noun"}]},
+            {"id":"05","en":"Is Mitu going to join the video call?","bn":"মিতু কি ভিডিও কলে যোগ দিতে যাচ্ছে?","words":[{"w":"join","bn":"যোগ দেওয়া","pos":"verb"}]},
+            {"id":"06","en":"Is it going to be a long meeting?","bn":"মিটিংটা কি লম্বা হতে যাচ্ছে?","words":[{"w":"long","bn":"দীর্ঘ, লম্বা","pos":"adjective"}]}
           ]
         },
         {
@@ -257,12 +257,12 @@
           "pattern": "Wh-word + am/is/are + subject + going to + verb (base)?",
           "tipBn": "প্রথমে Wh-word, তারপর am/is/are, subject, going to এবং verb-এর মূল রূপ বসে।",
           "items": [
-            { "id": "01", "en": "When is Tanvir going to visit the client?", "words": [{ "w": "visit", "bn": "দেখা করতে যাওয়া", "pos": "verb" }] },
-            { "id": "02", "en": "What are we going to call the campaign?", "words": [{ "w": "call", "bn": "নাম দেওয়া", "pos": "verb" }] },
-            { "id": "03", "en": "Who is going to write the report?", "words": [{ "w": "report", "bn": "প্রতিবেদন, রিপোর্ট", "pos": "noun" }] },
-            { "id": "04", "en": "Where are you going to stay in Dhaka?", "words": [{ "w": "stay", "bn": "থাকা", "pos": "verb" }] },
-            { "id": "05", "en": "How are we going to reach young travelers?", "words": [{ "w": "reach", "bn": "কাছে পৌঁছানো", "pos": "verb" }, { "w": "travelers", "bn": "ভ্রমণকারী", "pos": "noun", "base": "traveler" }] },
-            { "id": "06", "en": "How much are we going to spend on ads?", "words": [{ "w": "spend", "bn": "খরচ করা", "pos": "verb" }, { "w": "ads", "bn": "বিজ্ঞাপন", "pos": "noun", "base": "ad" }] }
+            {"id":"01","en":"When is Tanvir going to visit the client?","bn":"তানভীর কখন ক্লায়েন্টের সাথে দেখা করতে যাচ্ছে?","words":[{"w":"visit","bn":"দেখা করতে যাওয়া","pos":"verb"}]},
+            {"id":"02","en":"What are we going to call the campaign?","bn":"আমরা ক্যাম্পেইনটার কী নাম দিতে যাচ্ছি?","words":[{"w":"call","bn":"নাম দেওয়া","pos":"verb"}]},
+            {"id":"03","en":"Who is going to write the report?","bn":"রিপোর্টটা কে লিখতে যাচ্ছে?","words":[{"w":"report","bn":"প্রতিবেদন, রিপোর্ট","pos":"noun"}]},
+            {"id":"04","en":"Where are you going to stay in Dhaka?","bn":"তুমি ঢাকায় কোথায় থাকতে যাচ্ছ?","words":[{"w":"stay","bn":"থাকা","pos":"verb"}]},
+            {"id":"05","en":"How are we going to reach young travelers?","bn":"আমরা তরুণ ভ্রমণকারীদের কাছে কীভাবে পৌঁছাতে যাচ্ছি?","words":[{"w":"reach","bn":"কাছে পৌঁছানো","pos":"verb"},{"w":"travelers","bn":"ভ্রমণকারী","pos":"noun","base":"traveler"}]},
+            {"id":"06","en":"How much are we going to spend on ads?","bn":"আমরা বিজ্ঞাপনের পেছনে কত টাকা খরচ করতে যাচ্ছি?","words":[{"w":"spend","bn":"খরচ করা","pos":"verb"},{"w":"ads","bn":"বিজ্ঞাপন","pos":"noun","base":"ad"}]}
           ]
         }
       ]

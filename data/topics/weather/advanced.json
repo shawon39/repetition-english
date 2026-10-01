@@ -15,12 +15,12 @@
           "pattern": "Subject + has/have been + verb-ing + for / since ...",
           "tipBn": "অতীতে শুরু হয়ে এখনো চলছে এমন কাজ বোঝাতে has/have been + verb-ing বসে, সাথে for বা since থাকে।",
           "items": [
-            { "id": "01", "en": "Average temperatures in Bangladesh have been rising steadily for more than four decades.", "words": [{ "w": "average", "bn": "গড়", "pos": "adjective" }, { "w": "steadily", "bn": "ধারাবাহিকভাবে", "pos": "adverb" }, { "w": "decades", "bn": "দশক", "pos": "noun", "base": "decade" }] },
-            { "id": "02", "en": "Nadia has been studying river floods in the northern districts for almost twelve years.", "words": [{ "w": "studying", "bn": "গবেষণা করছেন", "pos": "verb", "base": "study" }, { "w": "northern", "bn": "উত্তরাঞ্চলের", "pos": "adjective" }, { "w": "almost", "bn": "প্রায়", "pos": "adverb" }] },
-            { "id": "03", "en": "Sea water has been creeping further inland along the southwest coast, ruining farmland.", "words": [{ "w": "creeping", "bn": "ধীরে ধীরে ঢুকে পড়ছে", "pos": "verb", "base": "creep" }, { "w": "inland", "bn": "দেশের ভেতরের দিকে", "pos": "adverb" }, { "w": "ruining", "bn": "নষ্ট করে", "pos": "verb", "base": "ruin" }, { "w": "farmland", "bn": "কৃষিজমি", "pos": "noun" }] },
-            { "id": "04", "en": "Garment workers in Gazipur have been struggling with extreme heat inside the factories all summer.", "words": [{ "w": "garment workers", "bn": "পোশাকশ্রমিক", "pos": "phrase" }, { "w": "struggling with", "bn": "হিমশিম খাচ্ছেন", "pos": "phrasal verb", "base": "struggle with" }, { "w": "extreme", "bn": "চরম", "pos": "adjective" }] },
-            { "id": "05", "en": "Tom has been collecting rainfall data from local weather stations since the project began.", "words": [{ "w": "collecting", "bn": "সংগ্রহ করছেন", "pos": "verb", "base": "collect" }, { "w": "rainfall", "bn": "বৃষ্টিপাত", "pos": "noun" }, { "w": "data", "bn": "তথ্য-উপাত্ত", "pos": "noun" }] },
-            { "id": "06", "en": "Monsoon rains have been arriving later and ending more abruptly over the past decade.", "words": [{ "w": "arriving", "bn": "আসছে", "pos": "verb", "base": "arrive" }, { "w": "abruptly", "bn": "হঠাৎ করে", "pos": "adverb" }, { "w": "decade", "bn": "দশক", "pos": "noun" }] }
+            {"id":"01","en":"Average temperatures in Bangladesh have been rising steadily for more than four decades.","bn":"চার দশকেরও বেশি সময় ধরে বাংলাদেশের গড় তাপমাত্রা ধীরে ধীরে বেড়েই চলেছে।","words":[{"w":"average","bn":"গড়","pos":"adjective"},{"w":"steadily","bn":"ধারাবাহিকভাবে","pos":"adverb"},{"w":"decades","bn":"দশক","pos":"noun","base":"decade"}]},
+            {"id":"02","en":"Nadia has been studying river floods in the northern districts for almost twelve years.","bn":"নাদিয়া প্রায় বারো বছর ধরে উত্তরের জেলাগুলোর নদী-বন্যা নিয়ে গবেষণা করে আসছেন।","words":[{"w":"studying","bn":"গবেষণা করছেন","pos":"verb","base":"study"},{"w":"northern","bn":"উত্তরাঞ্চলের","pos":"adjective"},{"w":"almost","bn":"প্রায়","pos":"adverb"}]},
+            {"id":"03","en":"Sea water has been creeping further inland along the southwest coast, ruining farmland.","bn":"দক্ষিণ-পশ্চিম উপকূল ধরে সাগরের পানি ক্রমেই আরও ভেতরে ঢুকে আসছে, আর কৃষিজমি নষ্ট করছে।","words":[{"w":"creeping","bn":"ধীরে ধীরে ঢুকে পড়ছে","pos":"verb","base":"creep"},{"w":"inland","bn":"দেশের ভেতরের দিকে","pos":"adverb"},{"w":"ruining","bn":"নষ্ট করে","pos":"verb","base":"ruin"},{"w":"farmland","bn":"কৃষিজমি","pos":"noun"}]},
+            {"id":"04","en":"Garment workers in Gazipur have been struggling with extreme heat inside the factories all summer.","bn":"গাজীপুরের পোশাকশ্রমিকরা সারা গ্রীষ্ম ধরে কারখানার ভেতরে প্রচণ্ড গরমের সাথে লড়াই করে আসছেন।","words":[{"w":"garment workers","bn":"পোশাকশ্রমিক","pos":"phrase"},{"w":"struggling with","bn":"হিমশিম খাচ্ছেন","pos":"phrasal verb","base":"struggle with"},{"w":"extreme","bn":"চরম","pos":"adjective"}]},
+            {"id":"05","en":"Tom has been collecting rainfall data from local weather stations since the project began.","bn":"প্রকল্প শুরু হওয়ার পর থেকে টম স্থানীয় আবহাওয়া কেন্দ্রগুলো থেকে বৃষ্টিপাতের তথ্য সংগ্রহ করে আসছেন।","words":[{"w":"collecting","bn":"সংগ্রহ করছেন","pos":"verb","base":"collect"},{"w":"rainfall","bn":"বৃষ্টিপাত","pos":"noun"},{"w":"data","bn":"তথ্য-উপাত্ত","pos":"noun"}]},
+            {"id":"06","en":"Monsoon rains have been arriving later and ending more abruptly over the past decade.","bn":"গত এক দশক ধরে বর্ষার বৃষ্টি আরও দেরিতে আসছে আর আরও হঠাৎ করে শেষ হয়ে যাচ্ছে।","words":[{"w":"arriving","bn":"আসছে","pos":"verb","base":"arrive"},{"w":"abruptly","bn":"হঠাৎ করে","pos":"adverb"},{"w":"decade","bn":"দশক","pos":"noun"}]}
           ]
         },
         {
@@ -28,12 +28,12 @@
           "pattern": "Subject + has/have + not been + verb-ing ...",
           "tipBn": "has/have এর পরে not been + verb-ing বসিয়ে না-বোধক বাক্য হয়।",
           "items": [
-            { "id": "01", "en": "The embankment hasn't been holding up well against the stronger floods of recent years.", "words": [{ "w": "embankment", "bn": "বাঁধ", "pos": "noun" }, { "w": "holding up", "bn": "টিকে থাকছে", "pos": "phrasal verb", "base": "hold up" }, { "w": "recent", "bn": "সাম্প্রতিক", "pos": "adjective" }] },
-            { "id": "02", "en": "In early spring, it hasn't been raining nearly as much as it used to.", "words": [{ "w": "early spring", "bn": "বসন্তের শুরু", "pos": "phrase" }, { "w": "nearly as much", "bn": "প্রায় ততটা", "pos": "phrase" }, { "w": "used to", "bn": "আগে হতো", "pos": "phrase" }] },
-            { "id": "03", "en": "Nadia hasn't been sleeping well since the flood warnings started coming in.", "words": [{ "w": "flood warnings", "bn": "বন্যার সতর্কবার্তা", "pos": "phrase" }, { "w": "coming in", "bn": "আসতে থাকা", "pos": "phrasal verb", "base": "come in" }] },
-            { "id": "04", "en": "Many delivery riders haven't been earning enough because of the relentless rain this month.", "words": [{ "w": "delivery riders", "bn": "ডেলিভারি কর্মী", "pos": "phrase" }, { "w": "earning", "bn": "আয় করছেন", "pos": "verb", "base": "earn" }, { "w": "relentless", "bn": "অবিরাম", "pos": "adjective" }] },
-            { "id": "05", "en": "Local farmers haven't been planting their usual rice varieties since the soil became salty.", "words": [{ "w": "varieties", "bn": "জাত", "pos": "noun", "base": "variety" }, { "w": "soil", "bn": "মাটি", "pos": "noun" }, { "w": "salty", "bn": "লবণাক্ত", "pos": "adjective" }] },
-            { "id": "06", "en": "The weather models haven't been performing as reliably as the team expected.", "words": [{ "w": "performing", "bn": "কাজ করছে", "pos": "verb", "base": "perform" }, { "w": "reliably", "bn": "নির্ভরযোগ্যভাবে", "pos": "adverb" }, { "w": "expected", "bn": "আশা করেছিল", "pos": "verb", "base": "expect" }] }
+            {"id":"01","en":"The embankment hasn't been holding up well against the stronger floods of recent years.","bn":"সাম্প্রতিক বছরগুলোর আরও শক্তিশালী বন্যার সামনে বাঁধটা ঠিকমতো টিকে থাকতে পারছে না।","words":[{"w":"embankment","bn":"বাঁধ","pos":"noun"},{"w":"holding up","bn":"টিকে থাকছে","pos":"phrasal verb","base":"hold up"},{"w":"recent","bn":"সাম্প্রতিক","pos":"adjective"}]},
+            {"id":"02","en":"In early spring, it hasn't been raining nearly as much as it used to.","bn":"বসন্তের শুরুতে আগের মতো আর ততটা বৃষ্টি হচ্ছে না।","words":[{"w":"early spring","bn":"বসন্তের শুরু","pos":"phrase"},{"w":"nearly as much","bn":"প্রায় ততটা","pos":"phrase"},{"w":"used to","bn":"আগে হতো","pos":"phrase"}]},
+            {"id":"03","en":"Nadia hasn't been sleeping well since the flood warnings started coming in.","bn":"বন্যার সতর্কবার্তা আসা শুরু হওয়ার পর থেকে নাদিয়া ভালোভাবে ঘুমাতে পারছেন না।","words":[{"w":"flood warnings","bn":"বন্যার সতর্কবার্তা","pos":"phrase"},{"w":"coming in","bn":"আসতে থাকা","pos":"phrasal verb","base":"come in"}]},
+            {"id":"04","en":"Many delivery riders haven't been earning enough because of the relentless rain this month.","bn":"এই মাসের একটানা বৃষ্টির কারণে অনেক ডেলিভারি রাইডার যথেষ্ট আয় করতে পারছেন না।","words":[{"w":"delivery riders","bn":"ডেলিভারি কর্মী","pos":"phrase"},{"w":"earning","bn":"আয় করছেন","pos":"verb","base":"earn"},{"w":"relentless","bn":"অবিরাম","pos":"adjective"}]},
+            {"id":"05","en":"Local farmers haven't been planting their usual rice varieties since the soil became salty.","bn":"মাটি লবণাক্ত হয়ে যাওয়ার পর থেকে স্থানীয় কৃষকরা তাঁদের চিরাচরিত জাতের ধান রোপণ করছেন না।","words":[{"w":"varieties","bn":"জাত","pos":"noun","base":"variety"},{"w":"soil","bn":"মাটি","pos":"noun"},{"w":"salty","bn":"লবণাক্ত","pos":"adjective"}]},
+            {"id":"06","en":"The weather models haven't been performing as reliably as the team expected.","bn":"আবহাওয়ার মডেলগুলো দলের প্রত্যাশা অনুযায়ী ততটা নির্ভরযোগ্যভাবে কাজ করছে না।","words":[{"w":"performing","bn":"কাজ করছে","pos":"verb","base":"perform"},{"w":"reliably","bn":"নির্ভরযোগ্যভাবে","pos":"adverb"},{"w":"expected","bn":"আশা করেছিল","pos":"verb","base":"expect"}]}
           ]
         },
         {
@@ -41,12 +41,12 @@
           "pattern": "Has/Have + subject + been + verb-ing ...?",
           "tipBn": "Has/Have শুরুতে বসে, তারপর subject, been এবং verb-ing।",
           "items": [
-            { "id": "01", "en": "Have coastal families been moving to Dhaka because of rising sea levels?", "words": [{ "w": "coastal", "bn": "উপকূলীয়", "pos": "adjective" }, { "w": "rising sea levels", "bn": "সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি", "pos": "phrase" }] },
-            { "id": "02", "en": "Has the research team been tracking changes in the Jamuna's flow since 2015?", "words": [{ "w": "tracking", "bn": "পর্যবেক্ষণ করছে", "pos": "verb", "base": "track" }, { "w": "flow", "bn": "প্রবাহ", "pos": "noun" }] },
-            { "id": "03", "en": "Has Tom been working on the heatwave report with the London team all weekend?", "words": [{ "w": "heatwave", "bn": "তাপপ্রবাহ", "pos": "noun" }, { "w": "report", "bn": "প্রতিবেদন", "pos": "noun" }, { "w": "all weekend", "bn": "পুরো সপ্তাহান্ত", "pos": "phrase" }] },
-            { "id": "04", "en": "Have the forecasts been getting more accurate over the years as satellite technology improves?", "words": [{ "w": "accurate", "bn": "নির্ভুল", "pos": "adjective" }, { "w": "satellite", "bn": "উপগ্রহ", "pos": "noun" }, { "w": "improves", "bn": "উন্নত হয়", "pos": "verb", "base": "improve" }] },
-            { "id": "05", "en": "Has the river been rising steadily in Sunamganj since the heavy rain began upstream?", "words": [{ "w": "steadily", "bn": "ক্রমাগত", "pos": "adverb" }, { "w": "upstream", "bn": "উজানে", "pos": "adverb" }] },
-            { "id": "06", "en": "Have outdoor workers been taking longer breaks during the hottest hours of the day?", "words": [{ "w": "outdoor workers", "bn": "বাইরে কাজ করা শ্রমিক", "pos": "phrase" }, { "w": "breaks", "bn": "বিরতি", "pos": "noun", "base": "break" }] }
+            {"id":"01","en":"Have coastal families been moving to Dhaka because of rising sea levels?","bn":"সাগরের পানির উচ্চতা বাড়ার কারণে উপকূলের পরিবারগুলো কি ঢাকায় চলে আসছে?","words":[{"w":"coastal","bn":"উপকূলীয়","pos":"adjective"},{"w":"rising sea levels","bn":"সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি","pos":"phrase"}]},
+            {"id":"02","en":"Has the research team been tracking changes in the Jamuna's flow since 2015?","bn":"গবেষক দলটি কি ২০১৫ সাল থেকে যমুনার প্রবাহের পরিবর্তন পর্যবেক্ষণ করে আসছে?","words":[{"w":"tracking","bn":"পর্যবেক্ষণ করছে","pos":"verb","base":"track"},{"w":"flow","bn":"প্রবাহ","pos":"noun"}]},
+            {"id":"03","en":"Has Tom been working on the heatwave report with the London team all weekend?","bn":"টম কি পুরো সপ্তাহান্ত ধরে লন্ডনের দলের সাথে তাপপ্রবাহের প্রতিবেদন নিয়ে কাজ করছেন?","words":[{"w":"heatwave","bn":"তাপপ্রবাহ","pos":"noun"},{"w":"report","bn":"প্রতিবেদন","pos":"noun"},{"w":"all weekend","bn":"পুরো সপ্তাহান্ত","pos":"phrase"}]},
+            {"id":"04","en":"Have the forecasts been getting more accurate over the years as satellite technology improves?","bn":"স্যাটেলাইট প্রযুক্তির উন্নতির সাথে সাথে বছরের পর বছর ধরে পূর্বাভাস কি আরও নির্ভুল হয়ে আসছে?","words":[{"w":"accurate","bn":"নির্ভুল","pos":"adjective"},{"w":"satellite","bn":"উপগ্রহ","pos":"noun"},{"w":"improves","bn":"উন্নত হয়","pos":"verb","base":"improve"}]},
+            {"id":"05","en":"Has the river been rising steadily in Sunamganj since the heavy rain began upstream?","bn":"উজানে ভারী বৃষ্টি শুরু হওয়ার পর থেকে সুনামগঞ্জে নদীর পানি কি ক্রমাগত বাড়ছে?","words":[{"w":"steadily","bn":"ক্রমাগত","pos":"adverb"},{"w":"upstream","bn":"উজানে","pos":"adverb"}]},
+            {"id":"06","en":"Have outdoor workers been taking longer breaks during the hottest hours of the day?","bn":"দিনের সবচেয়ে গরম সময়গুলোতে বাইরে কাজ করা শ্রমিকরা কি আরও লম্বা বিরতি নিচ্ছেন?","words":[{"w":"outdoor workers","bn":"বাইরে কাজ করা শ্রমিক","pos":"phrase"},{"w":"breaks","bn":"বিরতি","pos":"noun","base":"break"}]}
           ]
         },
         {
@@ -54,12 +54,12 @@
           "pattern": "Wh- word + has/have + subject + been + verb-ing ...?",
           "tipBn": "প্রশ্নশব্দের পরে has/have, তারপর subject, been এবং verb-ing বসে।",
           "items": [
-            { "id": "01", "en": "How long have you been monitoring the water level at this station?", "words": [{ "w": "monitoring", "bn": "পর্যবেক্ষণ করছেন", "pos": "verb", "base": "monitor" }, { "w": "water level", "bn": "পানির স্তর", "pos": "phrase" }] },
-            { "id": "02", "en": "Why have so many farmers in Khulna been switching to salt-tolerant crops?", "words": [{ "w": "switching to", "bn": "ঝুঁকছেন", "pos": "phrasal verb", "base": "switch to" }, { "w": "salt-tolerant", "bn": "লবণসহিষ্ণু", "pos": "adjective" }] },
-            { "id": "03", "en": "What has Nadia been telling policymakers about the rising risk of floods?", "words": [{ "w": "policymakers", "bn": "নীতিনির্ধারক", "pos": "noun", "base": "policymaker" }, { "w": "risk", "bn": "ঝুঁকি", "pos": "noun" }] },
-            { "id": "04", "en": "Where have the displaced families been living since the river swallowed their village?", "words": [{ "w": "displaced", "bn": "বাস্তুচ্যুত", "pos": "adjective" }, { "w": "swallowed", "bn": "গ্রাস করেছে", "pos": "verb", "base": "swallow" }] },
-            { "id": "05", "en": "How have rising temperatures been affecting the health of construction workers in Dhaka?", "words": [{ "w": "affecting", "bn": "প্রভাব ফেলছে", "pos": "verb", "base": "affect" }, { "w": "construction workers", "bn": "নির্মাণশ্রমিক", "pos": "phrase" }] },
-            { "id": "06", "en": "Which parts of the country have been experiencing longer and more severe dry spells?", "words": [{ "w": "experiencing", "bn": "মুখোমুখি হচ্ছে", "pos": "verb", "base": "experience" }, { "w": "severe", "bn": "তীব্র", "pos": "adjective" }, { "w": "dry spells", "bn": "অনাবৃষ্টির সময়কাল", "pos": "phrase" }] }
+            {"id":"01","en":"How long have you been monitoring the water level at this station?","bn":"তুমি কতদিন ধরে এই কেন্দ্রে পানির উচ্চতা পর্যবেক্ষণ করছ?","words":[{"w":"monitoring","bn":"পর্যবেক্ষণ করছেন","pos":"verb","base":"monitor"},{"w":"water level","bn":"পানির স্তর","pos":"phrase"}]},
+            {"id":"02","en":"Why have so many farmers in Khulna been switching to salt-tolerant crops?","bn":"খুলনার এত কৃষক লবণসহিষ্ণু ফসলের দিকে ঝুঁকছেন কেন?","words":[{"w":"switching to","bn":"ঝুঁকছেন","pos":"phrasal verb","base":"switch to"},{"w":"salt-tolerant","bn":"লবণসহিষ্ণু","pos":"adjective"}]},
+            {"id":"03","en":"What has Nadia been telling policymakers about the rising risk of floods?","bn":"বন্যার ক্রমবর্ধমান ঝুঁকি নিয়ে নাদিয়া নীতিনির্ধারকদের কী বলে আসছেন?","words":[{"w":"policymakers","bn":"নীতিনির্ধারক","pos":"noun","base":"policymaker"},{"w":"risk","bn":"ঝুঁকি","pos":"noun"}]},
+            {"id":"04","en":"Where have the displaced families been living since the river swallowed their village?","bn":"নদী তাদের গ্রাম গিলে ফেলার পর থেকে বাস্তুচ্যুত পরিবারগুলো কোথায় থাকছে?","words":[{"w":"displaced","bn":"বাস্তুচ্যুত","pos":"adjective"},{"w":"swallowed","bn":"গ্রাস করেছে","pos":"verb","base":"swallow"}]},
+            {"id":"05","en":"How have rising temperatures been affecting the health of construction workers in Dhaka?","bn":"ক্রমবর্ধমান তাপমাত্রা ঢাকার নির্মাণশ্রমিকদের স্বাস্থ্যের ওপর কীভাবে প্রভাব ফেলছে?","words":[{"w":"affecting","bn":"প্রভাব ফেলছে","pos":"verb","base":"affect"},{"w":"construction workers","bn":"নির্মাণশ্রমিক","pos":"phrase"}]},
+            {"id":"06","en":"Which parts of the country have been experiencing longer and more severe dry spells?","bn":"দেশের কোন কোন অঞ্চলে আরও দীর্ঘ ও আরও তীব্র খরা দেখা দিচ্ছে?","words":[{"w":"experiencing","bn":"মুখোমুখি হচ্ছে","pos":"verb","base":"experience"},{"w":"severe","bn":"তীব্র","pos":"adjective"},{"w":"dry spells","bn":"অনাবৃষ্টির সময়কাল","pos":"phrase"}]}
           ]
         },
         {
@@ -67,43 +67,9 @@
           "pattern": "4–6 sentences, mostly has/have been + verb-ing.",
           "tipBn": "অনুচ্ছেদে has/have been + verb-ing দিয়ে এমন পরিবর্তন বলা হয়েছে যা অনেক দিন ধরে চলছে এবং এখনো থামেনি।",
           "items": [
-            {
-              "id": "01",
-              "title": "A hotter Dhaka",
-              "en": "Nadia has been measuring street temperatures in Dhaka for three summers. The city has been growing rapidly, and green spaces have been disappearing to make room for new buildings. As a result, concrete and asphalt have been trapping heat long after sunset. Residents have been complaining that nights no longer offer any relief. Nadia has been sharing her findings with city planners, hoping they will act soon.",
-              "words": [
-                { "w": "rapidly", "bn": "দ্রুত", "pos": "adverb" },
-                { "w": "asphalt", "bn": "পিচ", "pos": "noun" },
-                { "w": "trapping", "bn": "আটকে রাখছে", "pos": "verb", "base": "trap" },
-                { "w": "relief", "bn": "স্বস্তি", "pos": "noun" },
-                { "w": "findings", "bn": "গবেষণার ফলাফল", "pos": "noun" },
-                { "w": "city planners", "bn": "নগর পরিকল্পনাবিদ", "pos": "phrase" }
-              ]
-            },
-            {
-              "id": "02",
-              "title": "Waiting for the water to fall",
-              "en": "For almost two weeks, the Teesta has been flowing above the danger level. Families in Lalmonirhat have been living on the embankment with their cattle and a few belongings. Aid workers have been delivering rice, clean water and medicine by boat. Children haven't been going to school since the flood began. Everyone has been watching the sky and praying for the rain to stop.",
-              "words": [
-                { "w": "danger level", "bn": "বিপৎসীমা", "pos": "phrase" },
-                { "w": "embankment", "bn": "বাঁধ", "pos": "noun" },
-                { "w": "cattle", "bn": "গবাদিপশু", "pos": "noun" },
-                { "w": "belongings", "bn": "জিনিসপত্র", "pos": "noun" },
-                { "w": "aid workers", "bn": "ত্রাণকর্মী", "pos": "phrase" }
-              ]
-            },
-            {
-              "id": "03",
-              "title": "The view from London",
-              "en": "Tom has been following the weather in Bangladesh closely since he first visited Dhaka in 2019. Back in London, he has been noticing changes too. Summers have been getting hotter, and the city has been dealing with heatwaves it was never designed for. Tom and Nadia have been comparing notes on how two very different cities have been adapting.",
-              "words": [
-                { "w": "closely", "bn": "মনোযোগ দিয়ে", "pos": "adverb" },
-                { "w": "noticing", "bn": "লক্ষ করছেন", "pos": "verb", "base": "notice" },
-                { "w": "dealing with", "bn": "মোকাবিলা করছে", "pos": "phrasal verb", "base": "deal with" },
-                { "w": "comparing notes", "bn": "অভিজ্ঞতা মিলিয়ে দেখা", "pos": "idiom" },
-                { "w": "adapting", "bn": "খাপ খাইয়ে নিচ্ছে", "pos": "verb", "base": "adapt" }
-              ]
-            }
+            {"id":"01","title":"A hotter Dhaka","en":"Nadia has been measuring street temperatures in Dhaka for three summers. The city has been growing rapidly, and green spaces have been disappearing to make room for new buildings. As a result, concrete and asphalt have been trapping heat long after sunset. Residents have been complaining that nights no longer offer any relief. Nadia has been sharing her findings with city planners, hoping they will act soon.","bn":"নাদিয়া তিনটি গ্রীষ্ম ধরে ঢাকার রাস্তার তাপমাত্রা মেপে আসছেন। শহরটি দ্রুত বেড়ে চলেছে, আর নতুন ভবনের জায়গা করে দিতে সবুজ জায়গাগুলো হারিয়ে যাচ্ছে। ফলে সূর্য ডোবার অনেক পরেও কংক্রিট আর পিচ তাপ আটকে রাখছে। বাসিন্দারা অভিযোগ করে আসছেন যে রাতেও আর কোনো স্বস্তি মেলে না। নাদিয়া তাঁর গবেষণার ফলাফল নগর পরিকল্পনাবিদদের জানিয়ে আসছেন, এই আশায় যে তাঁরা শিগগিরই পদক্ষেপ নেবেন।","words":[{"w":"rapidly","bn":"দ্রুত","pos":"adverb"},{"w":"asphalt","bn":"পিচ","pos":"noun"},{"w":"trapping","bn":"আটকে রাখছে","pos":"verb","base":"trap"},{"w":"relief","bn":"স্বস্তি","pos":"noun"},{"w":"findings","bn":"গবেষণার ফলাফল","pos":"noun"},{"w":"city planners","bn":"নগর পরিকল্পনাবিদ","pos":"phrase"}]},
+            {"id":"02","title":"Waiting for the water to fall","en":"For almost two weeks, the Teesta has been flowing above the danger level. Families in Lalmonirhat have been living on the embankment with their cattle and a few belongings. Aid workers have been delivering rice, clean water and medicine by boat. Children haven't been going to school since the flood began. Everyone has been watching the sky and praying for the rain to stop.","bn":"প্রায় দুই সপ্তাহ ধরে তিস্তা বিপৎসীমার ওপর দিয়ে বইছে। লালমনিরহাটের পরিবারগুলো তাদের গবাদিপশু আর অল্প কিছু জিনিসপত্র নিয়ে বাঁধের ওপর থাকছে। ত্রাণকর্মীরা নৌকায় করে চাল, বিশুদ্ধ পানি আর ওষুধ পৌঁছে দিচ্ছেন। বন্যা শুরু হওয়ার পর থেকে বাচ্চারা স্কুলে যাচ্ছে না। সবাই আকাশের দিকে তাকিয়ে আছে আর বৃষ্টি থামার জন্য প্রার্থনা করছে।","words":[{"w":"danger level","bn":"বিপৎসীমা","pos":"phrase"},{"w":"embankment","bn":"বাঁধ","pos":"noun"},{"w":"cattle","bn":"গবাদিপশু","pos":"noun"},{"w":"belongings","bn":"জিনিসপত্র","pos":"noun"},{"w":"aid workers","bn":"ত্রাণকর্মী","pos":"phrase"}]},
+            {"id":"03","title":"The view from London","en":"Tom has been following the weather in Bangladesh closely since he first visited Dhaka in 2019. Back in London, he has been noticing changes too. Summers have been getting hotter, and the city has been dealing with heatwaves it was never designed for. Tom and Nadia have been comparing notes on how two very different cities have been adapting.","bn":"২০১৯ সালে প্রথম ঢাকায় আসার পর থেকে টম বাংলাদেশের আবহাওয়ার দিকে গভীর নজর রেখে আসছেন। লন্ডনে ফিরেও তিনি নানা পরিবর্তন লক্ষ করছেন। গ্রীষ্মকাল আরও গরম হয়ে উঠছে, আর শহরটি এমন সব তাপপ্রবাহ সামলাচ্ছে, যেগুলোর জন্য এটি কখনো তৈরি হয়নি। টম আর নাদিয়া একে অপরের সাথে মিলিয়ে দেখছেন, দুটি একেবারে ভিন্ন শহর কীভাবে নিজেদের মানিয়ে নিচ্ছে।","words":[{"w":"closely","bn":"মনোযোগ দিয়ে","pos":"adverb"},{"w":"noticing","bn":"লক্ষ করছেন","pos":"verb","base":"notice"},{"w":"dealing with","bn":"মোকাবিলা করছে","pos":"phrasal verb","base":"deal with"},{"w":"comparing notes","bn":"অভিজ্ঞতা মিলিয়ে দেখা","pos":"idiom"},{"w":"adapting","bn":"খাপ খাইয়ে নিচ্ছে","pos":"verb","base":"adapt"}]}
           ]
         }
       ]
@@ -118,12 +84,12 @@
           "pattern": "Subject + had + past participle ... before / by the time + past simple.",
           "tipBn": "অতীতের দুটি ঘটনার মধ্যে যেটি আগে ঘটেছিল সেটি বোঝাতে had + past participle ব্যবহার হয়।",
           "items": [
-            { "id": "01", "en": "By the time the warning reached the village, the river had already burst its banks.", "words": [{ "w": "By the time", "bn": "যখন ... তার আগেই", "pos": "phrase" }, { "w": "burst its banks", "bn": "দুকূল ছাপিয়ে গিয়েছিল", "pos": "idiom" }] },
-            { "id": "02", "en": "Nadia had studied the area for years before the flood destroyed the old embankment.", "words": [{ "w": "studied", "bn": "গবেষণা করেছিলেন", "pos": "verb", "base": "study" }, { "w": "destroyed", "bn": "ধ্বংস করল", "pos": "verb", "base": "destroy" }, { "w": "embankment", "bn": "বাঁধ", "pos": "noun" }] },
-            { "id": "03", "en": "The farmers had harvested most of their rice just before the flash flood hit.", "words": [{ "w": "harvested", "bn": "কেটে ঘরে তুলেছিল", "pos": "verb", "base": "harvest" }, { "w": "flash flood", "bn": "আকস্মিক বন্যা, ঢল", "pos": "phrase" }] },
-            { "id": "04", "en": "After it had rained for five days straight, the roads to Sunamganj became impassable.", "words": [{ "w": "straight", "bn": "একটানা", "pos": "adverb" }, { "w": "impassable", "bn": "চলাচলের অযোগ্য", "pos": "adjective" }] },
-            { "id": "05", "en": "Tom had read about monsoon humidity, but he was still shocked when he landed in Dhaka.", "words": [{ "w": "humidity", "bn": "আর্দ্রতা", "pos": "noun" }, { "w": "shocked", "bn": "হতবাক", "pos": "adjective" }, { "w": "landed", "bn": "অবতরণ করলেন", "pos": "verb", "base": "land" }] },
-            { "id": "06", "en": "The weather office had issued a red alert two days before the cyclone made landfall.", "words": [{ "w": "issued", "bn": "জারি করেছিল", "pos": "verb", "base": "issue" }, { "w": "red alert", "bn": "সর্বোচ্চ সতর্কতা", "pos": "phrase" }, { "w": "made landfall", "bn": "উপকূলে আঘাত হানল", "pos": "idiom", "base": "make landfall" }] }
+            {"id":"01","en":"By the time the warning reached the village, the river had already burst its banks.","bn":"সতর্কবার্তা যখন গ্রামে পৌঁছাল, ততক্ষণে নদী তীর উপচে পড়েছিল।","words":[{"w":"By the time","bn":"যখন ... তার আগেই","pos":"phrase"},{"w":"burst its banks","bn":"দুকূল ছাপিয়ে গিয়েছিল","pos":"idiom"}]},
+            {"id":"02","en":"Nadia had studied the area for years before the flood destroyed the old embankment.","bn":"বন্যায় পুরোনো বাঁধটি ধ্বংস হওয়ার আগে নাদিয়া বছরের পর বছর এলাকাটি নিয়ে গবেষণা করেছিলেন।","words":[{"w":"studied","bn":"গবেষণা করেছিলেন","pos":"verb","base":"study"},{"w":"destroyed","bn":"ধ্বংস করল","pos":"verb","base":"destroy"},{"w":"embankment","bn":"বাঁধ","pos":"noun"}]},
+            {"id":"03","en":"The farmers had harvested most of their rice just before the flash flood hit.","bn":"আকস্মিক বন্যা আঘাত হানার ঠিক আগে কৃষকরা তাঁদের বেশিরভাগ ধান কেটে ফেলেছিলেন।","words":[{"w":"harvested","bn":"কেটে ঘরে তুলেছিল","pos":"verb","base":"harvest"},{"w":"flash flood","bn":"আকস্মিক বন্যা, ঢল","pos":"phrase"}]},
+            {"id":"04","en":"After it had rained for five days straight, the roads to Sunamganj became impassable.","bn":"টানা পাঁচ দিন বৃষ্টি হওয়ার পর সুনামগঞ্জের রাস্তাগুলো চলাচলের অযোগ্য হয়ে পড়ল।","words":[{"w":"straight","bn":"একটানা","pos":"adverb"},{"w":"impassable","bn":"চলাচলের অযোগ্য","pos":"adjective"}]},
+            {"id":"05","en":"Tom had read about monsoon humidity, but he was still shocked when he landed in Dhaka.","bn":"টম বর্ষার আর্দ্রতা নিয়ে পড়েছিলেন, কিন্তু ঢাকায় নামার পর তবুও তিনি হতবাক হয়ে গেলেন।","words":[{"w":"humidity","bn":"আর্দ্রতা","pos":"noun"},{"w":"shocked","bn":"হতবাক","pos":"adjective"},{"w":"landed","bn":"অবতরণ করলেন","pos":"verb","base":"land"}]},
+            {"id":"06","en":"The weather office had issued a red alert two days before the cyclone made landfall.","bn":"ঘূর্ণিঝড় উপকূলে আঘাত হানার দুই দিন আগেই আবহাওয়া অফিস লাল সতর্কসংকেত জারি করেছিল।","words":[{"w":"issued","bn":"জারি করেছিল","pos":"verb","base":"issue"},{"w":"red alert","bn":"সর্বোচ্চ সতর্কতা","pos":"phrase"},{"w":"made landfall","bn":"উপকূলে আঘাত হানল","pos":"idiom","base":"make landfall"}]}
           ]
         },
         {
@@ -131,12 +97,12 @@
           "pattern": "Subject + had not (hadn't / had never) + past participle ...",
           "tipBn": "had এর পরে not বা never বসিয়ে পুরাঘটিত অতীতের না-বোধক বাক্য হয়।",
           "items": [
-            { "id": "01", "en": "Many villagers hadn't received the warning because the mobile network had gone down.", "words": [{ "w": "villagers", "bn": "গ্রামবাসী", "pos": "noun", "base": "villager" }, { "w": "received", "bn": "পেয়েছিল", "pos": "verb", "base": "receive" }, { "w": "gone down", "bn": "বন্ধ হয়ে গিয়েছিল", "pos": "phrasal verb", "base": "go down" }] },
-            { "id": "02", "en": "Tom had never seen a river as wide as the Jamuna before his first visit.", "words": [{ "w": "wide", "bn": "চওড়া, প্রশস্ত", "pos": "adjective" }, { "w": "visit", "bn": "সফর", "pos": "noun" }] },
-            { "id": "03", "en": "The local authorities hadn't repaired the embankment since the previous flood in 2022.", "words": [{ "w": "authorities", "bn": "কর্তৃপক্ষ", "pos": "noun", "base": "authority" }, { "w": "repaired", "bn": "মেরামত করেছিল", "pos": "verb", "base": "repair" }, { "w": "previous", "bn": "আগের", "pos": "adjective" }] },
-            { "id": "04", "en": "Even Nadia, with all her experience, hadn't expected the water to rise so quickly overnight.", "words": [{ "w": "experience", "bn": "অভিজ্ঞতা", "pos": "noun" }, { "w": "expected", "bn": "আশা করেছিলেন", "pos": "verb", "base": "expect" }, { "w": "overnight", "bn": "রাতারাতি", "pos": "adverb" }] },
-            { "id": "05", "en": "The families hadn't stored enough dry food before the roads were cut off.", "words": [{ "w": "stored", "bn": "মজুত করেছিল", "pos": "verb", "base": "store" }, { "w": "cut off", "bn": "বিচ্ছিন্ন", "pos": "phrasal verb" }] },
-            { "id": "06", "en": "It had not rained that heavily in the region for more than half a century.", "words": [{ "w": "heavily", "bn": "প্রবলভাবে", "pos": "adverb" }, { "w": "region", "bn": "অঞ্চল", "pos": "noun" }, { "w": "half a century", "bn": "অর্ধশতাব্দী", "pos": "phrase" }] }
+            {"id":"01","en":"Many villagers hadn't received the warning because the mobile network had gone down.","bn":"মোবাইল নেটওয়ার্ক বন্ধ হয়ে গিয়েছিল বলে অনেক গ্রামবাসী সতর্কবার্তা পাননি।","words":[{"w":"villagers","bn":"গ্রামবাসী","pos":"noun","base":"villager"},{"w":"received","bn":"পেয়েছিল","pos":"verb","base":"receive"},{"w":"gone down","bn":"বন্ধ হয়ে গিয়েছিল","pos":"phrasal verb","base":"go down"}]},
+            {"id":"02","en":"Tom had never seen a river as wide as the Jamuna before his first visit.","bn":"প্রথমবার আসার আগে টম যমুনার মতো এত চওড়া নদী কখনো দেখেননি।","words":[{"w":"wide","bn":"চওড়া, প্রশস্ত","pos":"adjective"},{"w":"visit","bn":"সফর","pos":"noun"}]},
+            {"id":"03","en":"The local authorities hadn't repaired the embankment since the previous flood in 2022.","bn":"২০২২ সালের আগের বন্যার পর থেকে স্থানীয় কর্তৃপক্ষ বাঁধটি মেরামত করেনি।","words":[{"w":"authorities","bn":"কর্তৃপক্ষ","pos":"noun","base":"authority"},{"w":"repaired","bn":"মেরামত করেছিল","pos":"verb","base":"repair"},{"w":"previous","bn":"আগের","pos":"adjective"}]},
+            {"id":"04","en":"Even Nadia, with all her experience, hadn't expected the water to rise so quickly overnight.","bn":"এত অভিজ্ঞতা থাকা সত্ত্বেও নাদিয়াও আশা করেননি যে এক রাতের মধ্যে পানি এত দ্রুত বাড়বে।","words":[{"w":"experience","bn":"অভিজ্ঞতা","pos":"noun"},{"w":"expected","bn":"আশা করেছিলেন","pos":"verb","base":"expect"},{"w":"overnight","bn":"রাতারাতি","pos":"adverb"}]},
+            {"id":"05","en":"The families hadn't stored enough dry food before the roads were cut off.","bn":"রাস্তাঘাট বিচ্ছিন্ন হয়ে যাওয়ার আগে পরিবারগুলো যথেষ্ট শুকনো খাবার মজুত করেনি।","words":[{"w":"stored","bn":"মজুত করেছিল","pos":"verb","base":"store"},{"w":"cut off","bn":"বিচ্ছিন্ন","pos":"phrasal verb"}]},
+            {"id":"06","en":"It had not rained that heavily in the region for more than half a century.","bn":"অর্ধশতাব্দীরও বেশি সময় ধরে ওই অঞ্চলে এত ভারী বৃষ্টি হয়নি।","words":[{"w":"heavily","bn":"প্রবলভাবে","pos":"adverb"},{"w":"region","bn":"অঞ্চল","pos":"noun"},{"w":"half a century","bn":"অর্ধশতাব্দী","pos":"phrase"}]}
           ]
         },
         {
@@ -144,12 +110,12 @@
           "pattern": "Hadn't + subject + past participle ...?",
           "tipBn": "অবাক হয়ে বা কোনো কিছু নিশ্চিত হতে Hadn't দিয়ে প্রশ্ন শুরু হয়।",
           "items": [
-            { "id": "01", "en": "Hadn't the weather office warned everyone about the storm two days earlier?", "words": [{ "w": "warned", "bn": "সতর্ক করেছিল", "pos": "verb", "base": "warn" }, { "w": "earlier", "bn": "আগে", "pos": "adverb" }] },
-            { "id": "02", "en": "Hadn't the villagers moved their cattle to higher ground before the water arrived?", "words": [{ "w": "cattle", "bn": "গবাদিপশু", "pos": "noun" }, { "w": "higher ground", "bn": "উঁচু জায়গা", "pos": "phrase" }] },
-            { "id": "03", "en": "Hadn't Tom packed a raincoat before he left for the field trip?", "words": [{ "w": "packed", "bn": "গুছিয়ে নিয়েছিলেন", "pos": "verb", "base": "pack" }, { "w": "field trip", "bn": "মাঠপর্যায়ের সফর", "pos": "phrase" }] },
-            { "id": "04", "en": "Hadn't the government promised to strengthen the embankment after the last flood?", "words": [{ "w": "promised", "bn": "প্রতিশ্রুতি দিয়েছিল", "pos": "verb", "base": "promise" }, { "w": "strengthen", "bn": "মজবুত করা", "pos": "verb" }] },
-            { "id": "05", "en": "Hadn't the river already risen above the danger level by Sunday morning?", "words": [{ "w": "risen", "bn": "বেড়ে গিয়েছিল", "pos": "verb", "base": "rise" }, { "w": "danger level", "bn": "বিপৎসীমা", "pos": "phrase" }] },
-            { "id": "06", "en": "Hadn't Nadia told you about the heat before you booked your trip to Rajshahi?", "words": [{ "w": "heat", "bn": "গরম", "pos": "noun" }, { "w": "booked", "bn": "বুকিং দিয়েছিলে", "pos": "verb", "base": "book" }] }
+            {"id":"01","en":"Hadn't the weather office warned everyone about the storm two days earlier?","bn":"আবহাওয়া অফিস কি দুই দিন আগেই সবাইকে ঝড়ের ব্যাপারে সতর্ক করেনি?","words":[{"w":"warned","bn":"সতর্ক করেছিল","pos":"verb","base":"warn"},{"w":"earlier","bn":"আগে","pos":"adverb"}]},
+            {"id":"02","en":"Hadn't the villagers moved their cattle to higher ground before the water arrived?","bn":"পানি আসার আগে গ্রামবাসীরা কি তাঁদের গবাদিপশু উঁচু জায়গায় সরিয়ে নেননি?","words":[{"w":"cattle","bn":"গবাদিপশু","pos":"noun"},{"w":"higher ground","bn":"উঁচু জায়গা","pos":"phrase"}]},
+            {"id":"03","en":"Hadn't Tom packed a raincoat before he left for the field trip?","bn":"মাঠপর্যায়ের সফরে রওনা দেওয়ার আগে টম কি একটা রেইনকোট গুছিয়ে নেননি?","words":[{"w":"packed","bn":"গুছিয়ে নিয়েছিলেন","pos":"verb","base":"pack"},{"w":"field trip","bn":"মাঠপর্যায়ের সফর","pos":"phrase"}]},
+            {"id":"04","en":"Hadn't the government promised to strengthen the embankment after the last flood?","bn":"গত বন্যার পর সরকার কি বাঁধটি মজবুত করার প্রতিশ্রুতি দেয়নি?","words":[{"w":"promised","bn":"প্রতিশ্রুতি দিয়েছিল","pos":"verb","base":"promise"},{"w":"strengthen","bn":"মজবুত করা","pos":"verb"}]},
+            {"id":"05","en":"Hadn't the river already risen above the danger level by Sunday morning?","bn":"রবিবার সকালের মধ্যেই কি নদীর পানি বিপৎসীমার ওপরে উঠে যায়নি?","words":[{"w":"risen","bn":"বেড়ে গিয়েছিল","pos":"verb","base":"rise"},{"w":"danger level","bn":"বিপৎসীমা","pos":"phrase"}]},
+            {"id":"06","en":"Hadn't Nadia told you about the heat before you booked your trip to Rajshahi?","bn":"রাজশাহী ভ্রমণ বুক করার আগে নাদিয়া কি তোমাকে গরমের কথা বলেননি?","words":[{"w":"heat","bn":"গরম","pos":"noun"},{"w":"booked","bn":"বুকিং দিয়েছিলে","pos":"verb","base":"book"}]}
           ]
         },
         {
@@ -157,12 +123,12 @@
           "pattern": "Wh- word + had + subject + past participle ...?",
           "tipBn": "প্রশ্নশব্দের পরে had, তারপর subject এবং past participle বসে।",
           "items": [
-            { "id": "01", "en": "What had the villagers done to protect their homes before the flood arrived?", "words": [{ "w": "villagers", "bn": "গ্রামবাসী", "pos": "noun", "base": "villager" }, { "w": "protect", "bn": "রক্ষা করা", "pos": "verb" }] },
-            { "id": "02", "en": "How much rain had fallen in the hills before the flash flood reached the town?", "words": [{ "w": "fallen", "bn": "পড়েছিল", "pos": "verb", "base": "fall" }, { "w": "flash flood", "bn": "আকস্মিক বন্যা, ঢল", "pos": "phrase" }] },
-            { "id": "03", "en": "Where had the families taken shelter by the time the rescue boats arrived?", "words": [{ "w": "taken shelter", "bn": "আশ্রয় নিয়েছিল", "pos": "phrase", "base": "take shelter" }, { "w": "rescue boats", "bn": "উদ্ধারকারী নৌকা", "pos": "phrase" }] },
-            { "id": "04", "en": "Which warning signs had the fishermen noticed before the sea turned rough?", "words": [{ "w": "warning signs", "bn": "বিপদের লক্ষণ", "pos": "phrase" }, { "w": "turned rough", "bn": "উত্তাল হয়ে উঠল", "pos": "phrase" }] },
-            { "id": "05", "en": "When had Nadia first predicted that this part of the district would flood regularly?", "words": [{ "w": "predicted", "bn": "পূর্বাভাস দিয়েছিলেন", "pos": "verb", "base": "predict" }, { "w": "regularly", "bn": "নিয়মিত", "pos": "adverb" }] },
-            { "id": "06", "en": "How many homes had the floodwater washed away by the end of the monsoon?", "words": [{ "w": "floodwater", "bn": "বন্যার পানি", "pos": "noun" }, { "w": "washed away", "bn": "ভাসিয়ে নিয়েছিল", "pos": "phrasal verb", "base": "wash away" }] }
+            {"id":"01","en":"What had the villagers done to protect their homes before the flood arrived?","bn":"বন্যা আসার আগে গ্রামবাসীরা তাঁদের ঘরবাড়ি রক্ষা করতে কী করেছিলেন?","words":[{"w":"villagers","bn":"গ্রামবাসী","pos":"noun","base":"villager"},{"w":"protect","bn":"রক্ষা করা","pos":"verb"}]},
+            {"id":"02","en":"How much rain had fallen in the hills before the flash flood reached the town?","bn":"আকস্মিক বন্যা শহরে পৌঁছানোর আগে পাহাড়ে কতটা বৃষ্টি হয়েছিল?","words":[{"w":"fallen","bn":"পড়েছিল","pos":"verb","base":"fall"},{"w":"flash flood","bn":"আকস্মিক বন্যা, ঢল","pos":"phrase"}]},
+            {"id":"03","en":"Where had the families taken shelter by the time the rescue boats arrived?","bn":"উদ্ধারকারী নৌকাগুলো পৌঁছানোর আগেই পরিবারগুলো কোথায় আশ্রয় নিয়েছিল?","words":[{"w":"taken shelter","bn":"আশ্রয় নিয়েছিল","pos":"phrase","base":"take shelter"},{"w":"rescue boats","bn":"উদ্ধারকারী নৌকা","pos":"phrase"}]},
+            {"id":"04","en":"Which warning signs had the fishermen noticed before the sea turned rough?","bn":"সাগর উত্তাল হওয়ার আগে জেলেরা কোন কোন সতর্কসংকেত লক্ষ করেছিলেন?","words":[{"w":"warning signs","bn":"বিপদের লক্ষণ","pos":"phrase"},{"w":"turned rough","bn":"উত্তাল হয়ে উঠল","pos":"phrase"}]},
+            {"id":"05","en":"When had Nadia first predicted that this part of the district would flood regularly?","bn":"নাদিয়া প্রথম কবে পূর্বাভাস দিয়েছিলেন যে জেলার এই অংশে নিয়মিত বন্যা হবে?","words":[{"w":"predicted","bn":"পূর্বাভাস দিয়েছিলেন","pos":"verb","base":"predict"},{"w":"regularly","bn":"নিয়মিত","pos":"adverb"}]},
+            {"id":"06","en":"How many homes had the floodwater washed away by the end of the monsoon?","bn":"বর্ষা শেষ হওয়ার মধ্যে বন্যার পানি কতগুলো ঘরবাড়ি ভাসিয়ে নিয়ে গিয়েছিল?","words":[{"w":"floodwater","bn":"বন্যার পানি","pos":"noun"},{"w":"washed away","bn":"ভাসিয়ে নিয়েছিল","pos":"phrasal verb","base":"wash away"}]}
           ]
         },
         {
@@ -170,43 +136,9 @@
           "pattern": "4–6 sentences, mostly had + past participle.",
           "tipBn": "অনুচ্ছেদে had + past participle দিয়ে বোঝানো হয়েছে কোন ঘটনা আগেই ঘটে গিয়েছিল।",
           "items": [
-            {
-              "id": "01",
-              "title": "Too late for the harvest",
-              "en": "By the time the flash flood reached Sunamganj, the hills upstream had received record rainfall. Most farmers had not finished harvesting their rice. Some had tried to cut the crop early, but the water had risen too fast. By evening, months of work had disappeared under the muddy water. Nadia later said that the early warning had come far too late.",
-              "words": [
-                { "w": "upstream", "bn": "উজানে", "pos": "adverb" },
-                { "w": "record rainfall", "bn": "রেকর্ড পরিমাণ বৃষ্টিপাত", "pos": "phrase" },
-                { "w": "harvesting", "bn": "ফসল কাটা", "pos": "verb", "base": "harvest" },
-                { "w": "muddy", "bn": "কাদাময়", "pos": "adjective" },
-                { "w": "early warning", "bn": "আগাম সতর্কতা", "pos": "phrase" }
-              ]
-            },
-            {
-              "id": "02",
-              "title": "Tom's first monsoon",
-              "en": "Before Tom came to Bangladesh, he had only seen the monsoon on television. He had packed light clothes and a small umbrella, thinking that would be enough. Within an hour of landing, the umbrella had broken in the wind. By the end of his first week, he had bought rubber sandals and a proper raincoat. He later joked that nobody had warned him about the mud.",
-              "words": [
-                { "w": "light clothes", "bn": "পাতলা কাপড়", "pos": "phrase" },
-                { "w": "landing", "bn": "অবতরণ", "pos": "noun" },
-                { "w": "rubber sandals", "bn": "রাবারের স্যান্ডেল", "pos": "phrase" },
-                { "w": "proper", "bn": "উপযুক্ত", "pos": "adjective" },
-                { "w": "joked", "bn": "মজা করে বললেন", "pos": "verb", "base": "joke" },
-                { "w": "mud", "bn": "কাদা", "pos": "noun" }
-              ]
-            },
-            {
-              "id": "03",
-              "title": "The night of the cyclone",
-              "en": "The fishermen of Kutubdia had heard the warning on the radio, but many had decided to stay with their boats. By midnight, the wind had grown so strong that the sea had swept over the embankment. Those who had already moved to the cyclone shelter were safe. Others had to climb onto rooftops and wait for dawn. Afterward, the village leader said the shelter had saved hundreds of lives.",
-              "words": [
-                { "w": "swept over", "bn": "উপচে আছড়ে পড়েছিল", "pos": "phrasal verb", "base": "sweep over" },
-                { "w": "cyclone shelter", "bn": "ঘূর্ণিঝড় আশ্রয়কেন্দ্র", "pos": "phrase" },
-                { "w": "rooftops", "bn": "ছাদ", "pos": "noun", "base": "rooftop" },
-                { "w": "dawn", "bn": "ভোর", "pos": "noun" },
-                { "w": "Afterward", "bn": "পরে", "pos": "adverb" }
-              ]
-            }
+            {"id":"01","title":"Too late for the harvest","en":"By the time the flash flood reached Sunamganj, the hills upstream had received record rainfall. Most farmers had not finished harvesting their rice. Some had tried to cut the crop early, but the water had risen too fast. By evening, months of work had disappeared under the muddy water. Nadia later said that the early warning had come far too late.","bn":"আকস্মিক বন্যা যখন সুনামগঞ্জে পৌঁছাল, ততক্ষণে উজানের পাহাড়ে রেকর্ড পরিমাণ বৃষ্টি হয়ে গিয়েছিল। বেশিরভাগ কৃষক তখনো ধান কাটা শেষ করেননি। কেউ কেউ আগেভাগে ফসল কাটার চেষ্টা করেছিলেন, কিন্তু পানি খুব দ্রুত বেড়ে গিয়েছিল। সন্ধ্যা নাগাদ কয়েক মাসের পরিশ্রম কাদাপানির নিচে হারিয়ে গিয়েছিল। নাদিয়া পরে বলেছিলেন যে আগাম সতর্কবার্তাটা অনেক বেশি দেরিতে এসেছিল।","words":[{"w":"upstream","bn":"উজানে","pos":"adverb"},{"w":"record rainfall","bn":"রেকর্ড পরিমাণ বৃষ্টিপাত","pos":"phrase"},{"w":"harvesting","bn":"ফসল কাটা","pos":"verb","base":"harvest"},{"w":"muddy","bn":"কাদাময়","pos":"adjective"},{"w":"early warning","bn":"আগাম সতর্কতা","pos":"phrase"}]},
+            {"id":"02","title":"Tom's first monsoon","en":"Before Tom came to Bangladesh, he had only seen the monsoon on television. He had packed light clothes and a small umbrella, thinking that would be enough. Within an hour of landing, the umbrella had broken in the wind. By the end of his first week, he had bought rubber sandals and a proper raincoat. He later joked that nobody had warned him about the mud.","bn":"বাংলাদেশে আসার আগে টম বর্ষা শুধু টেলিভিশনেই দেখেছিলেন। তিনি হালকা কাপড় আর একটা ছোট ছাতা গুছিয়ে নিয়েছিলেন, ভেবেছিলেন এতেই চলবে। নামার এক ঘণ্টার মধ্যেই ছাতাটা বাতাসে ভেঙে গিয়েছিল। প্রথম সপ্তাহের শেষ নাগাদ তিনি রাবারের স্যান্ডেল আর একটা ভালো রেইনকোট কিনে ফেলেছিলেন। পরে তিনি মজা করে বলেছিলেন যে কাদার ব্যাপারে কেউ তাঁকে সতর্ক করেনি।","words":[{"w":"light clothes","bn":"পাতলা কাপড়","pos":"phrase"},{"w":"landing","bn":"অবতরণ","pos":"noun"},{"w":"rubber sandals","bn":"রাবারের স্যান্ডেল","pos":"phrase"},{"w":"proper","bn":"উপযুক্ত","pos":"adjective"},{"w":"joked","bn":"মজা করে বললেন","pos":"verb","base":"joke"},{"w":"mud","bn":"কাদা","pos":"noun"}]},
+            {"id":"03","title":"The night of the cyclone","en":"The fishermen of Kutubdia had heard the warning on the radio, but many had decided to stay with their boats. By midnight, the wind had grown so strong that the sea had swept over the embankment. Those who had already moved to the cyclone shelter were safe. Others had to climb onto rooftops and wait for dawn. Afterward, the village leader said the shelter had saved hundreds of lives.","bn":"কুতুবদিয়ার জেলেরা রেডিওতে সতর্কবার্তা শুনেছিলেন, কিন্তু অনেকেই তাঁদের নৌকার কাছে থেকে যাওয়ার সিদ্ধান্ত নিয়েছিলেন। মাঝরাতের মধ্যে বাতাস এত জোরালো হয়ে উঠেছিল যে সাগরের পানি বাঁধ ছাপিয়ে ঢুকে পড়েছিল। যাঁরা আগেই ঘূর্ণিঝড় আশ্রয়কেন্দ্রে চলে গিয়েছিলেন, তাঁরা নিরাপদ ছিলেন। বাকিদের ছাদে উঠে ভোরের অপেক্ষা করতে হয়েছিল। পরে গ্রামের নেতা বলেছিলেন যে আশ্রয়কেন্দ্রটি শত শত মানুষের জীবন বাঁচিয়েছিল।","words":[{"w":"swept over","bn":"উপচে আছড়ে পড়েছিল","pos":"phrasal verb","base":"sweep over"},{"w":"cyclone shelter","bn":"ঘূর্ণিঝড় আশ্রয়কেন্দ্র","pos":"phrase"},{"w":"rooftops","bn":"ছাদ","pos":"noun","base":"rooftop"},{"w":"dawn","bn":"ভোর","pos":"noun"},{"w":"Afterward","bn":"পরে","pos":"adverb"}]}
           ]
         }
       ]
@@ -221,12 +153,12 @@
           "pattern": "Subject + be (is / was / has been / will be) + past participle (+ by ...).",
           "tipBn": "কে কাজটি করেছে তার চেয়ে কাজটি বেশি গুরুত্বপূর্ণ হলে be + past participle দিয়ে কর্মবাচ্য গঠন হয়।",
           "items": [
-            { "id": "01", "en": "Weather data is collected from more than forty stations across the country every three hours.", "words": [{ "w": "collected", "bn": "সংগ্রহ করা হয়", "pos": "verb", "base": "collect" }, { "w": "stations", "bn": "কেন্দ্র", "pos": "noun", "base": "station" }] },
-            { "id": "02", "en": "More than two hundred thousand people were evacuated before the cyclone struck the coast.", "words": [{ "w": "evacuated", "bn": "সরিয়ে নেওয়া হয়েছিল", "pos": "verb", "base": "evacuate" }, { "w": "struck", "bn": "আঘাত হানল", "pos": "verb", "base": "strike" }] },
-            { "id": "03", "en": "A new early warning system has been installed along the Teesta River.", "words": [{ "w": "early warning system", "bn": "আগাম সতর্কতা ব্যবস্থা", "pos": "phrase" }, { "w": "installed", "bn": "স্থাপন করা হয়েছে", "pos": "verb", "base": "install" }] },
-            { "id": "04", "en": "Most forecasts are now produced by computer models running on powerful supercomputers.", "words": [{ "w": "produced", "bn": "তৈরি করা হয়", "pos": "verb", "base": "produce" }, { "w": "powerful", "bn": "শক্তিশালী", "pos": "adjective" }] },
-            { "id": "05", "en": "Thousands of acres of crops were damaged by salt water during the storm surge.", "words": [{ "w": "acres", "bn": "একর", "pos": "noun", "base": "acre" }, { "w": "damaged", "bn": "ক্ষতিগ্রস্ত হয়েছিল", "pos": "verb", "base": "damage" }, { "w": "storm surge", "bn": "জলোচ্ছ্বাস", "pos": "phrase" }] },
-            { "id": "06", "en": "The final report will be presented to the government at a climate conference in Geneva.", "words": [{ "w": "presented", "bn": "উপস্থাপন করা হবে", "pos": "verb", "base": "present" }, { "w": "conference", "bn": "সম্মেলন", "pos": "noun" }] }
+            {"id":"01","en":"Weather data is collected from more than forty stations across the country every three hours.","bn":"প্রতি তিন ঘণ্টা পরপর দেশজুড়ে চল্লিশটিরও বেশি কেন্দ্র থেকে আবহাওয়ার তথ্য সংগ্রহ করা হয়।","words":[{"w":"collected","bn":"সংগ্রহ করা হয়","pos":"verb","base":"collect"},{"w":"stations","bn":"কেন্দ্র","pos":"noun","base":"station"}]},
+            {"id":"02","en":"More than two hundred thousand people were evacuated before the cyclone struck the coast.","bn":"ঘূর্ণিঝড় উপকূলে আঘাত হানার আগে দুই লাখেরও বেশি মানুষকে সরিয়ে নেওয়া হয়েছিল।","words":[{"w":"evacuated","bn":"সরিয়ে নেওয়া হয়েছিল","pos":"verb","base":"evacuate"},{"w":"struck","bn":"আঘাত হানল","pos":"verb","base":"strike"}]},
+            {"id":"03","en":"A new early warning system has been installed along the Teesta River.","bn":"তিস্তা নদীর তীর ধরে একটি নতুন আগাম সতর্কতা ব্যবস্থা বসানো হয়েছে।","words":[{"w":"early warning system","bn":"আগাম সতর্কতা ব্যবস্থা","pos":"phrase"},{"w":"installed","bn":"স্থাপন করা হয়েছে","pos":"verb","base":"install"}]},
+            {"id":"04","en":"Most forecasts are now produced by computer models running on powerful supercomputers.","bn":"বেশিরভাগ পূর্বাভাস এখন শক্তিশালী সুপারকম্পিউটারে চলা কম্পিউটার মডেলের মাধ্যমে তৈরি করা হয়।","words":[{"w":"produced","bn":"তৈরি করা হয়","pos":"verb","base":"produce"},{"w":"powerful","bn":"শক্তিশালী","pos":"adjective"}]},
+            {"id":"05","en":"Thousands of acres of crops were damaged by salt water during the storm surge.","bn":"জলোচ্ছ্বাসের সময় লবণপানিতে হাজার হাজার একর ফসল নষ্ট হয়ে গিয়েছিল।","words":[{"w":"acres","bn":"একর","pos":"noun","base":"acre"},{"w":"damaged","bn":"ক্ষতিগ্রস্ত হয়েছিল","pos":"verb","base":"damage"},{"w":"storm surge","bn":"জলোচ্ছ্বাস","pos":"phrase"}]},
+            {"id":"06","en":"The final report will be presented to the government at a climate conference in Geneva.","bn":"চূড়ান্ত প্রতিবেদনটি জেনেভায় একটি জলবায়ু সম্মেলনে সরকারের কাছে উপস্থাপন করা হবে।","words":[{"w":"presented","bn":"উপস্থাপন করা হবে","pos":"verb","base":"present"},{"w":"conference","bn":"সম্মেলন","pos":"noun"}]}
           ]
         },
         {
@@ -234,12 +166,12 @@
           "pattern": "Subject + be + not + past participle ...",
           "tipBn": "be-verb এর পরে not বসিয়ে কর্মবাচ্যের না-বোধক রূপ হয়, যেমন hasn't been repaired।",
           "items": [
-            { "id": "01", "en": "The damaged embankment still hasn't been repaired, even though the monsoon starts next month.", "words": [{ "w": "damaged", "bn": "ক্ষতিগ্রস্ত", "pos": "adjective" }, { "w": "repaired", "bn": "মেরামত করা হয়েছে", "pos": "verb", "base": "repair" }, { "w": "even though", "bn": "যদিও", "pos": "conjunction" }] },
-            { "id": "02", "en": "Many remote villages in the hill districts are not covered by the new radar network.", "words": [{ "w": "remote", "bn": "প্রত্যন্ত", "pos": "adjective" }, { "w": "hill districts", "bn": "পার্বত্য জেলা", "pos": "phrase" }, { "w": "covered", "bn": "আওতাভুক্ত", "pos": "verb", "base": "cover" }] },
-            { "id": "03", "en": "The fishermen were not informed about the storm until it was too late.", "words": [{ "w": "informed", "bn": "জানানো হয়েছিল", "pos": "verb", "base": "inform" }, { "w": "too late", "bn": "অনেক দেরি", "pos": "phrase" }] },
-            { "id": "04", "en": "Deaths caused by extreme heat are often not recorded accurately in rural hospitals.", "words": [{ "w": "recorded", "bn": "নথিভুক্ত করা হয়", "pos": "verb", "base": "record" }, { "w": "accurately", "bn": "সঠিকভাবে", "pos": "adverb" }, { "w": "rural", "bn": "গ্রামীণ", "pos": "adjective" }] },
-            { "id": "05", "en": "The outdoor concert won't be held in Dhaka unless the heatwave eases.", "words": [{ "w": "held", "bn": "অনুষ্ঠিত হবে", "pos": "verb", "base": "hold" }, { "w": "unless", "bn": "যদি না", "pos": "conjunction" }, { "w": "eases", "bn": "কমে আসে", "pos": "verb", "base": "ease" }] },
-            { "id": "06", "en": "No schools were damaged in the storm, thanks to the newly built flood walls.", "words": [{ "w": "thanks to", "bn": "এর কল্যাণে", "pos": "phrase" }, { "w": "flood walls", "bn": "বন্যা প্রতিরোধ দেয়াল", "pos": "phrase" }] }
+            {"id":"01","en":"The damaged embankment still hasn't been repaired, even though the monsoon starts next month.","bn":"আগামী মাসে বর্ষা শুরু হলেও ক্ষতিগ্রস্ত বাঁধটি এখনো মেরামত করা হয়নি।","words":[{"w":"damaged","bn":"ক্ষতিগ্রস্ত","pos":"adjective"},{"w":"repaired","bn":"মেরামত করা হয়েছে","pos":"verb","base":"repair"},{"w":"even though","bn":"যদিও","pos":"conjunction"}]},
+            {"id":"02","en":"Many remote villages in the hill districts are not covered by the new radar network.","bn":"পার্বত্য জেলাগুলোর অনেক প্রত্যন্ত গ্রাম নতুন রাডার নেটওয়ার্কের আওতায় নেই।","words":[{"w":"remote","bn":"প্রত্যন্ত","pos":"adjective"},{"w":"hill districts","bn":"পার্বত্য জেলা","pos":"phrase"},{"w":"covered","bn":"আওতাভুক্ত","pos":"verb","base":"cover"}]},
+            {"id":"03","en":"The fishermen were not informed about the storm until it was too late.","bn":"অনেক দেরি হয়ে যাওয়ার আগ পর্যন্ত জেলেদের ঝড়ের ব্যাপারে জানানো হয়নি।","words":[{"w":"informed","bn":"জানানো হয়েছিল","pos":"verb","base":"inform"},{"w":"too late","bn":"অনেক দেরি","pos":"phrase"}]},
+            {"id":"04","en":"Deaths caused by extreme heat are often not recorded accurately in rural hospitals.","bn":"গ্রামের হাসপাতালগুলোতে প্রচণ্ড গরমে মৃত্যুর ঘটনা প্রায়ই সঠিকভাবে লিপিবদ্ধ করা হয় না।","words":[{"w":"recorded","bn":"নথিভুক্ত করা হয়","pos":"verb","base":"record"},{"w":"accurately","bn":"সঠিকভাবে","pos":"adverb"},{"w":"rural","bn":"গ্রামীণ","pos":"adjective"}]},
+            {"id":"05","en":"The outdoor concert won't be held in Dhaka unless the heatwave eases.","bn":"তাপপ্রবাহ না কমলে ঢাকায় খোলা আকাশের নিচের কনসার্টটি আয়োজন করা হবে না।","words":[{"w":"held","bn":"অনুষ্ঠিত হবে","pos":"verb","base":"hold"},{"w":"unless","bn":"যদি না","pos":"conjunction"},{"w":"eases","bn":"কমে আসে","pos":"verb","base":"ease"}]},
+            {"id":"06","en":"No schools were damaged in the storm, thanks to the newly built flood walls.","bn":"নতুন নির্মিত বন্যা প্রতিরোধ দেয়ালের কল্যাণে ঝড়ে কোনো স্কুলের ক্ষতি হয়নি।","words":[{"w":"thanks to","bn":"এর কল্যাণে","pos":"phrase"},{"w":"flood walls","bn":"বন্যা প্রতিরোধ দেয়াল","pos":"phrase"}]}
           ]
         },
         {
@@ -247,12 +179,12 @@
           "pattern": "Is/Was/Has/Will + subject + (been / be) + past participle ...?",
           "tipBn": "Is, Was, Has বা Will শুরুতে বসে, তারপর subject ও past participle দিয়ে কর্মবাচ্যের প্রশ্ন হয়।",
           "items": [
-            { "id": "01", "en": "Was the warning broadcast in local languages as well as in Bangla?", "words": [{ "w": "broadcast", "bn": "প্রচার করা হয়েছিল", "pos": "verb" }, { "w": "local languages", "bn": "স্থানীয় ভাষা", "pos": "phrase" }, { "w": "as well as", "bn": "পাশাপাশি", "pos": "phrase" }] },
-            { "id": "02", "en": "Are weather balloons still launched twice a day from the station at Dhaka airport?", "words": [{ "w": "weather balloons", "bn": "আবহাওয়া বেলুন", "pos": "phrase" }, { "w": "launched", "bn": "ওড়ানো হয়", "pos": "verb", "base": "launch" }] },
-            { "id": "03", "en": "Has the flood damage been assessed in all the affected districts yet?", "words": [{ "w": "assessed", "bn": "মূল্যায়ন করা হয়েছে", "pos": "verb", "base": "assess" }, { "w": "affected", "bn": "ক্ষতিগ্রস্ত", "pos": "adjective" }] },
-            { "id": "04", "en": "Will the schools be used as shelters if the cyclone gets closer?", "words": [{ "w": "shelters", "bn": "আশ্রয়কেন্দ্র", "pos": "noun", "base": "shelter" }, { "w": "gets closer", "bn": "আরও কাছে আসে", "pos": "phrase" }] },
-            { "id": "05", "en": "Were the garment factories closed during the worst days of the heatwave?", "words": [{ "w": "garment factories", "bn": "পোশাক কারখানা", "pos": "phrase" }, { "w": "worst", "bn": "সবচেয়ে খারাপ", "pos": "adjective" }] },
-            { "id": "06", "en": "Is the accuracy of every forecast checked against the weather that actually happened?", "words": [{ "w": "accuracy", "bn": "নির্ভুলতা", "pos": "noun" }, { "w": "checked against", "bn": "মিলিয়ে দেখা হয়", "pos": "phrasal verb", "base": "check against" }, { "w": "actually", "bn": "আসলে", "pos": "adverb" }] }
+            {"id":"01","en":"Was the warning broadcast in local languages as well as in Bangla?","bn":"সতর্কবার্তাটি কি বাংলার পাশাপাশি স্থানীয় ভাষাগুলোতেও প্রচার করা হয়েছিল?","words":[{"w":"broadcast","bn":"প্রচার করা হয়েছিল","pos":"verb"},{"w":"local languages","bn":"স্থানীয় ভাষা","pos":"phrase"},{"w":"as well as","bn":"পাশাপাশি","pos":"phrase"}]},
+            {"id":"02","en":"Are weather balloons still launched twice a day from the station at Dhaka airport?","bn":"ঢাকা বিমানবন্দরের কেন্দ্র থেকে কি এখনো দিনে দুবার আবহাওয়া বেলুন ওড়ানো হয়?","words":[{"w":"weather balloons","bn":"আবহাওয়া বেলুন","pos":"phrase"},{"w":"launched","bn":"ওড়ানো হয়","pos":"verb","base":"launch"}]},
+            {"id":"03","en":"Has the flood damage been assessed in all the affected districts yet?","bn":"সব ক্ষতিগ্রস্ত জেলায় কি বন্যার ক্ষয়ক্ষতি এখনো নিরূপণ করা হয়েছে?","words":[{"w":"assessed","bn":"মূল্যায়ন করা হয়েছে","pos":"verb","base":"assess"},{"w":"affected","bn":"ক্ষতিগ্রস্ত","pos":"adjective"}]},
+            {"id":"04","en":"Will the schools be used as shelters if the cyclone gets closer?","bn":"ঘূর্ণিঝড় আরও কাছে এলে কি স্কুলগুলোকে আশ্রয়কেন্দ্র হিসেবে ব্যবহার করা হবে?","words":[{"w":"shelters","bn":"আশ্রয়কেন্দ্র","pos":"noun","base":"shelter"},{"w":"gets closer","bn":"আরও কাছে আসে","pos":"phrase"}]},
+            {"id":"05","en":"Were the garment factories closed during the worst days of the heatwave?","bn":"তাপপ্রবাহের সবচেয়ে খারাপ দিনগুলোতে কি পোশাক কারখানাগুলো বন্ধ রাখা হয়েছিল?","words":[{"w":"garment factories","bn":"পোশাক কারখানা","pos":"phrase"},{"w":"worst","bn":"সবচেয়ে খারাপ","pos":"adjective"}]},
+            {"id":"06","en":"Is the accuracy of every forecast checked against the weather that actually happened?","bn":"প্রতিটি পূর্বাভাসের নির্ভুলতা কি আসলে যে আবহাওয়া হয়েছিল তার সাথে মিলিয়ে যাচাই করা হয়?","words":[{"w":"accuracy","bn":"নির্ভুলতা","pos":"noun"},{"w":"checked against","bn":"মিলিয়ে দেখা হয়","pos":"phrasal verb","base":"check against"},{"w":"actually","bn":"আসলে","pos":"adverb"}]}
           ]
         },
         {
@@ -260,12 +192,12 @@
           "pattern": "Could you tell me / Do you know / I wonder + wh- word or whether + passive clause",
           "tipBn": "ভদ্রভাবে জানতে Could you tell me বা I wonder দিয়ে শুরু হয়; ভেতরের অংশে subject আগে বসে, প্রশ্নের মতো উল্টো ক্রম হয় না।",
           "items": [
-            { "id": "01", "en": "Could you tell me how the daily forecast is prepared at the weather office?", "words": [{ "w": "daily", "bn": "দৈনিক", "pos": "adjective" }, { "w": "prepared", "bn": "তৈরি করা হয়", "pos": "verb", "base": "prepare" }] },
-            { "id": "02", "en": "Do you know whether the flood warning has been lifted in Sirajganj?", "words": [{ "w": "whether", "bn": "কিনা", "pos": "conjunction" }, { "w": "lifted", "bn": "প্রত্যাহার করা হয়েছে", "pos": "verb", "base": "lift" }] },
-            { "id": "03", "en": "I wonder how many trees were planted in Dhaka after last year's heatwave.", "words": [{ "w": "wonder", "bn": "জানতে ইচ্ছে করে", "pos": "verb" }, { "w": "planted", "bn": "রোপণ করা হয়েছিল", "pos": "verb", "base": "plant" }] },
-            { "id": "04", "en": "Could you explain how cyclones in the Bay of Bengal are named?", "words": [{ "w": "Bay of Bengal", "bn": "বঙ্গোপসাগর", "pos": "noun" }, { "w": "named", "bn": "নামকরণ করা হয়", "pos": "verb", "base": "name" }] },
-            { "id": "05", "en": "May I ask when the new embankment along the river will be completed?", "words": [{ "w": "embankment", "bn": "বাঁধ", "pos": "noun" }, { "w": "completed", "bn": "সম্পন্ন করা হবে", "pos": "verb", "base": "complete" }] },
-            { "id": "06", "en": "I would like to know whether the rainfall figures have been checked for errors.", "words": [{ "w": "figures", "bn": "পরিসংখ্যান", "pos": "noun", "base": "figure" }, { "w": "checked for errors", "bn": "ভুল আছে কিনা যাচাই করা হয়েছে", "pos": "phrase" }] }
+            {"id":"01","en":"Could you tell me how the daily forecast is prepared at the weather office?","bn":"আবহাওয়া অফিসে দৈনিক পূর্বাভাস কীভাবে তৈরি করা হয়, আপনি কি আমাকে বলতে পারবেন?","words":[{"w":"daily","bn":"দৈনিক","pos":"adjective"},{"w":"prepared","bn":"তৈরি করা হয়","pos":"verb","base":"prepare"}]},
+            {"id":"02","en":"Do you know whether the flood warning has been lifted in Sirajganj?","bn":"সিরাজগঞ্জে বন্যার সতর্কতা তুলে নেওয়া হয়েছে কি না, আপনি কি জানেন?","words":[{"w":"whether","bn":"কিনা","pos":"conjunction"},{"w":"lifted","bn":"প্রত্যাহার করা হয়েছে","pos":"verb","base":"lift"}]},
+            {"id":"03","en":"I wonder how many trees were planted in Dhaka after last year's heatwave.","bn":"গত বছরের তাপপ্রবাহের পর ঢাকায় কতগুলো গাছ লাগানো হয়েছিল, আমি ভাবছি।","words":[{"w":"wonder","bn":"জানতে ইচ্ছে করে","pos":"verb"},{"w":"planted","bn":"রোপণ করা হয়েছিল","pos":"verb","base":"plant"}]},
+            {"id":"04","en":"Could you explain how cyclones in the Bay of Bengal are named?","bn":"বঙ্গোপসাগরের ঘূর্ণিঝড়গুলোর নাম কীভাবে রাখা হয়, আপনি কি ব্যাখ্যা করতে পারবেন?","words":[{"w":"Bay of Bengal","bn":"বঙ্গোপসাগর","pos":"noun"},{"w":"named","bn":"নামকরণ করা হয়","pos":"verb","base":"name"}]},
+            {"id":"05","en":"May I ask when the new embankment along the river will be completed?","bn":"নদীর তীর ধরে নতুন বাঁধটি কবে শেষ হবে, আমি কি জানতে পারি?","words":[{"w":"embankment","bn":"বাঁধ","pos":"noun"},{"w":"completed","bn":"সম্পন্ন করা হবে","pos":"verb","base":"complete"}]},
+            {"id":"06","en":"I would like to know whether the rainfall figures have been checked for errors.","bn":"বৃষ্টিপাতের পরিসংখ্যানগুলোতে কোনো ভুল আছে কি না, তা যাচাই করা হয়েছে কি না, আমি জানতে চাই।","words":[{"w":"figures","bn":"পরিসংখ্যান","pos":"noun","base":"figure"},{"w":"checked for errors","bn":"ভুল আছে কিনা যাচাই করা হয়েছে","pos":"phrase"}]}
           ]
         },
         {
@@ -273,44 +205,9 @@
           "pattern": "4–6 sentences, mostly be + past participle.",
           "tipBn": "অনুচ্ছেদে বিভিন্ন কালের কর্মবাচ্য (is collected, was destroyed, are being built) ব্যবহার হয়েছে।",
           "items": [
-            {
-              "id": "01",
-              "title": "How a forecast is made",
-              "en": "Every morning, thousands of weather readings are collected from stations, ships and satellites. The data is sent to the weather office, where it is fed into computer models. The results are then checked by experienced forecasters. Finally, the forecast is shared with television channels, newspapers and mobile apps. Even so, it is updated several times a day because the weather can change quickly.",
-              "words": [
-                { "w": "readings", "bn": "পরিমাপ", "pos": "noun", "base": "reading" },
-                { "w": "satellites", "bn": "উপগ্রহ", "pos": "noun", "base": "satellite" },
-                { "w": "fed into", "bn": "ঢোকানো হয়", "pos": "phrasal verb", "base": "feed into" },
-                { "w": "forecasters", "bn": "পূর্বাভাসদাতা", "pos": "noun", "base": "forecaster" },
-                { "w": "updated", "bn": "হালনাগাদ করা হয়", "pos": "verb", "base": "update" }
-              ]
-            },
-            {
-              "id": "02",
-              "title": "After the storm surge",
-              "en": "When the cyclone made landfall, the island was struck by a storm surge nearly three meters high. Hundreds of homes were destroyed, and the only road to the mainland was washed away. Relief supplies were flown in by helicopter the next day. Months later, new houses are being built on raised platforms. The villagers have been promised a stronger embankment, but no date has been set for the work.",
-              "words": [
-                { "w": "storm surge", "bn": "জলোচ্ছ্বাস", "pos": "phrase" },
-                { "w": "mainland", "bn": "মূল ভূখণ্ড", "pos": "noun" },
-                { "w": "washed away", "bn": "ভেসে গিয়েছিল", "pos": "phrasal verb", "base": "wash away" },
-                { "w": "relief supplies", "bn": "ত্রাণসামগ্রী", "pos": "phrase" },
-                { "w": "flown in", "bn": "আকাশপথে আনা হয়েছিল", "pos": "phrasal verb", "base": "fly in" },
-                { "w": "raised platforms", "bn": "উঁচু ভিত", "pos": "phrase" }
-              ]
-            },
-            {
-              "id": "03",
-              "title": "Working in the heat",
-              "en": "Last April, outdoor work was restricted in several cities during the hottest hours of the day. Construction sites were closed from noon until three o'clock, and extra water points were set up for rickshaw pullers. In garment factories, more fans were installed and shifts were shortened. These measures were welcomed by workers, but it is still not known whether they will be enforced every summer.",
-              "words": [
-                { "w": "restricted", "bn": "সীমিত করা হয়েছিল", "pos": "verb", "base": "restrict" },
-                { "w": "set up", "bn": "স্থাপন করা হয়েছিল", "pos": "phrasal verb" },
-                { "w": "shifts", "bn": "পালা, শিফট", "pos": "noun", "base": "shift" },
-                { "w": "shortened", "bn": "কমানো হয়েছিল", "pos": "verb", "base": "shorten" },
-                { "w": "measures", "bn": "পদক্ষেপ", "pos": "noun", "base": "measure" },
-                { "w": "enforced", "bn": "কার্যকর করা হবে", "pos": "verb", "base": "enforce" }
-              ]
-            }
+            {"id":"01","title":"How a forecast is made","en":"Every morning, thousands of weather readings are collected from stations, ships and satellites. The data is sent to the weather office, where it is fed into computer models. The results are then checked by experienced forecasters. Finally, the forecast is shared with television channels, newspapers and mobile apps. Even so, it is updated several times a day because the weather can change quickly.","bn":"প্রতিদিন সকালে কেন্দ্র, জাহাজ আর স্যাটেলাইট থেকে হাজার হাজার আবহাওয়া পাঠ সংগ্রহ করা হয়। তথ্যগুলো আবহাওয়া অফিসে পাঠানো হয়, যেখানে সেগুলো কম্পিউটার মডেলে দেওয়া হয়। এরপর অভিজ্ঞ পূর্বাভাসদাতারা ফলাফলগুলো যাচাই করেন। সবশেষে পূর্বাভাসটি টেলিভিশন চ্যানেল, সংবাদপত্র আর মোবাইল অ্যাপের সাথে শেয়ার করা হয়। তবুও আবহাওয়া দ্রুত বদলাতে পারে বলে দিনে কয়েকবার এটি হালনাগাদ করা হয়।","words":[{"w":"readings","bn":"পরিমাপ","pos":"noun","base":"reading"},{"w":"satellites","bn":"উপগ্রহ","pos":"noun","base":"satellite"},{"w":"fed into","bn":"ঢোকানো হয়","pos":"phrasal verb","base":"feed into"},{"w":"forecasters","bn":"পূর্বাভাসদাতা","pos":"noun","base":"forecaster"},{"w":"updated","bn":"হালনাগাদ করা হয়","pos":"verb","base":"update"}]},
+            {"id":"02","title":"After the storm surge","en":"When the cyclone made landfall, the island was struck by a storm surge nearly three meters high. Hundreds of homes were destroyed, and the only road to the mainland was washed away. Relief supplies were flown in by helicopter the next day. Months later, new houses are being built on raised platforms. The villagers have been promised a stronger embankment, but no date has been set for the work.","bn":"ঘূর্ণিঝড় যখন উপকূলে আঘাত হানল, তখন দ্বীপটিতে প্রায় তিন মিটার উঁচু জলোচ্ছ্বাস আছড়ে পড়েছিল। শত শত ঘরবাড়ি ধ্বংস হয়ে গিয়েছিল, আর মূল ভূখণ্ডে যাওয়ার একমাত্র রাস্তাটি ভেসে গিয়েছিল। পরদিন হেলিকপ্টারে করে ত্রাণসামগ্রী নিয়ে আসা হয়েছিল। কয়েক মাস পর এখন উঁচু ভিটের ওপর নতুন ঘর তৈরি করা হচ্ছে। গ্রামবাসীদের একটি আরও মজবুত বাঁধের প্রতিশ্রুতি দেওয়া হয়েছে, কিন্তু কাজের জন্য কোনো তারিখ ঠিক করা হয়নি।","words":[{"w":"storm surge","bn":"জলোচ্ছ্বাস","pos":"phrase"},{"w":"mainland","bn":"মূল ভূখণ্ড","pos":"noun"},{"w":"washed away","bn":"ভেসে গিয়েছিল","pos":"phrasal verb","base":"wash away"},{"w":"relief supplies","bn":"ত্রাণসামগ্রী","pos":"phrase"},{"w":"flown in","bn":"আকাশপথে আনা হয়েছিল","pos":"phrasal verb","base":"fly in"},{"w":"raised platforms","bn":"উঁচু ভিত","pos":"phrase"}]},
+            {"id":"03","title":"Working in the heat","en":"Last April, outdoor work was restricted in several cities during the hottest hours of the day. Construction sites were closed from noon until three o'clock, and extra water points were set up for rickshaw pullers. In garment factories, more fans were installed and shifts were shortened. These measures were welcomed by workers, but it is still not known whether they will be enforced every summer.","bn":"গত এপ্রিলে দিনের সবচেয়ে গরম সময়গুলোতে কয়েকটি শহরে বাইরের কাজ সীমিত করা হয়েছিল। দুপুর বারোটা থেকে তিনটা পর্যন্ত নির্মাণস্থলগুলো বন্ধ রাখা হয়েছিল, আর রিকশাচালকদের জন্য বাড়তি পানির ব্যবস্থা করা হয়েছিল। পোশাক কারখানাগুলোতে আরও ফ্যান লাগানো হয়েছিল এবং শিফট ছোট করা হয়েছিল। শ্রমিকরা এই পদক্ষেপগুলোকে স্বাগত জানিয়েছিলেন, কিন্তু প্রতি গ্রীষ্মে এগুলো কার্যকর করা হবে কি না, তা এখনো জানা যায়নি।","words":[{"w":"restricted","bn":"সীমিত করা হয়েছিল","pos":"verb","base":"restrict"},{"w":"set up","bn":"স্থাপন করা হয়েছিল","pos":"phrasal verb"},{"w":"shifts","bn":"পালা, শিফট","pos":"noun","base":"shift"},{"w":"shortened","bn":"কমানো হয়েছিল","pos":"verb","base":"shorten"},{"w":"measures","bn":"পদক্ষেপ","pos":"noun","base":"measure"},{"w":"enforced","bn":"কার্যকর করা হবে","pos":"verb","base":"enforce"}]}
           ]
         }
       ]
@@ -325,12 +222,12 @@
           "pattern": "If + had + past participle, would have + past participle. / If + had + past participle, would + verb (now).",
           "tipBn": "অতীতের কাল্পনিক শর্তে If + had + past participle এবং ফলাফলে would have + past participle বসে; ফলাফল বর্তমানের হলে would + verb বসে।",
           "items": [
-            { "id": "01", "en": "If the warning had come a day earlier, the farmers would have saved their harvest.", "words": [{ "w": "warning", "bn": "সতর্কবার্তা", "pos": "noun" }, { "w": "harvest", "bn": "ফসল", "pos": "noun" }] },
-            { "id": "02", "en": "If the mangroves had been protected, the storm surge would have caused far less damage.", "words": [{ "w": "mangroves", "bn": "ম্যানগ্রোভ বন", "pos": "noun", "base": "mangrove" }, { "w": "far less", "bn": "অনেক কম", "pos": "phrase" }, { "w": "damage", "bn": "ক্ষয়ক্ষতি", "pos": "noun" }] },
-            { "id": "03", "en": "If Tom had listened to Nadia, he would have brought proper rain boots.", "words": [{ "w": "listened to", "bn": "কথা শুনতেন", "pos": "phrasal verb", "base": "listen to" }, { "w": "proper", "bn": "উপযুক্ত", "pos": "adjective" }] },
-            { "id": "04", "en": "If the city had kept its canals open, Dhaka would drain much faster today.", "words": [{ "w": "canals", "bn": "খাল", "pos": "noun", "base": "canal" }, { "w": "drain", "bn": "পানি নেমে যাওয়া", "pos": "verb" }] },
-            { "id": "05", "en": "If Nadia had become a doctor, she would be treating heatstroke patients right now.", "words": [{ "w": "treating", "bn": "চিকিৎসা করতেন", "pos": "verb", "base": "treat" }, { "w": "heatstroke", "bn": "হিটস্ট্রোক", "pos": "noun" }] },
-            { "id": "06", "en": "The embankment would have held if it had been built with better materials.", "words": [{ "w": "held", "bn": "টিকে থাকত", "pos": "verb", "base": "hold" }, { "w": "materials", "bn": "উপকরণ", "pos": "noun", "base": "material" }] }
+            {"id":"01","en":"If the warning had come a day earlier, the farmers would have saved their harvest.","bn":"সতর্কবার্তাটা যদি এক দিন আগে আসত, তাহলে কৃষকরা তাঁদের ফসল বাঁচাতে পারতেন।","words":[{"w":"warning","bn":"সতর্কবার্তা","pos":"noun"},{"w":"harvest","bn":"ফসল","pos":"noun"}]},
+            {"id":"02","en":"If the mangroves had been protected, the storm surge would have caused far less damage.","bn":"ম্যানগ্রোভ বন যদি রক্ষা করা হতো, তাহলে জলোচ্ছ্বাসে অনেক কম ক্ষতি হতো।","words":[{"w":"mangroves","bn":"ম্যানগ্রোভ বন","pos":"noun","base":"mangrove"},{"w":"far less","bn":"অনেক কম","pos":"phrase"},{"w":"damage","bn":"ক্ষয়ক্ষতি","pos":"noun"}]},
+            {"id":"03","en":"If Tom had listened to Nadia, he would have brought proper rain boots.","bn":"টম যদি নাদিয়ার কথা শুনতেন, তাহলে ভালো রেইন বুট নিয়ে আসতেন।","words":[{"w":"listened to","bn":"কথা শুনতেন","pos":"phrasal verb","base":"listen to"},{"w":"proper","bn":"উপযুক্ত","pos":"adjective"}]},
+            {"id":"04","en":"If the city had kept its canals open, Dhaka would drain much faster today.","bn":"শহরটি যদি তার খালগুলো খোলা রাখত, তাহলে আজ ঢাকার পানি অনেক দ্রুত নেমে যেত।","words":[{"w":"canals","bn":"খাল","pos":"noun","base":"canal"},{"w":"drain","bn":"পানি নেমে যাওয়া","pos":"verb"}]},
+            {"id":"05","en":"If Nadia had become a doctor, she would be treating heatstroke patients right now.","bn":"নাদিয়া যদি ডাক্তার হতেন, তাহলে এই মুহূর্তে তিনি হিটস্ট্রোকের রোগীদের চিকিৎসা করতেন।","words":[{"w":"treating","bn":"চিকিৎসা করতেন","pos":"verb","base":"treat"},{"w":"heatstroke","bn":"হিটস্ট্রোক","pos":"noun"}]},
+            {"id":"06","en":"The embankment would have held if it had been built with better materials.","bn":"বাঁধটি যদি আরও ভালো উপকরণ দিয়ে তৈরি করা হতো, তাহলে সেটা টিকে যেত।","words":[{"w":"held","bn":"টিকে থাকত","pos":"verb","base":"hold"},{"w":"materials","bn":"উপকরণ","pos":"noun","base":"material"}]}
           ]
         },
         {
@@ -338,12 +235,12 @@
           "pattern": "If + hadn't + past participle, wouldn't have + past participle / wouldn't + verb.",
           "tipBn": "শর্ত বা ফলাফলের অংশে hadn't, wouldn't have বা wouldn't বসিয়ে না-বোধক বাক্য হয়।",
           "items": [
-            { "id": "01", "en": "If the forecast hadn't been so accurate, thousands of people wouldn't have left in time.", "words": [{ "w": "accurate", "bn": "নির্ভুল", "pos": "adjective" }, { "w": "in time", "bn": "সময়মতো", "pos": "phrase" }] },
-            { "id": "02", "en": "The rice wouldn't have withered if the rains hadn't come so late.", "words": [{ "w": "withered", "bn": "শুকিয়ে যেত", "pos": "verb", "base": "wither" }, { "w": "rains", "bn": "বর্ষার বৃষ্টি", "pos": "noun", "base": "rain" }] },
-            { "id": "03", "en": "If Nadia hadn't studied the river, the village wouldn't be protected today.", "words": [{ "w": "studied", "bn": "গবেষণা করতেন", "pos": "verb", "base": "study" }, { "w": "protected", "bn": "সুরক্ষিত", "pos": "adjective" }] },
-            { "id": "04", "en": "Tom wouldn't have caught a cold if he hadn't walked home in the rain.", "words": [{ "w": "caught a cold", "bn": "ঠান্ডা লাগত", "pos": "idiom", "base": "catch a cold" }, { "w": "walked home", "bn": "হেঁটে বাড়ি ফিরতেন", "pos": "phrase" }] },
-            { "id": "05", "en": "If people hadn't cut down the hill forests, the landslides wouldn't have been so deadly.", "words": [{ "w": "cut down", "bn": "কেটে ফেলা", "pos": "phrasal verb" }, { "w": "landslides", "bn": "ভূমিধস", "pos": "noun", "base": "landslide" }, { "w": "deadly", "bn": "প্রাণঘাতী", "pos": "adjective" }] },
-            { "id": "06", "en": "If we weren't so dependent on air conditioning, the power grid wouldn't have failed last week.", "words": [{ "w": "dependent on", "bn": "নির্ভরশীল", "pos": "phrase" }, { "w": "power grid", "bn": "বিদ্যুৎ গ্রিড", "pos": "phrase" }, { "w": "failed", "bn": "বিকল হতো", "pos": "verb", "base": "fail" }] }
+            {"id":"01","en":"If the forecast hadn't been so accurate, thousands of people wouldn't have left in time.","bn":"পূর্বাভাস যদি এত নির্ভুল না হতো, তাহলে হাজার হাজার মানুষ সময়মতো সরে যেতে পারত না।","words":[{"w":"accurate","bn":"নির্ভুল","pos":"adjective"},{"w":"in time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"02","en":"The rice wouldn't have withered if the rains hadn't come so late.","bn":"বৃষ্টি যদি এত দেরিতে না আসত, তাহলে ধান শুকিয়ে যেত না।","words":[{"w":"withered","bn":"শুকিয়ে যেত","pos":"verb","base":"wither"},{"w":"rains","bn":"বর্ষার বৃষ্টি","pos":"noun","base":"rain"}]},
+            {"id":"03","en":"If Nadia hadn't studied the river, the village wouldn't be protected today.","bn":"নাদিয়া যদি নদীটি নিয়ে গবেষণা না করতেন, তাহলে আজ গ্রামটি সুরক্ষিত থাকত না।","words":[{"w":"studied","bn":"গবেষণা করতেন","pos":"verb","base":"study"},{"w":"protected","bn":"সুরক্ষিত","pos":"adjective"}]},
+            {"id":"04","en":"Tom wouldn't have caught a cold if he hadn't walked home in the rain.","bn":"টম যদি বৃষ্টিতে হেঁটে বাড়ি না ফিরতেন, তাহলে তাঁর ঠান্ডা লাগত না।","words":[{"w":"caught a cold","bn":"ঠান্ডা লাগত","pos":"idiom","base":"catch a cold"},{"w":"walked home","bn":"হেঁটে বাড়ি ফিরতেন","pos":"phrase"}]},
+            {"id":"05","en":"If people hadn't cut down the hill forests, the landslides wouldn't have been so deadly.","bn":"মানুষ যদি পাহাড়ের বন কেটে না ফেলত, তাহলে ভূমিধসগুলো এত প্রাণঘাতী হতো না।","words":[{"w":"cut down","bn":"কেটে ফেলা","pos":"phrasal verb"},{"w":"landslides","bn":"ভূমিধস","pos":"noun","base":"landslide"},{"w":"deadly","bn":"প্রাণঘাতী","pos":"adjective"}]},
+            {"id":"06","en":"If we weren't so dependent on air conditioning, the power grid wouldn't have failed last week.","bn":"আমরা যদি এসির ওপর এতটা নির্ভরশীল না হতাম, তাহলে গত সপ্তাহে বিদ্যুতের গ্রিড বিকল হতো না।","words":[{"w":"dependent on","bn":"নির্ভরশীল","pos":"phrase"},{"w":"power grid","bn":"বিদ্যুৎ গ্রিড","pos":"phrase"},{"w":"failed","bn":"বিকল হতো","pos":"verb","base":"fail"}]}
           ]
         },
         {
@@ -351,12 +248,12 @@
           "pattern": "Wh- word + would (have) + subject + ... + if + had + past participle?",
           "tipBn": "প্রশ্নশব্দের পরে would have + past participle বসে, আর অতীতের শর্তটি If + had দিয়ে আসে।",
           "items": [
-            { "id": "01", "en": "What would have happened if the cyclone had hit the coast at high tide?", "words": [{ "w": "hit", "bn": "আঘাত হানত", "pos": "verb" }, { "w": "high tide", "bn": "জোয়ার", "pos": "phrase" }] },
-            { "id": "02", "en": "How many lives would have been saved if the shelters had been closer?", "words": [{ "w": "lives", "bn": "প্রাণ", "pos": "noun", "base": "life" }, { "w": "shelters", "bn": "আশ্রয়কেন্দ্র", "pos": "noun", "base": "shelter" }] },
-            { "id": "03", "en": "Where would the families have gone if the school had stayed locked?", "words": [{ "w": "gone", "bn": "যেত", "pos": "verb", "base": "go" }, { "w": "stayed locked", "bn": "তালাবদ্ধ থাকত", "pos": "phrase" }] },
-            { "id": "04", "en": "How would life in the coastal villages be different today if the embankments had been raised?", "words": [{ "w": "coastal", "bn": "উপকূলীয়", "pos": "adjective" }, { "w": "embankments", "bn": "বাঁধ", "pos": "noun", "base": "embankment" }, { "w": "raised", "bn": "উঁচু করা হতো", "pos": "verb", "base": "raise" }] },
-            { "id": "05", "en": "Which crops would the farmers have planted if they had known about the drought?", "words": [{ "w": "crops", "bn": "ফসল", "pos": "noun", "base": "crop" }, { "w": "drought", "bn": "খরা", "pos": "noun" }] },
-            { "id": "06", "en": "What would Nadia be doing now if she had stayed in London after her PhD?", "words": [{ "w": "stayed", "bn": "থেকে যেতেন", "pos": "verb", "base": "stay" }, { "w": "PhD", "bn": "পিএইচডি ডিগ্রি", "pos": "noun" }] }
+            {"id":"01","en":"What would have happened if the cyclone had hit the coast at high tide?","bn":"ঘূর্ণিঝড়টি যদি জোয়ারের সময় উপকূলে আঘাত হানত, তাহলে কী হতো?","words":[{"w":"hit","bn":"আঘাত হানত","pos":"verb"},{"w":"high tide","bn":"জোয়ার","pos":"phrase"}]},
+            {"id":"02","en":"How many lives would have been saved if the shelters had been closer?","bn":"আশ্রয়কেন্দ্রগুলো যদি আরও কাছে হতো, তাহলে কতজনের জীবন বাঁচানো যেত?","words":[{"w":"lives","bn":"প্রাণ","pos":"noun","base":"life"},{"w":"shelters","bn":"আশ্রয়কেন্দ্র","pos":"noun","base":"shelter"}]},
+            {"id":"03","en":"Where would the families have gone if the school had stayed locked?","bn":"স্কুলটি যদি তালাবদ্ধ থাকত, তাহলে পরিবারগুলো কোথায় যেত?","words":[{"w":"gone","bn":"যেত","pos":"verb","base":"go"},{"w":"stayed locked","bn":"তালাবদ্ধ থাকত","pos":"phrase"}]},
+            {"id":"04","en":"How would life in the coastal villages be different today if the embankments had been raised?","bn":"বাঁধগুলো যদি উঁচু করা হতো, তাহলে আজ উপকূলের গ্রামগুলোর জীবন কীভাবে অন্যরকম হতো?","words":[{"w":"coastal","bn":"উপকূলীয়","pos":"adjective"},{"w":"embankments","bn":"বাঁধ","pos":"noun","base":"embankment"},{"w":"raised","bn":"উঁচু করা হতো","pos":"verb","base":"raise"}]},
+            {"id":"05","en":"Which crops would the farmers have planted if they had known about the drought?","bn":"কৃষকরা যদি খরার কথা জানতেন, তাহলে কোন ফসল রোপণ করতেন?","words":[{"w":"crops","bn":"ফসল","pos":"noun","base":"crop"},{"w":"drought","bn":"খরা","pos":"noun"}]},
+            {"id":"06","en":"What would Nadia be doing now if she had stayed in London after her PhD?","bn":"পিএইচডির পর নাদিয়া যদি লন্ডনে থেকে যেতেন, তাহলে এখন তিনি কী করতেন?","words":[{"w":"stayed","bn":"থেকে যেতেন","pos":"verb","base":"stay"},{"w":"PhD","bn":"পিএইচডি ডিগ্রি","pos":"noun"}]}
           ]
         },
         {
@@ -364,43 +261,9 @@
           "pattern": "4–6 sentences with third and mixed conditionals.",
           "tipBn": "অনুচ্ছেদে If + had + past participle দিয়ে অতীতের কাল্পনিক শর্ত, আর would have বা would দিয়ে তার সম্ভাব্য ফল বলা হয়েছে।",
           "items": [
-            {
-              "id": "01",
-              "title": "The warning that came late",
-              "en": "Nadia often thinks about the flash flood in Sunamganj. If the rain gauges upstream had been connected to the warning system, farmers would have had two extra days. They would have harvested their rice early, and many families would not be in debt today. If the authorities had acted on her report, the story would have ended differently.",
-              "words": [
-                { "w": "rain gauges", "bn": "বৃষ্টিমাপক যন্ত্র", "pos": "phrase" },
-                { "w": "upstream", "bn": "উজানে", "pos": "adverb" },
-                { "w": "in debt", "bn": "ঋণগ্রস্ত", "pos": "phrase" },
-                { "w": "authorities", "bn": "কর্তৃপক্ষ", "pos": "noun", "base": "authority" },
-                { "w": "acted on", "bn": "অনুযায়ী ব্যবস্থা নিত", "pos": "phrasal verb", "base": "act on" }
-              ]
-            },
-            {
-              "id": "02",
-              "title": "Tom's lucky escape",
-              "en": "Last July, Tom missed his train from Sylhet by five minutes, and that train was later trapped by a landslide. If he had caught it, he would have spent two days stuck in the hills. If a local driver hadn't offered him a ride, he would have missed the conference in Dhaka. If he had checked the forecast, he would have left a day earlier and avoided all the stress.",
-              "words": [
-                { "w": "trapped", "bn": "আটকা পড়েছিল", "pos": "verb", "base": "trap" },
-                { "w": "landslide", "bn": "ভূমিধস", "pos": "noun" },
-                { "w": "stuck", "bn": "আটকে থাকা", "pos": "adjective" },
-                { "w": "offered him a ride", "bn": "গাড়িতে তুলে নিতে চাইল", "pos": "phrase" },
-                { "w": "conference", "bn": "সম্মেলন", "pos": "noun" },
-                { "w": "avoided", "bn": "এড়িয়ে যেতেন", "pos": "verb", "base": "avoid" }
-              ]
-            },
-            {
-              "id": "03",
-              "title": "A different Dhaka",
-              "en": "Nadia sometimes imagines a different Dhaka. If planners had protected the wetlands fifty years ago, the city would not flood after every heavy shower. If more trees had been planted along the roads, summer afternoons would feel much cooler now. And if the canals hadn't been filled in, rickshaws wouldn't be wading through dirty water every monsoon. She believes it is not too late to learn from those mistakes.",
-              "words": [
-                { "w": "planners", "bn": "পরিকল্পনাবিদ", "pos": "noun", "base": "planner" },
-                { "w": "wetlands", "bn": "জলাভূমি", "pos": "noun", "base": "wetland" },
-                { "w": "shower", "bn": "এক পশলা বৃষ্টি", "pos": "noun" },
-                { "w": "filled in", "bn": "ভরাট করা হতো", "pos": "phrasal verb", "base": "fill in" },
-                { "w": "wading through", "bn": "পানি ভেঙে চলা", "pos": "phrasal verb", "base": "wade through" }
-              ]
-            }
+            {"id":"01","title":"The warning that came late","en":"Nadia often thinks about the flash flood in Sunamganj. If the rain gauges upstream had been connected to the warning system, farmers would have had two extra days. They would have harvested their rice early, and many families would not be in debt today. If the authorities had acted on her report, the story would have ended differently.","bn":"নাদিয়া প্রায়ই সুনামগঞ্জের আকস্মিক বন্যার কথা ভাবেন। উজানের বৃষ্টিমাপক যন্ত্রগুলো যদি সতর্কতা ব্যবস্থার সাথে যুক্ত থাকত, তাহলে কৃষকরা বাড়তি দুই দিন সময় পেতেন। তাঁরা আগেভাগে ধান কেটে ফেলতে পারতেন, আর অনেক পরিবার আজ ঋণে ডুবে থাকত না। কর্তৃপক্ষ যদি তাঁর প্রতিবেদন অনুযায়ী ব্যবস্থা নিত, তাহলে গল্পটা অন্যভাবে শেষ হতো।","words":[{"w":"rain gauges","bn":"বৃষ্টিমাপক যন্ত্র","pos":"phrase"},{"w":"upstream","bn":"উজানে","pos":"adverb"},{"w":"in debt","bn":"ঋণগ্রস্ত","pos":"phrase"},{"w":"authorities","bn":"কর্তৃপক্ষ","pos":"noun","base":"authority"},{"w":"acted on","bn":"অনুযায়ী ব্যবস্থা নিত","pos":"phrasal verb","base":"act on"}]},
+            {"id":"02","title":"Tom's lucky escape","en":"Last July, Tom missed his train from Sylhet by five minutes, and that train was later trapped by a landslide. If he had caught it, he would have spent two days stuck in the hills. If a local driver hadn't offered him a ride, he would have missed the conference in Dhaka. If he had checked the forecast, he would have left a day earlier and avoided all the stress.","bn":"গত জুলাইয়ে টম পাঁচ মিনিটের জন্য সিলেট থেকে তাঁর ট্রেন ধরতে পারেননি, আর পরে সেই ট্রেনটি একটি ভূমিধসে আটকে পড়েছিল। তিনি যদি ট্রেনটা ধরতেন, তাহলে দুই দিন পাহাড়ে আটকে থাকতেন। একজন স্থানীয় চালক যদি তাঁকে গাড়িতে নিয়ে যাওয়ার প্রস্তাব না দিতেন, তাহলে তিনি ঢাকার সম্মেলনটি ধরতে পারতেন না। তিনি যদি পূর্বাভাস দেখে নিতেন, তাহলে এক দিন আগেই রওনা দিতেন আর এত দুশ্চিন্তা এড়াতে পারতেন।","words":[{"w":"trapped","bn":"আটকা পড়েছিল","pos":"verb","base":"trap"},{"w":"landslide","bn":"ভূমিধস","pos":"noun"},{"w":"stuck","bn":"আটকে থাকা","pos":"adjective"},{"w":"offered him a ride","bn":"গাড়িতে তুলে নিতে চাইল","pos":"phrase"},{"w":"conference","bn":"সম্মেলন","pos":"noun"},{"w":"avoided","bn":"এড়িয়ে যেতেন","pos":"verb","base":"avoid"}]},
+            {"id":"03","title":"A different Dhaka","en":"Nadia sometimes imagines a different Dhaka. If planners had protected the wetlands fifty years ago, the city would not flood after every heavy shower. If more trees had been planted along the roads, summer afternoons would feel much cooler now. And if the canals hadn't been filled in, rickshaws wouldn't be wading through dirty water every monsoon. She believes it is not too late to learn from those mistakes.","bn":"নাদিয়া মাঝে মাঝে এক অন্যরকম ঢাকার কথা কল্পনা করেন। পরিকল্পনাবিদরা যদি পঞ্চাশ বছর আগে জলাভূমিগুলো রক্ষা করতেন, তাহলে প্রতিটি ভারী বৃষ্টির পর শহরটি পানিতে ডুবত না। রাস্তার ধারে যদি আরও গাছ লাগানো হতো, তাহলে এখন গ্রীষ্মের বিকেলগুলো অনেক বেশি ঠান্ডা লাগত। আর খালগুলো যদি ভরাট করা না হতো, তাহলে প্রতি বর্ষায় রিকশাগুলোকে নোংরা পানি ঠেলে চলতে হতো না। তিনি বিশ্বাস করেন, সেই ভুলগুলো থেকে শেখার জন্য এখনো খুব বেশি দেরি হয়ে যায়নি।","words":[{"w":"planners","bn":"পরিকল্পনাবিদ","pos":"noun","base":"planner"},{"w":"wetlands","bn":"জলাভূমি","pos":"noun","base":"wetland"},{"w":"shower","bn":"এক পশলা বৃষ্টি","pos":"noun"},{"w":"filled in","bn":"ভরাট করা হতো","pos":"phrasal verb","base":"fill in"},{"w":"wading through","bn":"পানি ভেঙে চলা","pos":"phrasal verb","base":"wade through"}]}
           ]
         }
       ]

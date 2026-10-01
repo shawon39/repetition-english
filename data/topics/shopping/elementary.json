@@ -15,12 +15,12 @@
           "pattern": "Subject + verb(s) ... / Subject + is/are + ...",
           "tipBn": "অভ্যাস ও নিয়মিত কাজ বোঝাতে present simple বসে; he, she, it হলে verb-এর সাথে s বা es যোগ হয়।",
           "items": [
-            { "id": "01", "en": "Our family shops for new clothes every Eid.", "words": [{ "w": "shops for", "bn": "কেনাকাটা করে", "pos": "phrasal verb", "base": "shop for" }] },
-            { "id": "02", "en": "The mall stays open until ten at night.", "words": [{ "w": "stays open", "bn": "খোলা থাকে", "pos": "phrase", "base": "stay open" }, { "w": "until", "bn": "পর্যন্ত", "pos": "preposition" }] },
-            { "id": "03", "en": "Mim always wants the most colorful dress.", "words": [{ "w": "colorful", "bn": "রঙিন", "pos": "adjective" }] },
-            { "id": "04", "en": "Dad usually pays with his debit card.", "words": [{ "w": "usually", "bn": "সাধারণত", "pos": "adverb" }, { "w": "debit card", "bn": "ডেবিট কার্ড", "pos": "noun" }] },
-            { "id": "05", "en": "Prices at the local market are much lower.", "words": [{ "w": "local", "bn": "স্থানীয়", "pos": "adjective" }, { "w": "lower", "bn": "কম", "pos": "adjective", "base": "low" }] },
-            { "id": "06", "en": "Mom writes a shopping list every Thursday.", "words": [{ "w": "shopping list", "bn": "কেনাকাটার তালিকা", "pos": "noun" }] }
+            {"id":"01","en":"Our family shops for new clothes every Eid.","bn":"আমাদের পরিবার প্রতি ঈদে নতুন জামাকাপড় কেনাকাটা করে।","words":[{"w":"shops for","bn":"কেনাকাটা করে","pos":"phrasal verb","base":"shop for"}]},
+            {"id":"02","en":"The mall stays open until ten at night.","bn":"শপিং মলটা রাত দশটা পর্যন্ত খোলা থাকে।","words":[{"w":"stays open","bn":"খোলা থাকে","pos":"phrase","base":"stay open"},{"w":"until","bn":"পর্যন্ত","pos":"preposition"}]},
+            {"id":"03","en":"Mim always wants the most colorful dress.","bn":"মীম সবসময় সবচেয়ে রঙিন জামাটাই চায়।","words":[{"w":"colorful","bn":"রঙিন","pos":"adjective"}]},
+            {"id":"04","en":"Dad usually pays with his debit card.","bn":"বাবা সাধারণত তাঁর ডেবিট কার্ড দিয়ে দাম দেন।","words":[{"w":"usually","bn":"সাধারণত","pos":"adverb"},{"w":"debit card","bn":"ডেবিট কার্ড","pos":"noun"}]},
+            {"id":"05","en":"Prices at the local market are much lower.","bn":"স্থানীয় বাজারে দাম অনেক কম।","words":[{"w":"local","bn":"স্থানীয়","pos":"adjective"},{"w":"lower","bn":"কম","pos":"adjective","base":"low"}]},
+            {"id":"06","en":"Mom writes a shopping list every Thursday.","bn":"মা প্রতি বৃহস্পতিবার একটা বাজারের তালিকা লেখেন।","words":[{"w":"shopping list","bn":"কেনাকাটার তালিকা","pos":"noun"}]}
           ]
         },
         {
@@ -28,12 +28,12 @@
           "pattern": "Subject + don't/doesn't + verb ... / Subject + isn't/aren't + ...",
           "tipBn": "না-বোধক করতে verb-এর আগে don't বা doesn't বসে; never দিয়েও না-বোধক বোঝানো যায়।",
           "items": [
-            { "id": "01", "en": "Mim doesn't like plain dresses.", "words": [{ "w": "plain", "bn": "সাদামাটা", "pos": "adjective" }] },
-            { "id": "02", "en": "Dad doesn't carry much cash these days.", "words": [{ "w": "these days", "bn": "আজকাল", "pos": "phrase" }, { "w": "cash", "bn": "নগদ টাকা", "pos": "noun" }] },
-            { "id": "03", "en": "Selim's stall doesn't accept cards.", "words": [{ "w": "stall", "bn": "ছোট দোকান", "pos": "noun" }, { "w": "accept", "bn": "নেওয়া, গ্রহণ করা", "pos": "verb" }] },
-            { "id": "04", "en": "Mom never buys anything without her list.", "words": [{ "w": "without", "bn": "ছাড়া", "pos": "preposition" }] },
-            { "id": "05", "en": "The fixed-price shops don't allow bargaining.", "words": [{ "w": "fixed-price", "bn": "একদামের", "pos": "adjective" }, { "w": "bargaining", "bn": "দরদাম", "pos": "noun" }] },
-            { "id": "06", "en": "Rafi isn't interested in shopping malls.", "words": [{ "w": "interested in", "bn": "আগ্রহী", "pos": "phrase" }] }
+            {"id":"01","en":"Mim doesn't like plain dresses.","bn":"মীম সাদামাটা জামা পছন্দ করে না।","words":[{"w":"plain","bn":"সাদামাটা","pos":"adjective"}]},
+            {"id":"02","en":"Dad doesn't carry much cash these days.","bn":"বাবা আজকাল সাথে বেশি নগদ টাকা রাখেন না।","words":[{"w":"these days","bn":"আজকাল","pos":"phrase"},{"w":"cash","bn":"নগদ টাকা","pos":"noun"}]},
+            {"id":"03","en":"Selim's stall doesn't accept cards.","bn":"সেলিমের দোকানে কার্ড নেওয়া হয় না।","words":[{"w":"stall","bn":"ছোট দোকান","pos":"noun"},{"w":"accept","bn":"নেওয়া, গ্রহণ করা","pos":"verb"}]},
+            {"id":"04","en":"Mom never buys anything without her list.","bn":"মা তাঁর তালিকা ছাড়া কখনো কিছু কেনেন না।","words":[{"w":"without","bn":"ছাড়া","pos":"preposition"}]},
+            {"id":"05","en":"The fixed-price shops don't allow bargaining.","bn":"একদামের দোকানগুলোতে দরদাম করতে দেয় না।","words":[{"w":"fixed-price","bn":"একদামের","pos":"adjective"},{"w":"bargaining","bn":"দরদাম","pos":"noun"}]},
+            {"id":"06","en":"Rafi isn't interested in shopping malls.","bn":"শপিং মলের প্রতি রাফির কোনো আগ্রহ নেই।","words":[{"w":"interested in","bn":"আগ্রহী","pos":"phrase"}]}
           ]
         },
         {
@@ -41,12 +41,12 @@
           "pattern": "Do/Does + subject + verb ...? / Is/Are + subject + ...?",
           "tipBn": "প্রশ্ন করতে Do, Does বা Is, Are বাক্যের শুরুতে বসে এবং verb মূল রূপে থাকে।",
           "items": [
-            { "id": "01", "en": "Does the mall stay open until ten at night?", "words": [{ "w": "stay open", "bn": "খোলা থাকা", "pos": "phrase" }] },
-            { "id": "02", "en": "Does Dad pay with his debit card?", "words": [{ "w": "debit card", "bn": "ডেবিট কার্ড", "pos": "noun" }] },
-            { "id": "03", "en": "Is the local market cheaper than the mall?", "words": [{ "w": "cheaper", "bn": "বেশি সস্তা", "pos": "adjective", "base": "cheap" }] },
-            { "id": "04", "en": "Does the online shop deliver to Sylhet?", "words": [{ "w": "deliver", "bn": "পৌঁছে দেওয়া", "pos": "verb" }] },
-            { "id": "05", "en": "Does Mom write a shopping list every week?", "words": [{ "w": "shopping list", "bn": "কেনাকাটার তালিকা", "pos": "noun" }] },
-            { "id": "06", "en": "Are these shoes on sale?", "words": [{ "w": "on sale", "bn": "ছাড়ে বিক্রি হচ্ছে", "pos": "phrase" }] }
+            {"id":"01","en":"Does the mall stay open until ten at night?","bn":"শপিং মলটা কি রাত দশটা পর্যন্ত খোলা থাকে?","words":[{"w":"stay open","bn":"খোলা থাকা","pos":"phrase"}]},
+            {"id":"02","en":"Does Dad pay with his debit card?","bn":"বাবা কি তাঁর ডেবিট কার্ড দিয়ে দাম দেন?","words":[{"w":"debit card","bn":"ডেবিট কার্ড","pos":"noun"}]},
+            {"id":"03","en":"Is the local market cheaper than the mall?","bn":"স্থানীয় বাজার কি শপিং মলের চেয়ে সস্তা?","words":[{"w":"cheaper","bn":"বেশি সস্তা","pos":"adjective","base":"cheap"}]},
+            {"id":"04","en":"Does the online shop deliver to Sylhet?","bn":"অনলাইন দোকানটা কি সিলেটে ডেলিভারি দেয়?","words":[{"w":"deliver","bn":"পৌঁছে দেওয়া","pos":"verb"}]},
+            {"id":"05","en":"Does Mom write a shopping list every week?","bn":"মা কি প্রতি সপ্তাহে বাজারের তালিকা লেখেন?","words":[{"w":"shopping list","bn":"কেনাকাটার তালিকা","pos":"noun"}]},
+            {"id":"06","en":"Are these shoes on sale?","bn":"এই জুতাগুলো কি ছাড়ে বিক্রি হচ্ছে?","words":[{"w":"on sale","bn":"ছাড়ে বিক্রি হচ্ছে","pos":"phrase"}]}
           ]
         },
         {
@@ -54,12 +54,12 @@
           "pattern": "Don't/Doesn't/Isn't/Aren't + subject + ...?",
           "tipBn": "অবাক হয়ে বা নিশ্চিত হতে চাইলে Don't, Doesn't, Isn't দিয়ে প্রশ্ন শুরু হয়।",
           "items": [
-            { "id": "01", "en": "Doesn't Mim want the colorful dress?", "words": [{ "w": "colorful", "bn": "রঙিন", "pos": "adjective" }] },
-            { "id": "02", "en": "Isn't this price a bit high?", "words": [{ "w": "a bit", "bn": "একটু", "pos": "phrase" }, { "w": "high", "bn": "বেশি", "pos": "adjective" }] },
-            { "id": "03", "en": "Don't you have this shirt in blue?", "words": [{ "w": "in blue", "bn": "নীল রঙে", "pos": "phrase" }] },
-            { "id": "04", "en": "Aren't prices lower at the local market?", "words": [{ "w": "lower", "bn": "কম", "pos": "adjective", "base": "low" }] },
-            { "id": "05", "en": "Doesn't the mall stay open late?", "words": [{ "w": "late", "bn": "দেরি পর্যন্ত", "pos": "adverb" }] },
-            { "id": "06", "en": "Doesn't the shop give a receipt?", "words": [{ "w": "receipt", "bn": "রসিদ", "pos": "noun" }] }
+            {"id":"01","en":"Doesn't Mim want the colorful dress?","bn":"মীম কি রঙিন জামাটা চায় না?","words":[{"w":"colorful","bn":"রঙিন","pos":"adjective"}]},
+            {"id":"02","en":"Isn't this price a bit high?","bn":"এই দামটা কি একটু বেশি না?","words":[{"w":"a bit","bn":"একটু","pos":"phrase"},{"w":"high","bn":"বেশি","pos":"adjective"}]},
+            {"id":"03","en":"Don't you have this shirt in blue?","bn":"আপনার কাছে কি এই শার্টটা নীল রঙে নেই?","words":[{"w":"in blue","bn":"নীল রঙে","pos":"phrase"}]},
+            {"id":"04","en":"Aren't prices lower at the local market?","bn":"স্থানীয় বাজারে কি দাম কম না?","words":[{"w":"lower","bn":"কম","pos":"adjective","base":"low"}]},
+            {"id":"05","en":"Doesn't the mall stay open late?","bn":"শপিং মলটা কি অনেক রাত পর্যন্ত খোলা থাকে না?","words":[{"w":"late","bn":"দেরি পর্যন্ত","pos":"adverb"}]},
+            {"id":"06","en":"Doesn't the shop give a receipt?","bn":"দোকানটা কি রসিদ দেয় না?","words":[{"w":"receipt","bn":"রসিদ","pos":"noun"}]}
           ]
         },
         {
@@ -67,12 +67,12 @@
           "pattern": "Wh-word + do/does/is + subject ...?",
           "tipBn": "Wh-শব্দ প্রথমে বসে, তারপর do, does বা is এবং subject আসে।",
           "items": [
-            { "id": "01", "en": "What time does the mall close?", "words": [{ "w": "close", "bn": "বন্ধ হয়", "pos": "verb" }] },
-            { "id": "02", "en": "How does Dad usually pay?", "words": [{ "w": "usually", "bn": "সাধারণত", "pos": "adverb" }] },
-            { "id": "03", "en": "Where does Mom buy spices for Eid?", "words": [{ "w": "spices", "bn": "মসলা", "pos": "noun", "base": "spice" }] },
-            { "id": "04", "en": "How much does this panjabi cost?", "words": [{ "w": "panjabi", "bn": "পাঞ্জাবি", "pos": "noun" }, { "w": "cost", "bn": "দাম পড়া", "pos": "verb" }] },
-            { "id": "05", "en": "Why does Mim always want colorful dresses?", "words": [{ "w": "colorful", "bn": "রঙিন", "pos": "adjective" }] },
-            { "id": "06", "en": "Which size do you usually wear?", "words": [{ "w": "wear", "bn": "পরা", "pos": "verb" }, { "w": "size", "bn": "মাপ", "pos": "noun" }] }
+            {"id":"01","en":"What time does the mall close?","bn":"শপিং মলটা কয়টায় বন্ধ হয়?","words":[{"w":"close","bn":"বন্ধ হয়","pos":"verb"}]},
+            {"id":"02","en":"How does Dad usually pay?","bn":"বাবা সাধারণত কীভাবে দাম দেন?","words":[{"w":"usually","bn":"সাধারণত","pos":"adverb"}]},
+            {"id":"03","en":"Where does Mom buy spices for Eid?","bn":"মা ঈদের জন্য মসলা কোথা থেকে কেনেন?","words":[{"w":"spices","bn":"মসলা","pos":"noun","base":"spice"}]},
+            {"id":"04","en":"How much does this panjabi cost?","bn":"এই পাঞ্জাবিটার দাম কত?","words":[{"w":"panjabi","bn":"পাঞ্জাবি","pos":"noun"},{"w":"cost","bn":"দাম পড়া","pos":"verb"}]},
+            {"id":"05","en":"Why does Mim always want colorful dresses?","bn":"মীম সবসময় রঙিন জামা চায় কেন?","words":[{"w":"colorful","bn":"রঙিন","pos":"adjective"}]},
+            {"id":"06","en":"Which size do you usually wear?","bn":"তুমি সাধারণত কোন সাইজ পরো?","words":[{"w":"wear","bn":"পরা","pos":"verb"},{"w":"size","bn":"মাপ","pos":"noun"}]}
           ]
         }
       ]
@@ -87,12 +87,12 @@
           "pattern": "Subject + am/is/are + verb-ing ...",
           "tipBn": "এই মুহূর্তে চলছে এমন কাজ বোঝাতে am, is বা are-এর পরে verb-ing বসে।",
           "items": [
-            { "id": "01", "en": "Mim is trying on a yellow dress.", "words": [{ "w": "trying on", "bn": "পরে দেখছে", "pos": "phrasal verb", "base": "try on" }] },
-            { "id": "02", "en": "Rafi is waiting outside the changing room.", "words": [{ "w": "changing room", "bn": "ট্রায়াল রুম", "pos": "noun" }, { "w": "waiting", "bn": "অপেক্ষা করছে", "pos": "verb", "base": "wait" }] },
-            { "id": "03", "en": "Dad is comparing the prices of two shirts.", "words": [{ "w": "comparing", "bn": "তুলনা করছেন", "pos": "verb", "base": "compare" }] },
-            { "id": "04", "en": "The shop is offering 20 percent off today.", "words": [{ "w": "offering", "bn": "দিচ্ছে", "pos": "verb", "base": "offer" }, { "w": "percent off", "bn": "শতাংশ ছাড়", "pos": "phrase" }] },
-            { "id": "05", "en": "A long line is forming at the cash counter.", "words": [{ "w": "forming", "bn": "তৈরি হচ্ছে", "pos": "verb", "base": "form" }, { "w": "cash counter", "bn": "টাকা দেওয়ার কাউন্টার", "pos": "noun" }] },
-            { "id": "06", "en": "Mom is looking for a gift for Grandma.", "words": [{ "w": "looking for", "bn": "খুঁজছেন", "pos": "phrasal verb", "base": "look for" }, { "w": "Grandma", "bn": "দাদি", "pos": "noun" }] }
+            {"id":"01","en":"Mim is trying on a yellow dress.","bn":"মীম একটা হলুদ জামা পরে দেখছে।","words":[{"w":"trying on","bn":"পরে দেখছে","pos":"phrasal verb","base":"try on"}]},
+            {"id":"02","en":"Rafi is waiting outside the changing room.","bn":"রাফি চেঞ্জিং রুমের বাইরে অপেক্ষা করছে।","words":[{"w":"changing room","bn":"ট্রায়াল রুম","pos":"noun"},{"w":"waiting","bn":"অপেক্ষা করছে","pos":"verb","base":"wait"}]},
+            {"id":"03","en":"Dad is comparing the prices of two shirts.","bn":"বাবা দুটো শার্টের দাম তুলনা করছেন।","words":[{"w":"comparing","bn":"তুলনা করছেন","pos":"verb","base":"compare"}]},
+            {"id":"04","en":"The shop is offering 20 percent off today.","bn":"দোকানটা আজ ২০ শতাংশ ছাড় দিচ্ছে।","words":[{"w":"offering","bn":"দিচ্ছে","pos":"verb","base":"offer"},{"w":"percent off","bn":"শতাংশ ছাড়","pos":"phrase"}]},
+            {"id":"05","en":"A long line is forming at the cash counter.","bn":"ক্যাশ কাউন্টারে একটা লম্বা লাইন তৈরি হচ্ছে।","words":[{"w":"forming","bn":"তৈরি হচ্ছে","pos":"verb","base":"form"},{"w":"cash counter","bn":"টাকা দেওয়ার কাউন্টার","pos":"noun"}]},
+            {"id":"06","en":"Mom is looking for a gift for Grandma.","bn":"মা দাদির জন্য একটা উপহার খুঁজছেন।","words":[{"w":"looking for","bn":"খুঁজছেন","pos":"phrasal verb","base":"look for"},{"w":"Grandma","bn":"দাদি","pos":"noun"}]}
           ]
         },
         {
@@ -100,12 +100,12 @@
           "pattern": "Subject + am/is/are + not + verb-ing ...",
           "tipBn": "am, is বা are-এর পরে not বসালে চলমান কাজ না-বোধক হয়; isn't, aren't সংক্ষিপ্ত রূপ।",
           "items": [
-            { "id": "01", "en": "Mim isn't trying on the pink dress.", "words": [{ "w": "trying on", "bn": "পরে দেখছে", "pos": "phrasal verb", "base": "try on" }, { "w": "pink", "bn": "গোলাপি", "pos": "adjective" }] },
-            { "id": "02", "en": "Rafi isn't enjoying this shopping trip.", "words": [{ "w": "enjoying", "bn": "উপভোগ করছে", "pos": "verb", "base": "enjoy" }] },
-            { "id": "03", "en": "The escalator is not working right now.", "words": [{ "w": "escalator", "bn": "চলন্ত সিঁড়ি", "pos": "noun" }, { "w": "right now", "bn": "এই মুহূর্তে", "pos": "phrase" }] },
-            { "id": "04", "en": "The shop isn't offering any discount on shoes.", "words": [{ "w": "discount", "bn": "ছাড়", "pos": "noun" }] },
-            { "id": "05", "en": "We aren't buying anything expensive today.", "words": [{ "w": "expensive", "bn": "দামি", "pos": "adjective" }] },
-            { "id": "06", "en": "Mom isn't looking for clothes for herself.", "words": [{ "w": "for herself", "bn": "নিজের জন্য", "pos": "phrase" }] }
+            {"id":"01","en":"Mim isn't trying on the pink dress.","bn":"মীম গোলাপি জামাটা পরে দেখছে না।","words":[{"w":"trying on","bn":"পরে দেখছে","pos":"phrasal verb","base":"try on"},{"w":"pink","bn":"গোলাপি","pos":"adjective"}]},
+            {"id":"02","en":"Rafi isn't enjoying this shopping trip.","bn":"রাফি এই কেনাকাটার সফরটা উপভোগ করছে না।","words":[{"w":"enjoying","bn":"উপভোগ করছে","pos":"verb","base":"enjoy"}]},
+            {"id":"03","en":"The escalator is not working right now.","bn":"এস্কেলেটরটা এই মুহূর্তে কাজ করছে না।","words":[{"w":"escalator","bn":"চলন্ত সিঁড়ি","pos":"noun"},{"w":"right now","bn":"এই মুহূর্তে","pos":"phrase"}]},
+            {"id":"04","en":"The shop isn't offering any discount on shoes.","bn":"দোকানটা জুতার ওপর কোনো ছাড় দিচ্ছে না।","words":[{"w":"discount","bn":"ছাড়","pos":"noun"}]},
+            {"id":"05","en":"We aren't buying anything expensive today.","bn":"আমরা আজ দামি কিছু কিনছি না।","words":[{"w":"expensive","bn":"দামি","pos":"adjective"}]},
+            {"id":"06","en":"Mom isn't looking for clothes for herself.","bn":"মা নিজের জন্য জামাকাপড় খুঁজছেন না।","words":[{"w":"for herself","bn":"নিজের জন্য","pos":"phrase"}]}
           ]
         },
         {
@@ -113,12 +113,12 @@
           "pattern": "Am/Is/Are + subject + verb-ing ...?",
           "tipBn": "প্রশ্ন করতে am, is বা are বাক্যের শুরুতে চলে আসে।",
           "items": [
-            { "id": "01", "en": "Is Mim trying on the yellow dress?", "words": [{ "w": "trying on", "bn": "পরে দেখছে", "pos": "phrasal verb", "base": "try on" }] },
-            { "id": "02", "en": "Is Rafi still waiting outside?", "words": [{ "w": "still", "bn": "এখনও", "pos": "adverb" }] },
-            { "id": "03", "en": "Are they giving free gift bags today?", "words": [{ "w": "free", "bn": "বিনামূল্যে", "pos": "adjective" }] },
-            { "id": "04", "en": "Is the shop offering 20 percent off?", "words": [{ "w": "percent off", "bn": "শতাংশ ছাড়", "pos": "phrase" }] },
-            { "id": "05", "en": "Are you looking for anything special?", "words": [{ "w": "special", "bn": "বিশেষ", "pos": "adjective" }] },
-            { "id": "06", "en": "Is the card machine working now?", "words": [{ "w": "card machine", "bn": "কার্ড মেশিন", "pos": "noun" }, { "w": "working", "bn": "কাজ করছে", "pos": "verb", "base": "work" }] }
+            {"id":"01","en":"Is Mim trying on the yellow dress?","bn":"মীম কি হলুদ জামাটা পরে দেখছে?","words":[{"w":"trying on","bn":"পরে দেখছে","pos":"phrasal verb","base":"try on"}]},
+            {"id":"02","en":"Is Rafi still waiting outside?","bn":"রাফি কি এখনো বাইরে অপেক্ষা করছে?","words":[{"w":"still","bn":"এখনও","pos":"adverb"}]},
+            {"id":"03","en":"Are they giving free gift bags today?","bn":"ওরা কি আজ ফ্রি গিফট ব্যাগ দিচ্ছে?","words":[{"w":"free","bn":"বিনামূল্যে","pos":"adjective"}]},
+            {"id":"04","en":"Is the shop offering 20 percent off?","bn":"দোকানটা কি ২০ শতাংশ ছাড় দিচ্ছে?","words":[{"w":"percent off","bn":"শতাংশ ছাড়","pos":"phrase"}]},
+            {"id":"05","en":"Are you looking for anything special?","bn":"আপনি কি বিশেষ কিছু খুঁজছেন?","words":[{"w":"special","bn":"বিশেষ","pos":"adjective"}]},
+            {"id":"06","en":"Is the card machine working now?","bn":"কার্ড মেশিনটা কি এখন কাজ করছে?","words":[{"w":"card machine","bn":"কার্ড মেশিন","pos":"noun"},{"w":"working","bn":"কাজ করছে","pos":"verb","base":"work"}]}
           ]
         },
         {
@@ -126,12 +126,12 @@
           "pattern": "Wh-word + am/is/are + subject + verb-ing?",
           "tipBn": "Wh-শব্দের পরে am, is বা are, তারপর subject আর verb-ing বসে।",
           "items": [
-            { "id": "01", "en": "What is Mim trying on now?", "words": [{ "w": "trying on", "bn": "পরে দেখছে", "pos": "phrasal verb", "base": "try on" }] },
-            { "id": "02", "en": "Why is Dad comparing the two shirts?", "words": [{ "w": "comparing", "bn": "তুলনা করছেন", "pos": "verb", "base": "compare" }] },
-            { "id": "03", "en": "Where is everyone going in such a hurry?", "words": [{ "w": "in such a hurry", "bn": "এত তাড়াহুড়া করে", "pos": "phrase" }] },
-            { "id": "04", "en": "Who is holding all the shopping bags?", "words": [{ "w": "holding", "bn": "ধরে আছে", "pos": "verb", "base": "hold" }] },
-            { "id": "05", "en": "What is Mom looking for?", "words": [{ "w": "looking for", "bn": "খুঁজছেন", "pos": "phrasal verb", "base": "look for" }] },
-            { "id": "06", "en": "How much are they charging for delivery?", "words": [{ "w": "charging", "bn": "দাম নিচ্ছে", "pos": "verb", "base": "charge" }, { "w": "delivery", "bn": "ডেলিভারি", "pos": "noun" }] }
+            {"id":"01","en":"What is Mim trying on now?","bn":"মীম এখন কী পরে দেখছে?","words":[{"w":"trying on","bn":"পরে দেখছে","pos":"phrasal verb","base":"try on"}]},
+            {"id":"02","en":"Why is Dad comparing the two shirts?","bn":"বাবা দুটো শার্ট তুলনা করছেন কেন?","words":[{"w":"comparing","bn":"তুলনা করছেন","pos":"verb","base":"compare"}]},
+            {"id":"03","en":"Where is everyone going in such a hurry?","bn":"সবাই এত তাড়াহুড়া করে কোথায় যাচ্ছে?","words":[{"w":"in such a hurry","bn":"এত তাড়াহুড়া করে","pos":"phrase"}]},
+            {"id":"04","en":"Who is holding all the shopping bags?","bn":"বাজারের সব ব্যাগ কে ধরে আছে?","words":[{"w":"holding","bn":"ধরে আছে","pos":"verb","base":"hold"}]},
+            {"id":"05","en":"What is Mom looking for?","bn":"মা কী খুঁজছেন?","words":[{"w":"looking for","bn":"খুঁজছেন","pos":"phrasal verb","base":"look for"}]},
+            {"id":"06","en":"How much are they charging for delivery?","bn":"ওরা ডেলিভারির জন্য কত টাকা নিচ্ছে?","words":[{"w":"charging","bn":"দাম নিচ্ছে","pos":"verb","base":"charge"},{"w":"delivery","bn":"ডেলিভারি","pos":"noun"}]}
           ]
         }
       ]
@@ -146,12 +146,12 @@
           "pattern": "Subject + verb (past) ...",
           "tipBn": "অতীতে শেষ হওয়া কাজে verb-এর past রূপ বসে, যেমন order থেকে ordered, spend থেকে spent।",
           "items": [
-            { "id": "01", "en": "Rafi ordered a shawl online for Grandma.", "words": [{ "w": "ordered", "bn": "অর্ডার করেছিল", "pos": "verb", "base": "order" }, { "w": "shawl", "bn": "শাল", "pos": "noun" }] },
-            { "id": "02", "en": "The parcel arrived three days late.", "words": [{ "w": "parcel", "bn": "পার্সেল", "pos": "noun" }, { "w": "arrived", "bn": "পৌঁছেছিল", "pos": "verb", "base": "arrive" }] },
-            { "id": "03", "en": "Mom bargained hard at the local market.", "words": [{ "w": "bargained hard", "bn": "খুব দরদাম করেছিলেন", "pos": "phrase", "base": "bargain hard" }] },
-            { "id": "04", "en": "Selim lowered the price by 200 taka.", "words": [{ "w": "lowered", "bn": "কমিয়েছিল", "pos": "verb", "base": "lower" }] },
-            { "id": "05", "en": "Dad paid the delivery man in cash.", "words": [{ "w": "delivery man", "bn": "ডেলিভারি ম্যান", "pos": "noun" }, { "w": "in cash", "bn": "নগদে", "pos": "phrase" }] },
-            { "id": "06", "en": "We spent almost 8000 taka on clothes.", "words": [{ "w": "spent", "bn": "খরচ করেছিলাম", "pos": "verb", "base": "spend" }, { "w": "almost", "bn": "প্রায়", "pos": "adverb" }] }
+            {"id":"01","en":"Rafi ordered a shawl online for Grandma.","bn":"রাফি দাদির জন্য অনলাইনে একটা শাল অর্ডার করল।","words":[{"w":"ordered","bn":"অর্ডার করেছিল","pos":"verb","base":"order"},{"w":"shawl","bn":"শাল","pos":"noun"}]},
+            {"id":"02","en":"The parcel arrived three days late.","bn":"পার্সেলটা তিন দিন দেরিতে পৌঁছাল।","words":[{"w":"parcel","bn":"পার্সেল","pos":"noun"},{"w":"arrived","bn":"পৌঁছেছিল","pos":"verb","base":"arrive"}]},
+            {"id":"03","en":"Mom bargained hard at the local market.","bn":"মা স্থানীয় বাজারে খুব দরদাম করলেন।","words":[{"w":"bargained hard","bn":"খুব দরদাম করেছিলেন","pos":"phrase","base":"bargain hard"}]},
+            {"id":"04","en":"Selim lowered the price by 200 taka.","bn":"সেলিম দাম ২০০ টাকা কমিয়ে দিল।","words":[{"w":"lowered","bn":"কমিয়েছিল","pos":"verb","base":"lower"}]},
+            {"id":"05","en":"Dad paid the delivery man in cash.","bn":"বাবা ডেলিভারিম্যানকে নগদ টাকা দিলেন।","words":[{"w":"delivery man","bn":"ডেলিভারি ম্যান","pos":"noun"},{"w":"in cash","bn":"নগদে","pos":"phrase"}]},
+            {"id":"06","en":"We spent almost 8000 taka on clothes.","bn":"আমরা জামাকাপড়ের পেছনে প্রায় ৮০০০ টাকা খরচ করলাম।","words":[{"w":"spent","bn":"খরচ করেছিলাম","pos":"verb","base":"spend"},{"w":"almost","bn":"প্রায়","pos":"adverb"}]}
           ]
         },
         {
@@ -159,12 +159,12 @@
           "pattern": "Subject + didn't + verb (base) ... / was not + ...",
           "tipBn": "অতীতের না-বোধক বাক্যে didn't বসে এবং verb মূল রূপে ফিরে যায়; be-এর ক্ষেত্রে was not বসে।",
           "items": [
-            { "id": "01", "en": "The parcel didn't arrive on time.", "words": [{ "w": "on time", "bn": "সময়মতো", "pos": "phrase" }] },
-            { "id": "02", "en": "Rafi didn't check the size chart.", "words": [{ "w": "size chart", "bn": "মাপের তালিকা", "pos": "noun" }] },
-            { "id": "03", "en": "Selim didn't lower the price at first.", "words": [{ "w": "at first", "bn": "প্রথমে", "pos": "phrase" }] },
-            { "id": "04", "en": "The shawl was not the right color.", "words": [{ "w": "right", "bn": "সঠিক", "pos": "adjective" }] },
-            { "id": "05", "en": "Mom didn't bargain at the mall.", "words": [{ "w": "bargain", "bn": "দরদাম করা", "pos": "verb" }] },
-            { "id": "06", "en": "The fish seller didn't give us a receipt.", "words": [{ "w": "receipt", "bn": "রসিদ", "pos": "noun" }] }
+            {"id":"01","en":"The parcel didn't arrive on time.","bn":"পার্সেলটা সময়মতো পৌঁছায়নি।","words":[{"w":"on time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"02","en":"Rafi didn't check the size chart.","bn":"রাফি সাইজ চার্টটা দেখেনি।","words":[{"w":"size chart","bn":"মাপের তালিকা","pos":"noun"}]},
+            {"id":"03","en":"Selim didn't lower the price at first.","bn":"সেলিম প্রথমে দাম কমায়নি।","words":[{"w":"at first","bn":"প্রথমে","pos":"phrase"}]},
+            {"id":"04","en":"The shawl was not the right color.","bn":"শালটার রং ঠিক ছিল না।","words":[{"w":"right","bn":"সঠিক","pos":"adjective"}]},
+            {"id":"05","en":"Mom didn't bargain at the mall.","bn":"মা শপিং মলে দরদাম করেননি।","words":[{"w":"bargain","bn":"দরদাম করা","pos":"verb"}]},
+            {"id":"06","en":"The fish seller didn't give us a receipt.","bn":"মাছবিক্রেতা আমাদের কোনো রসিদ দেননি।","words":[{"w":"receipt","bn":"রসিদ","pos":"noun"}]}
           ]
         },
         {
@@ -172,12 +172,12 @@
           "pattern": "Did + subject + verb (base) ...? / Was + subject + ...?",
           "tipBn": "অতীতের প্রশ্নে Did শুরুতে বসে এবং verb মূল রূপে থাকে; be-এর ক্ষেত্রে Was বসে।",
           "items": [
-            { "id": "01", "en": "Did Rafi order the shawl online?", "words": [{ "w": "online", "bn": "অনলাইনে", "pos": "adverb" }] },
-            { "id": "02", "en": "Did the parcel arrive late?", "words": [{ "w": "parcel", "bn": "পার্সেল", "pos": "noun" }] },
-            { "id": "03", "en": "Did Dad pay the delivery man in cash?", "words": [{ "w": "delivery man", "bn": "ডেলিভারি ম্যান", "pos": "noun" }] },
-            { "id": "04", "en": "Was the shawl soft and warm?", "words": [{ "w": "soft", "bn": "নরম", "pos": "adjective" }] },
-            { "id": "05", "en": "Did the shop send a tracking number?", "words": [{ "w": "tracking number", "bn": "ট্র্যাকিং নম্বর", "pos": "noun" }] },
-            { "id": "06", "en": "Did Mom get a good deal?", "words": [{ "w": "good deal", "bn": "ভালো দরে কেনা", "pos": "phrase" }] }
+            {"id":"01","en":"Did Rafi order the shawl online?","bn":"রাফি কি শালটা অনলাইনে অর্ডার করেছিল?","words":[{"w":"online","bn":"অনলাইনে","pos":"adverb"}]},
+            {"id":"02","en":"Did the parcel arrive late?","bn":"পার্সেলটা কি দেরিতে পৌঁছেছিল?","words":[{"w":"parcel","bn":"পার্সেল","pos":"noun"}]},
+            {"id":"03","en":"Did Dad pay the delivery man in cash?","bn":"বাবা কি ডেলিভারিম্যানকে নগদ টাকা দিয়েছিলেন?","words":[{"w":"delivery man","bn":"ডেলিভারি ম্যান","pos":"noun"}]},
+            {"id":"04","en":"Was the shawl soft and warm?","bn":"শালটা কি নরম আর গরম ছিল?","words":[{"w":"soft","bn":"নরম","pos":"adjective"}]},
+            {"id":"05","en":"Did the shop send a tracking number?","bn":"দোকানটা কি একটা ট্র্যাকিং নম্বর পাঠিয়েছিল?","words":[{"w":"tracking number","bn":"ট্র্যাকিং নম্বর","pos":"noun"}]},
+            {"id":"06","en":"Did Mom get a good deal?","bn":"মা কি ভালো দামে কিনতে পেরেছিলেন?","words":[{"w":"good deal","bn":"ভালো দরে কেনা","pos":"phrase"}]}
           ]
         },
         {
@@ -185,12 +185,12 @@
           "pattern": "Didn't/Wasn't + subject + ...?",
           "tipBn": "কিছু ঘটেছিল বলে ধারণা থাকলে Didn't বা Wasn't দিয়ে প্রশ্ন শুরু হয়।",
           "items": [
-            { "id": "01", "en": "Didn't Rafi order the shawl last week?", "words": [{ "w": "order", "bn": "অর্ডার করা", "pos": "verb" }] },
-            { "id": "02", "en": "Didn't Selim lower the price?", "words": [{ "w": "lower", "bn": "কমানো", "pos": "verb" }] },
-            { "id": "03", "en": "Didn't you check the reviews first?", "words": [{ "w": "reviews", "bn": "রিভিউ, মতামত", "pos": "noun", "base": "review" }] },
-            { "id": "04", "en": "Wasn't the delivery supposed to be free?", "words": [{ "w": "supposed to", "bn": "কথা ছিল", "pos": "phrase" }] },
-            { "id": "05", "en": "Didn't Mom bargain hard at the market?", "words": [{ "w": "bargain hard", "bn": "খুব দরদাম করা", "pos": "phrase" }] },
-            { "id": "06", "en": "Didn't Dad keep the receipt?", "words": [{ "w": "keep", "bn": "রেখে দেওয়া", "pos": "verb" }] }
+            {"id":"01","en":"Didn't Rafi order the shawl last week?","bn":"রাফি কি গত সপ্তাহে শালটা অর্ডার করেনি?","words":[{"w":"order","bn":"অর্ডার করা","pos":"verb"}]},
+            {"id":"02","en":"Didn't Selim lower the price?","bn":"সেলিম কি দাম কমায়নি?","words":[{"w":"lower","bn":"কমানো","pos":"verb"}]},
+            {"id":"03","en":"Didn't you check the reviews first?","bn":"তুমি কি আগে রিভিউগুলো দেখে নাওনি?","words":[{"w":"reviews","bn":"রিভিউ, মতামত","pos":"noun","base":"review"}]},
+            {"id":"04","en":"Wasn't the delivery supposed to be free?","bn":"ডেলিভারি কি ফ্রি হওয়ার কথা ছিল না?","words":[{"w":"supposed to","bn":"কথা ছিল","pos":"phrase"}]},
+            {"id":"05","en":"Didn't Mom bargain hard at the market?","bn":"মা কি বাজারে খুব দরদাম করেননি?","words":[{"w":"bargain hard","bn":"খুব দরদাম করা","pos":"phrase"}]},
+            {"id":"06","en":"Didn't Dad keep the receipt?","bn":"বাবা কি রসিদটা রাখেননি?","words":[{"w":"keep","bn":"রেখে দেওয়া","pos":"verb"}]}
           ]
         },
         {
@@ -198,12 +198,12 @@
           "pattern": "Wh-word + did + subject + verb (base)?",
           "tipBn": "Wh-শব্দের পরে did বসে, আর verb তার মূল রূপে থাকে।",
           "items": [
-            { "id": "01", "en": "What did Rafi order for Grandma?", "words": [{ "w": "order", "bn": "অর্ডার করা", "pos": "verb" }] },
-            { "id": "02", "en": "When did the parcel finally arrive?", "words": [{ "w": "finally", "bn": "অবশেষে", "pos": "adverb" }] },
-            { "id": "03", "en": "How much did we spend on clothes?", "words": [{ "w": "spend", "bn": "খরচ করা", "pos": "verb" }] },
-            { "id": "04", "en": "Why did Selim lower the price?", "words": [{ "w": "lower", "bn": "কমানো", "pos": "verb" }] },
-            { "id": "05", "en": "Which shop did you like best?", "words": [{ "w": "best", "bn": "সবচেয়ে বেশি", "pos": "adverb" }] },
-            { "id": "06", "en": "How did you pay for the shawl?", "words": [{ "w": "pay for", "bn": "দাম দেওয়া", "pos": "phrasal verb" }] }
+            {"id":"01","en":"What did Rafi order for Grandma?","bn":"রাফি দাদির জন্য কী অর্ডার করেছিল?","words":[{"w":"order","bn":"অর্ডার করা","pos":"verb"}]},
+            {"id":"02","en":"When did the parcel finally arrive?","bn":"পার্সেলটা শেষমেশ কখন পৌঁছেছিল?","words":[{"w":"finally","bn":"অবশেষে","pos":"adverb"}]},
+            {"id":"03","en":"How much did we spend on clothes?","bn":"আমরা জামাকাপড়ের পেছনে কত টাকা খরচ করেছিলাম?","words":[{"w":"spend","bn":"খরচ করা","pos":"verb"}]},
+            {"id":"04","en":"Why did Selim lower the price?","bn":"সেলিম দাম কমিয়েছিল কেন?","words":[{"w":"lower","bn":"কমানো","pos":"verb"}]},
+            {"id":"05","en":"Which shop did you like best?","bn":"তোমার কোন দোকানটা সবচেয়ে ভালো লেগেছিল?","words":[{"w":"best","bn":"সবচেয়ে বেশি","pos":"adverb"}]},
+            {"id":"06","en":"How did you pay for the shawl?","bn":"তুমি শালটার দাম কীভাবে দিয়েছিলে?","words":[{"w":"pay for","bn":"দাম দেওয়া","pos":"phrasal verb"}]}
           ]
         }
       ]
@@ -218,12 +218,12 @@
           "pattern": "Subject + am/is/are + going to + verb (base) ...",
           "tipBn": "আগে থেকে ঠিক করা পরিকল্পনা বা চোখে দেখা লক্ষণ থেকে অনুমান বোঝাতে going to বসে।",
           "items": [
-            { "id": "01", "en": "We are going to buy gifts for our cousins.", "words": [{ "w": "cousins", "bn": "চাচাতো-মামাতো ভাইবোন", "pos": "noun", "base": "cousin" }] },
-            { "id": "02", "en": "Rafi is going to exchange his tight shoes.", "words": [{ "w": "exchange", "bn": "বদলে নেওয়া", "pos": "verb" }, { "w": "tight", "bn": "আঁটসাঁট", "pos": "adjective" }] },
-            { "id": "03", "en": "Mom is going to buy sugar and spices tomorrow.", "words": [{ "w": "spices", "bn": "মসলা", "pos": "noun", "base": "spice" }] },
-            { "id": "04", "en": "Look at the crowd! The mall is going to be packed.", "words": [{ "w": "crowd", "bn": "ভিড়", "pos": "noun" }, { "w": "packed", "bn": "ভিড়ে ঠাসা", "pos": "adjective" }] },
-            { "id": "05", "en": "Dad is going to pay with his mobile wallet.", "words": [{ "w": "mobile wallet", "bn": "মোবাইল ওয়ালেট", "pos": "noun" }] },
-            { "id": "06", "en": "We are going to shop early to avoid the rush.", "words": [{ "w": "avoid", "bn": "এড়ানো", "pos": "verb" }, { "w": "rush", "bn": "ভিড়, হুড়োহুড়ি", "pos": "noun" }] }
+            {"id":"01","en":"We are going to buy gifts for our cousins.","bn":"আমরা আমাদের কাজিনদের জন্য উপহার কিনতে যাচ্ছি।","words":[{"w":"cousins","bn":"চাচাতো-মামাতো ভাইবোন","pos":"noun","base":"cousin"}]},
+            {"id":"02","en":"Rafi is going to exchange his tight shoes.","bn":"রাফি তার টাইট জুতাগুলো বদলে আনতে যাচ্ছে।","words":[{"w":"exchange","bn":"বদলে নেওয়া","pos":"verb"},{"w":"tight","bn":"আঁটসাঁট","pos":"adjective"}]},
+            {"id":"03","en":"Mom is going to buy sugar and spices tomorrow.","bn":"মা কাল চিনি আর মসলা কিনতে যাচ্ছেন।","words":[{"w":"spices","bn":"মসলা","pos":"noun","base":"spice"}]},
+            {"id":"04","en":"Look at the crowd! The mall is going to be packed.","bn":"ভিড়টা দেখো! শপিং মলটা একদম ঠাসা হয়ে যাবে।","words":[{"w":"crowd","bn":"ভিড়","pos":"noun"},{"w":"packed","bn":"ভিড়ে ঠাসা","pos":"adjective"}]},
+            {"id":"05","en":"Dad is going to pay with his mobile wallet.","bn":"বাবা তাঁর মোবাইল ওয়ালেট দিয়ে দাম দিতে যাচ্ছেন।","words":[{"w":"mobile wallet","bn":"মোবাইল ওয়ালেট","pos":"noun"}]},
+            {"id":"06","en":"We are going to shop early to avoid the rush.","bn":"ভিড় এড়াতে আমরা সকাল সকাল কেনাকাটা করতে যাচ্ছি।","words":[{"w":"avoid","bn":"এড়ানো","pos":"verb"},{"w":"rush","bn":"ভিড়, হুড়োহুড়ি","pos":"noun"}]}
           ]
         },
         {
@@ -231,12 +231,12 @@
           "pattern": "Subject + am/is/are + not + going to + verb (base) ...",
           "tipBn": "am, is বা are-এর পরে not বসিয়ে পরিকল্পনাকে না-বোধক করা হয়।",
           "items": [
-            { "id": "01", "en": "We aren't going to buy expensive gifts.", "words": [{ "w": "expensive", "bn": "দামি", "pos": "adjective" }] },
-            { "id": "02", "en": "Rafi isn't going to keep the tight shoes.", "words": [{ "w": "keep", "bn": "রেখে দেওয়া", "pos": "verb" }, { "w": "tight", "bn": "আঁটসাঁট", "pos": "adjective" }] },
-            { "id": "03", "en": "Dad is not going to carry cash.", "words": [{ "w": "carry", "bn": "সাথে রাখা", "pos": "verb" }] },
-            { "id": "04", "en": "Rafi is not going to order from that shop again.", "words": [{ "w": "order from", "bn": "থেকে অর্ডার করা", "pos": "phrase" }, { "w": "again", "bn": "আবার", "pos": "adverb" }] },
-            { "id": "05", "en": "Mom isn't going to pay more than 1500 taka.", "words": [{ "w": "more than", "bn": "এর বেশি", "pos": "phrase" }] },
-            { "id": "06", "en": "The shops aren't going to close early tonight.", "words": [{ "w": "early", "bn": "তাড়াতাড়ি", "pos": "adverb" }, { "w": "tonight", "bn": "আজ রাতে", "pos": "adverb" }] }
+            {"id":"01","en":"We aren't going to buy expensive gifts.","bn":"আমরা দামি উপহার কিনতে যাচ্ছি না।","words":[{"w":"expensive","bn":"দামি","pos":"adjective"}]},
+            {"id":"02","en":"Rafi isn't going to keep the tight shoes.","bn":"রাফি টাইট জুতাগুলো রাখতে যাচ্ছে না।","words":[{"w":"keep","bn":"রেখে দেওয়া","pos":"verb"},{"w":"tight","bn":"আঁটসাঁট","pos":"adjective"}]},
+            {"id":"03","en":"Dad is not going to carry cash.","bn":"বাবা সাথে নগদ টাকা নিতে যাচ্ছেন না।","words":[{"w":"carry","bn":"সাথে রাখা","pos":"verb"}]},
+            {"id":"04","en":"Rafi is not going to order from that shop again.","bn":"রাফি ওই দোকান থেকে আর অর্ডার করতে যাচ্ছে না।","words":[{"w":"order from","bn":"থেকে অর্ডার করা","pos":"phrase"},{"w":"again","bn":"আবার","pos":"adverb"}]},
+            {"id":"05","en":"Mom isn't going to pay more than 1500 taka.","bn":"মা ১৫০০ টাকার বেশি দিতে যাচ্ছেন না।","words":[{"w":"more than","bn":"এর বেশি","pos":"phrase"}]},
+            {"id":"06","en":"The shops aren't going to close early tonight.","bn":"দোকানগুলো আজ রাতে তাড়াতাড়ি বন্ধ হতে যাচ্ছে না।","words":[{"w":"early","bn":"তাড়াতাড়ি","pos":"adverb"},{"w":"tonight","bn":"আজ রাতে","pos":"adverb"}]}
           ]
         },
         {
@@ -244,12 +244,12 @@
           "pattern": "Am/Is/Are + subject + going to + verb (base) ...?",
           "tipBn": "প্রশ্ন করতে am, is বা are শুরুতে বসে, তারপর subject আর going to আসে।",
           "items": [
-            { "id": "01", "en": "Are we going to buy gifts for our cousins?", "words": [{ "w": "cousins", "bn": "চাচাতো-মামাতো ভাইবোন", "pos": "noun", "base": "cousin" }] },
-            { "id": "02", "en": "Is Rafi going to exchange the shoes?", "words": [{ "w": "exchange", "bn": "বদলে নেওয়া", "pos": "verb" }] },
-            { "id": "03", "en": "Is Dad going to pay with his mobile wallet?", "words": [{ "w": "mobile wallet", "bn": "মোবাইল ওয়ালেট", "pos": "noun" }] },
-            { "id": "04", "en": "Are you going to keep the receipt?", "words": [{ "w": "receipt", "bn": "রসিদ", "pos": "noun" }] },
-            { "id": "05", "en": "Is the shop going to have a sale?", "words": [{ "w": "sale", "bn": "মূল্যছাড়, সেল", "pos": "noun" }] },
-            { "id": "06", "en": "Are you going to wrap the gifts tonight?", "words": [{ "w": "wrap", "bn": "মোড়ানো", "pos": "verb" }] }
+            {"id":"01","en":"Are we going to buy gifts for our cousins?","bn":"আমরা কি আমাদের কাজিনদের জন্য উপহার কিনতে যাচ্ছি?","words":[{"w":"cousins","bn":"চাচাতো-মামাতো ভাইবোন","pos":"noun","base":"cousin"}]},
+            {"id":"02","en":"Is Rafi going to exchange the shoes?","bn":"রাফি কি জুতাগুলো বদলে আনতে যাচ্ছে?","words":[{"w":"exchange","bn":"বদলে নেওয়া","pos":"verb"}]},
+            {"id":"03","en":"Is Dad going to pay with his mobile wallet?","bn":"বাবা কি তাঁর মোবাইল ওয়ালেট দিয়ে দাম দিতে যাচ্ছেন?","words":[{"w":"mobile wallet","bn":"মোবাইল ওয়ালেট","pos":"noun"}]},
+            {"id":"04","en":"Are you going to keep the receipt?","bn":"তুমি কি রসিদটা রেখে দিতে যাচ্ছ?","words":[{"w":"receipt","bn":"রসিদ","pos":"noun"}]},
+            {"id":"05","en":"Is the shop going to have a sale?","bn":"দোকানটায় কি সেল হতে যাচ্ছে?","words":[{"w":"sale","bn":"মূল্যছাড়, সেল","pos":"noun"}]},
+            {"id":"06","en":"Are you going to wrap the gifts tonight?","bn":"তুমি কি আজ রাতে উপহারগুলো মোড়াতে যাচ্ছ?","words":[{"w":"wrap","bn":"মোড়ানো","pos":"verb"}]}
           ]
         },
         {
@@ -257,12 +257,12 @@
           "pattern": "Wh-word + am/is/are + subject + going to + verb (base)?",
           "tipBn": "Wh-শব্দের পরে am, is বা are, তারপর subject আর going to বসে।",
           "items": [
-            { "id": "01", "en": "What are we going to buy for our cousins?", "words": [{ "w": "cousins", "bn": "চাচাতো-মামাতো ভাইবোন", "pos": "noun", "base": "cousin" }] },
-            { "id": "02", "en": "When is Rafi going to exchange the shoes?", "words": [{ "w": "exchange", "bn": "বদলে নেওয়া", "pos": "verb" }] },
-            { "id": "03", "en": "How is Dad going to pay?", "words": [{ "w": "pay", "bn": "দাম দেওয়া", "pos": "verb" }] },
-            { "id": "04", "en": "Where are we going to park the car?", "words": [{ "w": "park", "bn": "গাড়ি রাখা", "pos": "verb" }] },
-            { "id": "05", "en": "How much are you going to spend on gifts?", "words": [{ "w": "spend", "bn": "খরচ করা", "pos": "verb" }] },
-            { "id": "06", "en": "Which shop are you going to visit first?", "words": [{ "w": "visit", "bn": "যাওয়া", "pos": "verb" }, { "w": "first", "bn": "প্রথমে", "pos": "adverb" }] }
+            {"id":"01","en":"What are we going to buy for our cousins?","bn":"আমরা আমাদের কাজিনদের জন্য কী কিনতে যাচ্ছি?","words":[{"w":"cousins","bn":"চাচাতো-মামাতো ভাইবোন","pos":"noun","base":"cousin"}]},
+            {"id":"02","en":"When is Rafi going to exchange the shoes?","bn":"রাফি কখন জুতাগুলো বদলে আনতে যাচ্ছে?","words":[{"w":"exchange","bn":"বদলে নেওয়া","pos":"verb"}]},
+            {"id":"03","en":"How is Dad going to pay?","bn":"বাবা কীভাবে দাম দিতে যাচ্ছেন?","words":[{"w":"pay","bn":"দাম দেওয়া","pos":"verb"}]},
+            {"id":"04","en":"Where are we going to park the car?","bn":"আমরা গাড়িটা কোথায় পার্ক করতে যাচ্ছি?","words":[{"w":"park","bn":"গাড়ি রাখা","pos":"verb"}]},
+            {"id":"05","en":"How much are you going to spend on gifts?","bn":"তুমি উপহারের পেছনে কত টাকা খরচ করতে যাচ্ছ?","words":[{"w":"spend","bn":"খরচ করা","pos":"verb"}]},
+            {"id":"06","en":"Which shop are you going to visit first?","bn":"তুমি প্রথমে কোন দোকানে যেতে যাচ্ছ?","words":[{"w":"visit","bn":"যাওয়া","pos":"verb"},{"w":"first","bn":"প্রথমে","pos":"adverb"}]}
           ]
         }
       ]

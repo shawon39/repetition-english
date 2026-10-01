@@ -15,14 +15,14 @@
           "pattern": "Subject + is/am/are ... / Subject + verb(s) ...",
           "tipBn": "স্থায়ী তথ্য ও অভ্যাস বোঝাতে present simple হয়; he, she, it হলে verb-এর শেষে s বসে।",
           "items": [
-            { "id": "01", "en": "Nadia is a new employee.", "words": [{ "w": "employee", "bn": "কর্মী", "pos": "noun" }] },
-            { "id": "02", "en": "The office is on the fifth floor.", "words": [{ "w": "fifth", "bn": "পঞ্চম", "pos": "adjective" }, { "w": "floor", "bn": "তলা", "pos": "noun" }] },
-            { "id": "03", "en": "She starts work at nine o'clock.", "words": [{ "w": "starts", "bn": "শুরু করে", "pos": "verb", "base": "start" }] },
-            { "id": "04", "en": "Her desk is near the window.", "words": [{ "w": "desk", "bn": "ডেস্ক, কাজের টেবিল", "pos": "noun" }, { "w": "near", "bn": "কাছে", "pos": "preposition" }] },
-            { "id": "05", "en": "Rafi sits next to her.", "words": [{ "w": "sits", "bn": "বসে", "pos": "verb", "base": "sit" }, { "w": "next to", "bn": "পাশে", "pos": "preposition" }] },
-            { "id": "06", "en": "Mr. Karim is the manager.", "words": [{ "w": "manager", "bn": "ব্যবস্থাপক, ম্যানেজার", "pos": "noun" }] },
-            { "id": "07", "en": "Nadia checks her emails every morning.", "words": [{ "w": "checks", "bn": "দেখে, যাচাই করে", "pos": "verb", "base": "check" }, { "w": "every morning", "bn": "প্রতিদিন সকালে", "pos": "phrase" }] },
-            { "id": "08", "en": "The team has lunch at one o'clock.", "words": [{ "w": "team", "bn": "দল", "pos": "noun" }, { "w": "has lunch", "bn": "দুপুরের খাবার খায়", "pos": "phrase" }] }
+            {"id":"01","en":"Nadia is a new employee.","bn":"নাদিয়া একজন নতুন কর্মী।","words":[{"w":"employee","bn":"কর্মী","pos":"noun"}]},
+            {"id":"02","en":"The office is on the fifth floor.","bn":"অফিসটা পাঁচতলায়।","words":[{"w":"fifth","bn":"পঞ্চম","pos":"adjective"},{"w":"floor","bn":"তলা","pos":"noun"}]},
+            {"id":"03","en":"She starts work at nine o'clock.","bn":"সে ৯টায় কাজ শুরু করে।","words":[{"w":"starts","bn":"শুরু করে","pos":"verb","base":"start"}]},
+            {"id":"04","en":"Her desk is near the window.","bn":"তার ডেস্ক জানালার কাছে।","words":[{"w":"desk","bn":"ডেস্ক, কাজের টেবিল","pos":"noun"},{"w":"near","bn":"কাছে","pos":"preposition"}]},
+            {"id":"05","en":"Rafi sits next to her.","bn":"রাফি তার পাশে বসে।","words":[{"w":"sits","bn":"বসে","pos":"verb","base":"sit"},{"w":"next to","bn":"পাশে","pos":"preposition"}]},
+            {"id":"06","en":"Mr. Karim is the manager.","bn":"করিম সাহেব ম্যানেজার।","words":[{"w":"manager","bn":"ব্যবস্থাপক, ম্যানেজার","pos":"noun"}]},
+            {"id":"07","en":"Nadia checks her emails every morning.","bn":"নাদিয়া প্রতিদিন সকালে তার ইমেইল চেক করে।","words":[{"w":"checks","bn":"দেখে, যাচাই করে","pos":"verb","base":"check"},{"w":"every morning","bn":"প্রতিদিন সকালে","pos":"phrase"}]},
+            {"id":"08","en":"The team has lunch at one o'clock.","bn":"টিম ১টায় দুপুরের খাবার খায়।","words":[{"w":"team","bn":"দল","pos":"noun"},{"w":"has lunch","bn":"দুপুরের খাবার খায়","pos":"phrase"}]}
           ]
         },
         {
@@ -30,12 +30,12 @@
           "pattern": "Subject + isn't/aren't ... / Subject + don't/doesn't + verb ...",
           "tipBn": "be verb-এর পরে not বসে; অন্য verb-এর আগে don't বা doesn't বসে।",
           "items": [
-            { "id": "01", "en": "Nadia isn't the manager.", "words": [{ "w": "manager", "bn": "ব্যবস্থাপক, ম্যানেজার", "pos": "noun" }] },
-            { "id": "02", "en": "The office isn't on the ground floor.", "words": [{ "w": "ground floor", "bn": "নিচতলা", "pos": "noun" }] },
-            { "id": "03", "en": "She doesn't start work at eight.", "words": [{ "w": "start", "bn": "শুরু করা", "pos": "verb" }] },
-            { "id": "04", "en": "Rafi doesn't drink coffee at work.", "words": [{ "w": "drink", "bn": "পান করা", "pos": "verb" }, { "w": "at work", "bn": "অফিসে, কাজের সময়", "pos": "phrase" }] },
-            { "id": "05", "en": "The old printer doesn't work.", "words": [{ "w": "old", "bn": "পুরনো", "pos": "adjective" }, { "w": "work", "bn": "চলা, কাজ করা", "pos": "verb" }] },
-            { "id": "06", "en": "Nadia doesn't have lunch at her desk.", "words": [{ "w": "have lunch", "bn": "দুপুরের খাবার খাওয়া", "pos": "phrase" }, { "w": "desk", "bn": "ডেস্ক, কাজের টেবিল", "pos": "noun" }] }
+            {"id":"01","en":"Nadia isn't the manager.","bn":"নাদিয়া ম্যানেজার নয়।","words":[{"w":"manager","bn":"ব্যবস্থাপক, ম্যানেজার","pos":"noun"}]},
+            {"id":"02","en":"The office isn't on the ground floor.","bn":"অফিসটা নিচতলায় নয়।","words":[{"w":"ground floor","bn":"নিচতলা","pos":"noun"}]},
+            {"id":"03","en":"She doesn't start work at eight.","bn":"সে ৮টায় কাজ শুরু করে না।","words":[{"w":"start","bn":"শুরু করা","pos":"verb"}]},
+            {"id":"04","en":"Rafi doesn't drink coffee at work.","bn":"রাফি অফিসে কফি খায় না।","words":[{"w":"drink","bn":"পান করা","pos":"verb"},{"w":"at work","bn":"অফিসে, কাজের সময়","pos":"phrase"}]},
+            {"id":"05","en":"The old printer doesn't work.","bn":"পুরোনো প্রিন্টারটা কাজ করে না।","words":[{"w":"old","bn":"পুরনো","pos":"adjective"},{"w":"work","bn":"চলা, কাজ করা","pos":"verb"}]},
+            {"id":"06","en":"Nadia doesn't have lunch at her desk.","bn":"নাদিয়া তার ডেস্কে বসে দুপুরের খাবার খায় না।","words":[{"w":"have lunch","bn":"দুপুরের খাবার খাওয়া","pos":"phrase"},{"w":"desk","bn":"ডেস্ক, কাজের টেবিল","pos":"noun"}]}
           ]
         },
         {
@@ -43,12 +43,12 @@
           "pattern": "Is/Are + subject ...? / Do/Does + subject + verb ...?",
           "tipBn": "প্রশ্ন করতে Is/Are অথবা Do/Does বাক্যের শুরুতে বসে।",
           "items": [
-            { "id": "01", "en": "Is Nadia a new employee?", "words": [{ "w": "employee", "bn": "কর্মী", "pos": "noun" }] },
-            { "id": "02", "en": "Is the office on the fifth floor?", "words": [{ "w": "floor", "bn": "তলা", "pos": "noun" }] },
-            { "id": "03", "en": "Does Rafi sit next to Nadia?", "words": [{ "w": "sit", "bn": "বসা", "pos": "verb" }, { "w": "next to", "bn": "পাশে", "pos": "preposition" }] },
-            { "id": "04", "en": "Do you work on Saturdays?", "words": [{ "w": "Saturdays", "bn": "শনিবারে", "pos": "noun", "base": "Saturday" }] },
-            { "id": "05", "en": "Does Mr. Karim start meetings on time?", "words": [{ "w": "meetings", "bn": "সভা, মিটিং", "pos": "noun", "base": "meeting" }, { "w": "on time", "bn": "সময়মতো", "pos": "phrase" }] },
-            { "id": "06", "en": "Is the meeting room free now?", "words": [{ "w": "meeting room", "bn": "সভাকক্ষ, মিটিং রুম", "pos": "noun" }, { "w": "free", "bn": "খালি", "pos": "adjective" }] }
+            {"id":"01","en":"Is Nadia a new employee?","bn":"নাদিয়া কি একজন নতুন কর্মী?","words":[{"w":"employee","bn":"কর্মী","pos":"noun"}]},
+            {"id":"02","en":"Is the office on the fifth floor?","bn":"অফিসটা কি পাঁচতলায়?","words":[{"w":"floor","bn":"তলা","pos":"noun"}]},
+            {"id":"03","en":"Does Rafi sit next to Nadia?","bn":"রাফি কি নাদিয়ার পাশে বসে?","words":[{"w":"sit","bn":"বসা","pos":"verb"},{"w":"next to","bn":"পাশে","pos":"preposition"}]},
+            {"id":"04","en":"Do you work on Saturdays?","bn":"তুমি কি শনিবারে কাজ করো?","words":[{"w":"Saturdays","bn":"শনিবারে","pos":"noun","base":"Saturday"}]},
+            {"id":"05","en":"Does Mr. Karim start meetings on time?","bn":"করিম সাহেব কি সময়মতো মিটিং শুরু করেন?","words":[{"w":"meetings","bn":"সভা, মিটিং","pos":"noun","base":"meeting"},{"w":"on time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"06","en":"Is the meeting room free now?","bn":"মিটিং রুমটা কি এখন খালি?","words":[{"w":"meeting room","bn":"সভাকক্ষ, মিটিং রুম","pos":"noun"},{"w":"free","bn":"খালি","pos":"adjective"}]}
           ]
         },
         {
@@ -56,12 +56,12 @@
           "pattern": "Wh-word + is/are ...? / Wh-word + do/does + subject + verb?",
           "tipBn": "তথ্য জানতে What, Where, When, Who, How দিয়ে প্রশ্ন শুরু হয়।",
           "items": [
-            { "id": "01", "en": "Where is the meeting room?", "words": [{ "w": "meeting room", "bn": "সভাকক্ষ, মিটিং রুম", "pos": "noun" }] },
-            { "id": "02", "en": "What time does Nadia start work?", "words": [{ "w": "What time", "bn": "কয়টায়", "pos": "phrase" }] },
-            { "id": "03", "en": "Who is your manager?", "words": [{ "w": "manager", "bn": "ব্যবস্থাপক, ম্যানেজার", "pos": "noun" }] },
-            { "id": "04", "en": "Where does Rafi sit?", "words": [{ "w": "sit", "bn": "বসা", "pos": "verb" }] },
-            { "id": "05", "en": "How do you get to the office?", "words": [{ "w": "get to", "bn": "পৌঁছানো, যাওয়া", "pos": "phrase" }] },
-            { "id": "06", "en": "When does the team have lunch?", "words": [{ "w": "have lunch", "bn": "দুপুরের খাবার খাওয়া", "pos": "phrase" }] }
+            {"id":"01","en":"Where is the meeting room?","bn":"মিটিং রুমটা কোথায়?","words":[{"w":"meeting room","bn":"সভাকক্ষ, মিটিং রুম","pos":"noun"}]},
+            {"id":"02","en":"What time does Nadia start work?","bn":"নাদিয়া কয়টায় কাজ শুরু করে?","words":[{"w":"What time","bn":"কয়টায়","pos":"phrase"}]},
+            {"id":"03","en":"Who is your manager?","bn":"তোমার ম্যানেজার কে?","words":[{"w":"manager","bn":"ব্যবস্থাপক, ম্যানেজার","pos":"noun"}]},
+            {"id":"04","en":"Where does Rafi sit?","bn":"রাফি কোথায় বসে?","words":[{"w":"sit","bn":"বসা","pos":"verb"}]},
+            {"id":"05","en":"How do you get to the office?","bn":"তুমি অফিসে কীভাবে যাও?","words":[{"w":"get to","bn":"পৌঁছানো, যাওয়া","pos":"phrase"}]},
+            {"id":"06","en":"When does the team have lunch?","bn":"টিম কখন দুপুরের খাবার খায়?","words":[{"w":"have lunch","bn":"দুপুরের খাবার খাওয়া","pos":"phrase"}]}
           ]
         }
       ]
@@ -76,12 +76,12 @@
           "pattern": "Subject + am/is/are + verb-ing (+ now).",
           "tipBn": "এখন চলছে এমন কাজ বোঝাতে am/is/are-এর পরে verb-এ ing যোগ হয়।",
           "items": [
-            { "id": "01", "en": "Nadia is reading an email.", "words": [{ "w": "reading", "bn": "পড়ছে", "pos": "verb", "base": "read" }] },
-            { "id": "02", "en": "Rafi is talking on the phone.", "words": [{ "w": "talking on the phone", "bn": "ফোনে কথা বলছে", "pos": "phrase" }] },
-            { "id": "03", "en": "Mr. Karim is writing a report.", "words": [{ "w": "writing", "bn": "লিখছেন", "pos": "verb", "base": "write" }, { "w": "report", "bn": "প্রতিবেদন, রিপোর্ট", "pos": "noun" }] },
-            { "id": "04", "en": "The team is having a meeting now.", "words": [{ "w": "having a meeting", "bn": "মিটিং করছে", "pos": "phrase" }] },
-            { "id": "05", "en": "I am printing a document.", "words": [{ "w": "printing", "bn": "প্রিন্ট করছি, ছাপাচ্ছি", "pos": "verb", "base": "print" }, { "w": "document", "bn": "নথি, ডকুমেন্ট", "pos": "noun" }] },
-            { "id": "06", "en": "They are waiting for the elevator.", "words": [{ "w": "waiting for", "bn": "অপেক্ষা করছে", "pos": "phrasal verb", "base": "wait for" }, { "w": "elevator", "bn": "লিফট", "pos": "noun" }] }
+            {"id":"01","en":"Nadia is reading an email.","bn":"নাদিয়া একটা ইমেইল পড়ছে।","words":[{"w":"reading","bn":"পড়ছে","pos":"verb","base":"read"}]},
+            {"id":"02","en":"Rafi is talking on the phone.","bn":"রাফি ফোনে কথা বলছে।","words":[{"w":"talking on the phone","bn":"ফোনে কথা বলছে","pos":"phrase"}]},
+            {"id":"03","en":"Mr. Karim is writing a report.","bn":"করিম সাহেব একটা রিপোর্ট লিখছেন।","words":[{"w":"writing","bn":"লিখছেন","pos":"verb","base":"write"},{"w":"report","bn":"প্রতিবেদন, রিপোর্ট","pos":"noun"}]},
+            {"id":"04","en":"The team is having a meeting now.","bn":"টিম এখন একটা মিটিং করছে।","words":[{"w":"having a meeting","bn":"মিটিং করছে","pos":"phrase"}]},
+            {"id":"05","en":"I am printing a document.","bn":"আমি একটা ডকুমেন্ট প্রিন্ট করছি।","words":[{"w":"printing","bn":"প্রিন্ট করছি, ছাপাচ্ছি","pos":"verb","base":"print"},{"w":"document","bn":"নথি, ডকুমেন্ট","pos":"noun"}]},
+            {"id":"06","en":"They are waiting for the elevator.","bn":"তারা লিফটের জন্য অপেক্ষা করছে।","words":[{"w":"waiting for","bn":"অপেক্ষা করছে","pos":"phrasal verb","base":"wait for"},{"w":"elevator","bn":"লিফট","pos":"noun"}]}
           ]
         },
         {
@@ -89,12 +89,12 @@
           "pattern": "Subject + am not/isn't/aren't + verb-ing.",
           "tipBn": "না-বোধক করতে am/is/are-এর পরে not বসে, তারপর verb-ing।",
           "items": [
-            { "id": "01", "en": "Nadia isn't reading the report.", "words": [{ "w": "reading", "bn": "পড়ছে", "pos": "verb", "base": "read" }, { "w": "report", "bn": "প্রতিবেদন, রিপোর্ট", "pos": "noun" }] },
-            { "id": "02", "en": "Rafi isn't talking to a client.", "words": [{ "w": "talking to", "bn": "কথা বলছে", "pos": "phrase" }, { "w": "client", "bn": "ক্লায়েন্ট, গ্রাহক", "pos": "noun" }] },
-            { "id": "03", "en": "Mr. Karim isn't sitting at his desk.", "words": [{ "w": "sitting", "bn": "বসে আছেন", "pos": "verb", "base": "sit" }] },
-            { "id": "04", "en": "The printer isn't working right now.", "words": [{ "w": "working", "bn": "চলছে", "pos": "verb", "base": "work" }, { "w": "right now", "bn": "এই মুহূর্তে", "pos": "phrase" }] },
-            { "id": "05", "en": "The team isn't having a meeting now.", "words": [{ "w": "having a meeting", "bn": "মিটিং করছে", "pos": "phrase" }] },
-            { "id": "06", "en": "They aren't using the elevator.", "words": [{ "w": "using", "bn": "ব্যবহার করছে", "pos": "verb", "base": "use" }, { "w": "elevator", "bn": "লিফট", "pos": "noun" }] }
+            {"id":"01","en":"Nadia isn't reading the report.","bn":"নাদিয়া রিপোর্টটা পড়ছে না।","words":[{"w":"reading","bn":"পড়ছে","pos":"verb","base":"read"},{"w":"report","bn":"প্রতিবেদন, রিপোর্ট","pos":"noun"}]},
+            {"id":"02","en":"Rafi isn't talking to a client.","bn":"রাফি কোনো ক্লায়েন্টের সাথে কথা বলছে না।","words":[{"w":"talking to","bn":"কথা বলছে","pos":"phrase"},{"w":"client","bn":"ক্লায়েন্ট, গ্রাহক","pos":"noun"}]},
+            {"id":"03","en":"Mr. Karim isn't sitting at his desk.","bn":"করিম সাহেব তাঁর ডেস্কে বসে নেই।","words":[{"w":"sitting","bn":"বসে আছেন","pos":"verb","base":"sit"}]},
+            {"id":"04","en":"The printer isn't working right now.","bn":"প্রিন্টারটা এই মুহূর্তে কাজ করছে না।","words":[{"w":"working","bn":"চলছে","pos":"verb","base":"work"},{"w":"right now","bn":"এই মুহূর্তে","pos":"phrase"}]},
+            {"id":"05","en":"The team isn't having a meeting now.","bn":"টিম এখন কোনো মিটিং করছে না।","words":[{"w":"having a meeting","bn":"মিটিং করছে","pos":"phrase"}]},
+            {"id":"06","en":"They aren't using the elevator.","bn":"তারা লিফট ব্যবহার করছে না।","words":[{"w":"using","bn":"ব্যবহার করছে","pos":"verb","base":"use"},{"w":"elevator","bn":"লিফট","pos":"noun"}]}
           ]
         },
         {
@@ -102,12 +102,12 @@
           "pattern": "Am/Is/Are + subject + verb-ing ...?",
           "tipBn": "প্রশ্ন করতে am/is/are বাক্যের শুরুতে বসে।",
           "items": [
-            { "id": "01", "en": "Is Nadia reading an email?", "words": [{ "w": "reading", "bn": "পড়ছে", "pos": "verb", "base": "read" }] },
-            { "id": "02", "en": "Is Rafi talking on the phone?", "words": [{ "w": "talking on the phone", "bn": "ফোনে কথা বলছে", "pos": "phrase" }] },
-            { "id": "03", "en": "Are you using this chair?", "words": [{ "w": "using", "bn": "ব্যবহার করছেন", "pos": "verb", "base": "use" }, { "w": "chair", "bn": "চেয়ার", "pos": "noun" }] },
-            { "id": "04", "en": "Is Mr. Karim coming to the meeting?", "words": [{ "w": "coming", "bn": "আসছেন", "pos": "verb", "base": "come" }] },
-            { "id": "05", "en": "Are they waiting for the elevator?", "words": [{ "w": "waiting for", "bn": "অপেক্ষা করছে", "pos": "phrasal verb", "base": "wait for" }] },
-            { "id": "06", "en": "Are you working on the report?", "words": [{ "w": "working on", "bn": "কাজ করছেন", "pos": "phrasal verb", "base": "work on" }] }
+            {"id":"01","en":"Is Nadia reading an email?","bn":"নাদিয়া কি একটা ইমেইল পড়ছে?","words":[{"w":"reading","bn":"পড়ছে","pos":"verb","base":"read"}]},
+            {"id":"02","en":"Is Rafi talking on the phone?","bn":"রাফি কি ফোনে কথা বলছে?","words":[{"w":"talking on the phone","bn":"ফোনে কথা বলছে","pos":"phrase"}]},
+            {"id":"03","en":"Are you using this chair?","bn":"তুমি কি এই চেয়ারটা ব্যবহার করছ?","words":[{"w":"using","bn":"ব্যবহার করছেন","pos":"verb","base":"use"},{"w":"chair","bn":"চেয়ার","pos":"noun"}]},
+            {"id":"04","en":"Is Mr. Karim coming to the meeting?","bn":"করিম সাহেব কি মিটিংয়ে আসছেন?","words":[{"w":"coming","bn":"আসছেন","pos":"verb","base":"come"}]},
+            {"id":"05","en":"Are they waiting for the elevator?","bn":"তারা কি লিফটের জন্য অপেক্ষা করছে?","words":[{"w":"waiting for","bn":"অপেক্ষা করছে","pos":"phrasal verb","base":"wait for"}]},
+            {"id":"06","en":"Are you working on the report?","bn":"তুমি কি রিপোর্টটার কাজ করছ?","words":[{"w":"working on","bn":"কাজ করছেন","pos":"phrasal verb","base":"work on"}]}
           ]
         },
         {
@@ -115,12 +115,12 @@
           "pattern": "Wh-word + am/is/are + subject + verb-ing?",
           "tipBn": "প্রথমে Wh-word, তারপর am/is/are, subject এবং verb-ing বসে।",
           "items": [
-            { "id": "01", "en": "What is Nadia doing now?", "words": [{ "w": "doing", "bn": "করছে", "pos": "verb", "base": "do" }] },
-            { "id": "02", "en": "Who is Rafi calling?", "words": [{ "w": "calling", "bn": "ফোন করছে", "pos": "verb", "base": "call" }] },
-            { "id": "03", "en": "Where is Mr. Karim going?", "words": [{ "w": "going", "bn": "যাচ্ছেন", "pos": "verb", "base": "go" }] },
-            { "id": "04", "en": "What are you working on?", "words": [{ "w": "working on", "bn": "কাজ করছেন", "pos": "phrasal verb", "base": "work on" }] },
-            { "id": "05", "en": "Why is the team laughing?", "words": [{ "w": "laughing", "bn": "হাসছে", "pos": "verb", "base": "laugh" }] },
-            { "id": "06", "en": "Who is using the printer?", "words": [{ "w": "using", "bn": "ব্যবহার করছে", "pos": "verb", "base": "use" }] }
+            {"id":"01","en":"What is Nadia doing now?","bn":"নাদিয়া এখন কী করছে?","words":[{"w":"doing","bn":"করছে","pos":"verb","base":"do"}]},
+            {"id":"02","en":"Who is Rafi calling?","bn":"রাফি কাকে ফোন করছে?","words":[{"w":"calling","bn":"ফোন করছে","pos":"verb","base":"call"}]},
+            {"id":"03","en":"Where is Mr. Karim going?","bn":"করিম সাহেব কোথায় যাচ্ছেন?","words":[{"w":"going","bn":"যাচ্ছেন","pos":"verb","base":"go"}]},
+            {"id":"04","en":"What are you working on?","bn":"তুমি কী নিয়ে কাজ করছ?","words":[{"w":"working on","bn":"কাজ করছেন","pos":"phrasal verb","base":"work on"}]},
+            {"id":"05","en":"Why is the team laughing?","bn":"টিম কেন হাসছে?","words":[{"w":"laughing","bn":"হাসছে","pos":"verb","base":"laugh"}]},
+            {"id":"06","en":"Who is using the printer?","bn":"প্রিন্টারটা কে ব্যবহার করছে?","words":[{"w":"using","bn":"ব্যবহার করছে","pos":"verb","base":"use"}]}
           ]
         }
       ]
@@ -135,12 +135,12 @@
           "pattern": "Subject + verb (past) ... (+ time word).",
           "tipBn": "অতীতের কাজ বোঝাতে verb-এর past রূপ বসে, যেমন started, met, sent।",
           "items": [
-            { "id": "01", "en": "Nadia started her job last Sunday.", "words": [{ "w": "started", "bn": "শুরু করল", "pos": "verb", "base": "start" }, { "w": "job", "bn": "চাকরি", "pos": "noun" }] },
-            { "id": "02", "en": "She met the team on Monday.", "words": [{ "w": "met", "bn": "দেখা করল, পরিচিত হলো", "pos": "verb", "base": "meet" }] },
-            { "id": "03", "en": "Rafi showed her the office.", "words": [{ "w": "showed", "bn": "ঘুরিয়ে দেখাল", "pos": "verb", "base": "show" }] },
-            { "id": "04", "en": "Mr. Karim sent an email yesterday.", "words": [{ "w": "sent", "bn": "পাঠালেন", "pos": "verb", "base": "send" }, { "w": "yesterday", "bn": "গতকাল", "pos": "adverb" }] },
-            { "id": "05", "en": "The meeting ended at four o'clock.", "words": [{ "w": "ended", "bn": "শেষ হলো", "pos": "verb", "base": "end" }] },
-            { "id": "06", "en": "Nadia got a new laptop.", "words": [{ "w": "got", "bn": "পেল", "pos": "verb", "base": "get" }] }
+            {"id":"01","en":"Nadia started her job last Sunday.","bn":"নাদিয়া গত রবিবার তার চাকরি শুরু করেছিল।","words":[{"w":"started","bn":"শুরু করল","pos":"verb","base":"start"},{"w":"job","bn":"চাকরি","pos":"noun"}]},
+            {"id":"02","en":"She met the team on Monday.","bn":"সে সোমবার টিমের সাথে দেখা করেছিল।","words":[{"w":"met","bn":"দেখা করল, পরিচিত হলো","pos":"verb","base":"meet"}]},
+            {"id":"03","en":"Rafi showed her the office.","bn":"রাফি তাকে অফিসটা ঘুরিয়ে দেখিয়েছিল।","words":[{"w":"showed","bn":"ঘুরিয়ে দেখাল","pos":"verb","base":"show"}]},
+            {"id":"04","en":"Mr. Karim sent an email yesterday.","bn":"করিম সাহেব গতকাল একটা ইমেইল পাঠিয়েছিলেন।","words":[{"w":"sent","bn":"পাঠালেন","pos":"verb","base":"send"},{"w":"yesterday","bn":"গতকাল","pos":"adverb"}]},
+            {"id":"05","en":"The meeting ended at four o'clock.","bn":"মিটিংটা ৪টায় শেষ হয়েছিল।","words":[{"w":"ended","bn":"শেষ হলো","pos":"verb","base":"end"}]},
+            {"id":"06","en":"Nadia got a new laptop.","bn":"নাদিয়া একটা নতুন ল্যাপটপ পেয়েছিল।","words":[{"w":"got","bn":"পেল","pos":"verb","base":"get"}]}
           ]
         },
         {
@@ -148,12 +148,12 @@
           "pattern": "Subject + didn't + verb (base) ...",
           "tipBn": "অতীতের না-বোধক বাক্যে didn't বসে এবং verb মূল রূপে থাকে।",
           "items": [
-            { "id": "01", "en": "Nadia didn't start her job on Monday.", "words": [{ "w": "start", "bn": "শুরু করা", "pos": "verb" }, { "w": "job", "bn": "চাকরি", "pos": "noun" }] },
-            { "id": "02", "en": "She didn't meet the manager on Sunday.", "words": [{ "w": "meet", "bn": "দেখা করা", "pos": "verb" }] },
-            { "id": "03", "en": "Mr. Karim didn't send the report.", "words": [{ "w": "send", "bn": "পাঠানো", "pos": "verb" }, { "w": "report", "bn": "প্রতিবেদন, রিপোর্ট", "pos": "noun" }] },
-            { "id": "04", "en": "The meeting didn't end on time.", "words": [{ "w": "end", "bn": "শেষ হওয়া", "pos": "verb" }, { "w": "on time", "bn": "সময়মতো", "pos": "phrase" }] },
-            { "id": "05", "en": "Rafi didn't come to work yesterday.", "words": [{ "w": "come to work", "bn": "অফিসে আসা", "pos": "phrase" }] },
-            { "id": "06", "en": "I didn't get your message.", "words": [{ "w": "get", "bn": "পাওয়া", "pos": "verb" }, { "w": "message", "bn": "বার্তা, মেসেজ", "pos": "noun" }] }
+            {"id":"01","en":"Nadia didn't start her job on Monday.","bn":"নাদিয়া সোমবার তার চাকরি শুরু করেনি।","words":[{"w":"start","bn":"শুরু করা","pos":"verb"},{"w":"job","bn":"চাকরি","pos":"noun"}]},
+            {"id":"02","en":"She didn't meet the manager on Sunday.","bn":"সে রবিবার ম্যানেজারের সাথে দেখা করেনি।","words":[{"w":"meet","bn":"দেখা করা","pos":"verb"}]},
+            {"id":"03","en":"Mr. Karim didn't send the report.","bn":"করিম সাহেব রিপোর্টটা পাঠাননি।","words":[{"w":"send","bn":"পাঠানো","pos":"verb"},{"w":"report","bn":"প্রতিবেদন, রিপোর্ট","pos":"noun"}]},
+            {"id":"04","en":"The meeting didn't end on time.","bn":"মিটিংটা সময়মতো শেষ হয়নি।","words":[{"w":"end","bn":"শেষ হওয়া","pos":"verb"},{"w":"on time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"05","en":"Rafi didn't come to work yesterday.","bn":"রাফি গতকাল কাজে আসেনি।","words":[{"w":"come to work","bn":"অফিসে আসা","pos":"phrase"}]},
+            {"id":"06","en":"I didn't get your message.","bn":"আমি তোমার মেসেজটা পাইনি।","words":[{"w":"get","bn":"পাওয়া","pos":"verb"},{"w":"message","bn":"বার্তা, মেসেজ","pos":"noun"}]}
           ]
         },
         {
@@ -161,12 +161,12 @@
           "pattern": "Did + subject + verb (base) ...?",
           "tipBn": "অতীতের প্রশ্নে Did শুরুতে বসে এবং verb মূল রূপে থাকে।",
           "items": [
-            { "id": "01", "en": "Did Nadia start her job last Sunday?", "words": [{ "w": "job", "bn": "চাকরি", "pos": "noun" }] },
-            { "id": "02", "en": "Did Rafi show her the office?", "words": [{ "w": "show", "bn": "দেখানো", "pos": "verb" }] },
-            { "id": "03", "en": "Did you get my email?", "words": [{ "w": "get", "bn": "পাওয়া", "pos": "verb" }] },
-            { "id": "04", "en": "Did the meeting end at four?", "words": [{ "w": "end", "bn": "শেষ হওয়া", "pos": "verb" }] },
-            { "id": "05", "en": "Did Mr. Karim call the client?", "words": [{ "w": "call", "bn": "ফোন করা", "pos": "verb" }, { "w": "client", "bn": "ক্লায়েন্ট, গ্রাহক", "pos": "noun" }] },
-            { "id": "06", "en": "Did you finish the report yesterday?", "words": [{ "w": "finish", "bn": "শেষ করা", "pos": "verb" }] }
+            {"id":"01","en":"Did Nadia start her job last Sunday?","bn":"নাদিয়া কি গত রবিবার তার চাকরি শুরু করেছিল?","words":[{"w":"job","bn":"চাকরি","pos":"noun"}]},
+            {"id":"02","en":"Did Rafi show her the office?","bn":"রাফি কি তাকে অফিসটা ঘুরিয়ে দেখিয়েছিল?","words":[{"w":"show","bn":"দেখানো","pos":"verb"}]},
+            {"id":"03","en":"Did you get my email?","bn":"তুমি কি আমার ইমেইলটা পেয়েছিলে?","words":[{"w":"get","bn":"পাওয়া","pos":"verb"}]},
+            {"id":"04","en":"Did the meeting end at four?","bn":"মিটিংটা কি ৪টায় শেষ হয়েছিল?","words":[{"w":"end","bn":"শেষ হওয়া","pos":"verb"}]},
+            {"id":"05","en":"Did Mr. Karim call the client?","bn":"করিম সাহেব কি ক্লায়েন্টকে ফোন করেছিলেন?","words":[{"w":"call","bn":"ফোন করা","pos":"verb"},{"w":"client","bn":"ক্লায়েন্ট, গ্রাহক","pos":"noun"}]},
+            {"id":"06","en":"Did you finish the report yesterday?","bn":"তুমি কি গতকাল রিপোর্টটা শেষ করেছিলে?","words":[{"w":"finish","bn":"শেষ করা","pos":"verb"}]}
           ]
         },
         {
@@ -174,12 +174,12 @@
           "pattern": "Wh-word + did + subject + verb (base)? / Who + verb (past)?",
           "tipBn": "Wh-word-এর পরে did ও verb-এর মূল রূপ বসে; Who কর্তা হলে did লাগে না।",
           "items": [
-            { "id": "01", "en": "When did Nadia start her job?", "words": [{ "w": "start", "bn": "শুরু করা", "pos": "verb" }] },
-            { "id": "02", "en": "Who showed Nadia the office?", "words": [{ "w": "showed", "bn": "ঘুরিয়ে দেখাল", "pos": "verb", "base": "show" }] },
-            { "id": "03", "en": "What did Mr. Karim send?", "words": [{ "w": "send", "bn": "পাঠানো", "pos": "verb" }] },
-            { "id": "04", "en": "Why did Rafi stay home yesterday?", "words": [{ "w": "stay home", "bn": "বাসায় থাকা", "pos": "phrase" }] },
-            { "id": "05", "en": "Where did you have lunch?", "words": [{ "w": "have lunch", "bn": "দুপুরের খাবার খাওয়া", "pos": "phrase" }] },
-            { "id": "06", "en": "How did the meeting go?", "words": [{ "w": "meeting", "bn": "সভা, মিটিং", "pos": "noun" }, { "w": "go", "bn": "হওয়া, চলা", "pos": "verb" }] }
+            {"id":"01","en":"When did Nadia start her job?","bn":"নাদিয়া কখন তার চাকরি শুরু করেছিল?","words":[{"w":"start","bn":"শুরু করা","pos":"verb"}]},
+            {"id":"02","en":"Who showed Nadia the office?","bn":"নাদিয়াকে কে অফিসটা ঘুরিয়ে দেখিয়েছিল?","words":[{"w":"showed","bn":"ঘুরিয়ে দেখাল","pos":"verb","base":"show"}]},
+            {"id":"03","en":"What did Mr. Karim send?","bn":"করিম সাহেব কী পাঠিয়েছিলেন?","words":[{"w":"send","bn":"পাঠানো","pos":"verb"}]},
+            {"id":"04","en":"Why did Rafi stay home yesterday?","bn":"রাফি গতকাল কেন বাসায় ছিল?","words":[{"w":"stay home","bn":"বাসায় থাকা","pos":"phrase"}]},
+            {"id":"05","en":"Where did you have lunch?","bn":"তুমি কোথায় দুপুরের খাবার খেয়েছিলে?","words":[{"w":"have lunch","bn":"দুপুরের খাবার খাওয়া","pos":"phrase"}]},
+            {"id":"06","en":"How did the meeting go?","bn":"মিটিংটা কেমন হয়েছিল?","words":[{"w":"meeting","bn":"সভা, মিটিং","pos":"noun"},{"w":"go","bn":"হওয়া, চলা","pos":"verb"}]}
           ]
         }
       ]
@@ -194,12 +194,12 @@
           "pattern": "Subject + will ('ll) + verb (base) ...",
           "tipBn": "প্রতিশ্রুতি, প্রস্তাব বা তাৎক্ষণিক সিদ্ধান্তে will-এর পরে verb মূল রূপে বসে।",
           "items": [
-            { "id": "01", "en": "I'll send you the report.", "words": [{ "w": "send", "bn": "পাঠানো", "pos": "verb" }, { "w": "report", "bn": "প্রতিবেদন, রিপোর্ট", "pos": "noun" }] },
-            { "id": "02", "en": "Rafi will help you.", "words": [{ "w": "help", "bn": "সাহায্য করা", "pos": "verb" }] },
-            { "id": "03", "en": "The manager will be back soon.", "words": [{ "w": "be back", "bn": "ফিরে আসা", "pos": "phrase" }, { "w": "soon", "bn": "শীঘ্রই", "pos": "adverb" }] },
-            { "id": "04", "en": "I'll call the client tomorrow.", "words": [{ "w": "call", "bn": "ফোন করা", "pos": "verb" }, { "w": "tomorrow", "bn": "আগামীকাল", "pos": "adverb" }] },
-            { "id": "05", "en": "Nadia will finish it by Thursday.", "words": [{ "w": "finish", "bn": "শেষ করা", "pos": "verb" }, { "w": "by Thursday", "bn": "বৃহস্পতিবারের মধ্যে", "pos": "phrase" }] },
-            { "id": "06", "en": "We will meet after lunch.", "words": [{ "w": "after lunch", "bn": "দুপুরের খাবারের পরে", "pos": "phrase" }] }
+            {"id":"01","en":"I'll send you the report.","bn":"আমি তোমাকে রিপোর্টটা পাঠিয়ে দেব।","words":[{"w":"send","bn":"পাঠানো","pos":"verb"},{"w":"report","bn":"প্রতিবেদন, রিপোর্ট","pos":"noun"}]},
+            {"id":"02","en":"Rafi will help you.","bn":"রাফি তোমাকে সাহায্য করবে।","words":[{"w":"help","bn":"সাহায্য করা","pos":"verb"}]},
+            {"id":"03","en":"The manager will be back soon.","bn":"ম্যানেজার শিগগিরই ফিরে আসবেন।","words":[{"w":"be back","bn":"ফিরে আসা","pos":"phrase"},{"w":"soon","bn":"শীঘ্রই","pos":"adverb"}]},
+            {"id":"04","en":"I'll call the client tomorrow.","bn":"আমি আগামীকাল ক্লায়েন্টকে ফোন করব।","words":[{"w":"call","bn":"ফোন করা","pos":"verb"},{"w":"tomorrow","bn":"আগামীকাল","pos":"adverb"}]},
+            {"id":"05","en":"Nadia will finish it by Thursday.","bn":"নাদিয়া বৃহস্পতিবারের মধ্যে এটা শেষ করবে।","words":[{"w":"finish","bn":"শেষ করা","pos":"verb"},{"w":"by Thursday","bn":"বৃহস্পতিবারের মধ্যে","pos":"phrase"}]},
+            {"id":"06","en":"We will meet after lunch.","bn":"আমরা দুপুরের খাবারের পরে দেখা করব।","words":[{"w":"after lunch","bn":"দুপুরের খাবারের পরে","pos":"phrase"}]}
           ]
         },
         {
@@ -207,12 +207,12 @@
           "pattern": "Subject + won't (will not) + verb (base) ...",
           "tipBn": "না-বোধক ভবিষ্যৎ বোঝাতে won't বা will not-এর পরে verb মূল রূপে বসে।",
           "items": [
-            { "id": "01", "en": "I won't forget the report.", "words": [{ "w": "forget", "bn": "ভুলে যাওয়া", "pos": "verb" }] },
-            { "id": "02", "en": "Rafi won't be late tomorrow.", "words": [{ "w": "be late", "bn": "দেরি করা", "pos": "phrase" }] },
-            { "id": "03", "en": "The manager won't be back today.", "words": [{ "w": "be back", "bn": "ফিরে আসা", "pos": "phrase" }] },
-            { "id": "04", "en": "I won't call the client today.", "words": [{ "w": "client", "bn": "ক্লায়েন্ট, গ্রাহক", "pos": "noun" }] },
-            { "id": "05", "en": "It won't take long.", "words": [{ "w": "take long", "bn": "বেশি সময় লাগা", "pos": "phrase" }] },
-            { "id": "06", "en": "We won't meet before lunch.", "words": [{ "w": "before lunch", "bn": "দুপুরের খাবারের আগে", "pos": "phrase" }] }
+            {"id":"01","en":"I won't forget the report.","bn":"আমি রিপোর্টটার কথা ভুলব না।","words":[{"w":"forget","bn":"ভুলে যাওয়া","pos":"verb"}]},
+            {"id":"02","en":"Rafi won't be late tomorrow.","bn":"রাফি আগামীকাল দেরি করবে না।","words":[{"w":"be late","bn":"দেরি করা","pos":"phrase"}]},
+            {"id":"03","en":"The manager won't be back today.","bn":"ম্যানেজার আজ ফিরবেন না।","words":[{"w":"be back","bn":"ফিরে আসা","pos":"phrase"}]},
+            {"id":"04","en":"I won't call the client today.","bn":"আমি আজ ক্লায়েন্টকে ফোন করব না।","words":[{"w":"client","bn":"ক্লায়েন্ট, গ্রাহক","pos":"noun"}]},
+            {"id":"05","en":"It won't take long.","bn":"এতে বেশি সময় লাগবে না।","words":[{"w":"take long","bn":"বেশি সময় লাগা","pos":"phrase"}]},
+            {"id":"06","en":"We won't meet before lunch.","bn":"আমরা দুপুরের খাবারের আগে দেখা করব না।","words":[{"w":"before lunch","bn":"দুপুরের খাবারের আগে","pos":"phrase"}]}
           ]
         },
         {
@@ -220,12 +220,12 @@
           "pattern": "Will + subject + verb (base) ...?",
           "tipBn": "ভবিষ্যতের প্রশ্নে Will বাক্যের শুরুতে বসে।",
           "items": [
-            { "id": "01", "en": "Will you send me the report?", "words": [{ "w": "send", "bn": "পাঠানো", "pos": "verb" }] },
-            { "id": "02", "en": "Will Rafi help me with this?", "words": [{ "w": "help", "bn": "সাহায্য করা", "pos": "verb" }] },
-            { "id": "03", "en": "Will the manager be back soon?", "words": [{ "w": "soon", "bn": "শীঘ্রই", "pos": "adverb" }] },
-            { "id": "04", "en": "Will you join the meeting?", "words": [{ "w": "join", "bn": "যোগ দেওয়া", "pos": "verb" }] },
-            { "id": "05", "en": "Will it take long?", "words": [{ "w": "take long", "bn": "বেশি সময় লাগা", "pos": "phrase" }] },
-            { "id": "06", "en": "Will the client come tomorrow?", "words": [{ "w": "client", "bn": "ক্লায়েন্ট, গ্রাহক", "pos": "noun" }] }
+            {"id":"01","en":"Will you send me the report?","bn":"তুমি কি আমাকে রিপোর্টটা পাঠাবে?","words":[{"w":"send","bn":"পাঠানো","pos":"verb"}]},
+            {"id":"02","en":"Will Rafi help me with this?","bn":"রাফি কি এটাতে আমাকে সাহায্য করবে?","words":[{"w":"help","bn":"সাহায্য করা","pos":"verb"}]},
+            {"id":"03","en":"Will the manager be back soon?","bn":"ম্যানেজার কি শিগগিরই ফিরে আসবেন?","words":[{"w":"soon","bn":"শীঘ্রই","pos":"adverb"}]},
+            {"id":"04","en":"Will you join the meeting?","bn":"তুমি কি মিটিংয়ে যোগ দেবে?","words":[{"w":"join","bn":"যোগ দেওয়া","pos":"verb"}]},
+            {"id":"05","en":"Will it take long?","bn":"এতে কি বেশি সময় লাগবে?","words":[{"w":"take long","bn":"বেশি সময় লাগা","pos":"phrase"}]},
+            {"id":"06","en":"Will the client come tomorrow?","bn":"ক্লায়েন্ট কি আগামীকাল আসবেন?","words":[{"w":"client","bn":"ক্লায়েন্ট, গ্রাহক","pos":"noun"}]}
           ]
         },
         {
@@ -233,12 +233,12 @@
           "pattern": "Wh-word + will + subject + verb (base)?",
           "tipBn": "প্রথমে Wh-word, তারপর will, subject এবং verb-এর মূল রূপ বসে।",
           "items": [
-            { "id": "01", "en": "When will you send the report?", "words": [{ "w": "report", "bn": "প্রতিবেদন, রিপোর্ট", "pos": "noun" }] },
-            { "id": "02", "en": "Who will help Nadia?", "words": [{ "w": "help", "bn": "সাহায্য করা", "pos": "verb" }] },
-            { "id": "03", "en": "What time will the meeting start?", "words": [{ "w": "What time", "bn": "কয়টায়", "pos": "phrase" }] },
-            { "id": "04", "en": "Where will we have lunch?", "words": [{ "w": "have lunch", "bn": "দুপুরের খাবার খাওয়া", "pos": "phrase" }] },
-            { "id": "05", "en": "How long will it take?", "words": [{ "w": "How long", "bn": "কতক্ষণ", "pos": "phrase" }, { "w": "take", "bn": "সময় লাগা", "pos": "verb" }] },
-            { "id": "06", "en": "When will Mr. Karim be back?", "words": [{ "w": "be back", "bn": "ফিরে আসা", "pos": "phrase" }] }
+            {"id":"01","en":"When will you send the report?","bn":"তুমি কখন রিপোর্টটা পাঠাবে?","words":[{"w":"report","bn":"প্রতিবেদন, রিপোর্ট","pos":"noun"}]},
+            {"id":"02","en":"Who will help Nadia?","bn":"নাদিয়াকে কে সাহায্য করবে?","words":[{"w":"help","bn":"সাহায্য করা","pos":"verb"}]},
+            {"id":"03","en":"What time will the meeting start?","bn":"মিটিংটা কয়টায় শুরু হবে?","words":[{"w":"What time","bn":"কয়টায়","pos":"phrase"}]},
+            {"id":"04","en":"Where will we have lunch?","bn":"আমরা কোথায় দুপুরের খাবার খাব?","words":[{"w":"have lunch","bn":"দুপুরের খাবার খাওয়া","pos":"phrase"}]},
+            {"id":"05","en":"How long will it take?","bn":"এতে কতক্ষণ সময় লাগবে?","words":[{"w":"How long","bn":"কতক্ষণ","pos":"phrase"},{"w":"take","bn":"সময় লাগা","pos":"verb"}]},
+            {"id":"06","en":"When will Mr. Karim be back?","bn":"করিম সাহেব কখন ফিরে আসবেন?","words":[{"w":"be back","bn":"ফিরে আসা","pos":"phrase"}]}
           ]
         }
       ]

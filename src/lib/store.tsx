@@ -6,7 +6,7 @@ const STORAGE_KEY = 'repetition-english:v1';
 
 export const DEFAULT_SETTINGS: Settings = {
   level: 'starter',
-  showBangla: true,
+  showMeaning: false,
   fade: true,
   mode: 'read',
   dailyGoal: 100,

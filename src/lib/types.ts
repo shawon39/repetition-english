@@ -20,6 +20,8 @@ export interface Gloss {
 export interface Item {
   id: string;
   en: string;
+  /** Full-sentence Bengali meaning, shown on request. */
+  bn: string;
   title?: string;
   words: Gloss[];
 }
@@ -83,7 +85,8 @@ export type Theme = 'system' | 'light' | 'dark';
 
 export interface Settings {
   level: LevelId;
-  showBangla: boolean;
+  /** Open the full-sentence Bengali meaning automatically. */
+  showMeaning: boolean;
   fade: boolean;
   mode: PracticeMode;
   dailyGoal: number;
