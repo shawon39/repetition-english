@@ -1,0 +1,272 @@
+{
+  "topic": "transport",
+  "level": "intermediate",
+  "title": "The Daily Commute",
+  "story": "Nafisa lives in Uttara and works at a design company in Karwan Bazar. She rides the metro every day. Her colleague Imtiaz drives to work, and her younger brother Sabbir has just started riding a motorbike.",
+  "storyBn": "নাফিসা উত্তরায় থাকে এবং কারওয়ান বাজারের একটা ডিজাইন কোম্পানিতে কাজ করে। সে প্রতিদিন মেট্রোতে যাতায়াত করে। তার সহকর্মী ইমতিয়াজ গাড়ি চালিয়ে অফিসে আসেন, আর তার ছোট ভাই সাব্বির সবেমাত্র মোটরসাইকেল চালানো শুরু করেছে।",
+  "units": [
+    {
+      "grammar": "present-perfect",
+      "focus": "Talk about changes in the daily commute",
+      "focusBn": "প্রতিদিনের যাতায়াতে কী কী বদলেছে তা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + has/have + past participle (+ just / already / since / for ...)",
+          "tipBn": "অতীতে শুরু হয়ে এখনো প্রভাব আছে এমন কাজ বলতে has/have + past participle ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"Nafisa has taken the metro to Karwan Bazar every day since January.","bn":"জানুয়ারি থেকে নাফিসা প্রতিদিন মেট্রোতে করে কারওয়ান বাজারে যাতায়াত করে আসছে।","words":[{"w":"taken","bn":"চড়েছে","pos":"verb","base":"take"},{"w":"since","bn":"থেকে","pos":"preposition"}]},
+            {"id":"02","en":"Her commute has become much shorter since the metro opened.","bn":"মেট্রো চালু হওয়ার পর থেকে তার অফিসে যাতায়াতের সময় অনেক কমে গেছে।","words":[{"w":"commute","bn":"অফিসে যাতায়াত","pos":"noun"},{"w":"become","bn":"হয়েছে","pos":"verb"},{"w":"opened","bn":"চালু হয়েছিল","pos":"verb","base":"open"}]},
+            {"id":"03","en":"Imtiaz has just bought a second-hand car for his family.","bn":"ইমতিয়াজ সবেমাত্র তাঁর পরিবারের জন্য একটা পুরোনো গাড়ি কিনেছেন।","words":[{"w":"just","bn":"সবেমাত্র","pos":"adverb"},{"w":"second-hand","bn":"পুরোনো, ব্যবহৃত","pos":"adjective"}]},
+            {"id":"04","en":"Sabbir has already passed his driving test on the first try.","bn":"সাব্বির ইতিমধ্যে প্রথম চেষ্টাতেই ড্রাইভিং পরীক্ষায় পাস করেছে।","words":[{"w":"already","bn":"ইতিমধ্যে","pos":"adverb"},{"w":"passed","bn":"পাস করেছে","pos":"verb","base":"pass"},{"w":"on the first try","bn":"প্রথম চেষ্টাতেই","pos":"phrase"}]},
+            {"id":"05","en":"The city has built several new flyovers in recent years.","bn":"সাম্প্রতিক বছরগুলোতে শহর কর্তৃপক্ষ বেশ কয়েকটি নতুন ফ্লাইওভার তৈরি করেছে।","words":[{"w":"flyovers","bn":"ফ্লাইওভার, উড়ালসড়ক","pos":"noun","base":"flyover"},{"w":"in recent years","bn":"সাম্প্রতিক বছরগুলোতে","pos":"phrase"}]},
+            {"id":"06","en":"Nafisa has saved almost two hours a day by avoiding the buses.","bn":"বাস এড়িয়ে চলে নাফিসা দিনে প্রায় দুই ঘণ্টা সময় বাঁচিয়েছে।","words":[{"w":"saved","bn":"বাঁচিয়েছে","pos":"verb","base":"save"},{"w":"avoiding","bn":"এড়িয়ে চলা","pos":"verb","base":"avoid"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hasn't/haven't (has never) + past participle (+ yet) ...",
+          "tipBn": "has/have এর পরে not বা never বসে; yet সাধারণত বাক্যের শেষে বসে।",
+          "items": [
+            {"id":"01","en":"Nafisa hasn't been late for work since she started using the metro.","bn":"মেট্রো ব্যবহার শুরু করার পর থেকে নাফিসার অফিসে একবারও দেরি হয়নি।","words":[{"w":"late for work","bn":"অফিসে দেরি","pos":"phrase"},{"w":"started","bn":"শুরু করেছিল","pos":"verb","base":"start"}]},
+            {"id":"02","en":"Imtiaz hasn't driven his new car on the highway yet.","bn":"ইমতিয়াজ এখনো তাঁর নতুন গাড়িটা মহাসড়কে চালাননি।","words":[{"w":"driven","bn":"চালিয়েছে","pos":"verb","base":"drive"},{"w":"highway","bn":"মহাসড়ক","pos":"noun"},{"w":"yet","bn":"এখনো","pos":"adverb"}]},
+            {"id":"03","en":"Sabbir has never ridden a motorbike in heavy traffic.","bn":"সাব্বির কখনো ভারী যানজটের মধ্যে মোটরসাইকেল চালায়নি।","words":[{"w":"ridden","bn":"চালিয়েছে","pos":"verb","base":"ride"},{"w":"heavy traffic","bn":"ভারী যানজট","pos":"phrase"}]},
+            {"id":"04","en":"The traffic in Mohakhali hasn't improved at all this year.","bn":"এ বছর মহাখালীর যানজট একটুও কমেনি।","words":[{"w":"improved","bn":"উন্নতি হয়েছে","pos":"verb","base":"improve"},{"w":"at all","bn":"একটুও","pos":"phrase"}]},
+            {"id":"05","en":"Nafisa hasn't topped up her metro card this week.","bn":"নাফিসা এ সপ্তাহে তার মেট্রো কার্ড রিচার্জ করেনি।","words":[{"w":"topped up","bn":"রিচার্জ করেছে","pos":"phrasal verb","base":"top up"},{"w":"metro card","bn":"মেট্রো কার্ড","pos":"noun"}]},
+            {"id":"06","en":"The government hasn't finished the new expressway yet.","bn":"সরকার এখনো নতুন এক্সপ্রেসওয়ের কাজ শেষ করেনি।","words":[{"w":"finished","bn":"শেষ করেছে","pos":"verb","base":"finish"},{"w":"expressway","bn":"এক্সপ্রেসওয়ে, দ্রুতগতির সড়ক","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Has/Have + subject + (ever) + past participle (+ yet) ...?",
+          "tipBn": "Has/Have বাক্যের শুরুতে বসে; অভিজ্ঞতা জানতে ever আর কাজ শেষ হয়েছে কি না জানতে yet ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"Has Nafisa ever missed the last metro home?","bn":"নাফিসা কি কখনো বাড়ি ফেরার শেষ মেট্রোটা মিস করেছে?","words":[{"w":"ever","bn":"কখনো","pos":"adverb"},{"w":"missed","bn":"মিস করেছে, ধরতে পারেনি","pos":"verb","base":"miss"}]},
+            {"id":"02","en":"Has Imtiaz found a parking space near the office yet?","bn":"ইমতিয়াজ কি এখনো অফিসের কাছে গাড়ি রাখার জায়গা পেয়েছেন?","words":[{"w":"found","bn":"পেয়েছে","pos":"verb","base":"find"},{"w":"parking space","bn":"গাড়ি রাখার জায়গা","pos":"noun"}]},
+            {"id":"03","en":"Has Sabbir received his driving license from the BRTA yet?","bn":"সাব্বির কি এখনো বিআরটিএ থেকে তার ড্রাইভিং লাইসেন্স পেয়েছে?","words":[{"w":"received","bn":"পেয়েছে","pos":"verb","base":"receive"},{"w":"BRTA","bn":"বিআরটিএ, সড়ক পরিবহন কর্তৃপক্ষ","pos":"noun"}]},
+            {"id":"04","en":"Have you ever traveled by launch to Barishal?","bn":"তুমি কি কখনো লঞ্চে করে বরিশাল গিয়েছ?","words":[{"w":"traveled","bn":"ভ্রমণ করেছ","pos":"verb","base":"travel"},{"w":"launch","bn":"লঞ্চ","pos":"noun"}]},
+            {"id":"05","en":"Has the new flyover reduced the traffic in your area?","bn":"নতুন ফ্লাইওভারটা কি তোমার এলাকার যানজট কমিয়েছে?","words":[{"w":"flyover","bn":"ফ্লাইওভার, উড়ালসড়ক","pos":"noun"},{"w":"reduced","bn":"কমিয়েছে","pos":"verb","base":"reduce"}]},
+            {"id":"06","en":"Have they fixed the broken traffic lights at Bijoy Sarani?","bn":"বিজয় সরণির নষ্ট ট্রাফিক বাতিগুলো কি তারা ঠিক করেছে?","words":[{"w":"fixed","bn":"ঠিক করেছে","pos":"verb","base":"fix"},{"w":"broken","bn":"নষ্ট, ভাঙা","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + has/have + subject + past participle ...?",
+          "tipBn": "প্রশ্নশব্দের পরে has/have, তারপর subject আর past participle বসে।",
+          "items": [
+            {"id":"01","en":"How long has Nafisa lived in Uttara with her family?","bn":"নাফিসা কত দিন ধরে পরিবারের সাথে উত্তরায় থাকছে?","words":[{"w":"How long","bn":"কত দিন ধরে","pos":"phrase"},{"w":"lived","bn":"থেকেছে","pos":"verb","base":"live"}]},
+            {"id":"02","en":"Where has Imtiaz parked his car this time?","bn":"এবার ইমতিয়াজ তাঁর গাড়িটা কোথায় পার্ক করেছেন?","words":[{"w":"parked","bn":"পার্ক করেছে, রেখেছে","pos":"verb","base":"park"},{"w":"this time","bn":"এবার","pos":"phrase"}]},
+            {"id":"03","en":"How many times have you used a ride-sharing app this month?","bn":"এ মাসে তুমি কতবার রাইড শেয়ারিং অ্যাপ ব্যবহার করেছ?","words":[{"w":"How many times","bn":"কতবার","pos":"phrase"},{"w":"ride-sharing app","bn":"রাইড শেয়ারিং অ্যাপ","pos":"noun"}]},
+            {"id":"04","en":"Why has the bus fare gone up again this year?","bn":"এ বছর আবার বাস ভাড়া বেড়েছে কেন?","words":[{"w":"fare","bn":"ভাড়া","pos":"noun"},{"w":"gone up","bn":"বেড়েছে","pos":"phrasal verb","base":"go up"}]},
+            {"id":"05","en":"What has Sabbir learned about road safety at driving school?","bn":"ড্রাইভিং স্কুলে সাব্বির সড়ক নিরাপত্তা সম্পর্কে কী শিখেছে?","words":[{"w":"learned","bn":"শিখেছে","pos":"verb","base":"learn"},{"w":"road safety","bn":"সড়ক নিরাপত্তা","pos":"noun"}]},
+            {"id":"06","en":"Which bus routes have changed since the metro opened?","bn":"মেট্রো চালু হওয়ার পর থেকে কোন কোন বাস রুট বদলেছে?","words":[{"w":"routes","bn":"পথ, রুট","pos":"noun","base":"route"},{"w":"changed","bn":"বদলেছে","pos":"verb","base":"change"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences, mostly has/have + past participle.",
+          "tipBn": "অনুচ্ছেদের বেশিরভাগ বাক্যে has/have + past participle দিয়ে সাম্প্রতিক পরিবর্তন আর অভিজ্ঞতা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"A better commute","en":"Nafisa has used the metro for almost a year now. Her daily journey has become faster and much more comfortable. She has stopped worrying about traffic jams in Farmgate. She has even started reading books on the train.","bn":"নাফিসা প্রায় এক বছর ধরে মেট্রো ব্যবহার করছে। তার প্রতিদিনের যাত্রা আগের চেয়ে দ্রুত আর অনেক বেশি আরামদায়ক হয়েছে। ফার্মগেটের যানজট নিয়ে সে দুশ্চিন্তা করা ছেড়ে দিয়েছে। এমনকি সে ট্রেনে বই পড়াও শুরু করেছে।","words":[{"w":"journey","bn":"যাত্রা","pos":"noun"},{"w":"comfortable","bn":"আরামদায়ক","pos":"adjective"},{"w":"worrying","bn":"দুশ্চিন্তা করা","pos":"verb","base":"worry"},{"w":"even","bn":"এমনকি","pos":"adverb"}]},
+            {"id":"02","title":"Sabbir's new license","en":"Sabbir has finally received his driving license. He has practiced for three months with a driving school in Mirpur. His father has given him an old motorbike, but Sabbir has promised to always wear a helmet. So far, he has ridden only on quiet roads.","bn":"অবশেষে সাব্বির তার ড্রাইভিং লাইসেন্স হাতে পেয়েছে। মিরপুরের একটা ড্রাইভিং স্কুলে সে তিন মাস অনুশীলন করেছে। তার বাবা তাকে একটা পুরোনো মোটরসাইকেল দিয়েছেন, তবে সাব্বির কথা দিয়েছে যে সে সবসময় হেলমেট পরবে। এখন পর্যন্ত সে শুধু ফাঁকা রাস্তায় চালিয়েছে।","words":[{"w":"finally","bn":"অবশেষে","pos":"adverb"},{"w":"practiced","bn":"অনুশীলন করেছে","pos":"verb","base":"practice"},{"w":"promised","bn":"কথা দিয়েছে","pos":"verb","base":"promise"},{"w":"So far","bn":"এখন পর্যন্ত","pos":"phrase"},{"w":"quiet","bn":"ফাঁকা, নিরিবিলি","pos":"adjective"}]},
+            {"id":"03","title":"Imtiaz and the parking problem","en":"Imtiaz has driven to work for five years, and finding parking has always been difficult. Recently, his office has rented a few spaces in a nearby building. Since then, he hasn't wasted time circling the streets. He has also started sharing rides with two colleagues.","bn":"ইমতিয়াজ পাঁচ বছর ধরে গাড়ি চালিয়ে অফিসে যাচ্ছেন, আর গাড়ি রাখার জায়গা খুঁজে পাওয়া সবসময়ই কঠিন ছিল। সম্প্রতি তাঁর অফিস কাছের একটা ভবনে কয়েকটি পার্কিংয়ের জায়গা ভাড়া নিয়েছে। তারপর থেকে রাস্তায় রাস্তায় চক্কর দিয়ে তাঁকে আর সময় নষ্ট করতে হয়নি। তিনি দুজন সহকর্মীর সাথে একই গাড়িতে যাতায়াতও শুরু করেছেন।","words":[{"w":"parking","bn":"গাড়ি রাখার জায়গা","pos":"noun"},{"w":"rented","bn":"ভাড়া নিয়েছে","pos":"verb","base":"rent"},{"w":"wasted","bn":"নষ্ট করেছে","pos":"verb","base":"waste"},{"w":"circling","bn":"চক্কর দেওয়া","pos":"verb","base":"circle"},{"w":"sharing rides","bn":"একসাথে গাড়িতে যাওয়া","pos":"phrase"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-continuous",
+      "focus": "Describe what was happening during accidents and delays",
+      "focusBn": "দুর্ঘটনা আর দেরির সময় কী ঘটছিল তা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + was/were + verb-ing ... when / while ...",
+          "tipBn": "অতীতে কোনো সময় চলমান কাজ বলতে was/were + verb-ing বসে; হঠাৎ ঘটা ঘটনা past simple-এ থাকে।",
+          "items": [
+            {"id":"01","en":"Nafisa was reading a book when the metro stopped suddenly.","bn":"মেট্রো যখন হঠাৎ থেমে গেল, নাফিসা তখন একটা বই পড়ছিল।","words":[{"w":"reading","bn":"পড়ছিল","pos":"verb","base":"read"},{"w":"suddenly","bn":"হঠাৎ","pos":"adverb"}]},
+            {"id":"02","en":"It was raining heavily while we were waiting for the bus.","bn":"আমরা যখন বাসের জন্য অপেক্ষা করছিলাম, তখন মুষলধারে বৃষ্টি হচ্ছিল।","words":[{"w":"heavily","bn":"মুষলধারে","pos":"adverb"},{"w":"waiting for","bn":"অপেক্ষা করছিলাম","pos":"phrasal verb","base":"wait for"}]},
+            {"id":"03","en":"Sabbir was riding home when a bus cut in front of him.","bn":"সাব্বির যখন বাইক চালিয়ে বাড়ি ফিরছিল, তখন একটা বাস হঠাৎ তার সামনে ঢুকে পড়ল।","words":[{"w":"riding","bn":"চালাচ্ছিল","pos":"verb","base":"ride"},{"w":"cut in front of","bn":"হঠাৎ সামনে ঢুকে পড়া","pos":"phrase"}]},
+            {"id":"04","en":"At 9 o'clock, thousands of people were crossing the road at Farmgate.","bn":"৯টার সময় হাজার হাজার মানুষ ফার্মগেটে রাস্তা পার হচ্ছিল।","words":[{"w":"thousands of","bn":"হাজার হাজার","pos":"phrase"},{"w":"crossing","bn":"পার হচ্ছিল","pos":"verb","base":"cross"}]},
+            {"id":"05","en":"Imtiaz was looking for a parking space when his boss called.","bn":"ইমতিয়াজ যখন গাড়ি রাখার জায়গা খুঁজছিলেন, তখন তাঁর বস ফোন করলেন।","words":[{"w":"looking for","bn":"খুঁজছিলেন","pos":"phrasal verb","base":"look for"},{"w":"parking space","bn":"গাড়ি রাখার জায়গা","pos":"noun"}]},
+            {"id":"06","en":"Rickshaw pullers were waiting for passengers outside the station.","bn":"রিকশাচালকেরা স্টেশনের বাইরে যাত্রীর জন্য অপেক্ষা করছিলেন।","words":[{"w":"passengers","bn":"যাত্রী","pos":"noun","base":"passenger"},{"w":"outside","bn":"বাইরে","pos":"preposition"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + wasn't/weren't + verb-ing ...",
+          "tipBn": "was/were এর পরে not বসে, তারপর verb-ing।",
+          "items": [
+            {"id":"01","en":"Sabbir wasn't riding fast when the accident happened.","bn":"দুর্ঘটনাটা যখন ঘটে, সাব্বির তখন জোরে চালাচ্ছিল না।","words":[{"w":"accident","bn":"দুর্ঘটনা","pos":"noun"},{"w":"happened","bn":"ঘটেছিল","pos":"verb","base":"happen"}]},
+            {"id":"02","en":"Nafisa wasn't paying attention when the train reached her station.","bn":"ট্রেন যখন তার স্টেশনে পৌঁছাল, নাফিসা তখন খেয়াল করছিল না।","words":[{"w":"paying attention","bn":"মনোযোগ দিচ্ছিল","pos":"phrase","base":"pay attention"},{"w":"reached","bn":"পৌঁছাল","pos":"verb","base":"reach"}]},
+            {"id":"03","en":"The traffic lights weren't working during the power cut.","bn":"বিদ্যুৎ চলে যাওয়ার সময় ট্রাফিক বাতিগুলো কাজ করছিল না।","words":[{"w":"working","bn":"কাজ করছিল","pos":"verb","base":"work"},{"w":"power cut","bn":"বিদ্যুৎ বিভ্রাট, লোডশেডিং","pos":"noun"}]},
+            {"id":"04","en":"We weren't expecting such a long queue at the ticket counter.","bn":"টিকিট কাউন্টারে এত লম্বা লাইন আমরা আশা করছিলাম না।","words":[{"w":"expecting","bn":"আশা করছিলাম","pos":"verb","base":"expect"},{"w":"queue","bn":"লাইন, সারি","pos":"noun"},{"w":"ticket counter","bn":"টিকিট কাউন্টার","pos":"noun"}]},
+            {"id":"05","en":"The bus driver wasn't looking at the road while he was talking on the phone.","bn":"ফোনে কথা বলার সময় বাসচালক রাস্তার দিকে তাকাচ্ছিলেন না।","words":[{"w":"looking at","bn":"তাকাচ্ছিলেন","pos":"phrasal verb","base":"look at"},{"w":"talking on the phone","bn":"ফোনে কথা বলছিলেন","pos":"phrase"}]},
+            {"id":"06","en":"I wasn't using the map app, so I got lost in Old Dhaka.","bn":"আমি ম্যাপ অ্যাপ ব্যবহার করছিলাম না, তাই পুরান ঢাকায় পথ হারিয়ে ফেলেছিলাম।","words":[{"w":"map app","bn":"ম্যাপ অ্যাপ","pos":"noun"},{"w":"got lost","bn":"পথ হারিয়েছিলাম","pos":"phrase","base":"get lost"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Was/Were + subject + verb-ing ...?",
+          "tipBn": "Was/Were বাক্যের শুরুতে বসে, তারপর subject আর verb-ing।",
+          "items": [
+            {"id":"01","en":"Was Sabbir wearing a helmet when he fell off his bike?","bn":"সাব্বির যখন বাইক থেকে পড়ে যায়, তখন কি তার মাথায় হেলমেট ছিল?","words":[{"w":"wearing","bn":"পরে ছিল","pos":"verb","base":"wear"},{"w":"fell off","bn":"পড়ে গিয়েছিল","pos":"phrasal verb","base":"fall off"}]},
+            {"id":"02","en":"Were the passengers standing in the aisle during the whole journey?","bn":"পুরো যাত্রায় কি যাত্রীরা আসনের মাঝের পথে দাঁড়িয়ে ছিলেন?","words":[{"w":"aisle","bn":"আসনের মাঝের পথ","pos":"noun"},{"w":"journey","bn":"যাত্রা","pos":"noun"}]},
+            {"id":"03","en":"Was it raining when you left the office yesterday?","bn":"গতকাল তুমি যখন অফিস থেকে বের হলে, তখন কি বৃষ্টি হচ্ছিল?","words":[{"w":"raining","bn":"বৃষ্টি হচ্ছিল","pos":"verb","base":"rain"},{"w":"left","bn":"বের হয়েছিলে","pos":"verb","base":"leave"}]},
+            {"id":"04","en":"Was the driver speeding before the crash on Mirpur Road?","bn":"মিরপুর রোডে দুর্ঘটনার আগে কি চালক অতিরিক্ত গতিতে চালাচ্ছিলেন?","words":[{"w":"speeding","bn":"অতিরিক্ত গতিতে চালাচ্ছিল","pos":"verb","base":"speed"},{"w":"crash","bn":"সংঘর্ষ, দুর্ঘটনা","pos":"noun"}]},
+            {"id":"05","en":"Were Nafisa and her friends waiting on the right platform?","bn":"নাফিসা আর তার বন্ধুরা কি সঠিক প্ল্যাটফর্মে অপেক্ষা করছিল?","words":[{"w":"waiting","bn":"অপেক্ষা করছিল","pos":"verb","base":"wait"},{"w":"platform","bn":"প্ল্যাটফর্ম","pos":"noun"}]},
+            {"id":"06","en":"Was Imtiaz listening to the traffic news on the radio?","bn":"ইমতিয়াজ কি রেডিওতে ট্রাফিকের খবর শুনছিলেন?","words":[{"w":"listening to","bn":"শুনছিলেন","pos":"phrasal verb","base":"listen to"},{"w":"traffic news","bn":"ট্রাফিকের খবর","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + was/were + subject + verb-ing ...?",
+          "tipBn": "প্রশ্নশব্দের পরে was/were, তারপর subject আর verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"What was Nafisa doing when the metro stopped suddenly?","bn":"মেট্রো যখন হঠাৎ থেমে গেল, নাফিসা তখন কী করছিল?","words":[{"w":"doing","bn":"করছিল","pos":"verb","base":"do"},{"w":"suddenly","bn":"হঠাৎ","pos":"adverb"}]},
+            {"id":"02","en":"Where were you going when the accident happened?","bn":"দুর্ঘটনাটা যখন ঘটে, তুমি তখন কোথায় যাচ্ছিলে?","words":[{"w":"accident","bn":"দুর্ঘটনা","pos":"noun"},{"w":"happened","bn":"ঘটেছিল","pos":"verb","base":"happen"}]},
+            {"id":"03","en":"Why were the passengers shouting at the bus driver?","bn":"যাত্রীরা বাসচালকের ওপর চিৎকার করছিলেন কেন?","words":[{"w":"passengers","bn":"যাত্রী","pos":"noun","base":"passenger"},{"w":"shouting at","bn":"চিৎকার করছিল","pos":"phrasal verb","base":"shout at"}]},
+            {"id":"04","en":"How fast was the truck going before it hit the rickshaw?","bn":"রিকশাটাকে ধাক্কা দেওয়ার আগে ট্রাকটা কত জোরে চলছিল?","words":[{"w":"How fast","bn":"কত জোরে","pos":"phrase"},{"w":"hit","bn":"ধাক্কা দিয়েছিল","pos":"verb"}]},
+            {"id":"05","en":"Who was driving the car at the time of the accident?","bn":"দুর্ঘটনার সময় গাড়িটা কে চালাচ্ছিল?","words":[{"w":"driving","bn":"চালাচ্ছিল","pos":"verb","base":"drive"},{"w":"at the time of","bn":"এর সময়","pos":"phrase"}]},
+            {"id":"06","en":"Which road were you walking along when you got lost?","bn":"পথ হারানোর সময় তুমি কোন রাস্তা ধরে হাঁটছিলে?","words":[{"w":"walking along","bn":"ধরে হাঁটছিলে","pos":"phrasal verb","base":"walk along"},{"w":"got lost","bn":"পথ হারিয়েছিলে","pos":"phrase","base":"get lost"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences, mostly was/were + verb-ing.",
+          "tipBn": "অনুচ্ছেদে was/were + verb-ing দিয়ে পটভূমির দৃশ্য, আর past simple দিয়ে হঠাৎ ঘটা ঘটনা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Stuck at Mohakhali","en":"Imtiaz was driving home on Thursday evening when the traffic stopped completely. Horns were blaring, and street vendors were selling water between the cars. He was getting more and more nervous because his daughter was waiting at school. Finally, he called his wife and asked her to collect the girl.","bn":"বৃহস্পতিবার সন্ধ্যায় ইমতিয়াজ গাড়ি চালিয়ে বাড়ি ফিরছিলেন, তখন রাস্তার সব গাড়ি পুরোপুরি থেমে গেল। চারদিকে হর্ন বাজছিল, আর হকাররা গাড়িগুলোর ফাঁকে ফাঁকে পানি বিক্রি করছিল। তাঁর মেয়ে স্কুলে অপেক্ষা করছিল বলে তিনি ক্রমশ অস্থির হয়ে উঠছিলেন। অবশেষে তিনি স্ত্রীকে ফোন করে মেয়েকে নিয়ে আসতে বললেন।","words":[{"w":"completely","bn":"পুরোপুরি","pos":"adverb"},{"w":"blaring","bn":"তীব্র শব্দে বাজছিল","pos":"verb","base":"blare"},{"w":"street vendors","bn":"হকার, ফেরিওয়ালা","pos":"noun","base":"street vendor"},{"w":"nervous","bn":"অস্থির, উদ্বিগ্ন","pos":"adjective"},{"w":"collect","bn":"নিয়ে আসা","pos":"verb"}]},
+            {"id":"02","title":"A close call","en":"Sabbir was riding his motorbike along Mirpur Road when a bus suddenly stopped in front of him. Luckily, he was traveling slowly, so he braked in time. Other drivers were shouting and honking behind him. Sabbir was shaking, but he was not hurt.","bn":"সাব্বির মিরপুর রোড ধরে মোটরসাইকেল চালাচ্ছিল, এমন সময় একটা বাস হঠাৎ তার সামনে থেমে গেল। ভাগ্য ভালো, সে ধীরে চলছিল, তাই সময়মতো ব্রেক কষতে পারল। পেছনে অন্য চালকেরা চিৎকার করছিল আর হর্ন বাজাচ্ছিল। সাব্বির কাঁপছিল, তবে তার কোনো আঘাত লাগেনি।","words":[{"w":"Luckily","bn":"ভাগ্য ভালো","pos":"adverb"},{"w":"braked","bn":"ব্রেক কষল","pos":"verb","base":"brake"},{"w":"in time","bn":"সময়মতো","pos":"phrase"},{"w":"shaking","bn":"কাঁপছিল","pos":"verb","base":"shake"},{"w":"hurt","bn":"আহত","pos":"adjective"}]},
+            {"id":"03","title":"Rush hour at Karwan Bazar","en":"It was half past eight, and thousands of commuters were pouring out of the metro station. Rickshaw pullers were calling out for passengers, and a traffic police officer was waving his arms. Nafisa was hurrying across the road because she was already late for her meeting.","bn":"তখন সাড়ে ৮টা বাজে, আর হাজার হাজার যাত্রী মেট্রো স্টেশন থেকে স্রোতের মতো বেরিয়ে আসছিল। রিকশাচালকেরা যাত্রীদের ডাকাডাকি করছিলেন, আর একজন ট্রাফিক পুলিশ হাত নেড়ে গাড়ি সামলাচ্ছিলেন। নাফিসা তাড়াহুড়ো করে রাস্তা পার হচ্ছিল, কারণ মিটিংয়ে তার এমনিতেই দেরি হয়ে গিয়েছিল।","words":[{"w":"commuters","bn":"নিত্যযাত্রী","pos":"noun","base":"commuter"},{"w":"pouring out","bn":"স্রোতের মতো বেরিয়ে আসছিল","pos":"phrasal verb","base":"pour out"},{"w":"calling out","bn":"ডাকাডাকি করছিল","pos":"phrasal verb","base":"call out"},{"w":"waving","bn":"নাড়ছিল","pos":"verb","base":"wave"},{"w":"hurrying","bn":"তাড়াহুড়ো করছিল","pos":"verb","base":"hurry"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "modals",
+      "focus": "Give rules and advice for road safety and public transport",
+      "focusBn": "সড়ক নিরাপত্তা আর গণপরিবহনের নিয়ম ও পরামর্শ দেওয়া",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + should / must / have to / might / could / need to + verb (base) ...",
+          "tipBn": "should দিয়ে পরামর্শ, must ও have to দিয়ে বাধ্যবাধকতা, might দিয়ে সম্ভাবনা আর could দিয়ে বিকল্প বোঝায়।",
+          "items": [
+            {"id":"01","en":"You should leave home early to avoid the morning traffic.","bn":"সকালের যানজট এড়াতে তোমার তাড়াতাড়ি বাসা থেকে বের হওয়া উচিত।","words":[{"w":"should","bn":"উচিত","pos":"verb"},{"w":"avoid","bn":"এড়ানো","pos":"verb"}]},
+            {"id":"02","en":"Every rider must wear a helmet, even on short trips.","bn":"প্রত্যেক বাইকচালককে হেলমেট পরতেই হবে, ছোট যাত্রাতেও।","words":[{"w":"rider","bn":"বাইকচালক, আরোহী","pos":"noun"},{"w":"must","bn":"অবশ্যই করতে হবে","pos":"verb"},{"w":"even","bn":"এমনকি","pos":"adverb"}]},
+            {"id":"03","en":"You have to tap your card at the gate before you enter the platform.","bn":"প্ল্যাটফর্মে ঢোকার আগে গেটে তোমার কার্ড ছোঁয়াতে হবে।","words":[{"w":"have to","bn":"করতে হবে","pos":"phrase"},{"w":"tap","bn":"ছোঁয়ানো","pos":"verb"}]},
+            {"id":"04","en":"We might miss the train because of the traffic jam.","bn":"যানজটের কারণে আমরা হয়তো ট্রেনটা মিস করতে পারি।","words":[{"w":"might","bn":"হয়তো","pos":"verb"},{"w":"because of","bn":"এর কারণে","pos":"phrase"}]},
+            {"id":"05","en":"You could ask a traffic police officer for directions.","bn":"তুমি একজন ট্রাফিক পুলিশের কাছে পথ জিজ্ঞেস করতে পারো।","words":[{"w":"could","bn":"পারো","pos":"verb"},{"w":"directions","bn":"পথনির্দেশ","pos":"noun","base":"direction"}]},
+            {"id":"06","en":"Drivers need to slow down near schools and hospitals.","bn":"স্কুল আর হাসপাতালের কাছে চালকদের গতি কমাতে হবে।","words":[{"w":"need to","bn":"প্রয়োজন, করতে হবে","pos":"phrase"},{"w":"slow down","bn":"গতি কমানো","pos":"phrasal verb"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + shouldn't / mustn't / can't / don't have to + verb (base) ...",
+          "tipBn": "mustn't মানে কাজটি নিষেধ, কিন্তু don't have to মানে কাজটি করার দরকার নেই।",
+          "items": [
+            {"id":"01","en":"You shouldn't cross the road while you are looking at your phone.","bn":"ফোনের দিকে তাকিয়ে থাকা অবস্থায় তোমার রাস্তা পার হওয়া উচিত নয়।","words":[{"w":"shouldn't","bn":"উচিত নয়","pos":"verb"},{"w":"cross","bn":"পার হওয়া","pos":"verb"}]},
+            {"id":"02","en":"Drivers mustn't use their phones while they are driving.","bn":"গাড়ি চালানোর সময় চালকদের ফোন ব্যবহার করা একেবারে নিষেধ।","words":[{"w":"mustn't","bn":"কোনোভাবেই নয়, নিষেধ","pos":"verb"},{"w":"driving","bn":"গাড়ি চালাচ্ছে","pos":"verb","base":"drive"}]},
+            {"id":"03","en":"You don't have to buy a paper ticket if you have a card.","bn":"কার্ড থাকলে তোমাকে কাগজের টিকিট কিনতে হবে না।","words":[{"w":"don't have to","bn":"করার দরকার নেই","pos":"phrase"},{"w":"paper ticket","bn":"কাগজের টিকিট","pos":"noun"}]},
+            {"id":"04","en":"Passengers shouldn't get off a bus while it is still moving.","bn":"বাস চলন্ত অবস্থায় যাত্রীদের নামা উচিত নয়।","words":[{"w":"get off","bn":"নামা","pos":"phrasal verb"},{"w":"moving","bn":"চলছে","pos":"verb","base":"move"}]},
+            {"id":"05","en":"Rickshaws can't go on the main roads in Gulshan.","bn":"গুলশানের প্রধান সড়কগুলোতে রিকশা চলতে পারে না।","words":[{"w":"can't","bn":"পারে না","pos":"verb"},{"w":"main roads","bn":"প্রধান সড়ক","pos":"noun","base":"main road"}]},
+            {"id":"06","en":"You mustn't park in front of the hospital gate.","bn":"হাসপাতালের গেটের সামনে গাড়ি পার্ক করা একেবারে নিষেধ।","words":[{"w":"park","bn":"গাড়ি রাখা","pos":"verb"},{"w":"in front of","bn":"সামনে","pos":"preposition"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Should / Must / Can / Could + subject + verb (base) ...? / Do + subject + have to ...?",
+          "tipBn": "মোডাল ক্রিয়া বাক্যের শুরুতে বসে প্রশ্ন হয়; have to এর প্রশ্নে Do/Does লাগে।",
+          "items": [
+            {"id":"01","en":"Should we book our train tickets a week in advance?","bn":"আমাদের কি এক সপ্তাহ আগে থেকেই ট্রেনের টিকিট কেটে রাখা উচিত?","words":[{"w":"book","bn":"বুক করা, কাটা","pos":"verb"},{"w":"in advance","bn":"আগে থেকে","pos":"phrase"}]},
+            {"id":"02","en":"Do I have to show my license to the police officer?","bn":"আমাকে কি পুলিশ কর্মকর্তাকে লাইসেন্স দেখাতে হবে?","words":[{"w":"have to","bn":"করতে হবে","pos":"phrase"},{"w":"show","bn":"দেখানো","pos":"verb"}]},
+            {"id":"03","en":"Can young children travel free on the metro?","bn":"ছোট বাচ্চারা কি মেট্রোতে বিনা ভাড়ায় যেতে পারে?","words":[{"w":"travel","bn":"যাতায়াত করা","pos":"verb"},{"w":"free","bn":"বিনা ভাড়ায়","pos":"adverb"}]},
+            {"id":"04","en":"Must I wear a seat belt in the back seat too?","bn":"পেছনের আসনেও কি আমাকে সিট বেল্ট পরতে হবে?","words":[{"w":"seat belt","bn":"সিট বেল্ট","pos":"noun"},{"w":"back seat","bn":"পেছনের আসন","pos":"noun"}]},
+            {"id":"05","en":"Could you drop me at the next corner, please?","bn":"দয়া করে আমাকে পরের মোড়ে নামিয়ে দিতে পারবেন?","words":[{"w":"drop","bn":"নামিয়ে দেওয়া","pos":"verb"},{"w":"corner","bn":"মোড়","pos":"noun"}]},
+            {"id":"06","en":"Should Sabbir take a road safety course before riding in the city?","bn":"শহরে বাইক চালানোর আগে সাব্বিরের কি একটা সড়ক নিরাপত্তা কোর্স করা উচিত?","words":[{"w":"road safety","bn":"সড়ক নিরাপত্তা","pos":"noun"},{"w":"course","bn":"কোর্স, প্রশিক্ষণ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "tag-question",
+          "pattern": "Statement with a modal, + opposite modal tag + pronoun?",
+          "tipBn": "হ্যাঁ-বোধক বাক্যের শেষে না-বোধক ট্যাগ, আর না-বোধক বাক্যের শেষে হ্যাঁ-বোধক ট্যাগ বসে।",
+          "items": [
+            {"id":"01","en":"We should take the metro today, shouldn't we?","bn":"আজ আমাদের মেট্রোতে যাওয়া উচিত, তাই না?","words":[{"w":"should","bn":"উচিত","pos":"verb"},{"w":"take","bn":"চড়া","pos":"verb"}]},
+            {"id":"02","en":"Sabbir has to renew his license next year, doesn't he?","bn":"সাব্বিরকে আগামী বছর লাইসেন্স নবায়ন করতে হবে, তাই না?","words":[{"w":"has to","bn":"করতে হবে","pos":"phrase"},{"w":"renew","bn":"নবায়ন করা","pos":"verb"}]},
+            {"id":"03","en":"You can drive a manual car in heavy traffic, can't you?","bn":"তুমি ভারী যানজটে ম্যানুয়াল গিয়ারের গাড়ি চালাতে পারো, তাই না?","words":[{"w":"manual","bn":"ম্যানুয়াল গিয়ারের","pos":"adjective"},{"w":"heavy traffic","bn":"ভারী যানজট","pos":"phrase"}]},
+            {"id":"04","en":"Drivers mustn't overtake on a narrow bridge, must they?","bn":"সরু ব্রিজের ওপর চালকদের ওভারটেক করা নিষেধ, তাই না?","words":[{"w":"overtake","bn":"পাশ কাটিয়ে সামনে যাওয়া","pos":"verb"},{"w":"narrow","bn":"সরু","pos":"adjective"}]},
+            {"id":"05","en":"We don't need to change buses at Farmgate, do we?","bn":"আমাদের ফার্মগেটে বাস বদলাতে হবে না, তাই না?","words":[{"w":"need to","bn":"দরকার","pos":"phrase"},{"w":"change buses","bn":"বাস বদলানো","pos":"phrase"}]},
+            {"id":"06","en":"Nafisa should be home by now, shouldn't she?","bn":"নাফিসার এতক্ষণে বাসায় পৌঁছে যাওয়ার কথা, তাই না?","words":[{"w":"should","bn":"কথা, উচিত","pos":"verb"},{"w":"by now","bn":"এতক্ষণে","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences of rules and advice with must, should, have to, might, could.",
+          "tipBn": "অনুচ্ছেদে must, should, have to, might ও could দিয়ে নিয়ম, পরামর্শ আর সম্ভাবনা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Advice for new riders","en":"Sabbir's instructor says that new riders must always wear a proper helmet. They should keep a safe distance from buses and trucks. At night, they have to switch on their headlights. They might also want to avoid busy roads for the first few months.","bn":"সাব্বিরের প্রশিক্ষক বলেন, নতুন বাইকচালকদের সবসময় মানসম্মত হেলমেট পরতেই হবে। বাস আর ট্রাক থেকে তাদের নিরাপদ দূরত্ব বজায় রাখা উচিত। রাতে তাদের হেডলাইট জ্বালাতেই হবে। প্রথম কয়েক মাস তারা হয়তো ব্যস্ত রাস্তা এড়িয়ে চলতেও চাইতে পারে।","words":[{"w":"instructor","bn":"প্রশিক্ষক","pos":"noun"},{"w":"proper","bn":"মানসম্মত, উপযুক্ত","pos":"adjective"},{"w":"safe distance","bn":"নিরাপদ দূরত্ব","pos":"phrase"},{"w":"switch on","bn":"জ্বালানো, চালু করা","pos":"phrasal verb"},{"w":"headlights","bn":"হেডলাইট","pos":"noun","base":"headlight"}]},
+            {"id":"02","title":"Using the metro","en":"First-time metro users should buy a rechargeable card. They have to tap it at the gate when they enter and when they leave. Passengers mustn't eat or drink on the train. They should also give their seats to elderly people and pregnant women.","bn":"যাঁরা প্রথমবার মেট্রোতে চড়ছেন, তাঁদের একটা রিচার্জযোগ্য কার্ড কেনা উচিত। ঢোকার সময় আর বের হওয়ার সময় গেটে কার্ডটা ছোঁয়াতে হয়। ট্রেনের ভেতরে যাত্রীদের খাওয়া বা পান করা নিষেধ। বয়স্ক মানুষ আর অন্তঃসত্ত্বা নারীদের জন্য তাঁদের আসন ছেড়ে দেওয়াও উচিত।","words":[{"w":"rechargeable","bn":"রিচার্জযোগ্য","pos":"adjective"},{"w":"tap","bn":"ছোঁয়ানো","pos":"verb"},{"w":"elderly","bn":"বয়স্ক","pos":"adjective"},{"w":"pregnant","bn":"অন্তঃসত্ত্বা","pos":"adjective"}]},
+            {"id":"03","title":"Before a long drive","en":"Imtiaz is driving to Sylhet next week, so he must prepare his car carefully. He should check the tires and the brakes. He might need extra fuel because petrol pumps can be far apart on some roads. He could also leave before dawn to avoid the traffic.","bn":"ইমতিয়াজ আগামী সপ্তাহে গাড়ি চালিয়ে সিলেট যাচ্ছেন, তাই তাঁকে গাড়িটা ভালোভাবে প্রস্তুত করতেই হবে। তাঁর টায়ার আর ব্রেক পরীক্ষা করা উচিত। কিছু রাস্তায় পেট্রল পাম্প অনেক দূরে দূরে থাকতে পারে, তাই তাঁর বাড়তি জ্বালানি লাগতে পারে। যানজট এড়াতে তিনি ভোর হওয়ার আগেও রওনা দিতে পারেন।","words":[{"w":"tires","bn":"টায়ার","pos":"noun","base":"tire"},{"w":"brakes","bn":"ব্রেক","pos":"noun","base":"brake"},{"w":"fuel","bn":"জ্বালানি","pos":"noun"},{"w":"far apart","bn":"অনেক দূরে দূরে","pos":"phrase"},{"w":"dawn","bn":"ভোর","pos":"noun"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Talk about real and imagined travel situations",
+      "focusBn": "বাস্তব ও কাল্পনিক যাতায়াত-পরিস্থিতি নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + present, will + verb. / If + past, would + verb.",
+          "tipBn": "সম্ভাব্য অবস্থায় If + present ও will, আর কাল্পনিক অবস্থায় If + past ও would ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"If the metro is on time, Nafisa will reach the office by nine.","bn":"মেট্রো সময়মতো চললে নাফিসা ৯টার মধ্যে অফিসে পৌঁছে যাবে।","words":[{"w":"on time","bn":"সময়মতো","pos":"phrase"},{"w":"by nine","bn":"৯টার মধ্যে","pos":"phrase"}]},
+            {"id":"02","en":"If I had a car, I would drive my parents to the village every month.","bn":"আমার গাড়ি থাকলে আমি প্রতি মাসে মা-বাবাকে গাড়িতে করে গ্রামে নিয়ে যেতাম।","words":[{"w":"drive","bn":"গাড়িতে নিয়ে যাওয়া","pos":"verb"},{"w":"village","bn":"গ্রাম","pos":"noun"}]},
+            {"id":"03","en":"If you turn left at the mosque, you will see the bank on your right.","bn":"মসজিদের কাছে বাঁয়ে ঘুরলে তোমার ডান দিকে ব্যাংকটা দেখতে পাবে।","words":[{"w":"turn left","bn":"বাঁয়ে ঘোরা","pos":"phrase"},{"w":"on your right","bn":"তোমার ডান দিকে","pos":"phrase"}]},
+            {"id":"04","en":"If the roads were wider, the traffic would move faster.","bn":"রাস্তাগুলো আরও চওড়া হলে যানবাহন আরও দ্রুত চলত।","words":[{"w":"wider","bn":"আরও চওড়া","pos":"adjective","base":"wide"},{"w":"move","bn":"চলা","pos":"verb"}]},
+            {"id":"05","en":"If it rains heavily tonight, the streets in Mirpur will flood again.","bn":"আজ রাতে জোরে বৃষ্টি হলে মিরপুরের রাস্তাগুলো আবার পানিতে ডুবে যাবে।","words":[{"w":"heavily","bn":"জোরে, প্রবলভাবে","pos":"adverb"},{"w":"flood","bn":"পানিতে ডুবে যাওয়া","pos":"verb"}]},
+            {"id":"06","en":"If Sabbir rides carefully, his parents will stop worrying about him.","bn":"সাব্বির সাবধানে চালালে তার মা-বাবা তাকে নিয়ে দুশ্চিন্তা করা বন্ধ করবেন।","words":[{"w":"carefully","bn":"সাবধানে","pos":"adverb"},{"w":"worrying about","bn":"নিয়ে দুশ্চিন্তা করা","pos":"phrasal verb","base":"worry about"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + don't / didn't ..., won't / wouldn't + verb.",
+          "tipBn": "শর্ত বা ফল যেকোনো অংশে don't, won't, didn't বা wouldn't দিয়ে না-বোধক করা যায়।",
+          "items": [
+            {"id":"01","en":"If you don't leave now, you won't catch the last train.","bn":"এখন রওনা না দিলে তুমি শেষ ট্রেনটা ধরতে পারবে না।","words":[{"w":"leave","bn":"রওনা দেওয়া","pos":"verb"},{"w":"catch","bn":"ধরা","pos":"verb"}]},
+            {"id":"02","en":"If there weren't so many cars, we wouldn't waste hours in traffic.","bn":"এত গাড়ি না থাকলে যানজটে আমাদের ঘণ্টার পর ঘণ্টা নষ্ট হতো না।","words":[{"w":"so many","bn":"এত বেশি","pos":"phrase"},{"w":"waste","bn":"নষ্ট করা","pos":"verb"}]},
+            {"id":"03","en":"If Imtiaz didn't have a car, he wouldn't visit his parents so often.","bn":"ইমতিয়াজের গাড়ি না থাকলে তিনি এত ঘন ঘন মা-বাবার কাছে যেতেন না।","words":[{"w":"visit","bn":"দেখা করতে যাওয়া","pos":"verb"},{"w":"so often","bn":"এত ঘন ঘন","pos":"phrase"}]},
+            {"id":"04","en":"You won't get lost if you follow the map on your phone.","bn":"ফোনের ম্যাপ অনুসরণ করলে তুমি পথ হারাবে না।","words":[{"w":"get lost","bn":"পথ হারানো","pos":"phrase"},{"w":"follow","bn":"অনুসরণ করা","pos":"verb"}]},
+            {"id":"05","en":"If you don't have a license, you can't rent a car.","bn":"লাইসেন্স না থাকলে তুমি গাড়ি ভাড়া নিতে পারবে না।","words":[{"w":"license","bn":"লাইসেন্স","pos":"noun"},{"w":"rent","bn":"ভাড়া নেওয়া","pos":"verb"}]},
+            {"id":"06","en":"If the metro weren't so fast, Nafisa wouldn't pay the higher fare.","bn":"মেট্রো এত দ্রুত না হলে নাফিসা বেশি ভাড়া দিত না।","words":[{"w":"higher","bn":"বেশি","pos":"adjective","base":"high"},{"w":"fare","bn":"ভাড়া","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + will / would + subject + verb + if ...?",
+          "tipBn": "প্রশ্নশব্দ, তারপর will বা would দিয়ে প্রশ্ন, আর শেষে if দিয়ে শর্ত বসে।",
+          "items": [
+            {"id":"01","en":"What will you do if you miss the last metro?","bn":"শেষ মেট্রোটা মিস করলে তুমি কী করবে?","words":[{"w":"miss","bn":"মিস করা, ধরতে না পারা","pos":"verb"},{"w":"last","bn":"শেষ","pos":"adjective"}]},
+            {"id":"02","en":"Where would you live if you worked in Motijheel?","bn":"মতিঝিলে চাকরি করলে তুমি কোথায় থাকতে?","words":[{"w":"Where","bn":"কোথায়","pos":"adverb"},{"w":"worked","bn":"চাকরি করতে","pos":"verb","base":"work"}]},
+            {"id":"03","en":"How will you get home if the roads flood?","bn":"রাস্তায় পানি উঠলে তুমি কীভাবে বাসায় ফিরবে?","words":[{"w":"get home","bn":"বাসায় ফেরা","pos":"phrase"},{"w":"flood","bn":"পানিতে ডুবে যাওয়া","pos":"verb"}]},
+            {"id":"04","en":"What would you do if your car broke down on the highway?","bn":"মহাসড়কে তোমার গাড়ি নষ্ট হয়ে গেলে তুমি কী করতে?","words":[{"w":"broke down","bn":"নষ্ট হয়ে গেল","pos":"phrasal verb","base":"break down"},{"w":"highway","bn":"মহাসড়ক","pos":"noun"}]},
+            {"id":"05","en":"Which route will you take if the bridge is closed?","bn":"ব্রিজ বন্ধ থাকলে তুমি কোন পথে যাবে?","words":[{"w":"route","bn":"পথ, রুট","pos":"noun"},{"w":"closed","bn":"বন্ধ","pos":"adjective"}]},
+            {"id":"06","en":"Who would you call if you had an accident on the way?","bn":"পথে দুর্ঘটনায় পড়লে তুমি কাকে ফোন করতে?","words":[{"w":"accident","bn":"দুর্ঘটনা","pos":"noun"},{"w":"on the way","bn":"পথে","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences with first and second conditionals.",
+          "tipBn": "অনুচ্ছেদে If + present ও will দিয়ে সম্ভাব্য ফল, আর If + past ও would দিয়ে কাল্পনিক অবস্থা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Choosing a home","en":"If Nafisa moves closer to Karwan Bazar, she will save even more time. But if she leaves Uttara, she will miss her parents. If rents in the city center were cheaper, she would move tomorrow. For now, the metro is the best solution.","bn":"নাফিসা কারওয়ান বাজারের কাছাকাছি চলে গেলে আরও বেশি সময় বাঁচাতে পারবে। কিন্তু উত্তরা ছেড়ে গেলে সে মা-বাবাকে খুব মিস করবে। শহরের কেন্দ্রে বাসাভাড়া কম হলে সে কালই চলে যেত। আপাতত মেট্রোই সবচেয়ে ভালো সমাধান।","words":[{"w":"closer","bn":"আরও কাছে","pos":"adverb","base":"close"},{"w":"miss","bn":"অভাব বোধ করা","pos":"verb"},{"w":"rents","bn":"বাসাভাড়া","pos":"noun","base":"rent"},{"w":"city center","bn":"শহরের কেন্দ্র","pos":"noun"},{"w":"solution","bn":"সমাধান","pos":"noun"}]},
+            {"id":"02","title":"Sabbir's dream","en":"If Sabbir had more money, he would buy a safer motorbike with better brakes. He would also join an advanced riding course. If he works hard this year, he will save enough by December. His parents will help him if he keeps his promise to ride carefully.","bn":"সাব্বিরের কাছে আরও টাকা থাকলে সে ভালো ব্রেকওয়ালা আরও নিরাপদ একটা মোটরসাইকেল কিনত। সে একটা উন্নত মানের রাইডিং কোর্সেও ভর্তি হতো। এ বছর কঠোর পরিশ্রম করলে ডিসেম্বরের মধ্যে সে যথেষ্ট টাকা জমাতে পারবে। সাবধানে চালানোর প্রতিশ্রুতি রাখলে তার মা-বাবা তাকে সাহায্য করবেন।","words":[{"w":"safer","bn":"আরও নিরাপদ","pos":"adjective","base":"safe"},{"w":"brakes","bn":"ব্রেক","pos":"noun","base":"brake"},{"w":"advanced","bn":"উন্নত মানের","pos":"adjective"},{"w":"keeps his promise","bn":"প্রতিশ্রুতি রাখে","pos":"idiom","base":"keep a promise"}]},
+            {"id":"03","title":"A better bus system","en":"If the city had more modern buses, fewer people would drive their own cars. Traffic would move faster, and the air would be cleaner. If the government starts a new bus service next year, Imtiaz will try it. He will happily leave his car at home if the service is reliable.","bn":"শহরে আরও আধুনিক বাস থাকলে কম মানুষ নিজেদের গাড়ি চালাত। যানবাহন আরও দ্রুত চলত, আর বাতাসও আরও পরিষ্কার হতো। সরকার আগামী বছর নতুন বাস সার্ভিস চালু করলে ইমতিয়াজ সেটা ব্যবহার করে দেখবেন। সার্ভিসটা নির্ভরযোগ্য হলে তিনি খুশিমনে গাড়িটা বাসায় রেখে যাবেন।","words":[{"w":"modern","bn":"আধুনিক","pos":"adjective"},{"w":"fewer","bn":"কম সংখ্যক","pos":"adjective"},{"w":"happily","bn":"খুশিমনে","pos":"adverb"},{"w":"reliable","bn":"নির্ভরযোগ্য","pos":"adjective"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

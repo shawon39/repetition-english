@@ -1,0 +1,247 @@
+{
+  "topic": "transport",
+  "level": "starter",
+  "title": "Mitu's Way to College",
+  "story": "Mitu is a college student in Dhaka. She lives in Mirpur with her father, a CNG driver. Every day she goes to her college in Farmgate by bus, rickshaw or metro. Her friend Joy rides a bicycle.",
+  "storyBn": "মিতু ঢাকার একজন কলেজছাত্রী। সে মিরপুরে তার বাবার সাথে থাকে; তার বাবা একজন সিএনজিচালক। প্রতিদিন সে বাস, রিকশা বা মেট্রোতে করে ফার্মগেটে তার কলেজে যায়। তার বন্ধু জয় সাইকেল চালিয়ে যায়।",
+  "units": [
+    {
+      "grammar": "present-simple",
+      "focus": "Talk about the daily trip to college",
+      "focusBn": "প্রতিদিন কলেজে যাওয়ার পথ নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb(s) + by bus / to ... / Subject + is/are + ...",
+          "tipBn": "অভ্যাস বা সাধারণ সত্য বলতে present simple ব্যবহার হয়; he, she বা নামের পরে verb-এর সাথে s যোগ হয়।",
+          "items": [
+            {"id":"01","en":"Mitu goes to college by bus.","bn":"মিতু বাসে করে কলেজে যায়।","words":[{"w":"by bus","bn":"বাসে করে","pos":"phrase"},{"w":"college","bn":"কলেজ","pos":"noun"}]},
+            {"id":"02","en":"The bus stop is near her house.","bn":"বাস স্টপটা তার বাসার কাছে।","words":[{"w":"bus stop","bn":"বাস স্টপ","pos":"noun"},{"w":"near","bn":"কাছে","pos":"preposition"}]},
+            {"id":"03","en":"The bus fare is 20 taka.","bn":"বাস ভাড়া ২০ টাকা।","words":[{"w":"fare","bn":"ভাড়া","pos":"noun"}]},
+            {"id":"04","en":"Mitu's father drives a CNG.","bn":"মিতুর বাবা সিএনজি চালান।","words":[{"w":"drives","bn":"চালান","pos":"verb","base":"drive"},{"w":"CNG","bn":"সিএনজি অটোরিকশা","pos":"noun"}]},
+            {"id":"05","en":"The roads are busy in the morning.","bn":"সকালে রাস্তাগুলো খুব ব্যস্ত থাকে।","words":[{"w":"roads","bn":"রাস্তা","pos":"noun","base":"road"},{"w":"busy","bn":"ব্যস্ত, ভিড়ে ভরা","pos":"adjective"}]},
+            {"id":"06","en":"Joy rides a bicycle to college.","bn":"জয় সাইকেল চালিয়ে কলেজে যায়।","words":[{"w":"rides","bn":"চালায়","pos":"verb","base":"ride"},{"w":"bicycle","bn":"সাইকেল","pos":"noun"}]},
+            {"id":"07","en":"The metro is fast and clean.","bn":"মেট্রো দ্রুত আর পরিষ্কার।","words":[{"w":"metro","bn":"মেট্রো রেল","pos":"noun"},{"w":"fast","bn":"দ্রুত","pos":"adjective"}]},
+            {"id":"08","en":"Mitu takes a rickshaw home.","bn":"মিতু রিকশায় করে বাসায় ফেরে।","words":[{"w":"takes","bn":"চড়ে, নেয়","pos":"verb","base":"take"},{"w":"rickshaw","bn":"রিকশা","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + don't/doesn't + verb ... / Subject + is not + ...",
+          "tipBn": "verb-এর আগে don't বা doesn't বসে; is বা are এর পরে not বসে।",
+          "items": [
+            {"id":"01","en":"Mitu doesn't go to college by car.","bn":"মিতু গাড়িতে করে কলেজে যায় না।","words":[{"w":"doesn't go","bn":"যায় না","pos":"phrase"},{"w":"by car","bn":"গাড়িতে করে","pos":"phrase"}]},
+            {"id":"02","en":"The bus stop is not far.","bn":"বাস স্টপটা দূরে নয়।","words":[{"w":"far","bn":"দূরে","pos":"adverb"}]},
+            {"id":"03","en":"The bus fare is not high.","bn":"বাস ভাড়া বেশি নয়।","words":[{"w":"fare","bn":"ভাড়া","pos":"noun"},{"w":"high","bn":"বেশি","pos":"adjective"}]},
+            {"id":"04","en":"Joy doesn't ride a motorbike.","bn":"জয় মোটরসাইকেল চালায় না।","words":[{"w":"ride","bn":"চালানো","pos":"verb"},{"w":"motorbike","bn":"মোটরসাইকেল","pos":"noun"}]},
+            {"id":"05","en":"Rickshaws don't go on the main road.","bn":"রিকশা বড় রাস্তায় চলে না।","words":[{"w":"rickshaws","bn":"রিকশা","pos":"noun","base":"rickshaw"},{"w":"main road","bn":"বড় রাস্তা, প্রধান সড়ক","pos":"noun"}]},
+            {"id":"06","en":"Mitu's father doesn't drive at night.","bn":"মিতুর বাবা রাতে গাড়ি চালান না।","words":[{"w":"drive","bn":"গাড়ি চালানো","pos":"verb"},{"w":"at night","bn":"রাতে","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Do/Does + subject + verb ...? / Is + subject + ...?",
+          "tipBn": "প্রশ্ন করতে Do/Does অথবা Is বাক্যের শুরুতে বসে এবং verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Does Mitu go to college by bus?","bn":"মিতু কি বাসে করে কলেজে যায়?","words":[{"w":"by bus","bn":"বাসে করে","pos":"phrase"}]},
+            {"id":"02","en":"Is the bus stop near her house?","bn":"বাস স্টপটা কি তার বাসার কাছে?","words":[{"w":"bus stop","bn":"বাস স্টপ","pos":"noun"},{"w":"near","bn":"কাছে","pos":"preposition"}]},
+            {"id":"03","en":"Is the bus fare 20 taka?","bn":"বাস ভাড়া কি ২০ টাকা?","words":[{"w":"fare","bn":"ভাড়া","pos":"noun"}]},
+            {"id":"04","en":"Does Joy ride a bicycle?","bn":"জয় কি সাইকেল চালায়?","words":[{"w":"ride","bn":"চালানো","pos":"verb"},{"w":"bicycle","bn":"সাইকেল","pos":"noun"}]},
+            {"id":"05","en":"Do you take the metro?","bn":"তুমি কি মেট্রোতে চড়ো?","words":[{"w":"take","bn":"চড়া, নেওয়া","pos":"verb"},{"w":"metro","bn":"মেট্রো রেল","pos":"noun"}]},
+            {"id":"06","en":"Is this the bus to Farmgate?","bn":"এটা কি ফার্মগেটের বাস?","words":[{"w":"bus","bn":"বাস","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + do/does/is + subject ...?",
+          "tipBn": "How, Where, Which ইত্যাদি প্রশ্নশব্দ শুরুতে বসে, তারপর do/does বা is।",
+          "items": [
+            {"id":"01","en":"How does Mitu go to college?","bn":"মিতু কীভাবে কলেজে যায়?","words":[{"w":"How","bn":"কীভাবে","pos":"adverb"},{"w":"college","bn":"কলেজ","pos":"noun"}]},
+            {"id":"02","en":"Where is the bus stop?","bn":"বাস স্টপটা কোথায়?","words":[{"w":"Where","bn":"কোথায়","pos":"adverb"},{"w":"bus stop","bn":"বাস স্টপ","pos":"noun"}]},
+            {"id":"03","en":"How much is the bus fare?","bn":"বাস ভাড়া কত?","words":[{"w":"How much","bn":"কত","pos":"phrase"},{"w":"fare","bn":"ভাড়া","pos":"noun"}]},
+            {"id":"04","en":"What time does the bus come?","bn":"বাস কয়টায় আসে?","words":[{"w":"What time","bn":"কয়টায়","pos":"phrase"}]},
+            {"id":"05","en":"Which bus goes to Farmgate?","bn":"কোন বাস ফার্মগেটে যায়?","words":[{"w":"Which","bn":"কোন","pos":"pronoun"}]},
+            {"id":"06","en":"Who drives the CNG?","bn":"সিএনজিটা কে চালায়?","words":[{"w":"Who","bn":"কে","pos":"pronoun"},{"w":"drives","bn":"চালায়","pos":"verb","base":"drive"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "present-continuous",
+      "focus": "Describe what is happening at the bus stop now",
+      "focusBn": "এখন বাস স্টপে কী ঘটছে তা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + verb-ing ...",
+          "tipBn": "এই মুহূর্তে চলমান কাজ বলতে am/is/are এর পরে verb-এর সাথে ing যোগ হয়।",
+          "items": [
+            {"id":"01","en":"Mitu is waiting at the bus stop.","bn":"মিতু বাস স্টপে অপেক্ষা করছে।","words":[{"w":"waiting","bn":"অপেক্ষা করছে","pos":"verb","base":"wait"},{"w":"bus stop","bn":"বাস স্টপ","pos":"noun"}]},
+            {"id":"02","en":"The bus is coming now.","bn":"বাসটা এখন আসছে।","words":[{"w":"coming","bn":"আসছে","pos":"verb","base":"come"},{"w":"now","bn":"এখন","pos":"adverb"}]},
+            {"id":"03","en":"Many people are getting on the bus.","bn":"অনেক মানুষ বাসে উঠছে।","words":[{"w":"getting on","bn":"উঠছে","pos":"phrasal verb","base":"get on"}]},
+            {"id":"04","en":"Mitu is standing near the door.","bn":"মিতু দরজার কাছে দাঁড়িয়ে আছে।","words":[{"w":"standing","bn":"দাঁড়িয়ে আছে","pos":"verb","base":"stand"},{"w":"door","bn":"দরজা","pos":"noun"}]},
+            {"id":"05","en":"The driver is honking loudly.","bn":"চালক জোরে জোরে হর্ন বাজাচ্ছেন।","words":[{"w":"honking","bn":"হর্ন বাজাচ্ছে","pos":"verb","base":"honk"},{"w":"loudly","bn":"জোরে","pos":"adverb"}]},
+            {"id":"06","en":"Joy is riding his bicycle beside the bus.","bn":"জয় বাসের পাশে পাশে সাইকেল চালাচ্ছে।","words":[{"w":"riding","bn":"চালাচ্ছে","pos":"verb","base":"ride"},{"w":"beside","bn":"পাশে","pos":"preposition"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + verb-ing ...",
+          "tipBn": "am/is/are এর পরে not বসিয়ে চলমান কাজের না-বোধক বাক্য হয়।",
+          "items": [
+            {"id":"01","en":"Mitu is not sitting on the bus.","bn":"মিতু বাসে বসে নেই।","words":[{"w":"sitting","bn":"বসে আছে","pos":"verb","base":"sit"}]},
+            {"id":"02","en":"The bus is not moving now.","bn":"বাসটা এখন চলছে না।","words":[{"w":"moving","bn":"চলছে","pos":"verb","base":"move"}]},
+            {"id":"03","en":"Joy is not wearing a helmet.","bn":"জয় হেলমেট পরে নেই।","words":[{"w":"wearing","bn":"পরে আছে","pos":"verb","base":"wear"},{"w":"helmet","bn":"হেলমেট","pos":"noun"}]},
+            {"id":"04","en":"The driver is not driving fast.","bn":"চালক জোরে গাড়ি চালাচ্ছেন না।","words":[{"w":"driving","bn":"চালাচ্ছে","pos":"verb","base":"drive"},{"w":"fast","bn":"জোরে, দ্রুত","pos":"adverb"}]},
+            {"id":"05","en":"We are not walking today.","bn":"আজ আমরা হেঁটে যাচ্ছি না।","words":[{"w":"walking","bn":"হাঁটছি","pos":"verb","base":"walk"}]},
+            {"id":"06","en":"The traffic light is not working.","bn":"ট্রাফিক লাইটটা কাজ করছে না।","words":[{"w":"traffic light","bn":"ট্রাফিক বাতি","pos":"noun"},{"w":"working","bn":"কাজ করছে","pos":"verb","base":"work"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + verb-ing ...?",
+          "tipBn": "প্রশ্ন করতে am/is/are বাক্যের শুরুতে চলে আসে।",
+          "items": [
+            {"id":"01","en":"Is Mitu waiting at the bus stop?","bn":"মিতু কি বাস স্টপে অপেক্ষা করছে?","words":[{"w":"waiting","bn":"অপেক্ষা করছে","pos":"verb","base":"wait"}]},
+            {"id":"02","en":"Is the bus coming now?","bn":"বাসটা কি এখন আসছে?","words":[{"w":"coming","bn":"আসছে","pos":"verb","base":"come"}]},
+            {"id":"03","en":"Are many people getting on the bus?","bn":"অনেক মানুষ কি বাসে উঠছে?","words":[{"w":"getting on","bn":"উঠছে","pos":"phrasal verb","base":"get on"}]},
+            {"id":"04","en":"Is the driver honking?","bn":"চালক কি হর্ন বাজাচ্ছেন?","words":[{"w":"driver","bn":"চালক","pos":"noun"},{"w":"honking","bn":"হর্ন বাজাচ্ছে","pos":"verb","base":"honk"}]},
+            {"id":"05","en":"Are you sitting in the front?","bn":"তুমি কি সামনে বসে আছ?","words":[{"w":"sitting","bn":"বসে আছ","pos":"verb","base":"sit"},{"w":"front","bn":"সামনের দিক","pos":"noun"}]},
+            {"id":"06","en":"Is Joy wearing a helmet?","bn":"জয় কি হেলমেট পরে আছে?","words":[{"w":"wearing","bn":"পরে আছে","pos":"verb","base":"wear"},{"w":"helmet","bn":"হেলমেট","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + verb-ing ...?",
+          "tipBn": "প্রশ্নশব্দের পরে am/is/are, তারপর subject আর verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"Where is Mitu standing?","bn":"মিতু কোথায় দাঁড়িয়ে আছে?","words":[{"w":"Where","bn":"কোথায়","pos":"adverb"},{"w":"standing","bn":"দাঁড়িয়ে আছে","pos":"verb","base":"stand"}]},
+            {"id":"02","en":"Why is the bus stopping here?","bn":"বাসটা এখানে থামছে কেন?","words":[{"w":"Why","bn":"কেন","pos":"adverb"},{"w":"stopping","bn":"থামছে","pos":"verb","base":"stop"}]},
+            {"id":"03","en":"What is the driver doing?","bn":"চালক কী করছেন?","words":[{"w":"What","bn":"কী","pos":"pronoun"},{"w":"driver","bn":"চালক","pos":"noun"}]},
+            {"id":"04","en":"Who is sitting next to Mitu?","bn":"মিতুর পাশে কে বসে আছে?","words":[{"w":"Who","bn":"কে","pos":"pronoun"},{"w":"next to","bn":"পাশে","pos":"preposition"}]},
+            {"id":"05","en":"Where are you going?","bn":"তুমি কোথায় যাচ্ছ?","words":[{"w":"going","bn":"যাচ্ছ","pos":"verb","base":"go"}]},
+            {"id":"06","en":"Why is everyone waiting?","bn":"সবাই অপেক্ষা করছে কেন?","words":[{"w":"everyone","bn":"সবাই","pos":"pronoun"},{"w":"waiting","bn":"অপেক্ষা করছে","pos":"verb","base":"wait"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-simple",
+      "focus": "Tell the story of a late morning",
+      "focusBn": "দেরি হয়ে যাওয়া এক সকালের গল্প বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb (past) ... / There was + ...",
+          "tipBn": "অতীতের কাজ বলতে verb-এর past রূপ ব্যবহার হয়: take → took, pay → paid।",
+          "items": [
+            {"id":"01","en":"Mitu was late yesterday.","bn":"গতকাল মিতুর দেরি হয়েছিল।","words":[{"w":"late","bn":"দেরি","pos":"adjective"},{"w":"yesterday","bn":"গতকাল","pos":"adverb"}]},
+            {"id":"02","en":"There was a big traffic jam.","bn":"বড় একটা যানজট ছিল।","words":[{"w":"traffic jam","bn":"যানজট","pos":"noun"}]},
+            {"id":"03","en":"The bus stopped for one hour.","bn":"বাসটা এক ঘণ্টা থেমে ছিল।","words":[{"w":"stopped","bn":"থেমে ছিল","pos":"verb","base":"stop"},{"w":"hour","bn":"ঘণ্টা","pos":"noun"}]},
+            {"id":"04","en":"Mitu got off the bus.","bn":"মিতু বাস থেকে নেমে গেল।","words":[{"w":"got off","bn":"নেমে গেল","pos":"phrasal verb","base":"get off"}]},
+            {"id":"05","en":"She took the metro to Farmgate.","bn":"সে মেট্রোতে করে ফার্মগেটে গেল।","words":[{"w":"took","bn":"চড়ল, নিল","pos":"verb","base":"take"},{"w":"metro","bn":"মেট্রো রেল","pos":"noun"}]},
+            {"id":"06","en":"She paid 30 taka for the ticket.","bn":"সে টিকিটের জন্য ৩০ টাকা দিল।","words":[{"w":"paid","bn":"দিল","pos":"verb","base":"pay"},{"w":"ticket","bn":"টিকিট","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + didn't + verb (base) ... / was not + ...",
+          "tipBn": "অতীতের না-বোধক বাক্যে didn't এর পরে verb মূল রূপে থাকে; was এর পরে not বসে।",
+          "items": [
+            {"id":"01","en":"Mitu was not on time yesterday.","bn":"গতকাল মিতু সময়মতো পৌঁছায়নি।","words":[{"w":"on time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"02","en":"The bus didn't move for one hour.","bn":"বাসটা এক ঘণ্টা নড়েনি।","words":[{"w":"move","bn":"নড়া, চলা","pos":"verb"}]},
+            {"id":"03","en":"She didn't take a rickshaw.","bn":"সে রিকশা নেয়নি।","words":[{"w":"take","bn":"নেওয়া","pos":"verb"},{"w":"rickshaw","bn":"রিকশা","pos":"noun"}]},
+            {"id":"04","en":"Joy didn't come to college yesterday.","bn":"জয় গতকাল কলেজে আসেনি।","words":[{"w":"didn't come","bn":"আসেনি","pos":"phrase"},{"w":"yesterday","bn":"গতকাল","pos":"adverb"}]},
+            {"id":"05","en":"The metro was not crowded.","bn":"মেট্রোতে ভিড় ছিল না।","words":[{"w":"crowded","bn":"ভিড়ে ঠাসা","pos":"adjective"}]},
+            {"id":"06","en":"Mitu didn't miss her class.","bn":"মিতু তার ক্লাস মিস করেনি।","words":[{"w":"miss","bn":"মিস করা, বাদ পড়া","pos":"verb"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Did + subject + verb (base) ...? / Was + subject + ...?",
+          "tipBn": "অতীতের প্রশ্নে Did শুরুতে বসে এবং verb মূল রূপে থাকে; be-verb হলে Was/Were শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Was Mitu late yesterday?","bn":"গতকাল কি মিতুর দেরি হয়েছিল?","words":[{"w":"late","bn":"দেরি","pos":"adjective"}]},
+            {"id":"02","en":"Was there a traffic jam?","bn":"রাস্তায় কি যানজট ছিল?","words":[{"w":"traffic jam","bn":"যানজট","pos":"noun"}]},
+            {"id":"03","en":"Did she get off the bus?","bn":"সে কি বাস থেকে নেমেছিল?","words":[{"w":"get off","bn":"নামা","pos":"phrasal verb"}]},
+            {"id":"04","en":"Did she take the metro?","bn":"সে কি মেট্রোতে চড়েছিল?","words":[{"w":"take","bn":"চড়া","pos":"verb"},{"w":"metro","bn":"মেট্রো রেল","pos":"noun"}]},
+            {"id":"05","en":"Did she buy a ticket?","bn":"সে কি টিকিট কিনেছিল?","words":[{"w":"buy","bn":"কেনা","pos":"verb"},{"w":"ticket","bn":"টিকিট","pos":"noun"}]},
+            {"id":"06","en":"Did Mitu reach college at ten?","bn":"মিতু কি ১০টায় কলেজে পৌঁছেছিল?","words":[{"w":"reach","bn":"পৌঁছানো","pos":"verb"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + did + subject + verb (base) ...?",
+          "tipBn": "প্রশ্নশব্দের পরে did বসে, তারপর subject আর verb-এর মূল রূপ।",
+          "items": [
+            {"id":"01","en":"Why was Mitu late?","bn":"মিতুর দেরি হলো কেন?","words":[{"w":"Why","bn":"কেন","pos":"adverb"},{"w":"late","bn":"দেরি","pos":"adjective"}]},
+            {"id":"02","en":"Where did she get off?","bn":"সে কোথায় নেমেছিল?","words":[{"w":"Where","bn":"কোথায়","pos":"adverb"},{"w":"get off","bn":"নামা","pos":"phrasal verb"}]},
+            {"id":"03","en":"How much did she pay?","bn":"সে কত টাকা দিয়েছিল?","words":[{"w":"How much","bn":"কত","pos":"phrase"},{"w":"pay","bn":"টাকা দেওয়া","pos":"verb"}]},
+            {"id":"04","en":"When did the class start?","bn":"ক্লাস কখন শুরু হয়েছিল?","words":[{"w":"When","bn":"কখন","pos":"adverb"},{"w":"start","bn":"শুরু হওয়া","pos":"verb"}]},
+            {"id":"05","en":"What did the teacher say?","bn":"শিক্ষক কী বললেন?","words":[{"w":"teacher","bn":"শিক্ষক","pos":"noun"},{"w":"say","bn":"বলা","pos":"verb"}]},
+            {"id":"06","en":"How long did the bus stop?","bn":"বাসটা কতক্ষণ থেমে ছিল?","words":[{"w":"How long","bn":"কতক্ষণ","pos":"phrase"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "future-will",
+      "focus": "Make a plan for tomorrow's trip",
+      "focusBn": "আগামীকালের যাত্রার কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + will + verb (base) ...",
+          "tipBn": "ভবিষ্যতের কাজ বলতে will এর পরে verb মূল রূপে বসে।",
+          "items": [
+            {"id":"01","en":"Mitu will take the metro tomorrow.","bn":"মিতু আগামীকাল মেট্রোতে করে যাবে।","words":[{"w":"take","bn":"চড়া","pos":"verb"},{"w":"tomorrow","bn":"আগামীকাল","pos":"adverb"}]},
+            {"id":"02","en":"She will leave home early.","bn":"সে তাড়াতাড়ি বাসা থেকে বের হবে।","words":[{"w":"leave","bn":"বের হওয়া","pos":"verb"},{"w":"early","bn":"তাড়াতাড়ি","pos":"adverb"}]},
+            {"id":"03","en":"Her father will drive her to the station.","bn":"তার বাবা তাকে গাড়িতে করে স্টেশনে পৌঁছে দেবেন।","words":[{"w":"drive","bn":"গাড়িতে পৌঁছে দেওয়া","pos":"verb"},{"w":"station","bn":"স্টেশন","pos":"noun"}]},
+            {"id":"04","en":"The trip will take twenty minutes.","bn":"যাত্রায় ২০ মিনিট লাগবে।","words":[{"w":"trip","bn":"যাত্রা","pos":"noun"},{"w":"take","bn":"সময় লাগা","pos":"verb"}]},
+            {"id":"05","en":"Joy will meet her at the station.","bn":"জয় স্টেশনে তার সাথে দেখা করবে।","words":[{"w":"meet","bn":"দেখা করা","pos":"verb"}]},
+            {"id":"06","en":"They will reach college on time.","bn":"তারা সময়মতো কলেজে পৌঁছাবে।","words":[{"w":"reach","bn":"পৌঁছানো","pos":"verb"},{"w":"on time","bn":"সময়মতো","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + won't (will not) + verb (base) ...",
+          "tipBn": "will not বা won't এর পরে verb মূল রূপে বসে।",
+          "items": [
+            {"id":"01","en":"Mitu won't take the bus tomorrow.","bn":"মিতু আগামীকাল বাসে করে যাবে না।","words":[{"w":"won't","bn":"করবে না","pos":"other"},{"w":"bus","bn":"বাস","pos":"noun"}]},
+            {"id":"02","en":"She won't leave home late.","bn":"সে দেরি করে বাসা থেকে বের হবে না।","words":[{"w":"leave","bn":"বের হওয়া","pos":"verb"},{"w":"late","bn":"দেরিতে","pos":"adverb"}]},
+            {"id":"03","en":"The trip won't take an hour.","bn":"যাত্রায় এক ঘণ্টা লাগবে না।","words":[{"w":"take","bn":"সময় লাগা","pos":"verb"},{"w":"hour","bn":"ঘণ্টা","pos":"noun"}]},
+            {"id":"04","en":"The roads won't be empty.","bn":"রাস্তাগুলো ফাঁকা থাকবে না।","words":[{"w":"empty","bn":"ফাঁকা","pos":"adjective"}]},
+            {"id":"05","en":"Joy won't forget his helmet.","bn":"জয় তার হেলমেট আনতে ভুলবে না।","words":[{"w":"forget","bn":"ভুলে যাওয়া","pos":"verb"},{"w":"helmet","bn":"হেলমেট","pos":"noun"}]},
+            {"id":"06","en":"They won't be late again.","bn":"তাদের আর দেরি হবে না।","words":[{"w":"late","bn":"দেরি","pos":"adjective"},{"w":"again","bn":"আবার","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Will + subject + verb (base) ...?",
+          "tipBn": "ভবিষ্যতের প্রশ্নে Will বাক্যের শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Will Mitu take the metro tomorrow?","bn":"মিতু কি আগামীকাল মেট্রোতে করে যাবে?","words":[{"w":"tomorrow","bn":"আগামীকাল","pos":"adverb"}]},
+            {"id":"02","en":"Will her father drive her to the station?","bn":"তার বাবা কি তাকে গাড়িতে করে স্টেশনে পৌঁছে দেবেন?","words":[{"w":"drive","bn":"গাড়িতে পৌঁছে দেওয়া","pos":"verb"},{"w":"station","bn":"স্টেশন","pos":"noun"}]},
+            {"id":"03","en":"Will Joy meet her at the station?","bn":"জয় কি স্টেশনে তার সাথে দেখা করবে?","words":[{"w":"meet","bn":"দেখা করা","pos":"verb"}]},
+            {"id":"04","en":"Will they reach college on time?","bn":"তারা কি সময়মতো কলেজে পৌঁছাবে?","words":[{"w":"reach","bn":"পৌঁছানো","pos":"verb"},{"w":"on time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"05","en":"Will the metro be crowded?","bn":"মেট্রোতে কি ভিড় থাকবে?","words":[{"w":"crowded","bn":"ভিড়ে ঠাসা","pos":"adjective"}]},
+            {"id":"06","en":"Will you come with us?","bn":"তুমি কি আমাদের সাথে আসবে?","words":[{"w":"come with","bn":"সাথে আসা","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + will + subject + verb (base) ...?",
+          "tipBn": "প্রশ্নশব্দের পরে will, তারপর subject আর verb-এর মূল রূপ বসে।",
+          "items": [
+            {"id":"01","en":"When will Mitu leave home?","bn":"মিতু কখন বাসা থেকে বের হবে?","words":[{"w":"When","bn":"কখন","pos":"adverb"},{"w":"leave","bn":"বের হওয়া","pos":"verb"}]},
+            {"id":"02","en":"How will she go to college?","bn":"সে কীভাবে কলেজে যাবে?","words":[{"w":"How","bn":"কীভাবে","pos":"adverb"}]},
+            {"id":"03","en":"Who will meet her at the station?","bn":"স্টেশনে কে তার সাথে দেখা করবে?","words":[{"w":"Who","bn":"কে","pos":"pronoun"},{"w":"station","bn":"স্টেশন","pos":"noun"}]},
+            {"id":"04","en":"What time will the metro come?","bn":"মেট্রো কয়টায় আসবে?","words":[{"w":"What time","bn":"কয়টায়","pos":"phrase"},{"w":"metro","bn":"মেট্রো রেল","pos":"noun"}]},
+            {"id":"05","en":"Where will they meet?","bn":"তারা কোথায় দেখা করবে?","words":[{"w":"Where","bn":"কোথায়","pos":"adverb"},{"w":"meet","bn":"দেখা করা","pos":"verb"}]},
+            {"id":"06","en":"How long will the trip take?","bn":"যাত্রায় কতক্ষণ লাগবে?","words":[{"w":"How long","bn":"কতক্ষণ","pos":"phrase"},{"w":"trip","bn":"যাত্রা","pos":"noun"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

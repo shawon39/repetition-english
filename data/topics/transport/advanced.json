@@ -1,0 +1,272 @@
+{
+  "topic": "transport",
+  "level": "advanced",
+  "title": "Moving a Megacity",
+  "story": "Farzana Haque is a transport planner at the Dhaka city corporation, working on a plan to reform the city's buses. Daniel Lim, a consultant from Singapore, advises her team. Her husband Asif cycles to work and is still dealing with an insurance claim after a car accident.",
+  "storyBn": "ফারজানা হক ঢাকা সিটি কর্পোরেশনের একজন পরিবহন পরিকল্পনাবিদ; তিনি শহরের বাসব্যবস্থা সংস্কারের একটি পরিকল্পনা নিয়ে কাজ করছেন। সিঙ্গাপুরের পরামর্শক ড্যানিয়েল লিম তাঁর দলকে পরামর্শ দেন। তাঁর স্বামী আসিফ সাইকেল চালিয়ে অফিসে যান এবং একটি গাড়ি দুর্ঘটনার পর এখনো বিমা দাবির ঝামেলা সামলাচ্ছেন।",
+  "units": [
+    {
+      "grammar": "present-perfect-continuous",
+      "focus": "Describe long-running trends in commuting and city planning",
+      "focusBn": "যাতায়াত আর নগর পরিকল্পনায় দীর্ঘদিন ধরে চলা প্রবণতা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + has/have been + verb-ing + for / since ...",
+          "tipBn": "অতীতে শুরু হয়ে এখনো চলছে এমন কাজের স্থায়িত্ব বোঝাতে has/have been + verb-ing আর for বা since ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"Farzana has been working on Dhaka's new bus network plan for almost three years.","bn":"ফারজানা প্রায় তিন বছর ধরে ঢাকার নতুন বাস নেটওয়ার্ক পরিকল্পনা নিয়ে কাজ করছেন।","words":[{"w":"bus network","bn":"বাস চলাচল ব্যবস্থা","pos":"noun"},{"w":"plan","bn":"পরিকল্পনা","pos":"noun"}]},
+            {"id":"02","en":"According to recent surveys, Dhaka commuters have been spending more than two hours a day in traffic.","bn":"সাম্প্রতিক জরিপ অনুযায়ী, ঢাকার নিত্যযাত্রীরা প্রতিদিন দুই ঘণ্টারও বেশি সময় যানজটে কাটাচ্ছেন।","words":[{"w":"According to","bn":"অনুযায়ী","pos":"preposition"},{"w":"surveys","bn":"জরিপ","pos":"noun","base":"survey"},{"w":"commuters","bn":"নিত্যযাত্রী","pos":"noun","base":"commuter"}]},
+            {"id":"03","en":"Daniel has been advising transport authorities across Southeast Asia since 2015 as an independent consultant.","bn":"ড্যানিয়েল ২০১৫ সাল থেকে একজন স্বাধীন পরামর্শক হিসেবে দক্ষিণ-পূর্ব এশিয়াজুড়ে পরিবহন কর্তৃপক্ষকে পরামর্শ দিয়ে আসছেন।","words":[{"w":"advising","bn":"পরামর্শ দিচ্ছেন","pos":"verb","base":"advise"},{"w":"transport authorities","bn":"পরিবহন কর্তৃপক্ষ","pos":"noun","base":"transport authority"},{"w":"independent","bn":"স্বাধীন","pos":"adjective"}]},
+            {"id":"04","en":"Asif has been cycling to work for the past six months to avoid the endless congestion.","bn":"সীমাহীন যানজট এড়াতে আসিফ গত ছয় মাস ধরে সাইকেল চালিয়ে অফিসে যাচ্ছেন।","words":[{"w":"cycling","bn":"সাইকেল চালাচ্ছেন","pos":"verb","base":"cycle"},{"w":"endless","bn":"সীমাহীন","pos":"adjective"},{"w":"congestion","bn":"যানজট","pos":"noun"}]},
+            {"id":"05","en":"The city has been expanding its metro network steadily, but demand has been growing even faster.","bn":"শহর ধীরে ধীরে মেট্রো নেটওয়ার্ক বাড়িয়ে চলেছে, কিন্তু চাহিদা বাড়ছে তার চেয়েও দ্রুত।","words":[{"w":"expanding","bn":"সম্প্রসারণ করছে","pos":"verb","base":"expand"},{"w":"steadily","bn":"ধারাবাহিকভাবে","pos":"adverb"},{"w":"demand","bn":"চাহিদা","pos":"noun"}]},
+            {"id":"06","en":"Insurance companies have been receiving far more accident claims since the new highway opened.","bn":"নতুন মহাসড়ক চালু হওয়ার পর থেকে বিমা কোম্পানিগুলো অনেক বেশি দুর্ঘটনাজনিত ক্ষতিপূরণের দাবি পাচ্ছে।","words":[{"w":"Insurance","bn":"বিমা","pos":"noun"},{"w":"far more","bn":"অনেক বেশি","pos":"phrase"},{"w":"claims","bn":"ক্ষতিপূরণের দাবি","pos":"noun","base":"claim"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hasn't/haven't been + verb-ing ...",
+          "tipBn": "has/have এর পরে not বসে, তারপর been + verb-ing।",
+          "items": [
+            {"id":"01","en":"Farzana hasn't been sleeping well since the project deadline was moved forward.","bn":"প্রকল্পের সময়সীমা এগিয়ে আনার পর থেকে ফারজানার ভালো ঘুম হচ্ছে না।","words":[{"w":"deadline","bn":"শেষ সময়সীমা","pos":"noun"},{"w":"moved forward","bn":"এগিয়ে আনা হয়েছে","pos":"phrasal verb","base":"move forward"}]},
+            {"id":"02","en":"The authorities haven't been enforcing the lane rules strictly enough on major roads.","bn":"কর্তৃপক্ষ প্রধান সড়কগুলোতে লেনের নিয়ম যথেষ্ট কঠোরভাবে প্রয়োগ করছে না।","words":[{"w":"authorities","bn":"কর্তৃপক্ষ","pos":"noun","base":"authority"},{"w":"enforcing","bn":"প্রয়োগ করছে","pos":"verb","base":"enforce"},{"w":"strictly","bn":"কঠোরভাবে","pos":"adverb"}]},
+            {"id":"03","en":"Asif hasn't been driving since his car was badly damaged in a collision last month.","bn":"গত মাসে এক সংঘর্ষে গাড়িটা মারাত্মকভাবে ক্ষতিগ্রস্ত হওয়ার পর থেকে আসিফ আর গাড়ি চালাচ্ছেন না।","words":[{"w":"damaged","bn":"ক্ষতিগ্রস্ত","pos":"verb","base":"damage"},{"w":"collision","bn":"সংঘর্ষ","pos":"noun"}]},
+            {"id":"04","en":"Many bus operators haven't been following the agreed routes and timetables in recent months.","bn":"সাম্প্রতিক মাসগুলোতে অনেক বাস পরিচালনাকারী প্রতিষ্ঠান নির্ধারিত রুট আর সময়সূচি মেনে চলছে না।","words":[{"w":"operators","bn":"পরিচালনাকারী প্রতিষ্ঠান","pos":"noun","base":"operator"},{"w":"agreed","bn":"নির্ধারিত, সম্মত","pos":"adjective"},{"w":"timetables","bn":"সময়সূচি","pos":"noun","base":"timetable"}]},
+            {"id":"05","en":"Daniel hasn't been relying on taxis or private cars during his stay in Dhaka.","bn":"ঢাকায় থাকার সময়টাতে ড্যানিয়েল ট্যাক্সি বা ব্যক্তিগত গাড়ির ওপর নির্ভর করছেন না।","words":[{"w":"relying on","bn":"নির্ভর করছেন","pos":"phrasal verb","base":"rely on"},{"w":"private cars","bn":"ব্যক্তিগত গাড়ি","pos":"noun","base":"private car"},{"w":"stay","bn":"অবস্থান","pos":"noun"}]},
+            {"id":"06","en":"Passenger numbers on the river routes haven't been rising as quickly as officials had hoped.","bn":"নদীপথে যাত্রীর সংখ্যা কর্মকর্তারা যতটা আশা করেছিলেন, ততটা দ্রুত বাড়ছে না।","words":[{"w":"river routes","bn":"নদীপথ","pos":"noun","base":"river route"},{"w":"officials","bn":"কর্মকর্তা","pos":"noun","base":"official"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Has/Have + subject + been + verb-ing ...?",
+          "tipBn": "Has/Have বাক্যের শুরুতে বসে, তারপর subject, been আর verb-ing।",
+          "items": [
+            {"id":"01","en":"Has Farzana been meeting with bus owners to discuss the new routes?","bn":"ফারজানা কি নতুন রুট নিয়ে আলোচনা করতে বাস মালিকদের সাথে বৈঠক করছেন?","words":[{"w":"meeting with","bn":"বৈঠক করছেন","pos":"phrasal verb","base":"meet with"},{"w":"discuss","bn":"আলোচনা করা","pos":"verb"}]},
+            {"id":"02","en":"Have commuters been using the elevated expressway more since the tolls were reduced?","bn":"টোল কমানোর পর থেকে নিত্যযাত্রীরা কি উড়াল এক্সপ্রেসওয়ে বেশি ব্যবহার করছেন?","words":[{"w":"elevated expressway","bn":"উড়াল এক্সপ্রেসওয়ে","pos":"noun"},{"w":"tolls","bn":"টোল, মাশুল","pos":"noun","base":"toll"}]},
+            {"id":"03","en":"Has Asif been dealing with the insurance company himself since the accident?","bn":"দুর্ঘটনার পর থেকে আসিফ কি নিজেই বিমা কোম্পানির সাথে বিষয়টা সামলাচ্ছেন?","words":[{"w":"dealing with","bn":"সামলাচ্ছেন","pos":"phrasal verb","base":"deal with"},{"w":"insurance company","bn":"বিমা কোম্পানি","pos":"noun"}]},
+            {"id":"04","en":"Have the city authorities been collecting data on pedestrian accidents this year?","bn":"এ বছর নগর কর্তৃপক্ষ কি পথচারী দুর্ঘটনার তথ্য সংগ্রহ করছে?","words":[{"w":"collecting data","bn":"তথ্য সংগ্রহ করছে","pos":"phrase"},{"w":"pedestrian","bn":"পথচারী","pos":"adjective"}]},
+            {"id":"05","en":"Has Daniel been studying the traffic patterns at Dhaka's busiest intersections for weeks?","bn":"ড্যানিয়েল কি সপ্তাহের পর সপ্তাহ ধরে ঢাকার সবচেয়ে ব্যস্ত মোড়গুলোর যান চলাচলের ধরন পর্যবেক্ষণ করছেন?","words":[{"w":"traffic patterns","bn":"যান চলাচলের ধরন","pos":"noun","base":"traffic pattern"},{"w":"intersections","bn":"মোড়, সংযোগস্থল","pos":"noun","base":"intersection"}]},
+            {"id":"06","en":"Have you been taking the metro more regularly since the new stations opened?","bn":"নতুন স্টেশনগুলো চালু হওয়ার পর থেকে আপনি কি আরও নিয়মিত মেট্রোতে চড়ছেন?","words":[{"w":"regularly","bn":"নিয়মিত","pos":"adverb"},{"w":"since","bn":"থেকে","pos":"conjunction"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + has/have + subject + been + verb-ing ...?",
+          "tipBn": "প্রশ্নশব্দের পরে has/have, তারপর subject আর been + verb-ing বসে; সময়ের দৈর্ঘ্য জানতে How long ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"How long has Farzana been leading the bus reform project at the city corporation?","bn":"ফারজানা কত দিন ধরে সিটি কর্পোরেশনে বাস সংস্কার প্রকল্পের নেতৃত্ব দিচ্ছেন?","words":[{"w":"leading","bn":"নেতৃত্ব দিচ্ছেন","pos":"verb","base":"lead"},{"w":"reform","bn":"সংস্কার","pos":"noun"}]},
+            {"id":"02","en":"Why have so many young people been switching from buses to motorbikes recently?","bn":"সম্প্রতি এত তরুণ বাস ছেড়ে মোটরসাইকেলের দিকে ঝুঁকছে কেন?","words":[{"w":"switching","bn":"বদলে যাচ্ছে, ঝুঁকছে","pos":"verb","base":"switch"},{"w":"recently","bn":"সম্প্রতি","pos":"adverb"}]},
+            {"id":"03","en":"What has Asif been doing to get his insurance claim approved by the company?","bn":"কোম্পানির কাছ থেকে বিমা দাবি অনুমোদন করিয়ে নিতে আসিফ কী কী করছেন?","words":[{"w":"claim","bn":"ক্ষতিপূরণের দাবি","pos":"noun"},{"w":"approved","bn":"অনুমোদিত","pos":"verb","base":"approve"}]},
+            {"id":"04","en":"Which areas of the city have been suffering the worst congestion this year?","bn":"এ বছর শহরের কোন এলাকাগুলো সবচেয়ে বেশি যানজটে ভুগছে?","words":[{"w":"suffering","bn":"ভুগছে","pos":"verb","base":"suffer"},{"w":"congestion","bn":"যানজট","pos":"noun"}]},
+            {"id":"05","en":"Who has been funding the construction of Dhaka's new metro lines and stations?","bn":"ঢাকার নতুন মেট্রো লাইন আর স্টেশন নির্মাণের অর্থ কে জোগাচ্ছে?","words":[{"w":"funding","bn":"অর্থ জোগাচ্ছে","pos":"verb","base":"fund"},{"w":"construction","bn":"নির্মাণ","pos":"noun"}]},
+            {"id":"06","en":"How have commuters been coping with the constant roadworks on Airport Road?","bn":"এয়ারপোর্ট রোডে অবিরাম সড়ক সংস্কারের কাজের সঙ্গে নিত্যযাত্রীরা কীভাবে মানিয়ে নিচ্ছেন?","words":[{"w":"coping with","bn":"মানিয়ে নিচ্ছেন","pos":"phrasal verb","base":"cope with"},{"w":"constant","bn":"অবিরাম","pos":"adjective"},{"w":"roadworks","bn":"সড়ক মেরামতের কাজ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences, mostly has/have been + verb-ing.",
+          "tipBn": "অনুচ্ছেদে has/have been + verb-ing দিয়ে দীর্ঘদিন ধরে চলা কাজ আর পরিবর্তন বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"A planner's long days","en":"Farzana has been leading a team of twelve planners since the project began. For months, they have been collecting data from bus stops, intersections and metro stations. She has been meeting bus owners who fear that the new system will cut their profits. Meanwhile, her team has been designing safer crossings for pedestrians. Farzana has been working late almost every night, but she believes the effort will pay off.","bn":"প্রকল্প শুরু হওয়ার পর থেকে ফারজানা ১২ জন পরিকল্পনাবিদের একটি দলের নেতৃত্ব দিচ্ছেন। মাসের পর মাস ধরে তাঁরা বাস স্টপ, মোড় আর মেট্রো স্টেশন থেকে তথ্য সংগ্রহ করছেন। তিনি এমন বাস মালিকদের সাথে বৈঠক করছেন, যাঁদের ভয় নতুন ব্যবস্থায় তাঁদের মুনাফা কমে যাবে। এরই মধ্যে তাঁর দল পথচারীদের জন্য আরও নিরাপদ পারাপারের ব্যবস্থা নকশা করছে। ফারজানা প্রায় প্রতি রাতেই দেরি পর্যন্ত কাজ করছেন, তবে তিনি বিশ্বাস করেন এই পরিশ্রম সফল হবে।","words":[{"w":"leading","bn":"নেতৃত্ব দিচ্ছেন","pos":"verb","base":"lead"},{"w":"intersections","bn":"মোড়, সংযোগস্থল","pos":"noun","base":"intersection"},{"w":"profits","bn":"মুনাফা","pos":"noun","base":"profit"},{"w":"pedestrians","bn":"পথচারী","pos":"noun","base":"pedestrian"},{"w":"pay off","bn":"সফল হওয়া, ফল দেওয়া","pos":"phrasal verb"}]},
+            {"id":"02","title":"Asif's daily ride","en":"Asif has been cycling from Dhanmondi to his office in Tejgaon for six months. He has been saving money on fuel, and he has been feeling much healthier. However, he has been complaining about the lack of proper bike lanes. Drivers have been honking at him and squeezing him toward the footpath. Still, he has been encouraging his colleagues to try cycling at least once a week.","bn":"আসিফ ছয় মাস ধরে ধানমন্ডি থেকে তেজগাঁওয়ে তাঁর অফিসে সাইকেল চালিয়ে যাচ্ছেন। এতে তাঁর জ্বালানির টাকা বাঁচছে, আর তিনি আগের চেয়ে অনেক সুস্থ বোধ করছেন। তবে উপযুক্ত সাইকেল লেনের অভাব নিয়ে তিনি অভিযোগ করে আসছেন। চালকেরা তাঁকে দেখে হর্ন বাজাচ্ছে আর ঠেলে ফুটপাতের দিকে চেপে দিচ্ছে। তবুও তিনি সহকর্মীদের সপ্তাহে অন্তত একদিন সাইকেলে চড়ে দেখতে উৎসাহ দিচ্ছেন।","words":[{"w":"fuel","bn":"জ্বালানি","pos":"noun"},{"w":"lack of","bn":"অভাব","pos":"phrase"},{"w":"bike lanes","bn":"সাইকেল লেন","pos":"noun","base":"bike lane"},{"w":"squeezing","bn":"চেপে দিচ্ছে","pos":"verb","base":"squeeze"},{"w":"encouraging","bn":"উৎসাহ দিচ্ছেন","pos":"verb","base":"encourage"}]},
+            {"id":"03","title":"Learning from Singapore","en":"Daniel has been working with Asian cities for more than a decade. Recently, he has been explaining to Dhaka officials how Singapore manages congestion. The city-state has been charging drivers for entering busy areas for many years. Daniel has been arguing that a similar scheme could work in Gulshan and Motijheel. Not everyone agrees, but the debate has been gaining attention in the media.","bn":"ড্যানিয়েল এক দশকেরও বেশি সময় ধরে এশিয়ার বিভিন্ন শহরের সাথে কাজ করছেন। সম্প্রতি তিনি ঢাকার কর্মকর্তাদের বুঝিয়ে বলছেন, সিঙ্গাপুর কীভাবে যানজট নিয়ন্ত্রণ করে। এই নগর-রাষ্ট্রটি বহু বছর ধরে ব্যস্ত এলাকায় ঢোকার জন্য চালকদের কাছ থেকে মাশুল নিচ্ছে। ড্যানিয়েল যুক্তি দিচ্ছেন যে এ রকম একটি ব্যবস্থা গুলশান আর মতিঝিলেও কাজ করতে পারে। সবাই একমত নন, তবে বিতর্কটি গণমাধ্যমে ক্রমশ মনোযোগ পাচ্ছে।","words":[{"w":"decade","bn":"দশক","pos":"noun"},{"w":"city-state","bn":"নগর-রাষ্ট্র","pos":"noun"},{"w":"charging","bn":"মাশুল নিচ্ছে","pos":"verb","base":"charge"},{"w":"scheme","bn":"পরিকল্পনা, ব্যবস্থা","pos":"noun"},{"w":"gaining attention","bn":"মনোযোগ পাচ্ছে","pos":"phrase","base":"gain attention"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-perfect",
+      "focus": "Explain what had happened before an accident and a policy change",
+      "focusBn": "দুর্ঘটনা আর নীতি পরিবর্তনের আগে কী ঘটেছিল তা ব্যাখ্যা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + had + past participle ... before / by the time + past simple.",
+          "tipBn": "অতীতের দুটি ঘটনার মধ্যে যেটি আগে ঘটেছিল, সেটি had + past participle দিয়ে বলা হয়।",
+          "items": [
+            {"id":"01","en":"By the time Asif reached the junction, the ambulance had already taken the injured man to the hospital.","bn":"আসিফ যখন মোড়ে পৌঁছালেন, ততক্ষণে অ্যাম্বুলেন্স আহত লোকটিকে হাসপাতালে নিয়ে গিয়েছিল।","words":[{"w":"By the time","bn":"যতক্ষণে","pos":"conjunction"},{"w":"junction","bn":"মোড়, সংযোগস্থল","pos":"noun"},{"w":"injured","bn":"আহত","pos":"adjective"}]},
+            {"id":"02","en":"Farzana had studied transport systems in Tokyo before she joined the city corporation.","bn":"সিটি কর্পোরেশনে যোগ দেওয়ার আগে ফারজানা টোকিওতে পরিবহনব্যবস্থা নিয়ে পড়াশোনা করেছিলেন।","words":[{"w":"transport systems","bn":"পরিবহনব্যবস্থা","pos":"noun","base":"transport system"},{"w":"city corporation","bn":"সিটি কর্পোরেশন, নগর সংস্থা","pos":"noun"}]},
+            {"id":"03","en":"The bus driver had received two official warnings before the authorities finally suspended his license.","bn":"কর্তৃপক্ষ শেষ পর্যন্ত লাইসেন্স স্থগিত করার আগে বাসচালক দুটি আনুষ্ঠানিক সতর্কবার্তা পেয়েছিলেন।","words":[{"w":"official","bn":"আনুষ্ঠানিক","pos":"adjective"},{"w":"warnings","bn":"সতর্কবার্তা","pos":"noun","base":"warning"},{"w":"suspended","bn":"স্থগিত করেছিল","pos":"verb","base":"suspend"}]},
+            {"id":"04","en":"Asif had renewed his car insurance just a week before the accident happened.","bn":"দুর্ঘটনা ঘটার মাত্র এক সপ্তাহ আগে আসিফ তাঁর গাড়ির বিমা নবায়ন করেছিলেন।","words":[{"w":"renewed","bn":"নবায়ন করেছিলেন","pos":"verb","base":"renew"},{"w":"car insurance","bn":"গাড়ির বিমা","pos":"noun"}]},
+            {"id":"05","en":"By the time the consultants arrived, the government had already approved the budget for the new metro line.","bn":"পরামর্শকেরা পৌঁছানোর আগেই সরকার নতুন মেট্রো লাইনের বাজেট অনুমোদন করে ফেলেছিল।","words":[{"w":"consultants","bn":"পরামর্শক","pos":"noun","base":"consultant"},{"w":"approved","bn":"অনুমোদন করেছিল","pos":"verb","base":"approve"},{"w":"budget","bn":"বাজেট","pos":"noun"}]},
+            {"id":"06","en":"Before the Padma Bridge opened, travelers to the south had depended on slow and crowded ferries for decades.","bn":"পদ্মা সেতু চালু হওয়ার আগে দক্ষিণাঞ্চলের যাত্রীরা কয়েক দশক ধরে ধীরগতির আর ভিড়ে ঠাসা ফেরির ওপর নির্ভর করেছিলেন।","words":[{"w":"depended on","bn":"নির্ভর করেছিলেন","pos":"phrasal verb","base":"depend on"},{"w":"ferries","bn":"ফেরি","pos":"noun","base":"ferry"},{"w":"decades","bn":"দশক","pos":"noun","base":"decade"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hadn't (had never) + past participle ...",
+          "tipBn": "had এর পরে not বা never বসিয়ে আগের অতীতে যা ঘটেনি তা বলা হয়।",
+          "items": [
+            {"id":"01","en":"Asif hadn't noticed the motorbike until it was right beside his car.","bn":"মোটরসাইকেলটা একেবারে তাঁর গাড়ির পাশে চলে আসার আগ পর্যন্ত আসিফ সেটা খেয়াল করেননি।","words":[{"w":"noticed","bn":"খেয়াল করেছিলেন","pos":"verb","base":"notice"},{"w":"right beside","bn":"একেবারে পাশে","pos":"phrase"}]},
+            {"id":"02","en":"The insurance company hadn't received the police report by the deadline, so it delayed the payment.","bn":"নির্ধারিত সময়ের মধ্যে বিমা কোম্পানি পুলিশ রিপোর্ট পায়নি, তাই তারা টাকা দিতে দেরি করেছিল।","words":[{"w":"police report","bn":"পুলিশ রিপোর্ট","pos":"noun"},{"w":"deadline","bn":"শেষ সময়সীমা","pos":"noun"},{"w":"delayed","bn":"দেরি করেছিল","pos":"verb","base":"delay"}]},
+            {"id":"03","en":"Farzana had never driven in Dhaka before she bought her first car at the age of thirty.","bn":"৩০ বছর বয়সে প্রথম গাড়ি কেনার আগে ফারজানা কখনো ঢাকায় গাড়ি চালাননি।","words":[{"w":"never","bn":"কখনো না","pos":"adverb"},{"w":"at the age of","bn":"বয়সে","pos":"phrase"}]},
+            {"id":"04","en":"The planners hadn't expected so many people to switch to the metro so quickly.","bn":"পরিকল্পনাবিদেরা আশা করেননি যে এত মানুষ এত দ্রুত মেট্রোতে চলে আসবে।","words":[{"w":"planners","bn":"পরিকল্পনাবিদ","pos":"noun","base":"planner"},{"w":"expected","bn":"আশা করেছিলেন","pos":"verb","base":"expect"},{"w":"switch to","bn":"বদলে নেওয়া","pos":"phrasal verb"}]},
+            {"id":"05","en":"The truck driver hadn't slept for nearly twenty hours when he caused the crash.","bn":"দুর্ঘটনা ঘটানোর সময় ট্রাকচালক প্রায় ২০ ঘণ্টা ঘুমাননি।","words":[{"w":"nearly","bn":"প্রায়","pos":"adverb"},{"w":"caused","bn":"ঘটিয়েছিলেন","pos":"verb","base":"cause"},{"w":"crash","bn":"সংঘর্ষ, দুর্ঘটনা","pos":"noun"}]},
+            {"id":"06","en":"Daniel hadn't realized how important rickshaws were to the local economy until he spoke to the pullers.","bn":"রিকশাচালকদের সাথে কথা বলার আগে ড্যানিয়েল বুঝতে পারেননি স্থানীয় অর্থনীতিতে রিকশা কতটা গুরুত্বপূর্ণ।","words":[{"w":"realized","bn":"বুঝতে পেরেছিলেন","pos":"verb","base":"realize"},{"w":"local economy","bn":"স্থানীয় অর্থনীতি","pos":"noun"},{"w":"pullers","bn":"রিকশাচালক","pos":"noun","base":"puller"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Hadn't + subject + past participle ...?",
+          "tipBn": "কিছু আগেই হয়ে যাওয়ার কথা ছিল বলে মনে হলে বা অবাক হলে Hadn't দিয়ে প্রশ্ন শুরু হয়।",
+          "items": [
+            {"id":"01","en":"Hadn't Asif checked his mirrors carefully before he changed lanes on the flyover?","bn":"ফ্লাইওভারে লেন বদলানোর আগে আসিফ কি ভালো করে আয়না দেখে নেননি?","words":[{"w":"mirrors","bn":"আয়না","pos":"noun","base":"mirror"},{"w":"changed lanes","bn":"লেন বদলেছিলেন","pos":"phrase","base":"change lanes"}]},
+            {"id":"02","en":"Hadn't the city already tested this idea in Uttara a few years ago?","bn":"শহর কর্তৃপক্ষ কি কয়েক বছর আগে উত্তরায় এই ধারণাটা আগেই পরীক্ষা করে দেখেনি?","words":[{"w":"already","bn":"আগেই","pos":"adverb"},{"w":"tested","bn":"পরীক্ষা করেছিল","pos":"verb","base":"test"}]},
+            {"id":"03","en":"Hadn't the bus company been fined for the same offense earlier that year?","bn":"সেই বছরের শুরুর দিকে কি বাস কোম্পানিটিকে একই অপরাধের জন্য জরিমানা করা হয়নি?","words":[{"w":"fined","bn":"জরিমানা করা হয়েছিল","pos":"verb","base":"fine"},{"w":"offense","bn":"অপরাধ","pos":"noun"}]},
+            {"id":"04","en":"Hadn't you booked the train tickets before the prices went up for Eid?","bn":"ঈদের জন্য দাম বাড়ার আগেই কি আপনি ট্রেনের টিকিট কেটে রাখেননি?","words":[{"w":"booked","bn":"কেটে রেখেছিলেন","pos":"verb","base":"book"},{"w":"went up","bn":"বেড়ে গিয়েছিল","pos":"phrasal verb","base":"go up"}]},
+            {"id":"05","en":"Hadn't Farzana warned the minister about the dangerous bottleneck at that junction?","bn":"ফারজানা কি ওই মোড়ের বিপজ্জনক যানজটের জায়গাটি নিয়ে মন্ত্রীকে আগেই সতর্ক করেননি?","words":[{"w":"warned","bn":"সতর্ক করেছিলেন","pos":"verb","base":"warn"},{"w":"minister","bn":"মন্ত্রী","pos":"noun"},{"w":"bottleneck","bn":"যানজটের সরু জায়গা","pos":"noun"}]},
+            {"id":"06","en":"Hadn't the launch owner ignored the storm warning before the accident on the Meghna?","bn":"মেঘনায় দুর্ঘটনার আগে লঞ্চ মালিক কি ঝড়ের সতর্কসংকেত উপেক্ষা করেননি?","words":[{"w":"ignored","bn":"উপেক্ষা করেছিলেন","pos":"verb","base":"ignore"},{"w":"storm warning","bn":"ঝড়ের সতর্কসংকেত","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + had + subject + past participle ...?",
+          "tipBn": "প্রশ্নশব্দের পরে had, তারপর subject আর past participle বসে।",
+          "items": [
+            {"id":"01","en":"How many accidents had happened at that crossing before the city installed traffic lights?","bn":"সিটি কর্পোরেশন ট্রাফিক বাতি বসানোর আগে ওই মোড়ে কতগুলো দুর্ঘটনা ঘটেছিল?","words":[{"w":"crossing","bn":"মোড়, পারাপারের জায়গা","pos":"noun"},{"w":"installed","bn":"বসিয়েছিল","pos":"verb","base":"install"}]},
+            {"id":"02","en":"What had Farzana learned in Tokyo that changed her approach to planning?","bn":"টোকিওতে ফারজানা এমন কী শিখেছিলেন, যা পরিকল্পনা নিয়ে তাঁর দৃষ্টিভঙ্গি বদলে দিয়েছিল?","words":[{"w":"approach","bn":"দৃষ্টিভঙ্গি, পদ্ধতি","pos":"noun"},{"w":"planning","bn":"পরিকল্পনা","pos":"noun"}]},
+            {"id":"03","en":"Why had the insurance company rejected Asif's first claim after the accident?","bn":"দুর্ঘটনার পর বিমা কোম্পানি আসিফের প্রথম দাবিটি কেন প্রত্যাখ্যান করেছিল?","words":[{"w":"rejected","bn":"প্রত্যাখ্যান করেছিল","pos":"verb","base":"reject"},{"w":"claim","bn":"ক্ষতিপূরণের দাবি","pos":"noun"}]},
+            {"id":"04","en":"Which Asian cities had Daniel advised before he was invited to work in Dhaka?","bn":"ঢাকায় কাজ করার আমন্ত্রণ পাওয়ার আগে ড্যানিয়েল এশিয়ার কোন কোন শহরকে পরামর্শ দিয়েছিলেন?","words":[{"w":"advised","bn":"পরামর্শ দিয়েছিলেন","pos":"verb","base":"advise"},{"w":"invited","bn":"আমন্ত্রণ পেয়েছিলেন","pos":"verb","base":"invite"}]},
+            {"id":"05","en":"How much had the project cost by the time it was finally completed?","bn":"শেষ পর্যন্ত কাজ শেষ হওয়া পর্যন্ত প্রকল্পটিতে কত খরচ হয়েছিল?","words":[{"w":"cost","bn":"খরচ হয়েছিল","pos":"verb"},{"w":"completed","bn":"সম্পন্ন হয়েছিল","pos":"verb","base":"complete"}]},
+            {"id":"06","en":"Who had approved the new route before the residents started complaining?","bn":"বাসিন্দারা অভিযোগ শুরু করার আগে নতুন রুটটি কে অনুমোদন করেছিলেন?","words":[{"w":"approved","bn":"অনুমোদন করেছিলেন","pos":"verb","base":"approve"},{"w":"residents","bn":"বাসিন্দা","pos":"noun","base":"resident"},{"w":"complaining","bn":"অভিযোগ করা","pos":"verb","base":"complain"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences, mostly had + past participle.",
+          "tipBn": "অনুচ্ছেদে had + past participle দিয়ে আগে ঘটে যাওয়া ঘটনা, আর past simple দিয়ে পরের ঘটনা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"The accident on Airport Road","en":"Asif had just left a meeting in Banani when the accident happened. A bus driver had ignored the red light and hit the side of his car. Fortunately, Asif had fastened his seat belt, so he only had minor injuries. By the time the police arrived, a crowd had already gathered around the vehicles. Later, he discovered that the bus company had failed to renew its insurance.","bn":"আসিফ সবেমাত্র বনানীতে একটা মিটিং শেষ করে বেরিয়েছিলেন, তখনই দুর্ঘটনাটা ঘটে। একজন বাসচালক লাল বাতি অমান্য করে তাঁর গাড়ির পাশে ধাক্কা দিয়েছিলেন। সৌভাগ্যক্রমে আসিফ সিট বেল্ট বেঁধে রেখেছিলেন, তাই তিনি শুধু সামান্য আঘাত পান। পুলিশ পৌঁছানোর আগেই গাড়িগুলোর চারপাশে ভিড় জমে গিয়েছিল। পরে তিনি জানতে পারেন, বাস কোম্পানিটি তাদের বিমা নবায়ন করেনি।","words":[{"w":"ignored","bn":"অমান্য করেছিলেন","pos":"verb","base":"ignore"},{"w":"fastened","bn":"বেঁধে রেখেছিলেন","pos":"verb","base":"fasten"},{"w":"minor injuries","bn":"সামান্য আঘাত","pos":"noun","base":"minor injury"},{"w":"gathered","bn":"জমে গিয়েছিল","pos":"verb","base":"gather"},{"w":"renew","bn":"নবায়ন করা","pos":"verb"}]},
+            {"id":"02","title":"Lessons from Tokyo","en":"Before Farzana joined the city corporation, she had spent two years studying in Tokyo. She had traveled on trains that were never late, and she had seen how stations connected with buses and bicycles. She had also noticed how little people there depended on private cars. Those experiences had shaped her vision long before she returned to Dhaka.","bn":"সিটি কর্পোরেশনে যোগ দেওয়ার আগে ফারজানা দুই বছর টোকিওতে পড়াশোনা করেছিলেন। তিনি এমন ট্রেনে চড়েছিলেন যেগুলো কখনো দেরি করত না, আর দেখেছিলেন কীভাবে স্টেশনগুলো বাস ও সাইকেলের সাথে যুক্ত থাকে। তিনি আরও লক্ষ করেছিলেন, সেখানকার মানুষ ব্যক্তিগত গাড়ির ওপর কত কম নির্ভর করে। ঢাকায় ফেরার অনেক আগেই এই অভিজ্ঞতাগুলো তাঁর দৃষ্টিভঙ্গি গড়ে দিয়েছিল।","words":[{"w":"connected","bn":"যুক্ত ছিল","pos":"verb","base":"connect"},{"w":"depended on","bn":"নির্ভর করত","pos":"phrasal verb","base":"depend on"},{"w":"private cars","bn":"ব্যক্তিগত গাড়ি","pos":"noun","base":"private car"},{"w":"shaped","bn":"গড়ে দিয়েছিল","pos":"verb","base":"shape"},{"w":"vision","bn":"দৃষ্টিভঙ্গি, স্বপ্ন","pos":"noun"}]},
+            {"id":"03","title":"A slow claim","en":"Asif had submitted all his documents within a week, but two months later the insurance company still hadn't paid him. He had called its office many times without any result. Eventually, he learned that the bus company had disputed the police report. By then, however, his lawyer had already collected enough evidence to prove that the driver was at fault.","bn":"আসিফ এক সপ্তাহের মধ্যেই সব কাগজপত্র জমা দিয়েছিলেন, কিন্তু দুই মাস পরেও বিমা কোম্পানি তাঁকে টাকা দেয়নি। তিনি তাদের অফিসে বহুবার ফোন করেছিলেন, কিন্তু কোনো ফল হয়নি। অবশেষে তিনি জানতে পারেন, বাস কোম্পানিটি পুলিশ রিপোর্টের বিরুদ্ধে আপত্তি তুলেছিল। তবে ততদিনে তাঁর আইনজীবী যথেষ্ট প্রমাণ জোগাড় করে ফেলেছিলেন যে দোষটা চালকেরই ছিল।","words":[{"w":"submitted","bn":"জমা দিয়েছিলেন","pos":"verb","base":"submit"},{"w":"Eventually","bn":"অবশেষে","pos":"adverb"},{"w":"disputed","bn":"আপত্তি তুলেছিল","pos":"verb","base":"dispute"},{"w":"evidence","bn":"প্রমাণ","pos":"noun"},{"w":"at fault","bn":"দোষী","pos":"phrase"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "passive",
+      "focus": "Talk about transport projects, rules and insurance in the passive",
+      "focusBn": "কর্মবাচ্যে পরিবহন প্রকল্প, নিয়মকানুন আর বিমা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + be (is / was / is being / has been / will be) + past participle (+ by ...).",
+          "tipBn": "কে কাজটি করেছে তার চেয়ে কাজটি বেশি গুরুত্বপূর্ণ হলে be + past participle দিয়ে কর্মবাচ্য তৈরি হয়।",
+          "items": [
+            {"id":"01","en":"A new bus rapid transit line is being built between Gazipur and the airport.","bn":"গাজীপুর থেকে বিমানবন্দর পর্যন্ত একটি নতুন বাস র‍্যাপিড ট্রানজিট লাইন তৈরি করা হচ্ছে।","words":[{"w":"bus rapid transit","bn":"দ্রুতগতির বাস ব্যবস্থা","pos":"noun"},{"w":"being built","bn":"তৈরি করা হচ্ছে","pos":"phrase"}]},
+            {"id":"02","en":"Thousands of traffic fines are issued in Dhaka every month by the traffic police.","bn":"ঢাকায় প্রতি মাসে ট্রাফিক পুলিশের মাধ্যমে হাজার হাজার জরিমানা করা হয়।","words":[{"w":"fines","bn":"জরিমানা","pos":"noun","base":"fine"},{"w":"issued","bn":"জারি করা হয়","pos":"verb","base":"issue"}]},
+            {"id":"03","en":"The country's first metro line was opened to the public in December 2022.","bn":"দেশের প্রথম মেট্রো লাইনটি ২০২২ সালের ডিসেম্বরে জনসাধারণের জন্য খুলে দেওয়া হয়।","words":[{"w":"opened to the public","bn":"জনসাধারণের জন্য খুলে দেওয়া হয়েছিল","pos":"phrase"},{"w":"country's","bn":"দেশের","pos":"noun","base":"country"}]},
+            {"id":"04","en":"More than a hundred speed cameras have been installed on the highway this year.","bn":"এ বছর মহাসড়কে ১০০টিরও বেশি স্পিড ক্যামেরা বসানো হয়েছে।","words":[{"w":"speed cameras","bn":"গতি মাপার ক্যামেরা","pos":"noun","base":"speed camera"},{"w":"installed","bn":"বসানো হয়েছে","pos":"verb","base":"install"}]},
+            {"id":"05","en":"Asif's car will be repaired as soon as the insurance claim is approved.","bn":"বিমা দাবি অনুমোদিত হলেই আসিফের গাড়িটা মেরামত করা হবে।","words":[{"w":"repaired","bn":"মেরামত করা হবে","pos":"verb","base":"repair"},{"w":"as soon as","bn":"যত তাড়াতাড়ি, হলেই","pos":"conjunction"},{"w":"approved","bn":"অনুমোদিত","pos":"verb","base":"approve"}]},
+            {"id":"06","en":"Many unfit buses were taken off the roads after the student protests in 2018.","bn":"২০১৮ সালের ছাত্র আন্দোলনের পর অনেক ফিটনেসবিহীন বাস রাস্তা থেকে সরিয়ে নেওয়া হয়েছিল।","words":[{"w":"unfit","bn":"অনুপযুক্ত, ফিটনেসবিহীন","pos":"adjective"},{"w":"taken off","bn":"সরিয়ে নেওয়া হয়েছিল","pos":"phrasal verb","base":"take off"},{"w":"protests","bn":"আন্দোলন, প্রতিবাদ","pos":"noun","base":"protest"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + be + not (never) + past participle ...",
+          "tipBn": "be-verb এর পরে not বা never বসে, তারপর past participle।",
+          "items": [
+            {"id":"01","en":"Many road accidents in rural areas are never reported to the police.","bn":"গ্রামাঞ্চলের অনেক সড়ক দুর্ঘটনার কথা কখনো পুলিশকে জানানোই হয় না।","words":[{"w":"rural areas","bn":"গ্রামাঞ্চল","pos":"noun","base":"rural area"},{"w":"reported","bn":"জানানো হয়","pos":"verb","base":"report"}]},
+            {"id":"02","en":"The new bike lanes haven't been connected to the main roads yet.","bn":"নতুন সাইকেল লেনগুলো এখনো প্রধান সড়কের সাথে যুক্ত করা হয়নি।","words":[{"w":"bike lanes","bn":"সাইকেল লেন","pos":"noun","base":"bike lane"},{"w":"connected","bn":"যুক্ত করা হয়েছে","pos":"verb","base":"connect"}]},
+            {"id":"03","en":"Asif's claim wasn't processed on time because one signature was missing.","bn":"একটি স্বাক্ষর না থাকায় আসিফের দাবিটি সময়মতো নিষ্পত্তি করা হয়নি।","words":[{"w":"processed","bn":"নিষ্পত্তি করা হয়েছিল","pos":"verb","base":"process"},{"w":"signature","bn":"স্বাক্ষর","pos":"noun"},{"w":"missing","bn":"অনুপস্থিত","pos":"adjective"}]},
+            {"id":"04","en":"Rickshaw pullers weren't consulted before the ban on main roads was announced.","bn":"প্রধান সড়কে নিষেধাজ্ঞা ঘোষণার আগে রিকশাচালকদের সাথে পরামর্শ করা হয়নি।","words":[{"w":"consulted","bn":"পরামর্শ করা হয়েছিল","pos":"verb","base":"consult"},{"w":"ban","bn":"নিষেধাজ্ঞা","pos":"noun"},{"w":"announced","bn":"ঘোষণা করা হয়েছিল","pos":"verb","base":"announce"}]},
+            {"id":"05","en":"Traffic laws aren't enforced consistently in many parts of the city, especially at night.","bn":"শহরের অনেক জায়গায়, বিশেষ করে রাতে, ট্রাফিক আইন ধারাবাহিকভাবে প্রয়োগ করা হয় না।","words":[{"w":"enforced","bn":"প্রয়োগ করা হয়","pos":"verb","base":"enforce"},{"w":"consistently","bn":"ধারাবাহিকভাবে","pos":"adverb"},{"w":"especially","bn":"বিশেষ করে","pos":"adverb"}]},
+            {"id":"06","en":"The new timetable won't be introduced until all the drivers have been trained.","bn":"সব চালকের প্রশিক্ষণ শেষ না হওয়া পর্যন্ত নতুন সময়সূচি চালু করা হবে না।","words":[{"w":"timetable","bn":"সময়সূচি","pos":"noun"},{"w":"introduced","bn":"চালু করা হবে","pos":"verb","base":"introduce"},{"w":"trained","bn":"প্রশিক্ষণ দেওয়া হয়েছে","pos":"verb","base":"train"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Is/Are/Was/Were/Has/Will + subject + (been / be) + past participle ...?",
+          "tipBn": "কর্মবাচ্যের প্রশ্নে be-verb বা has/will বাক্যের শুরুতে বসে, past participle আগের জায়গাতেই থাকে।",
+          "items": [
+            {"id":"01","en":"Was the bus driver arrested after the crash on Airport Road?","bn":"এয়ারপোর্ট রোডে দুর্ঘটনার পর কি বাসচালককে গ্রেপ্তার করা হয়েছিল?","words":[{"w":"arrested","bn":"গ্রেপ্তার করা হয়েছিল","pos":"verb","base":"arrest"},{"w":"crash","bn":"সংঘর্ষ, দুর্ঘটনা","pos":"noun"}]},
+            {"id":"02","en":"Are passengers charged higher fares on ride-sharing apps during peak hours?","bn":"ব্যস্ত সময়ে রাইড শেয়ারিং অ্যাপে কি যাত্রীদের কাছ থেকে বেশি ভাড়া নেওয়া হয়?","words":[{"w":"charged","bn":"নেওয়া হয়","pos":"verb","base":"charge"},{"w":"peak hours","bn":"সবচেয়ে ব্যস্ত সময়","pos":"noun"}]},
+            {"id":"03","en":"Has the bus reform proposal been approved by the city council yet?","bn":"বাস সংস্কারের প্রস্তাবটি কি ইতিমধ্যে সিটি কাউন্সিলে অনুমোদন পেয়েছে?","words":[{"w":"proposal","bn":"প্রস্তাব","pos":"noun"},{"w":"city council","bn":"নগর পরিষদ","pos":"noun"}]},
+            {"id":"04","en":"Will the old footbridge near the station be demolished next year to make room for an underpass?","bn":"আন্ডারপাস তৈরির জায়গা করতে স্টেশনের কাছের পুরোনো ফুটওভারব্রিজটি কি আগামী বছর ভেঙে ফেলা হবে?","words":[{"w":"footbridge","bn":"ফুটওভারব্রিজ","pos":"noun"},{"w":"demolished","bn":"ভেঙে ফেলা হবে","pos":"verb","base":"demolish"},{"w":"underpass","bn":"পাতালপথ","pos":"noun"}]},
+            {"id":"05","en":"Are metro station staff trained to help passengers with disabilities and elderly travelers?","bn":"মেট্রো স্টেশনের কর্মীদের কি প্রতিবন্ধী ও বয়স্ক যাত্রীদের সহায়তা করার প্রশিক্ষণ দেওয়া হয়?","words":[{"w":"staff","bn":"কর্মী","pos":"noun"},{"w":"disabilities","bn":"প্রতিবন্ধিতা","pos":"noun","base":"disability"}]},
+            {"id":"06","en":"Were all the launches inspected properly before the Eid holiday rush began?","bn":"ঈদের ছুটির ভিড় শুরু হওয়ার আগে কি সব লঞ্চ ঠিকমতো পরিদর্শন করা হয়েছিল?","words":[{"w":"inspected","bn":"পরিদর্শন করা হয়েছিল","pos":"verb","base":"inspect"},{"w":"rush","bn":"ভিড়, হুড়োহুড়ি","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "indirect-question",
+          "pattern": "Could you tell me / Do you know / I wonder + wh- word or whether + passive clause",
+          "tipBn": "ভদ্রভাবে জানতে চাইলে Could you tell me বা Do you know দিয়ে শুরু করা হয়, আর ভেতরের অংশ সাধারণ বাক্যের ক্রমে থাকে।",
+          "items": [
+            {"id":"01","en":"Could you tell me when the new metro line will be opened?","bn":"নতুন মেট্রো লাইনটি কবে খুলে দেওয়া হবে, আপনি কি আমাকে বলতে পারবেন?","words":[{"w":"Could you tell me","bn":"আমাকে কি বলতে পারবেন","pos":"phrase"},{"w":"opened","bn":"খুলে দেওয়া হবে","pos":"verb","base":"open"}]},
+            {"id":"02","en":"Do you know whether my insurance claim has been approved yet?","bn":"আপনি কি জানেন, আমার বিমা দাবি এখনো অনুমোদিত হয়েছে কি না?","words":[{"w":"whether","bn":"কি না","pos":"conjunction"},{"w":"claim","bn":"ক্ষতিপূরণের দাবি","pos":"noun"}]},
+            {"id":"03","en":"I wonder if bus fares will be increased again after the fuel price rise.","bn":"আমি ভাবছি, জ্বালানির দাম বাড়ার পর বাস ভাড়া আবার বাড়ানো হবে কি না।","words":[{"w":"wonder","bn":"ভাবা, জানতে চাওয়া","pos":"verb"},{"w":"increased","bn":"বাড়ানো হবে","pos":"verb","base":"increase"},{"w":"fuel price","bn":"জ্বালানির দাম","pos":"noun"}]},
+            {"id":"04","en":"Would you mind telling me where lost items are kept at this station?","bn":"এই স্টেশনে হারানো জিনিসপত্র কোথায় রাখা হয়, দয়া করে কি আমাকে বলবেন?","words":[{"w":"Would you mind","bn":"আপনার কি আপত্তি আছে","pos":"phrase"},{"w":"lost items","bn":"হারানো জিনিসপত্র","pos":"noun","base":"lost item"}]},
+            {"id":"05","en":"Can you find out why the road was closed without any warning this morning?","bn":"আজ সকালে কোনো সতর্কবার্তা ছাড়াই রাস্তাটা কেন বন্ধ করে দেওয়া হয়েছিল, আপনি কি খোঁজ নিয়ে জানাতে পারবেন?","words":[{"w":"find out","bn":"খোঁজ নিয়ে জানা","pos":"phrasal verb"},{"w":"warning","bn":"সতর্কবার্তা","pos":"noun"}]},
+            {"id":"06","en":"I'd like to know how the families of accident victims will be compensated.","bn":"দুর্ঘটনায় ক্ষতিগ্রস্তদের পরিবারগুলোকে কীভাবে ক্ষতিপূরণ দেওয়া হবে, আমি তা জানতে চাই।","words":[{"w":"victims","bn":"ক্ষতিগ্রস্ত ব্যক্তি","pos":"noun","base":"victim"},{"w":"compensated","bn":"ক্ষতিপূরণ দেওয়া হবে","pos":"verb","base":"compensate"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences, mostly be + past participle.",
+          "tipBn": "অনুচ্ছেদে বিভিন্ন কালের কর্মবাচ্য (was opened, are being built, will be paid) ব্যবহার করা হয়েছে।",
+          "items": [
+            {"id":"01","title":"How the metro changed commuting","en":"When the first metro line was opened, it was welcomed by millions of commuters. Within months, travel times between Uttara and Motijheel were cut dramatically. New shops and offices are now being built near the stations. However, the trains are often overcrowded, and more lines are urgently needed. Several new routes have been planned and are expected to be completed by 2030.","bn":"প্রথম মেট্রো লাইনটি যখন খুলে দেওয়া হয়, লাখো নিত্যযাত্রী তা সাদরে গ্রহণ করেন। কয়েক মাসের মধ্যেই উত্তরা থেকে মতিঝিলের যাতায়াতের সময় নাটকীয়ভাবে কমিয়ে আনা হয়। এখন স্টেশনগুলোর আশপাশে নতুন দোকান আর অফিস তৈরি করা হচ্ছে। তবে ট্রেনগুলোতে প্রায়ই উপচে পড়া ভিড় থাকে, আর জরুরি ভিত্তিতে আরও লাইন দরকার। বেশ কয়েকটি নতুন রুটের পরিকল্পনা করা হয়েছে, যেগুলো ২০৩০ সালের মধ্যে শেষ হবে বলে আশা করা হচ্ছে।","words":[{"w":"welcomed","bn":"সাদরে গ্রহণ করা হয়েছিল","pos":"verb","base":"welcome"},{"w":"dramatically","bn":"নাটকীয়ভাবে","pos":"adverb"},{"w":"overcrowded","bn":"উপচে পড়া ভিড়","pos":"adjective"},{"w":"urgently","bn":"জরুরি ভিত্তিতে","pos":"adverb"},{"w":"expected","bn":"আশা করা হচ্ছে","pos":"verb","base":"expect"}]},
+            {"id":"02","title":"After the crash","en":"After the accident, Asif's car was towed to a garage in Tejgaon. The damage was assessed by an insurance agent the next day. Asif was told that the repairs would be covered, but he was asked to provide a police report. Two weeks later, the car was returned to him, and the bill was paid in full.","bn":"দুর্ঘটনার পর আসিফের গাড়িটি টেনে তেজগাঁওয়ের একটি গ্যারেজে নিয়ে যাওয়া হয়। পরদিন একজন বিমা প্রতিনিধির মাধ্যমে ক্ষতির পরিমাণ নিরূপণ করা হয়। আসিফকে জানানো হয় যে মেরামতের খরচ বিমা থেকে দেওয়া হবে, তবে তাঁকে একটি পুলিশ রিপোর্ট জমা দিতে বলা হয়। দুই সপ্তাহ পর গাড়িটি তাঁকে ফিরিয়ে দেওয়া হয়, আর বিলের পুরো টাকা পরিশোধ করা হয়।","words":[{"w":"towed","bn":"টেনে নিয়ে যাওয়া হয়েছিল","pos":"verb","base":"tow"},{"w":"assessed","bn":"নিরূপণ করা হয়েছিল","pos":"verb","base":"assess"},{"w":"covered","bn":"বিমার আওতায় দেওয়া","pos":"verb","base":"cover"},{"w":"provide","bn":"জমা দেওয়া, সরবরাহ করা","pos":"verb"},{"w":"in full","bn":"পুরোপুরি","pos":"phrase"}]},
+            {"id":"03","title":"A bus reform plan","en":"Under Farzana's plan, hundreds of small private bus companies will be merged into a few large operators. Drivers will be paid a fixed salary instead of a share of the fares. Routes will be redesigned so that buses are not forced to compete for passengers. The plan has been praised by experts, but it is still being opposed by some owners.","bn":"ফারজানার পরিকল্পনা অনুযায়ী, শত শত ছোট বেসরকারি বাস কোম্পানিকে একীভূত করে কয়েকটি বড় পরিচালনা প্রতিষ্ঠানে পরিণত করা হবে। চালকদের ভাড়ার ভাগের বদলে নির্দিষ্ট বেতন দেওয়া হবে। রুটগুলো নতুন করে সাজানো হবে, যাতে যাত্রী ধরার জন্য বাসগুলোকে প্রতিযোগিতায় নামতে বাধ্য হতে না হয়। পরিকল্পনাটি বিশেষজ্ঞদের প্রশংসা পেয়েছে, তবে কিছু মালিক এখনো এর বিরোধিতা করছেন।","words":[{"w":"merged","bn":"একীভূত করা হবে","pos":"verb","base":"merge"},{"w":"operators","bn":"পরিচালনাকারী প্রতিষ্ঠান","pos":"noun","base":"operator"},{"w":"fixed salary","bn":"নির্দিষ্ট বেতন","pos":"noun"},{"w":"compete","bn":"প্রতিযোগিতা করা","pos":"verb"},{"w":"opposed","bn":"বিরোধিতা করা হচ্ছে","pos":"verb","base":"oppose"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Imagine how the past could have been different",
+      "focusBn": "অতীত ভিন্ন হলে কী হতে পারত তা কল্পনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + had + past participle, would have + past participle. / If + had + past participle, would + verb (now).",
+          "tipBn": "অতীতের কাল্পনিক শর্তে If + had + past participle আর ফলাফলে would have + past participle বসে; ফল বর্তমানে হলে would + verb।",
+          "items": [
+            {"id":"01","en":"If Asif had left the office five minutes later, he would have avoided the accident.","bn":"আসিফ যদি পাঁচ মিনিট পরে অফিস থেকে বের হতেন, তাহলে দুর্ঘটনাটা এড়াতে পারতেন।","words":[{"w":"later","bn":"পরে","pos":"adverb"},{"w":"avoided","bn":"এড়াতে পারতেন","pos":"verb","base":"avoid"}]},
+            {"id":"02","en":"If the city had built the metro twenty years ago, traffic would be much lighter today.","bn":"শহর যদি বিশ বছর আগে মেট্রো তৈরি করত, তাহলে আজ যানজট অনেক কম থাকত।","words":[{"w":"built","bn":"তৈরি করত","pos":"verb","base":"build"},{"w":"lighter","bn":"কম, হালকা","pos":"adjective","base":"light"}]},
+            {"id":"03","en":"If Farzana had stayed in Tokyo, she would be working for a Japanese rail company now.","bn":"ফারজানা যদি টোকিওতে থেকে যেতেন, তাহলে এখন হয়তো কোনো জাপানি রেল কোম্পানিতে কাজ করতেন।","words":[{"w":"stayed","bn":"থেকে যেতেন","pos":"verb","base":"stay"},{"w":"rail company","bn":"রেল কোম্পানি","pos":"noun"}]},
+            {"id":"04","en":"The bus would have stopped in time if its brakes had been properly maintained.","bn":"বাসটির ব্রেক যদি ঠিকমতো রক্ষণাবেক্ষণ করা হতো, তাহলে এটি সময়মতো থামতে পারত।","words":[{"w":"in time","bn":"সময়মতো","pos":"phrase"},{"w":"properly","bn":"ঠিকমতো","pos":"adverb"},{"w":"maintained","bn":"রক্ষণাবেক্ষণ করা হতো","pos":"verb","base":"maintain"}]},
+            {"id":"05","en":"If Asif had bought comprehensive insurance, all the repairs would have been fully covered.","bn":"আসিফ যদি পূর্ণাঙ্গ বিমা করতেন, তাহলে মেরামতের সব খরচ পুরোপুরি বিমা থেকে মেটানো হতো।","words":[{"w":"comprehensive insurance","bn":"পূর্ণাঙ্গ বিমা","pos":"noun"},{"w":"covered","bn":"বিমার আওতায় থাকত","pos":"verb","base":"cover"}]},
+            {"id":"06","en":"If Daniel spoke Bangla, he would have understood the drivers' complaints much better.","bn":"ড্যানিয়েল যদি বাংলা বলতে পারতেন, তাহলে চালকদের অভিযোগগুলো অনেক ভালোভাবে বুঝতে পারতেন।","words":[{"w":"understood","bn":"বুঝতে পারতেন","pos":"verb","base":"understand"},{"w":"complaints","bn":"অভিযোগ","pos":"noun","base":"complaint"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + hadn't + past participle, wouldn't have + past participle / wouldn't + verb.",
+          "tipBn": "শর্তে hadn't আর ফলাফলে wouldn't have বা wouldn't বসিয়ে না-বোধক কাল্পনিক বাক্য হয়।",
+          "items": [
+            {"id":"01","en":"If the bus driver hadn't been speeding, nobody would have been seriously injured.","bn":"বাসচালক যদি অতিরিক্ত গতিতে না চালাতেন, তাহলে কেউ গুরুতর আহত হতো না।","words":[{"w":"speeding","bn":"অতিরিক্ত গতিতে চালানো","pos":"verb","base":"speed"},{"w":"seriously injured","bn":"গুরুতর আহত","pos":"phrase"}]},
+            {"id":"02","en":"If the planners had consulted local residents, the project wouldn't have faced so many protests.","bn":"পরিকল্পনাবিদেরা যদি স্থানীয় বাসিন্দাদের সাথে পরামর্শ করতেন, তাহলে প্রকল্পটি এত প্রতিবাদের মুখে পড়ত না।","words":[{"w":"consulted","bn":"পরামর্শ করতেন","pos":"verb","base":"consult"},{"w":"residents","bn":"বাসিন্দা","pos":"noun","base":"resident"},{"w":"faced","bn":"মুখোমুখি হতো","pos":"verb","base":"face"}]},
+            {"id":"03","en":"Asif wouldn't be paying so much for repairs now if he had read his policy carefully.","bn":"আসিফ যদি তাঁর বিমা পলিসি মন দিয়ে পড়তেন, তাহলে এখন মেরামতের জন্য তাঁকে এত টাকা দিতে হতো না।","words":[{"w":"repairs","bn":"মেরামত","pos":"noun","base":"repair"},{"w":"policy","bn":"বিমা পলিসি","pos":"noun"}]},
+            {"id":"04","en":"If the authorities hadn't widened that road, hundreds of old trees wouldn't have been cut down.","bn":"কর্তৃপক্ষ যদি রাস্তাটা চওড়া না করত, তাহলে শত শত পুরোনো গাছ কাটা পড়ত না।","words":[{"w":"widened","bn":"চওড়া করেছিল","pos":"verb","base":"widen"},{"w":"cut down","bn":"কেটে ফেলা","pos":"phrasal verb"}]},
+            {"id":"05","en":"If Daniel hadn't accepted the Dhaka contract, he wouldn't know so much about rickshaws today.","bn":"ড্যানিয়েল যদি ঢাকার চুক্তিটি গ্রহণ না করতেন, তাহলে আজ রিকশা সম্পর্কে এত কিছু জানতেন না।","words":[{"w":"accepted","bn":"গ্রহণ করেছিলেন","pos":"verb","base":"accept"},{"w":"contract","bn":"চুক্তি","pos":"noun"}]},
+            {"id":"06","en":"We wouldn't have missed our flight if we hadn't taken the longer route through Mohakhali.","bn":"আমরা যদি মহাখালী হয়ে লম্বা পথটা না ধরতাম, তাহলে ফ্লাইটটা মিস করতাম না।","words":[{"w":"missed","bn":"মিস করতাম","pos":"verb","base":"miss"},{"w":"route","bn":"পথ, রুট","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + would (have) + subject + ... + if + had + past participle?",
+          "tipBn": "প্রশ্নশব্দের পরে would বা would have, আর শেষে If + had + past participle দিয়ে অতীতের কাল্পনিক শর্ত বসে।",
+          "items": [
+            {"id":"01","en":"What would you have done if you had been in Asif's position?","bn":"আসিফের জায়গায় থাকলে আপনি কী করতেন?","words":[{"w":"done","bn":"করতেন","pos":"verb","base":"do"},{"w":"position","bn":"অবস্থান, জায়গা","pos":"noun"}]},
+            {"id":"02","en":"How would Dhaka look today if earlier planners had protected its canals?","bn":"আগের পরিকল্পনাবিদেরা যদি খালগুলো রক্ষা করতেন, তাহলে আজ ঢাকা দেখতে কেমন হতো?","words":[{"w":"protected","bn":"রক্ষা করতেন","pos":"verb","base":"protect"},{"w":"canals","bn":"খাল","pos":"noun","base":"canal"}]},
+            {"id":"03","en":"Where would Farzana be working now if she hadn't returned to Dhaka?","bn":"ফারজানা যদি ঢাকায় ফিরে না আসতেন, তাহলে এখন তিনি কোথায় কাজ করতেন?","words":[{"w":"be working","bn":"কাজ করতেন","pos":"phrase"},{"w":"returned","bn":"ফিরে আসতেন","pos":"verb","base":"return"}]},
+            {"id":"04","en":"Who would have paid for the damage if Asif hadn't been insured?","bn":"আসিফের বিমা না থাকলে ক্ষতির টাকা কে দিত?","words":[{"w":"damage","bn":"ক্ষতি","pos":"noun"},{"w":"insured","bn":"বিমাকৃত","pos":"adjective"}]},
+            {"id":"05","en":"How much time would commuters have saved if the expressway had opened on schedule?","bn":"এক্সপ্রেসওয়েটি যদি নির্ধারিত সময়ে চালু হতো, তাহলে নিত্যযাত্রীরা কতটা সময় বাঁচাতে পারতেন?","words":[{"w":"saved","bn":"বাঁচাতে পারতেন","pos":"verb","base":"save"},{"w":"on schedule","bn":"নির্ধারিত সময়ে","pos":"phrase"}]},
+            {"id":"06","en":"Why would the reform have failed if the bus owners hadn't supported it?","bn":"বাস মালিকেরা সমর্থন না দিলে সংস্কারটি কেন ব্যর্থ হতো?","words":[{"w":"reform","bn":"সংস্কার","pos":"noun"},{"w":"failed","bn":"ব্যর্থ হতো","pos":"verb","base":"fail"},{"w":"supported","bn":"সমর্থন করতেন","pos":"verb","base":"support"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences with third and mixed conditionals.",
+          "tipBn": "অনুচ্ছেদে third conditional দিয়ে অতীতের কাল্পনিক ফল আর mixed conditional দিয়ে বর্তমানের ওপর তার প্রভাব বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"If only","en":"Asif often wonders about the day of his accident. If he had left the meeting in Banani a few minutes later, he wouldn't have met the speeding bus. If he hadn't been wearing his seat belt, he would have been seriously hurt. He would probably still be in pain today if the airbags hadn't worked. Now he never forgets to buckle up, even on short trips.","bn":"আসিফ প্রায়ই তাঁর দুর্ঘটনার দিনটির কথা ভাবেন। বনানীর মিটিং থেকে তিনি যদি কয়েক মিনিট পরে বের হতেন, তাহলে বেপরোয়া গতির বাসটির মুখোমুখি হতেন না। তিনি যদি সিট বেল্ট না পরতেন, তাহলে গুরুতর আহত হতেন। এয়ারব্যাগ কাজ না করলে হয়তো আজও তিনি ব্যথায় ভুগতেন। এখন ছোট যাত্রাতেও তিনি সিট বেল্ট বাঁধতে কখনো ভোলেন না।","words":[{"w":"wonders","bn":"ভাবেন","pos":"verb","base":"wonder"},{"w":"speeding","bn":"বেপরোয়া গতির","pos":"adjective"},{"w":"seriously","bn":"গুরুতরভাবে","pos":"adverb"},{"w":"airbags","bn":"এয়ারব্যাগ","pos":"noun","base":"airbag"},{"w":"buckle up","bn":"সিট বেল্ট বাঁধা","pos":"phrasal verb"}]},
+            {"id":"02","title":"The canals of Dhaka","en":"Dhaka was once a city of canals and rivers. If earlier governments had protected those waterways, the city would have a cheap water transport network today. Thousands of commuters would travel by boat every day. Instead, most canals were filled in or blocked. If planners had understood their value, Dhaka's traffic wouldn't be so terrible now.","bn":"একসময় ঢাকা ছিল খাল আর নদীর শহর। আগের সরকারগুলো যদি সেই জলপথগুলো রক্ষা করত, তাহলে আজ শহরে একটি সস্তা নৌপরিবহন ব্যবস্থা থাকত। প্রতিদিন হাজার হাজার নিত্যযাত্রী নৌকায় যাতায়াত করতেন। তার বদলে বেশিরভাগ খাল ভরাট করা হয়েছে বা বন্ধ হয়ে গেছে। পরিকল্পনাবিদেরা যদি এগুলোর মূল্য বুঝতেন, তাহলে ঢাকার যানজট এখন এত ভয়াবহ হতো না।","words":[{"w":"waterways","bn":"জলপথ","pos":"noun","base":"waterway"},{"w":"water transport","bn":"নৌপরিবহন","pos":"noun"},{"w":"filled in","bn":"ভরাট করা হয়েছে","pos":"phrasal verb","base":"fill in"},{"w":"value","bn":"মূল্য, গুরুত্ব","pos":"noun"}]},
+            {"id":"03","title":"A different career","en":"Daniel often wonders how his career would look if he had refused his first job in Bangkok. He would probably be designing highways in Canada now. If he hadn't seen Bangkok's traffic chaos in the nineties, he wouldn't have become so passionate about public transport. That experience changed his life, and it has also shaped his advice to Dhaka.","bn":"ড্যানিয়েল প্রায়ই ভাবেন, ব্যাংককে তাঁর প্রথম চাকরিটা যদি তিনি ফিরিয়ে দিতেন, তাহলে তাঁর ক্যারিয়ার কেমন হতো। হয়তো এখন তিনি কানাডায় মহাসড়কের নকশা করতেন। নব্বইয়ের দশকে ব্যাংককের যানজটের বিশৃঙ্খলা না দেখলে তিনি গণপরিবহন নিয়ে এতটা আগ্রহী হয়ে উঠতেন না। সেই অভিজ্ঞতা তাঁর জীবন বদলে দিয়েছে, আর ঢাকাকে দেওয়া তাঁর পরামর্শকেও গড়ে দিয়েছে।","words":[{"w":"career","bn":"পেশাজীবন, ক্যারিয়ার","pos":"noun"},{"w":"refused","bn":"ফিরিয়ে দিতেন","pos":"verb","base":"refuse"},{"w":"chaos","bn":"বিশৃঙ্খলা","pos":"noun"},{"w":"passionate","bn":"গভীরভাবে আগ্রহী","pos":"adjective"},{"w":"public transport","bn":"গণপরিবহন","pos":"noun"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

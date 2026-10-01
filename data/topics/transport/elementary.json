@@ -1,0 +1,271 @@
+{
+  "topic": "transport",
+  "level": "elementary",
+  "title": "Rahim Finds His Way",
+  "story": "Rahim is from Barishal. He has a new job at a bank in Motijheel and lives in Mirpur 10. His cousin Sadia knows Dhaka well and helps him find his way. Some weekends he travels home by launch.",
+  "storyBn": "রাহিমের বাড়ি বরিশালে। মতিঝিলের একটা ব্যাংকে সে নতুন চাকরি পেয়েছে এবং মিরপুর ১০-এ থাকে। তার কাজিন সাদিয়া ঢাকা ভালো চেনে এবং তাকে পথ খুঁজে পেতে সাহায্য করে। কোনো কোনো সপ্তাহান্তে সে লঞ্চে করে বাড়ি যায়।",
+  "units": [
+    {
+      "grammar": "present-simple",
+      "focus": "Talk about daily travel and landmarks",
+      "focusBn": "প্রতিদিনের যাতায়াত আর পরিচিত জায়গা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb(s) + place / time ...",
+          "tipBn": "নিয়মিত অভ্যাস বা সাধারণ তথ্য বলতে present simple ব্যবহার হয়; he/she এর পরে verb-এ s বা es যোগ হয়।",
+          "items": [
+            {"id":"01","en":"Rahim works at a bank in Motijheel.","bn":"রাহিম মতিঝিলের একটা ব্যাংকে কাজ করে।","words":[{"w":"works","bn":"কাজ করে","pos":"verb","base":"work"},{"w":"bank","bn":"ব্যাংক","pos":"noun"}]},
+            {"id":"02","en":"He takes the metro from Mirpur 10 every day.","bn":"সে প্রতিদিন মিরপুর ১০ থেকে মেট্রোতে ওঠে।","words":[{"w":"takes","bn":"চড়ে","pos":"verb","base":"take"},{"w":"every day","bn":"প্রতিদিন","pos":"phrase"}]},
+            {"id":"03","en":"The ride takes about thirty minutes.","bn":"যেতে প্রায় ৩০ মিনিট লাগে।","words":[{"w":"ride","bn":"যাত্রা","pos":"noun"},{"w":"about","bn":"প্রায়","pos":"adverb"}]},
+            {"id":"04","en":"His office is opposite a big mosque.","bn":"তার অফিস একটা বড় মসজিদের বিপরীতে।","words":[{"w":"opposite","bn":"বিপরীতে, উল্টো দিকে","pos":"preposition"},{"w":"mosque","bn":"মসজিদ","pos":"noun"}]},
+            {"id":"05","en":"Sadia uses a ride-sharing app at night.","bn":"সাদিয়া রাতে রাইড শেয়ারিং অ্যাপ ব্যবহার করে।","words":[{"w":"uses","bn":"ব্যবহার করে","pos":"verb","base":"use"},{"w":"ride-sharing app","bn":"রাইড শেয়ারিং অ্যাপ","pos":"noun"}]},
+            {"id":"06","en":"Rickshaw pullers often ask for extra money.","bn":"রিকশাচালকেরা প্রায়ই বাড়তি টাকা চান।","words":[{"w":"rickshaw pullers","bn":"রিকশাচালক","pos":"noun","base":"rickshaw puller"},{"w":"ask for","bn":"চাওয়া","pos":"phrasal verb"},{"w":"extra","bn":"বাড়তি","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + don't/doesn't + verb (base) ... / isn't + ...",
+          "tipBn": "verb-এর আগে don't বা doesn't বসে, আর verb মূল রূপে থাকে; is এর সাথে not যোগ হয়।",
+          "items": [
+            {"id":"01","en":"Rahim doesn't drive to work.","bn":"রাহিম গাড়ি চালিয়ে অফিসে যায় না।","words":[{"w":"drive","bn":"গাড়ি চালানো","pos":"verb"},{"w":"work","bn":"কর্মস্থল","pos":"noun"}]},
+            {"id":"02","en":"He doesn't take the bus every day.","bn":"সে প্রতিদিন বাসে চড়ে না।","words":[{"w":"take","bn":"চড়া","pos":"verb"}]},
+            {"id":"03","en":"The metro doesn't run late at night.","bn":"গভীর রাতে মেট্রো চলে না।","words":[{"w":"run","bn":"চলা","pos":"verb"},{"w":"late at night","bn":"গভীর রাতে","pos":"phrase"}]},
+            {"id":"04","en":"His office isn't far from the station.","bn":"তার অফিস স্টেশন থেকে দূরে নয়।","words":[{"w":"far from","bn":"থেকে দূরে","pos":"phrase"},{"w":"station","bn":"স্টেশন","pos":"noun"}]},
+            {"id":"05","en":"Sadia doesn't bargain with CNG drivers.","bn":"সাদিয়া সিএনজিচালকদের সাথে দরদাম করে না।","words":[{"w":"bargain","bn":"দরদাম করা","pos":"verb"},{"w":"CNG drivers","bn":"সিএনজিচালক","pos":"noun","base":"CNG driver"}]},
+            {"id":"06","en":"Most buses don't stop at the right place.","bn":"বেশিরভাগ বাস ঠিক জায়গায় থামে না।","words":[{"w":"stop","bn":"থামা","pos":"verb"},{"w":"right place","bn":"ঠিক জায়গা","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Do/Does + subject + verb (base) ...? / Is + subject + ...?",
+          "tipBn": "Do/Does বা Is বাক্যের শুরুতে বসে প্রশ্ন তৈরি করে।",
+          "items": [
+            {"id":"01","en":"Does Rahim work at a bank in Motijheel?","bn":"রাহিম কি মতিঝিলের একটা ব্যাংকে কাজ করে?","words":[{"w":"work","bn":"কাজ করা","pos":"verb"},{"w":"bank","bn":"ব্যাংক","pos":"noun"}]},
+            {"id":"02","en":"Does the ride take about thirty minutes?","bn":"যেতে কি প্রায় ৩০ মিনিট লাগে?","words":[{"w":"ride","bn":"যাত্রা","pos":"noun"},{"w":"take","bn":"সময় লাগা","pos":"verb"}]},
+            {"id":"03","en":"Is his office opposite the mosque?","bn":"তার অফিস কি মসজিদের বিপরীতে?","words":[{"w":"opposite","bn":"বিপরীতে","pos":"preposition"},{"w":"mosque","bn":"মসজিদ","pos":"noun"}]},
+            {"id":"04","en":"Does Sadia use a ride-sharing app at night?","bn":"সাদিয়া কি রাতে রাইড শেয়ারিং অ্যাপ ব্যবহার করে?","words":[{"w":"ride-sharing app","bn":"রাইড শেয়ারিং অ্যাপ","pos":"noun"}]},
+            {"id":"05","en":"Do you know the way to Motijheel?","bn":"আপনি কি মতিঝিলে যাওয়ার পথ জানেন?","words":[{"w":"know","bn":"জানা","pos":"verb"},{"w":"way","bn":"পথ, রাস্তা","pos":"noun"}]},
+            {"id":"06","en":"Is there a metro station near here?","bn":"এখানে কাছাকাছি কি কোনো মেট্রো স্টেশন আছে?","words":[{"w":"metro station","bn":"মেট্রো স্টেশন","pos":"noun"},{"w":"near here","bn":"এখানে কাছাকাছি","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Don't/Doesn't/Isn't + subject + ...?",
+          "tipBn": "অবাক হলে বা নিশ্চিত হতে চাইলে Don't, Doesn't বা Isn't দিয়ে প্রশ্ন শুরু হয়।",
+          "items": [
+            {"id":"01","en":"Doesn't Rahim take the metro every day?","bn":"রাহিম কি প্রতিদিন মেট্রোতে চড়ে না?","words":[{"w":"take","bn":"চড়া","pos":"verb"},{"w":"metro","bn":"মেট্রো রেল","pos":"noun"}]},
+            {"id":"02","en":"Isn't his office opposite the mosque?","bn":"তার অফিস কি মসজিদের বিপরীতে নয়?","words":[{"w":"opposite","bn":"বিপরীতে","pos":"preposition"}]},
+            {"id":"03","en":"Don't rickshaw pullers ask for extra money?","bn":"রিকশাচালকেরা কি বাড়তি টাকা চান না?","words":[{"w":"ask for","bn":"চাওয়া","pos":"phrasal verb"},{"w":"extra","bn":"বাড়তি","pos":"adjective"}]},
+            {"id":"04","en":"Isn't the metro faster than the bus?","bn":"মেট্রো কি বাসের চেয়ে দ্রুত নয়?","words":[{"w":"faster","bn":"আরও দ্রুত","pos":"adjective","base":"fast"}]},
+            {"id":"05","en":"Doesn't this bus go to Gulistan?","bn":"এই বাসটা কি গুলিস্তানে যায় না?","words":[{"w":"go to","bn":"যাওয়া","pos":"phrase"}]},
+            {"id":"06","en":"Don't CNG drivers use meters?","bn":"সিএনজিচালকেরা কি মিটার ব্যবহার করেন না?","words":[{"w":"use","bn":"ব্যবহার করা","pos":"verb"},{"w":"meters","bn":"মিটার","pos":"noun","base":"meter"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + do/does/is + subject ...?",
+          "tipBn": "Where, How, Which ইত্যাদি প্রশ্নশব্দের পরে do/does বা is বসে।",
+          "items": [
+            {"id":"01","en":"Where does Rahim work?","bn":"রাহিম কোথায় কাজ করে?","words":[{"w":"Where","bn":"কোথায়","pos":"adverb"},{"w":"work","bn":"কাজ করা","pos":"verb"}]},
+            {"id":"02","en":"How does he get to his office?","bn":"সে কীভাবে তার অফিসে যায়?","words":[{"w":"How","bn":"কীভাবে","pos":"adverb"},{"w":"get to","bn":"পৌঁছানো","pos":"phrasal verb"}]},
+            {"id":"03","en":"How long does the ride take?","bn":"যেতে কতক্ষণ লাগে?","words":[{"w":"How long","bn":"কতক্ষণ","pos":"phrase"},{"w":"ride","bn":"যাত্রা","pos":"noun"}]},
+            {"id":"04","en":"What is opposite his office?","bn":"তার অফিসের বিপরীতে কী আছে?","words":[{"w":"opposite","bn":"বিপরীতে","pos":"preposition"}]},
+            {"id":"05","en":"Which app does Sadia use?","bn":"সাদিয়া কোন অ্যাপ ব্যবহার করে?","words":[{"w":"Which","bn":"কোন","pos":"pronoun"},{"w":"app","bn":"অ্যাপ","pos":"noun"}]},
+            {"id":"06","en":"How much is a CNG to Gulshan?","bn":"গুলশান পর্যন্ত সিএনজি ভাড়া কত?","words":[{"w":"How much","bn":"কত","pos":"phrase"},{"w":"CNG","bn":"সিএনজি অটোরিকশা","pos":"noun"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "present-continuous",
+      "focus": "Ask for and give directions right now",
+      "focusBn": "এই মুহূর্তে পথ জিজ্ঞেস করা ও পথ বলে দেওয়া",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + verb-ing ...",
+          "tipBn": "এখন যা ঘটছে তা বলতে am/is/are + verb-ing ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"Rahim is looking for the post office.","bn":"রাহিম পোস্ট অফিসটা খুঁজছে।","words":[{"w":"looking for","bn":"খুঁজছে","pos":"phrasal verb","base":"look for"},{"w":"post office","bn":"ডাকঘর","pos":"noun"}]},
+            {"id":"02","en":"He is holding a map on his phone.","bn":"সে ফোনে একটা ম্যাপ খুলে ধরে আছে।","words":[{"w":"holding","bn":"ধরে আছে","pos":"verb","base":"hold"},{"w":"map","bn":"মানচিত্র, ম্যাপ","pos":"noun"}]},
+            {"id":"03","en":"Sadia is giving him directions on the phone.","bn":"সাদিয়া ফোনে তাকে পথ বলে দিচ্ছে।","words":[{"w":"giving","bn":"দিচ্ছে","pos":"verb","base":"give"},{"w":"directions","bn":"পথনির্দেশ","pos":"noun","base":"direction"}]},
+            {"id":"04","en":"A traffic police officer is standing at the corner.","bn":"একজন ট্রাফিক পুলিশ মোড়ে দাঁড়িয়ে আছেন।","words":[{"w":"traffic police officer","bn":"ট্রাফিক পুলিশ","pos":"noun"},{"w":"corner","bn":"মোড়","pos":"noun"}]},
+            {"id":"05","en":"The cars are moving very slowly.","bn":"গাড়িগুলো খুব ধীরে চলছে।","words":[{"w":"moving","bn":"চলছে","pos":"verb","base":"move"},{"w":"slowly","bn":"ধীরে","pos":"adverb"}]},
+            {"id":"06","en":"Rahim is walking past the big hospital.","bn":"রাহিম বড় হাসপাতালটার পাশ দিয়ে হেঁটে যাচ্ছে।","words":[{"w":"walking past","bn":"পাশ দিয়ে হেঁটে যাচ্ছে","pos":"phrasal verb","base":"walk past"},{"w":"hospital","bn":"হাসপাতাল","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am not / isn't / aren't + verb-ing ...",
+          "tipBn": "am/is/are এর পরে not বসে, তারপর verb-ing।",
+          "items": [
+            {"id":"01","en":"The map on Rahim's phone isn't working.","bn":"রাহিমের ফোনের ম্যাপটা কাজ করছে না।","words":[{"w":"map","bn":"মানচিত্র, ম্যাপ","pos":"noun"},{"w":"working","bn":"কাজ করছে","pos":"verb","base":"work"}]},
+            {"id":"02","en":"Rahim isn't walking in the right direction.","bn":"রাহিম ঠিক দিকে হাঁটছে না।","words":[{"w":"right","bn":"সঠিক","pos":"adjective"},{"w":"direction","bn":"দিক","pos":"noun"}]},
+            {"id":"03","en":"The cars aren't moving at all.","bn":"গাড়িগুলো একদমই নড়ছে না।","words":[{"w":"moving","bn":"চলছে, নড়ছে","pos":"verb","base":"move"},{"w":"at all","bn":"একদমই","pos":"phrase"}]},
+            {"id":"04","en":"The bus isn't stopping here today.","bn":"আজ বাসটা এখানে থামছে না।","words":[{"w":"stopping","bn":"থামছে","pos":"verb","base":"stop"}]},
+            {"id":"05","en":"The traffic police officer isn't looking at him.","bn":"ট্রাফিক পুলিশ তার দিকে তাকাচ্ছেন না।","words":[{"w":"looking at","bn":"তাকাচ্ছে","pos":"phrasal verb","base":"look at"}]},
+            {"id":"06","en":"Rahim isn't using a ride-sharing app today.","bn":"রাহিম আজ রাইড শেয়ারিং অ্যাপ ব্যবহার করছে না।","words":[{"w":"using","bn":"ব্যবহার করছে","pos":"verb","base":"use"},{"w":"ride-sharing app","bn":"রাইড শেয়ারিং অ্যাপ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + verb-ing ...?",
+          "tipBn": "am/is/are বাক্যের শুরুতে এনে চলমান কাজের প্রশ্ন হয়।",
+          "items": [
+            {"id":"01","en":"Is Rahim looking for the post office?","bn":"রাহিম কি পোস্ট অফিসটা খুঁজছে?","words":[{"w":"looking for","bn":"খুঁজছে","pos":"phrasal verb","base":"look for"}]},
+            {"id":"02","en":"Is Sadia giving him directions?","bn":"সাদিয়া কি তাকে পথ বলে দিচ্ছে?","words":[{"w":"directions","bn":"পথনির্দেশ","pos":"noun","base":"direction"}]},
+            {"id":"03","en":"Is a police officer standing at the corner?","bn":"একজন পুলিশ কি মোড়ে দাঁড়িয়ে আছেন?","words":[{"w":"police officer","bn":"পুলিশ কর্মকর্তা","pos":"noun"},{"w":"corner","bn":"মোড়","pos":"noun"}]},
+            {"id":"04","en":"Are the cars moving slowly?","bn":"গাড়িগুলো কি ধীরে চলছে?","words":[{"w":"slowly","bn":"ধীরে","pos":"adverb"}]},
+            {"id":"05","en":"Are you walking toward the station?","bn":"তুমি কি স্টেশনের দিকে হাঁটছ?","words":[{"w":"toward","bn":"দিকে","pos":"preposition"},{"w":"station","bn":"স্টেশন","pos":"noun"}]},
+            {"id":"06","en":"Is your phone showing the right road?","bn":"তোমার ফোন কি ঠিক রাস্তা দেখাচ্ছে?","words":[{"w":"showing","bn":"দেখাচ্ছে","pos":"verb","base":"show"},{"w":"right","bn":"সঠিক","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + verb-ing ...?",
+          "tipBn": "প্রশ্নশব্দের পরে am/is/are, তারপর subject আর verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"What is Rahim looking for?","bn":"রাহিম কী খুঁজছে?","words":[{"w":"What","bn":"কী","pos":"pronoun"},{"w":"looking for","bn":"খুঁজছে","pos":"phrasal verb","base":"look for"}]},
+            {"id":"02","en":"Who is giving him directions?","bn":"কে তাকে পথ বলে দিচ্ছে?","words":[{"w":"Who","bn":"কে","pos":"pronoun"},{"w":"directions","bn":"পথনির্দেশ","pos":"noun","base":"direction"}]},
+            {"id":"03","en":"Where is the police officer standing?","bn":"পুলিশ কর্মকর্তা কোথায় দাঁড়িয়ে আছেন?","words":[{"w":"Where","bn":"কোথায়","pos":"adverb"},{"w":"standing","bn":"দাঁড়িয়ে আছে","pos":"verb","base":"stand"}]},
+            {"id":"04","en":"Why are the cars moving so slowly?","bn":"গাড়িগুলো এত ধীরে চলছে কেন?","words":[{"w":"Why","bn":"কেন","pos":"adverb"},{"w":"so slowly","bn":"এত ধীরে","pos":"phrase"}]},
+            {"id":"05","en":"Which road is Rahim walking on?","bn":"রাহিম কোন রাস্তা দিয়ে হাঁটছে?","words":[{"w":"Which","bn":"কোন","pos":"pronoun"},{"w":"walking","bn":"হাঁটছে","pos":"verb","base":"walk"}]},
+            {"id":"06","en":"Where are you calling from?","bn":"তুমি কোথা থেকে ফোন করছ?","words":[{"w":"calling","bn":"ফোন করছ","pos":"verb","base":"call"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-simple",
+      "focus": "Tell the story of a trip home by launch",
+      "focusBn": "লঞ্চে করে বাড়ি যাওয়ার গল্প বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb (past) ...",
+          "tipBn": "অতীতের ঘটনা বলতে verb-এর past রূপ বসে: take → took, buy → bought, leave → left।",
+          "items": [
+            {"id":"01","en":"Rahim took a CNG to Sadarghat last Thursday.","bn":"গত বৃহস্পতিবার রাহিম সিএনজিতে করে সদরঘাটে গিয়েছিল।","words":[{"w":"took","bn":"নিয়েছিল","pos":"verb","base":"take"},{"w":"last Thursday","bn":"গত বৃহস্পতিবার","pos":"phrase"}]},
+            {"id":"02","en":"The driver asked for 500 taka.","bn":"চালক ৫০০ টাকা চেয়েছিলেন।","words":[{"w":"asked for","bn":"চেয়েছিল","pos":"phrasal verb","base":"ask for"}]},
+            {"id":"03","en":"Rahim bargained and paid 350 taka.","bn":"রাহিম দরদাম করে ৩৫০ টাকা দিয়েছিল।","words":[{"w":"bargained","bn":"দরদাম করেছিল","pos":"verb","base":"bargain"},{"w":"paid","bn":"দিয়েছিল","pos":"verb","base":"pay"}]},
+            {"id":"04","en":"They got stuck in traffic at Gulistan.","bn":"তারা গুলিস্তানে যানজটে আটকে গিয়েছিল।","words":[{"w":"got stuck","bn":"আটকে গিয়েছিল","pos":"phrase","base":"get stuck"},{"w":"traffic","bn":"যানজট","pos":"noun"}]},
+            {"id":"05","en":"He bought a cabin ticket for the launch.","bn":"সে লঞ্চের একটা কেবিনের টিকিট কিনেছিল।","words":[{"w":"cabin","bn":"কেবিন","pos":"noun"},{"w":"launch","bn":"লঞ্চ","pos":"noun"}]},
+            {"id":"06","en":"The launch left at 9 o'clock at night.","bn":"লঞ্চটা রাত ৯টায় ছেড়েছিল।","words":[{"w":"left","bn":"ছেড়ে গিয়েছিল","pos":"verb","base":"leave"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + didn't + verb (base) ...",
+          "tipBn": "didn't এর পরে verb সবসময় মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Rahim didn't take a bus to Sadarghat.","bn":"রাহিম সদরঘাটে বাসে করে যায়নি।","words":[{"w":"take","bn":"নেওয়া, চড়া","pos":"verb"}]},
+            {"id":"02","en":"The driver didn't use the meter.","bn":"চালক মিটার ব্যবহার করেননি।","words":[{"w":"use","bn":"ব্যবহার করা","pos":"verb"},{"w":"meter","bn":"মিটার","pos":"noun"}]},
+            {"id":"03","en":"Rahim didn't pay 500 taka.","bn":"রাহিম ৫০০ টাকা দেয়নি।","words":[{"w":"pay","bn":"টাকা দেওয়া","pos":"verb"}]},
+            {"id":"04","en":"They didn't reach the port on time.","bn":"তারা সময়মতো ঘাটে পৌঁছায়নি।","words":[{"w":"reach","bn":"পৌঁছানো","pos":"verb"},{"w":"port","bn":"ঘাট, বন্দর","pos":"noun"}]},
+            {"id":"05","en":"He didn't buy a deck ticket.","bn":"সে ডেকের টিকিট কেনেনি।","words":[{"w":"deck","bn":"ডেক, লঞ্চের খোলা তলা","pos":"noun"}]},
+            {"id":"06","en":"The launch didn't leave late.","bn":"লঞ্চটা দেরিতে ছাড়েনি।","words":[{"w":"leave","bn":"ছেড়ে যাওয়া","pos":"verb"},{"w":"late","bn":"দেরিতে","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Did + subject + verb (base) ...? / Was + subject + ...?",
+          "tipBn": "Did শুরুতে বসে এবং verb মূল রূপে থাকে; be-verb হলে Was/Were শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Did Rahim take a CNG to Sadarghat?","bn":"রাহিম কি সিএনজিতে করে সদরঘাটে গিয়েছিল?","words":[{"w":"take","bn":"নেওয়া","pos":"verb"},{"w":"CNG","bn":"সিএনজি অটোরিকশা","pos":"noun"}]},
+            {"id":"02","en":"Did the driver ask for 500 taka?","bn":"চালক কি ৫০০ টাকা চেয়েছিলেন?","words":[{"w":"ask for","bn":"চাওয়া","pos":"phrasal verb"}]},
+            {"id":"03","en":"Did they get stuck in traffic?","bn":"তারা কি যানজটে আটকে গিয়েছিল?","words":[{"w":"get stuck","bn":"আটকে যাওয়া","pos":"phrase"}]},
+            {"id":"04","en":"Did he buy a cabin ticket?","bn":"সে কি কেবিনের টিকিট কিনেছিল?","words":[{"w":"buy","bn":"কেনা","pos":"verb"},{"w":"cabin","bn":"কেবিন","pos":"noun"}]},
+            {"id":"05","en":"Did you sleep well on the launch?","bn":"লঞ্চে কি তোমার ভালো ঘুম হয়েছিল?","words":[{"w":"sleep well","bn":"ভালো ঘুমানো","pos":"phrase"}]},
+            {"id":"06","en":"Was the river calm that night?","bn":"সেই রাতে কি নদী শান্ত ছিল?","words":[{"w":"river","bn":"নদী","pos":"noun"},{"w":"calm","bn":"শান্ত","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Didn't/Wasn't + subject + ...?",
+          "tipBn": "অবাক হলে বা নিশ্চিত হতে চাইলে Didn't বা Wasn't দিয়ে অতীতের প্রশ্ন শুরু হয়।",
+          "items": [
+            {"id":"01","en":"Didn't Rahim bargain with the driver?","bn":"রাহিম কি চালকের সাথে দরদাম করেনি?","words":[{"w":"bargain","bn":"দরদাম করা","pos":"verb"}]},
+            {"id":"02","en":"Didn't the driver use the meter?","bn":"চালক কি মিটার ব্যবহার করেননি?","words":[{"w":"meter","bn":"মিটার","pos":"noun"}]},
+            {"id":"03","en":"Didn't they leave Mirpur early?","bn":"তারা কি মিরপুর থেকে আগে আগে বের হয়নি?","words":[{"w":"leave","bn":"ছেড়ে যাওয়া, বের হওয়া","pos":"verb"},{"w":"early","bn":"আগে আগে","pos":"adverb"}]},
+            {"id":"04","en":"Didn't he call Sadia from the launch?","bn":"সে কি লঞ্চ থেকে সাদিয়াকে ফোন করেনি?","words":[{"w":"call","bn":"ফোন করা","pos":"verb"}]},
+            {"id":"05","en":"Wasn't the traffic terrible at Gulistan?","bn":"গুলিস্তানে কি যানজট ভয়াবহ ছিল না?","words":[{"w":"terrible","bn":"ভয়াবহ","pos":"adjective"}]},
+            {"id":"06","en":"Didn't the launch leave on time?","bn":"লঞ্চটা কি সময়মতো ছাড়েনি?","words":[{"w":"on time","bn":"সময়মতো","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + did + subject + verb (base) ...?",
+          "tipBn": "প্রশ্নশব্দের পরে did বসে, তারপর subject আর verb-এর মূল রূপ।",
+          "items": [
+            {"id":"01","en":"How did Rahim go to Sadarghat?","bn":"রাহিম কীভাবে সদরঘাটে গিয়েছিল?","words":[{"w":"How","bn":"কীভাবে","pos":"adverb"}]},
+            {"id":"02","en":"How much did he pay the driver?","bn":"সে চালককে কত টাকা দিয়েছিল?","words":[{"w":"How much","bn":"কত","pos":"phrase"},{"w":"pay","bn":"টাকা দেওয়া","pos":"verb"}]},
+            {"id":"03","en":"Where did they get stuck?","bn":"তারা কোথায় আটকে গিয়েছিল?","words":[{"w":"Where","bn":"কোথায়","pos":"adverb"},{"w":"get stuck","bn":"আটকে যাওয়া","pos":"phrase"}]},
+            {"id":"04","en":"What kind of ticket did he buy?","bn":"সে কোন ধরনের টিকিট কিনেছিল?","words":[{"w":"What kind of","bn":"কোন ধরনের","pos":"phrase"}]},
+            {"id":"05","en":"When did the launch leave?","bn":"লঞ্চটা কখন ছেড়েছিল?","words":[{"w":"When","bn":"কখন","pos":"adverb"},{"w":"leave","bn":"ছেড়ে যাওয়া","pos":"verb"}]},
+            {"id":"06","en":"Why did he choose the launch?","bn":"সে লঞ্চই বেছে নিল কেন?","words":[{"w":"Why","bn":"কেন","pos":"adverb"},{"w":"choose","bn":"বেছে নেওয়া","pos":"verb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "future-going-to",
+      "focus": "Talk about plans: a driving license and a train trip",
+      "focusBn": "পরিকল্পনা নিয়ে কথা বলা: ড্রাইভিং লাইসেন্স আর ট্রেনে ভ্রমণ",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + going to + verb (base) ...",
+          "tipBn": "আগে থেকে ঠিক করা পরিকল্পনা বা চোখে দেখা লক্ষণ থেকে ভবিষ্যৎ বলতে am/is/are going to + verb ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"Rahim is going to learn to drive.","bn":"রাহিম গাড়ি চালানো শিখবে।","words":[{"w":"learn","bn":"শেখা","pos":"verb"},{"w":"drive","bn":"গাড়ি চালানো","pos":"verb"}]},
+            {"id":"02","en":"He is going to apply for a driving license.","bn":"সে ড্রাইভিং লাইসেন্সের জন্য আবেদন করবে।","words":[{"w":"apply for","bn":"আবেদন করা","pos":"phrasal verb"},{"w":"driving license","bn":"ড্রাইভিং লাইসেন্স","pos":"noun"}]},
+            {"id":"03","en":"Sadia is going to recharge her metro card.","bn":"সাদিয়া তার মেট্রো কার্ড রিচার্জ করবে।","words":[{"w":"recharge","bn":"রিচার্জ করা","pos":"verb"},{"w":"metro card","bn":"মেট্রো কার্ড","pos":"noun"}]},
+            {"id":"04","en":"Look at the traffic! We are going to be late.","bn":"যানজটটা দেখো! আমাদের দেরি হয়ে যাবে।","words":[{"w":"Look at","bn":"দেখো","pos":"phrasal verb"},{"w":"late","bn":"দেরি","pos":"adjective"}]},
+            {"id":"05","en":"They are going to visit Cox's Bazar by train.","bn":"তারা ট্রেনে করে কক্সবাজার বেড়াতে যাবে।","words":[{"w":"visit","bn":"বেড়াতে যাওয়া","pos":"verb"},{"w":"by train","bn":"ট্রেনে করে","pos":"phrase"}]},
+            {"id":"06","en":"Rahim is going to buy a helmet first.","bn":"রাহিম আগে একটা হেলমেট কিনবে।","words":[{"w":"helmet","bn":"হেলমেট","pos":"noun"},{"w":"first","bn":"প্রথমে, আগে","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am not / isn't / aren't + going to + verb (base) ...",
+          "tipBn": "am/is/are এর পরে not বসে, তারপর going to + verb।",
+          "items": [
+            {"id":"01","en":"Rahim isn't going to drive without a license.","bn":"রাহিম লাইসেন্স ছাড়া গাড়ি চালাবে না।","words":[{"w":"without","bn":"ছাড়া","pos":"preposition"},{"w":"license","bn":"লাইসেন্স","pos":"noun"}]},
+            {"id":"02","en":"He isn't going to pay a broker for the license.","bn":"লাইসেন্সের জন্য সে কোনো দালালকে টাকা দেবে না।","words":[{"w":"broker","bn":"দালাল","pos":"noun"},{"w":"pay","bn":"টাকা দেওয়া","pos":"verb"}]},
+            {"id":"03","en":"Sadia isn't going to take a CNG today.","bn":"সাদিয়া আজ সিএনজি নেবে না।","words":[{"w":"take","bn":"নেওয়া","pos":"verb"}]},
+            {"id":"04","en":"Hurry up! We aren't going to catch the train.","bn":"তাড়াতাড়ি করো! আমরা ট্রেনটা ধরতে পারব না।","words":[{"w":"Hurry up","bn":"তাড়াতাড়ি করো","pos":"phrasal verb"},{"w":"catch","bn":"ধরা","pos":"verb"}]},
+            {"id":"05","en":"They aren't going to travel by bus.","bn":"তারা বাসে করে যাবে না।","words":[{"w":"travel","bn":"ভ্রমণ করা","pos":"verb"},{"w":"by bus","bn":"বাসে করে","pos":"phrase"}]},
+            {"id":"06","en":"It isn't going to be a cheap trip.","bn":"ভ্রমণটা সস্তা হবে না।","words":[{"w":"cheap","bn":"সস্তা","pos":"adjective"},{"w":"trip","bn":"ভ্রমণ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + going to + verb (base) ...?",
+          "tipBn": "am/is/are শুরুতে বসে, তারপর subject আর going to + verb।",
+          "items": [
+            {"id":"01","en":"Is Rahim going to learn to drive?","bn":"রাহিম কি গাড়ি চালানো শিখবে?","words":[{"w":"learn","bn":"শেখা","pos":"verb"}]},
+            {"id":"02","en":"Is he going to apply for a license?","bn":"সে কি লাইসেন্সের জন্য আবেদন করবে?","words":[{"w":"apply for","bn":"আবেদন করা","pos":"phrasal verb"},{"w":"license","bn":"লাইসেন্স","pos":"noun"}]},
+            {"id":"03","en":"Are they going to visit Cox's Bazar by train?","bn":"তারা কি ট্রেনে করে কক্সবাজার বেড়াতে যাবে?","words":[{"w":"visit","bn":"বেড়াতে যাওয়া","pos":"verb"},{"w":"by train","bn":"ট্রেনে করে","pos":"phrase"}]},
+            {"id":"04","en":"Are we going to be late?","bn":"আমাদের কি দেরি হয়ে যাবে?","words":[{"w":"late","bn":"দেরি","pos":"adjective"}]},
+            {"id":"05","en":"Is Sadia going to come with us?","bn":"সাদিয়া কি আমাদের সাথে আসবে?","words":[{"w":"come with","bn":"সাথে আসা","pos":"phrase"}]},
+            {"id":"06","en":"Are you going to book the tickets online?","bn":"তুমি কি অনলাইনে টিকিট কাটবে?","words":[{"w":"book","bn":"বুক করা, কাটা","pos":"verb"},{"w":"online","bn":"অনলাইনে","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + going to + verb (base) ...?",
+          "tipBn": "প্রশ্নশব্দের পরে am/is/are, তারপর subject আর going to + verb বসে।",
+          "items": [
+            {"id":"01","en":"When is Rahim going to take his driving test?","bn":"রাহিম কখন তার ড্রাইভিং পরীক্ষা দেবে?","words":[{"w":"When","bn":"কখন","pos":"adverb"},{"w":"driving test","bn":"ড্রাইভিং পরীক্ষা","pos":"noun"}]},
+            {"id":"02","en":"Where is he going to take lessons?","bn":"সে কোথায় ড্রাইভিং শিখবে?","words":[{"w":"Where","bn":"কোথায়","pos":"adverb"},{"w":"lessons","bn":"পাঠ, ক্লাস","pos":"noun","base":"lesson"}]},
+            {"id":"03","en":"How are they going to get to Cox's Bazar?","bn":"তারা কীভাবে কক্সবাজার যাবে?","words":[{"w":"How","bn":"কীভাবে","pos":"adverb"},{"w":"get to","bn":"পৌঁছানো","pos":"phrasal verb"}]},
+            {"id":"04","en":"Which train are they going to take?","bn":"তারা কোন ট্রেনে যাবে?","words":[{"w":"Which","bn":"কোন","pos":"pronoun"},{"w":"train","bn":"ট্রেন","pos":"noun"}]},
+            {"id":"05","en":"Who is going to book the tickets?","bn":"টিকিট কে কাটবে?","words":[{"w":"Who","bn":"কে","pos":"pronoun"},{"w":"book","bn":"বুক করা, কাটা","pos":"verb"}]},
+            {"id":"06","en":"How much is the trip going to cost?","bn":"ভ্রমণে কত খরচ হবে?","words":[{"w":"How much","bn":"কত","pos":"phrase"},{"w":"cost","bn":"খরচ হওয়া","pos":"verb"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}
