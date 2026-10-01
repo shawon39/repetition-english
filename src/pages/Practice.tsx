@@ -1,4 +1,4 @@
-import { ArrowRight, Check, Mic, MicOff, RotateCcw, Volume2, X } from 'lucide-react';
+import { ArrowRight, Check, Mic, MicOff, RotateCcw, Volume2, VolumeX, X } from 'lucide-react';
 import { AnimatePresence, motion } from 'motion/react';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { Link, useParams, useSearchParams } from 'react-router-dom';
@@ -38,7 +38,7 @@ function PracticeRun({ sessionKey, kind }: { sessionKey: string; kind: Kind }) {
   const items = session.items;
   const store = useStore();
   const { state, settings, updateSettings } = store;
-  const { speak, speaking } = useSpeaker();
+  const { speak, stop, speaking } = useSpeaker();
   const topicUrl = `/topic/${topic.id}/${level.id}`;
 
   const base = level.targetReps;
@@ -210,6 +210,25 @@ function PracticeRun({ sessionKey, kind }: { sessionKey: string; kind: Kind }) {
         <span className="p-count">
           {index + 1} / {items.length}
         </span>
+        <button
+          className={`icon-btn${settings.autoListen ? '' : ' is-muted'}`}
+          aria-pressed={settings.autoListen}
+          aria-label={settings.autoListen ? 'Turn off auto-play' : 'Turn on auto-play'}
+          title={settings.autoListen ? 'Auto-play is on' : 'Auto-play is off'}
+          onClick={() => {
+            const on = !settings.autoListen;
+            updateSettings({ autoListen: on });
+            if (on) {
+              speak(item.en);
+              setNudge('Auto-play on. Each sentence plays once.');
+            } else {
+              stop();
+              setNudge('Auto-play off. Tap the speaker below to listen.');
+            }
+          }}
+        >
+          {settings.autoListen ? <Volume2 size={18} strokeWidth={1.5} /> : <VolumeX size={18} strokeWidth={1.5} />}
+        </button>
         <Segmented<PracticeMode>
           small
           label="Practice mode"

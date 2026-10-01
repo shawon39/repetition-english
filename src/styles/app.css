@@ -176,6 +176,9 @@ button:disabled {
 .icon-btn.ring:hover {
   border-color: var(--ink-faint);
 }
+.icon-btn.is-muted {
+  color: var(--ink-faint);
+}
 .icon-btn.is-on {
   color: var(--accent);
 }

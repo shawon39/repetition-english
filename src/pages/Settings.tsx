@@ -78,7 +78,7 @@ export function Settings() {
         {toggle('Memory fade', 'Words disappear a little more with every rep.', 'fade')}
         {toggle('Finish every rep', 'The next sentence unlocks only after the last rep.', 'strict')}
         {toggle('Pace guard', 'Repeat waits about as long as the sentence takes to say.', 'paceGuard')}
-        {toggle('Play each sentence', 'Hear the sentence once when it appears.', 'autoListen')}
+        {toggle('Auto-play sentences', 'Hear each sentence once when it appears. You can also turn this off with the speaker in practice.', 'autoListen')}
         {ttsSupported && (
           <div className="setting">
             <div className="setting-text">
