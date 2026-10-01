@@ -1,0 +1,272 @@
+{
+  "topic": "health",
+  "level": "intermediate",
+  "title": "Night Shifts in Chattogram",
+  "story": "Arif is a young nurse at a busy hospital in Chattogram, where Dr. Mitu, a senior doctor, guides him. He shares a flat with his friend Shuvo, a software engineer who works long hours and feels stressed. Arif's mother, Rokeya, lives in Cox's Bazar and is learning to control her high blood pressure.",
+  "storyBn": "আরিফ চট্টগ্রামের একটি ব্যস্ত হাসপাতালের তরুণ নার্স, যেখানে সিনিয়র ডাক্তার ডা. মিতু তাঁকে পথ দেখান। তিনি বন্ধু শুভর সাথে একটি ফ্ল্যাটে থাকেন। শুভ একজন সফটওয়্যার ইঞ্জিনিয়ার, অনেক লম্বা সময় কাজ করে আর মানসিক চাপে ভোগে। আরিফের মা রোকেয়া কক্সবাজারে থাকেন এবং নিজের উচ্চ রক্তচাপ নিয়ন্ত্রণ করতে শিখছেন।",
+  "units": [
+    {
+      "grammar": "present-perfect",
+      "focus": "Talk about recent health changes and experiences",
+      "focusBn": "সাম্প্রতিক স্বাস্থ্য-পরিবর্তন ও অভিজ্ঞতা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + has/have + past participle (+ just / already / for / since).",
+          "tipBn": "সদ্য ঘটে যাওয়া ঘটনা, অভিজ্ঞতা বা এখনো চলমান অবস্থা বোঝাতে has/have + past participle বসে।",
+          "items": [
+            {"id":"01","en":"Arif has worked as a nurse in Chattogram for two years.","bn":"আরিফ দুই বছর ধরে চট্টগ্রামে নার্স হিসেবে কাজ করছেন।","words":[{"w":"nurse","bn":"নার্স, সেবিকা","pos":"noun"},{"w":"for two years","bn":"দুই বছর ধরে","pos":"phrase"}]},
+            {"id":"02","en":"Shuvo has just finished another twelve-hour day at the office.","bn":"শুভ এইমাত্র অফিসে আরও একটা ১২ ঘণ্টার দিন শেষ করেছে।","words":[{"w":"just","bn":"এইমাত্র","pos":"adverb"},{"w":"finished","bn":"শেষ করেছে","pos":"verb","base":"finish"}]},
+            {"id":"03","en":"Rokeya has already lost three kilos since January.","bn":"জানুয়ারি থেকে রোকেয়া এরই মধ্যে ৩ কেজি ওজন কমিয়েছেন।","words":[{"w":"already","bn":"এরই মধ্যে","pos":"adverb"},{"w":"lost","bn":"কমিয়েছেন","pos":"verb","base":"lose"},{"w":"kilos","bn":"কেজি","pos":"noun","base":"kilo"}]},
+            {"id":"04","en":"Dr. Mitu has treated hundreds of dengue patients this season.","bn":"ডা. মিতু এই মৌসুমে শত শত ডেঙ্গু রোগীর চিকিৎসা করেছেন।","words":[{"w":"treated","bn":"চিকিৎসা করেছেন","pos":"verb","base":"treat"},{"w":"hundreds of","bn":"শত শত","pos":"phrase"}]},
+            {"id":"05","en":"I have started sleeping with my phone in another room.","bn":"আমি ফোন অন্য ঘরে রেখে ঘুমাতে শুরু করেছি।","words":[{"w":"started","bn":"শুরু করেছি","pos":"verb","base":"start"},{"w":"another","bn":"অন্য","pos":"adjective"}]},
+            {"id":"06","en":"The hospital has opened a new counseling center for staff.","bn":"হাসপাতালটি কর্মীদের জন্য একটি নতুন কাউন্সেলিং সেন্টার চালু করেছে।","words":[{"w":"counseling","bn":"মানসিক পরামর্শ, কাউন্সেলিং","pos":"noun"},{"w":"staff","bn":"কর্মী","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + has/have + not (never) + past participle (+ yet / since / so far).",
+          "tipBn": "has/have এর পরে not বা never বসে; yet ও so far সাধারণত বাক্যের শেষে বসে।",
+          "items": [
+            {"id":"01","en":"Arif hasn't had a day off for three weeks.","bn":"আরিফ তিন সপ্তাহ ধরে একদিনও ছুটি পাননি।","words":[{"w":"day off","bn":"ছুটির দিন","pos":"phrase"},{"w":"for three weeks","bn":"তিন সপ্তাহ ধরে","pos":"phrase"}]},
+            {"id":"02","en":"Shuvo has never talked to a counselor about his stress.","bn":"শুভ তার মানসিক চাপ নিয়ে কখনো কোনো কাউন্সেলরের সাথে কথা বলেনি।","words":[{"w":"counselor","bn":"পরামর্শদাতা, কাউন্সেলর","pos":"noun"},{"w":"stress","bn":"মানসিক চাপ","pos":"noun"}]},
+            {"id":"03","en":"Rokeya hasn't checked her blood pressure this week.","bn":"রোকেয়া এই সপ্তাহে তাঁর রক্তচাপ মাপেননি।","words":[{"w":"checked","bn":"মেপেছেন","pos":"verb","base":"check"},{"w":"blood pressure","bn":"রক্তচাপ","pos":"noun"}]},
+            {"id":"04","en":"The new medicine hasn't caused any side effects so far.","bn":"নতুন ওষুধটায় এখন পর্যন্ত কোনো পার্শ্বপ্রতিক্রিয়া হয়নি।","words":[{"w":"caused","bn":"ঘটিয়েছে","pos":"verb","base":"cause"},{"w":"side effects","bn":"পার্শ্বপ্রতিক্রিয়া","pos":"noun","base":"side effect"},{"w":"so far","bn":"এখন পর্যন্ত","pos":"phrase"}]},
+            {"id":"05","en":"I haven't eaten any fast food since my last check-up.","bn":"শেষ চেকআপের পর থেকে আমি কোনো ফাস্ট ফুড খাইনি।","words":[{"w":"since","bn":"থেকে, পর থেকে","pos":"preposition"},{"w":"check-up","bn":"স্বাস্থ্য পরীক্ষা, চেকআপ","pos":"noun"}]},
+            {"id":"06","en":"The fever hasn't come back since Tuesday.","bn":"মঙ্গলবারের পর থেকে জ্বর আর ফিরে আসেনি।","words":[{"w":"come back","bn":"ফিরে আসা","pos":"phrasal verb"},{"w":"fever","bn":"জ্বর","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Has/Have + subject + (ever) + past participle ...?",
+          "tipBn": "Has/Have বাক্যের শুরুতে বসে; অভিজ্ঞতা জানতে ever আর কাজ হয়েছে কি না জানতে yet ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"Have you ever donated blood at a hospital blood bank?","bn":"তুমি কি কখনো কোনো হাসপাতালের ব্লাড ব্যাংকে রক্ত দিয়েছ?","words":[{"w":"donated","bn":"দান করেছ","pos":"verb","base":"donate"},{"w":"blood bank","bn":"ব্লাড ব্যাংক","pos":"noun"}]},
+            {"id":"02","en":"Has Shuvo seen a doctor about his back pain yet?","bn":"শুভ কি এখনও তার পিঠব্যথার জন্য ডাক্তার দেখিয়েছে?","words":[{"w":"back pain","bn":"পিঠব্যথা","pos":"noun"},{"w":"yet","bn":"এখনও","pos":"adverb"}]},
+            {"id":"03","en":"Has Rokeya taken her blood pressure medicine this morning?","bn":"রোকেয়া কি আজ সকালে রক্তচাপের ওষুধ খেয়েছেন?","words":[{"w":"taken","bn":"খেয়েছেন","pos":"verb","base":"take"},{"w":"blood pressure","bn":"রক্তচাপ","pos":"noun"}]},
+            {"id":"04","en":"Have the test results arrived from the lab?","bn":"পরীক্ষার রিপোর্ট কি ল্যাব থেকে এসেছে?","words":[{"w":"test results","bn":"পরীক্ষার ফলাফল","pos":"noun","base":"test result"},{"w":"lab","bn":"ল্যাব, পরীক্ষাগার","pos":"noun"}]},
+            {"id":"05","en":"Has Dr. Mitu ever worked in a rural clinic?","bn":"ডা. মিতু কি কখনো গ্রামের কোনো ক্লিনিকে কাজ করেছেন?","words":[{"w":"ever","bn":"কখনো","pos":"adverb"},{"w":"rural","bn":"গ্রামীণ","pos":"adjective"}]},
+            {"id":"06","en":"Have you washed your hands before touching the patient?","bn":"রোগীকে ছোঁয়ার আগে তুমি কি হাত ধুয়েছ?","words":[{"w":"washed","bn":"ধুয়েছ","pos":"verb","base":"wash"},{"w":"touching","bn":"ছোঁয়া","pos":"verb","base":"touch"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + has/have + subject + past participle ...?",
+          "tipBn": "প্রশ্নশব্দের পরে has/have, তারপর subject ও past participle বসে; সময়কাল জানতে How long ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"How long have you had this cough?","bn":"কতদিন ধরে তোমার এই কাশি হচ্ছে?","words":[{"w":"How long","bn":"কতদিন ধরে","pos":"phrase"},{"w":"cough","bn":"কাশি","pos":"noun"}]},
+            {"id":"02","en":"What has the doctor told you about your diet?","bn":"ডাক্তার তোমার খাদ্যাভ্যাস নিয়ে কী বলেছেন?","words":[{"w":"told","bn":"বলেছেন","pos":"verb","base":"tell"},{"w":"diet","bn":"খাদ্যাভ্যাস","pos":"noun"}]},
+            {"id":"03","en":"Why has Shuvo stopped going to the gym?","bn":"শুভ জিমে যাওয়া বন্ধ করেছে কেন?","words":[{"w":"stopped","bn":"বন্ধ করেছে","pos":"verb","base":"stop"},{"w":"gym","bn":"জিম, ব্যায়ামাগার","pos":"noun"}]},
+            {"id":"04","en":"How many patients has Arif looked after today?","bn":"আরিফ আজ কতজন রোগীর দেখাশোনা করেছেন?","words":[{"w":"How many","bn":"কতজন","pos":"phrase"},{"w":"looked after","bn":"দেখাশোনা করেছেন","pos":"phrasal verb","base":"look after"}]},
+            {"id":"05","en":"Where have you put the prescription from Dr. Mitu?","bn":"ডা. মিতুর দেওয়া প্রেসক্রিপশনটা তুমি কোথায় রেখেছ?","words":[{"w":"put","bn":"রেখেছ","pos":"verb","base":"put"},{"w":"prescription","bn":"প্রেসক্রিপশন, ব্যবস্থাপত্র","pos":"noun"}]},
+            {"id":"06","en":"Which vaccines have the children received so far?","bn":"বাচ্চারা এখন পর্যন্ত কোন কোন টিকা পেয়েছে?","words":[{"w":"vaccines","bn":"টিকা","pos":"noun","base":"vaccine"},{"w":"received","bn":"পেয়েছে","pos":"verb","base":"receive"},{"w":"so far","bn":"এখন পর্যন্ত","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences, mostly has/have + past participle.",
+          "tipBn": "অনুচ্ছেদের বেশিরভাগ বাক্যে has/have + past participle দিয়ে সাম্প্রতিক পরিবর্তন ও অভিজ্ঞতার কথা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"A long month for Arif","en":"Arif has worked six night shifts in a row. The hospital has admitted more dengue patients this month than ever before. He has barely seen his friends, and he has skipped many meals. Still, he has learned a lot from the senior doctors.","bn":"আরিফ টানা ৬টি রাতের শিফট করেছেন। এই মাসে হাসপাতালে আগের যেকোনো সময়ের চেয়ে বেশি ডেঙ্গু রোগী ভর্তি হয়েছে। তিনি বন্ধুদের সাথে প্রায় দেখাই করতে পারেননি, আর অনেক বেলা না খেয়ে থেকেছেন। তবুও তিনি সিনিয়র ডাক্তারদের কাছ থেকে অনেক কিছু শিখেছেন।","words":[{"w":"night shifts","bn":"রাতের পালা, নাইট শিফট","pos":"noun","base":"night shift"},{"w":"in a row","bn":"টানা","pos":"phrase"},{"w":"admitted","bn":"ভর্তি করেছে","pos":"verb","base":"admit"},{"w":"barely","bn":"প্রায় না","pos":"adverb"}]},
+            {"id":"02","title":"Rokeya's new habits","en":"Rokeya has changed her lifestyle since her diagnosis. She has stopped adding extra salt to her food and has started walking by the sea every evening. Her blood pressure has come down a little. Her son has noticed that she sounds happier on the phone.","bn":"রোগ ধরা পড়ার পর থেকে রোকেয়া তাঁর জীবনযাপন বদলে ফেলেছেন। তিনি খাবারে বাড়তি লবণ দেওয়া বন্ধ করেছেন এবং প্রতিদিন সন্ধ্যায় সমুদ্রের ধারে হাঁটতে শুরু করেছেন। তাঁর রক্তচাপ একটু কমেছে। তাঁর ছেলে লক্ষ করেছেন যে ফোনে তাঁকে আগের চেয়ে বেশি খুশি শোনায়।","words":[{"w":"lifestyle","bn":"জীবনযাপন","pos":"noun"},{"w":"diagnosis","bn":"রোগনির্ণয়","pos":"noun"},{"w":"come down","bn":"কমেছে","pos":"phrasal verb"},{"w":"noticed","bn":"লক্ষ করেছেন","pos":"verb","base":"notice"}]},
+            {"id":"03","title":"Shuvo asks for help","en":"Shuvo has felt tired and anxious for months. He has finally booked an appointment with a counselor. His manager has also agreed to reduce his overtime. For the first time in a year, he has slept through the night.","bn":"শুভ কয়েক মাস ধরে ক্লান্ত আর উদ্বিগ্ন বোধ করছে। অবশেষে সে একজন কাউন্সেলরের সাথে অ্যাপয়েন্টমেন্ট নিয়েছে। তার ম্যানেজারও তার ওভারটাইম কমাতে রাজি হয়েছেন। এক বছরের মধ্যে এই প্রথম সে সারা রাত টানা ঘুমিয়েছে।","words":[{"w":"anxious","bn":"উদ্বিগ্ন","pos":"adjective"},{"w":"booked an appointment","bn":"অ্যাপয়েন্টমেন্ট নিয়েছে","pos":"phrase","base":"book an appointment"},{"w":"overtime","bn":"অতিরিক্ত সময়ের কাজ","pos":"noun"},{"w":"slept through the night","bn":"সারা রাত টানা ঘুমিয়েছে","pos":"phrase","base":"sleep through the night"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-continuous",
+      "focus": "Describe what was happening during emergencies",
+      "focusBn": "জরুরি অবস্থার সময় কী ঘটছিল তা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + was/were + verb-ing (+ when / while ...).",
+          "tipBn": "অতীতের কোনো সময়ে চলছিল এমন কাজ বোঝাতে was/were + verb-ing বসে; মাঝে হঠাৎ ঘটা কাজটি past simple-এ থাকে।",
+          "items": [
+            {"id":"01","en":"Arif was checking a patient's pulse when the lights went out.","bn":"আরিফ যখন একজন রোগীর নাড়ি দেখছিলেন, তখন বিদ্যুৎ চলে গেল।","words":[{"w":"pulse","bn":"নাড়ি","pos":"noun"},{"w":"went out","bn":"নিভে গেল, চলে গেল","pos":"phrasal verb","base":"go out"}]},
+            {"id":"02","en":"Dr. Mitu was talking to a worried family in the corridor.","bn":"ডা. মিতু করিডোরে একটি উদ্বিগ্ন পরিবারের সাথে কথা বলছিলেন।","words":[{"w":"worried","bn":"উদ্বিগ্ন","pos":"adjective"},{"w":"corridor","bn":"করিডোর, বারান্দা","pos":"noun"}]},
+            {"id":"03","en":"While Shuvo was jogging along the hill road, he twisted his knee.","bn":"শুভ যখন পাহাড়ি রাস্তা ধরে জগিং করছিল, তখন তার হাঁটু মচকে গেল।","words":[{"w":"jogging","bn":"ধীরে দৌড়ানো, জগিং","pos":"verb","base":"jog"},{"w":"twisted","bn":"মচকে গেল","pos":"verb","base":"twist"},{"w":"knee","bn":"হাঁটু","pos":"noun"}]},
+            {"id":"04","en":"Several patients were waiting outside the emergency room at midnight.","bn":"মাঝরাতে জরুরি বিভাগের বাইরে কয়েকজন রোগী অপেক্ষা করছিলেন।","words":[{"w":"several","bn":"কয়েকজন","pos":"adjective"},{"w":"emergency room","bn":"জরুরি বিভাগ","pos":"noun"}]},
+            {"id":"05","en":"The nurses were preparing extra beds for victims of a bus accident.","bn":"নার্সরা একটি বাস দুর্ঘটনায় আহতদের জন্য বাড়তি বিছানা প্রস্তুত করছিলেন।","words":[{"w":"preparing","bn":"প্রস্তুত করছিলেন","pos":"verb","base":"prepare"},{"w":"victims","bn":"আহত ব্যক্তি, ভুক্তভোগী","pos":"noun","base":"victim"}]},
+            {"id":"06","en":"Rokeya was feeling dizzy when she called Arif last night.","bn":"গতরাতে রোকেয়া যখন আরিফকে ফোন করেন, তখন তাঁর মাথা ঘোরাচ্ছিল।","words":[{"w":"dizzy","bn":"মাথা ঘোরা","pos":"adjective"},{"w":"last night","bn":"গতরাতে","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + was/were + not + verb-ing (+ when / while ...).",
+          "tipBn": "was/were এর পরে not বসিয়ে ঘটমান অতীতের না-বোধক বাক্য হয়; wasn't ও weren't হলো সংক্ষিপ্ত রূপ।",
+          "items": [
+            {"id":"01","en":"Arif wasn't wearing his gloves when he cut his finger.","bn":"আঙুল কেটে যাওয়ার সময় আরিফ গ্লাভস পরে ছিলেন না।","words":[{"w":"gloves","bn":"দস্তানা, গ্লাভস","pos":"noun","base":"glove"},{"w":"cut","bn":"কেটে ফেলল","pos":"verb","base":"cut"}]},
+            {"id":"02","en":"The elevator wasn't working during the power cut.","bn":"লোডশেডিংয়ের সময় লিফট কাজ করছিল না।","words":[{"w":"elevator","bn":"লিফট","pos":"noun"},{"w":"power cut","bn":"লোডশেডিং","pos":"noun"}]},
+            {"id":"03","en":"Shuvo wasn't looking at the road when he twisted his knee.","bn":"শুভর হাঁটু যখন মচকে যায়, তখন সে রাস্তার দিকে তাকাচ্ছিল না।","words":[{"w":"looking at","bn":"দিকে তাকানো","pos":"phrasal verb","base":"look at"},{"w":"twisted","bn":"মচকে গেল","pos":"verb","base":"twist"}]},
+            {"id":"04","en":"Dr. Mitu wasn't sleeping when the hospital called her.","bn":"হাসপাতাল থেকে যখন ফোন আসে, ডা. মিতু তখন ঘুমাচ্ছিলেন না।","words":[{"w":"sleeping","bn":"ঘুমাচ্ছিলেন","pos":"verb","base":"sleep"},{"w":"called","bn":"ফোন করল","pos":"verb","base":"call"}]},
+            {"id":"05","en":"The patients weren't complaining, although they were waiting for hours.","bn":"রোগীরা ঘণ্টার পর ঘণ্টা অপেক্ষা করছিলেন, তবুও কোনো অভিযোগ করছিলেন না।","words":[{"w":"complaining","bn":"অভিযোগ করছিলেন","pos":"verb","base":"complain"},{"w":"although","bn":"যদিও","pos":"conjunction"}]},
+            {"id":"06","en":"Rokeya wasn't taking her medicine regularly at that time.","bn":"সেই সময় রোকেয়া নিয়মিত ওষুধ খাচ্ছিলেন না।","words":[{"w":"regularly","bn":"নিয়মিত","pos":"adverb"},{"w":"at that time","bn":"সেই সময়","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Was/Were + subject + verb-ing ...?",
+          "tipBn": "Was/Were বাক্যের শুরুতে বসিয়ে অতীতে চলমান কাজের প্রশ্ন করা হয়।",
+          "items": [
+            {"id":"01","en":"Was Arif checking the patient's pulse when the lights went out?","bn":"বিদ্যুৎ চলে যাওয়ার সময় আরিফ কি রোগীর নাড়ি দেখছিলেন?","words":[{"w":"pulse","bn":"নাড়ি","pos":"noun"},{"w":"went out","bn":"চলে গেল","pos":"phrasal verb","base":"go out"}]},
+            {"id":"02","en":"Were the patients waiting long in the emergency room?","bn":"রোগীরা কি জরুরি বিভাগে অনেকক্ষণ অপেক্ষা করছিলেন?","words":[{"w":"waiting","bn":"অপেক্ষা করছিলেন","pos":"verb","base":"wait"},{"w":"emergency room","bn":"জরুরি বিভাগ","pos":"noun"}]},
+            {"id":"03","en":"Was Shuvo wearing proper running shoes that morning?","bn":"সেদিন সকালে শুভ কি দৌড়ানোর উপযুক্ত জুতা পরে ছিল?","words":[{"w":"proper","bn":"উপযুক্ত","pos":"adjective"},{"w":"running shoes","bn":"দৌড়ানোর জুতা","pos":"noun"}]},
+            {"id":"04","en":"Was Rokeya living alone when she got sick?","bn":"অসুস্থ হওয়ার সময় রোকেয়া কি একা থাকছিলেন?","words":[{"w":"alone","bn":"একা","pos":"adverb"},{"w":"got sick","bn":"অসুস্থ হলেন","pos":"phrase","base":"get sick"}]},
+            {"id":"05","en":"Were the nurses using masks during the flu outbreak?","bn":"ফ্লুর প্রাদুর্ভাবের সময় নার্সরা কি মাস্ক ব্যবহার করছিলেন?","words":[{"w":"masks","bn":"মাস্ক","pos":"noun","base":"mask"},{"w":"outbreak","bn":"প্রাদুর্ভাব","pos":"noun"}]},
+            {"id":"06","en":"Was the generator running during the power cut?","bn":"লোডশেডিংয়ের সময় কি জেনারেটর চলছিল?","words":[{"w":"running","bn":"চলছিল","pos":"verb","base":"run"},{"w":"power cut","bn":"লোডশেডিং","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + was/were + subject + verb-ing ...?",
+          "tipBn": "প্রশ্নশব্দের পরে was/were, তারপর subject ও verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"What were you doing when the ambulance arrived?","bn":"অ্যাম্বুলেন্স যখন পৌঁছাল, তখন তুমি কী করছিলে?","words":[{"w":"ambulance","bn":"অ্যাম্বুলেন্স","pos":"noun"},{"w":"arrived","bn":"পৌঁছাল","pos":"verb","base":"arrive"}]},
+            {"id":"02","en":"Why was the baby on Ward 3 crying all night?","bn":"৩ নম্বর ওয়ার্ডের বাচ্চাটা সারা রাত কাঁদছিল কেন?","words":[{"w":"ward","bn":"ওয়ার্ড","pos":"noun"},{"w":"all night","bn":"সারা রাত","pos":"phrase"}]},
+            {"id":"03","en":"Where was Shuvo jogging when he got hurt?","bn":"আঘাত পাওয়ার সময় শুভ কোথায় জগিং করছিল?","words":[{"w":"jogging","bn":"জগিং করছিল","pos":"verb","base":"jog"},{"w":"got hurt","bn":"আঘাত পেল","pos":"phrase","base":"get hurt"}]},
+            {"id":"04","en":"Who was looking after Rokeya while Arif was working?","bn":"আরিফ যখন কাজ করছিলেন, তখন রোকেয়ার দেখাশোনা কে করছিল?","words":[{"w":"looking after","bn":"দেখাশোনা করছিল","pos":"phrasal verb","base":"look after"},{"w":"while","bn":"যখন, যতক্ষণ","pos":"conjunction"}]},
+            {"id":"05","en":"How was the patient breathing when you found him?","bn":"তুমি যখন রোগীকে পেলে, তখন সে কীভাবে শ্বাস নিচ্ছিল?","words":[{"w":"breathing","bn":"শ্বাস নিচ্ছিল","pos":"verb","base":"breathe"},{"w":"found","bn":"খুঁজে পেলে","pos":"verb","base":"find"}]},
+            {"id":"06","en":"What was Dr. Mitu explaining to the junior nurses?","bn":"ডা. মিতু জুনিয়র নার্সদের কী বোঝাচ্ছিলেন?","words":[{"w":"explaining","bn":"বোঝাচ্ছিলেন","pos":"verb","base":"explain"},{"w":"junior","bn":"কনিষ্ঠ, জুনিয়র","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences, mostly was/were + verb-ing.",
+          "tipBn": "অনুচ্ছেদে was/were + verb-ing দিয়ে পটভূমির কাজ, আর past simple দিয়ে হঠাৎ ঘটা ঘটনা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"The power cut","en":"It was almost midnight, and Arif was checking the patients on Ward 5. Some were sleeping, and an old man was coughing loudly. Suddenly the lights went out. For a few seconds, the machines were beeping in the dark, and everyone was waiting for the generator.","bn":"তখন প্রায় মাঝরাত, আর আরিফ ৫ নম্বর ওয়ার্ডের রোগীদের দেখছিলেন। কেউ কেউ ঘুমাচ্ছিলেন, আর একজন বৃদ্ধ জোরে জোরে কাশছিলেন। হঠাৎ বিদ্যুৎ চলে গেল। কয়েক সেকেন্ড ধরে অন্ধকারে যন্ত্রগুলো বিপ বিপ শব্দ করছিল, আর সবাই জেনারেটরের জন্য অপেক্ষা করছিল।","words":[{"w":"ward","bn":"ওয়ার্ড","pos":"noun"},{"w":"coughing","bn":"কাশছিলেন","pos":"verb","base":"cough"},{"w":"suddenly","bn":"হঠাৎ","pos":"adverb"},{"w":"beeping","bn":"বিপ বিপ শব্দ করছিল","pos":"verb","base":"beep"}]},
+            {"id":"02","title":"A bad morning run","en":"Shuvo was jogging along the hill road early in the morning. He was listening to music and wasn't watching his steps. While he was running down a slope, his foot slipped on a stone. He was limping when he finally reached home.","bn":"খুব সকালে শুভ পাহাড়ি রাস্তা ধরে জগিং করছিল। সে গান শুনছিল আর পা ফেলার দিকে খেয়াল রাখছিল না। একটা ঢাল বেয়ে নামার সময় একটা পাথরে তার পা পিছলে গেল। অবশেষে যখন সে বাসায় পৌঁছাল, তখন সে খুঁড়িয়ে হাঁটছিল।","words":[{"w":"watching his steps","bn":"পা ফেলার দিকে খেয়াল রাখা","pos":"idiom","base":"watch one's step"},{"w":"slope","bn":"ঢাল","pos":"noun"},{"w":"slipped","bn":"পিছলে গেল","pos":"verb","base":"slip"},{"w":"limping","bn":"খুঁড়িয়ে হাঁটছিল","pos":"verb","base":"limp"}]},
+            {"id":"03","title":"A phone call from Cox's Bazar","en":"Rokeya was cooking dinner when she started feeling dizzy. Her neighbor was visiting her at the time, so she helped Rokeya sit down. Arif was working a night shift, but he answered the call immediately. He was still talking to her when the dizziness passed.","bn":"রোকেয়া রাতের খাবার রান্না করছিলেন, এমন সময় তাঁর মাথা ঘুরতে শুরু করল। তখন তাঁর প্রতিবেশী তাঁর বাসায় বেড়াতে এসেছিলেন, তাই তিনি রোকেয়াকে বসতে সাহায্য করলেন। আরিফ নাইট শিফটে কাজ করছিলেন, কিন্তু তিনি সঙ্গে সঙ্গে ফোন ধরলেন। মাথা ঘোরা কেটে যাওয়ার সময়ও তিনি মায়ের সাথে কথা বলছিলেন।","words":[{"w":"dizzy","bn":"মাথা ঘোরা","pos":"adjective"},{"w":"neighbor","bn":"প্রতিবেশী","pos":"noun"},{"w":"immediately","bn":"সঙ্গে সঙ্গে","pos":"adverb"},{"w":"passed","bn":"কেটে গেল","pos":"verb","base":"pass"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "modals",
+      "focus": "Give health advice and explain hospital rules",
+      "focusBn": "স্বাস্থ্য-পরামর্শ দেওয়া ও হাসপাতালের নিয়ম বোঝানো",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + should / must / have to / might / could / need to + verb (base).",
+          "tipBn": "পরামর্শে should, বাধ্যবাধকতায় must বা have to, আর সম্ভাবনায় might বা could বসে; এরপর verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"You should drink plenty of water during dengue season.","bn":"ডেঙ্গুর মৌসুমে তোমার প্রচুর পানি পান করা উচিত।","words":[{"w":"should","bn":"উচিত","pos":"verb"},{"w":"plenty of","bn":"প্রচুর","pos":"phrase"}]},
+            {"id":"02","en":"Visitors must wash their hands before entering the ward.","bn":"ওয়ার্ডে ঢোকার আগে দর্শনার্থীদের অবশ্যই হাত ধুতে হবে।","words":[{"w":"visitors","bn":"দর্শনার্থী","pos":"noun","base":"visitor"},{"w":"entering","bn":"ঢোকা","pos":"verb","base":"enter"}]},
+            {"id":"03","en":"Shuvo has to wear a knee brace for two weeks.","bn":"শুভকে দুই সপ্তাহ হাঁটুতে ব্রেস পরে থাকতে হবে।","words":[{"w":"has to","bn":"করতে হবে","pos":"phrase","base":"have to"},{"w":"knee brace","bn":"হাঁটুর ব্রেস, হাঁটুর বন্ধনী","pos":"noun"}]},
+            {"id":"04","en":"Rokeya might need to see a heart specialist.","bn":"রোকেয়াকে হয়তো একজন হৃদরোগ বিশেষজ্ঞ দেখাতে হতে পারে।","words":[{"w":"might","bn":"হয়তো","pos":"verb"},{"w":"heart specialist","bn":"হৃদরোগ বিশেষজ্ঞ","pos":"noun"}]},
+            {"id":"05","en":"You could try a short walk after lunch to stay awake.","bn":"দুপুরের খাবারের পর জেগে থাকতে তুমি অল্প একটু হেঁটে দেখতে পারো।","words":[{"w":"could","bn":"পারো","pos":"verb"},{"w":"stay awake","bn":"জেগে থাকা","pos":"phrase"}]},
+            {"id":"06","en":"Arif needs to renew his nursing license before December.","bn":"ডিসেম্বরের আগে আরিফকে তাঁর নার্সিং লাইসেন্স নবায়ন করতে হবে।","words":[{"w":"renew","bn":"নবায়ন করা","pos":"verb"},{"w":"license","bn":"লাইসেন্স, অনুমতিপত্র","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + shouldn't / mustn't / don't have to / don't need to / might not + verb (base).",
+          "tipBn": "mustn't মানে নিষেধ, কিন্তু don't have to বা don't need to মানে দরকার নেই; shouldn't দিয়ে উচিত নয় বোঝায়।",
+          "items": [
+            {"id":"01","en":"You shouldn't take antibiotics without a doctor's advice.","bn":"ডাক্তারের পরামর্শ ছাড়া তোমার অ্যান্টিবায়োটিক খাওয়া উচিত নয়।","words":[{"w":"antibiotics","bn":"অ্যান্টিবায়োটিক","pos":"noun","base":"antibiotic"},{"w":"advice","bn":"পরামর্শ","pos":"noun"}]},
+            {"id":"02","en":"Visitors mustn't use their phones inside the ICU.","bn":"আইসিইউর ভেতরে দর্শনার্থীরা ফোন ব্যবহার করতে পারবেন না।","words":[{"w":"mustn't","bn":"কিছুতেই করা যাবে না","pos":"verb","base":"must not"},{"w":"ICU","bn":"আইসিইউ, নিবিড় পরিচর্যা কেন্দ্র","pos":"noun"}]},
+            {"id":"03","en":"Shuvo doesn't have to stay in bed all day.","bn":"শুভকে সারাদিন বিছানায় শুয়ে থাকতে হবে না।","words":[{"w":"doesn't have to","bn":"করার দরকার নেই","pos":"phrase","base":"not have to"},{"w":"all day","bn":"সারাদিন","pos":"phrase"}]},
+            {"id":"04","en":"You don't need to fast before this blood test.","bn":"এই রক্ত পরীক্ষার আগে তোমাকে খালি পেটে থাকতে হবে না।","words":[{"w":"fast","bn":"খালি পেটে থাকা","pos":"verb"},{"w":"blood test","bn":"রক্ত পরীক্ষা","pos":"noun"}]},
+            {"id":"05","en":"Rokeya shouldn't eat salty snacks like chanachur.","bn":"রোকেয়ার চানাচুরের মতো নোনতা খাবার খাওয়া উচিত নয়।","words":[{"w":"salty","bn":"নোনতা","pos":"adjective"},{"w":"snacks","bn":"হালকা খাবার","pos":"noun","base":"snack"}]},
+            {"id":"06","en":"The pain might not go away for a few days.","bn":"ব্যথাটা হয়তো কয়েকদিন যাবে না।","words":[{"w":"might not","bn":"হয়তো না","pos":"phrase"},{"w":"go away","bn":"চলে যাওয়া","pos":"phrasal verb"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Should / Can / Must / Could / Do + subject + (have to / need to) + verb (base)?",
+          "tipBn": "প্রশ্ন করতে modal verb বাক্যের শুরুতে বসে; have to বা need to থাকলে Do/Does শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Should I take this medicine before or after meals?","bn":"আমি কি এই ওষুধটা খাওয়ার আগে খাব, নাকি পরে?","words":[{"w":"before or after","bn":"আগে নাকি পরে","pos":"phrase"},{"w":"meals","bn":"খাবার","pos":"noun","base":"meal"}]},
+            {"id":"02","en":"Can visitors stay overnight in the ward?","bn":"দর্শনার্থীরা কি রাতে ওয়ার্ডে থাকতে পারেন?","words":[{"w":"visitors","bn":"দর্শনার্থী","pos":"noun","base":"visitor"},{"w":"overnight","bn":"রাতভর","pos":"adverb"}]},
+            {"id":"03","en":"Does Shuvo have to use crutches at work?","bn":"শুভকে কি অফিসে ক্রাচ ব্যবহার করতে হবে?","words":[{"w":"have to","bn":"করতে হওয়া","pos":"phrase"},{"w":"crutches","bn":"ক্রাচ","pos":"noun","base":"crutch"}]},
+            {"id":"04","en":"Must patients bring their old prescriptions to the appointment?","bn":"রোগীদের কি অ্যাপয়েন্টমেন্টে পুরোনো প্রেসক্রিপশন অবশ্যই নিয়ে আসতে হবে?","words":[{"w":"prescriptions","bn":"প্রেসক্রিপশন","pos":"noun","base":"prescription"},{"w":"appointment","bn":"সাক্ষাতের নির্ধারিত সময়, অ্যাপয়েন্টমেন্ট","pos":"noun"}]},
+            {"id":"05","en":"Could stress be the cause of my stomach problems?","bn":"মানসিক চাপ কি আমার পেটের সমস্যার কারণ হতে পারে?","words":[{"w":"stress","bn":"মানসিক চাপ","pos":"noun"},{"w":"cause","bn":"কারণ","pos":"noun"}]},
+            {"id":"06","en":"Do I need to book an appointment in advance?","bn":"আমাকে কি আগে থেকে অ্যাপয়েন্টমেন্ট নিতে হবে?","words":[{"w":"book","bn":"বুক করা, নেওয়া","pos":"verb"},{"w":"in advance","bn":"আগে থেকে","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "tag-question",
+          "pattern": "Statement with a modal, + opposite modal + pronoun?",
+          "tipBn": "হ্যাঁ-বোধক বাক্যের শেষে না-বোধক ট্যাগ, আর না-বোধক বাক্যের শেষে হ্যাঁ-বোধক ট্যাগ বসে; have to থাকলে ট্যাগে do/does আসে।",
+          "items": [
+            {"id":"01","en":"You should get a flu shot every year, shouldn't you?","bn":"তোমার প্রতি বছর ফ্লুর টিকা নেওয়া উচিত, তাই না?","words":[{"w":"flu shot","bn":"ফ্লুর টিকা","pos":"noun"},{"w":"every year","bn":"প্রতি বছর","pos":"phrase"}]},
+            {"id":"02","en":"Visitors must wear masks in the ward, mustn't they?","bn":"দর্শনার্থীদের ওয়ার্ডে অবশ্যই মাস্ক পরতে হবে, তাই না?","words":[{"w":"must","bn":"অবশ্যই করতে হবে","pos":"verb"},{"w":"masks","bn":"মাস্ক","pos":"noun","base":"mask"}]},
+            {"id":"03","en":"Shuvo can't go jogging until his knee heals, can he?","bn":"হাঁটু না সারা পর্যন্ত শুভ জগিং করতে পারবে না, তাই না?","words":[{"w":"until","bn":"যতক্ষণ না","pos":"conjunction"},{"w":"heals","bn":"সেরে ওঠে","pos":"verb","base":"heal"}]},
+            {"id":"04","en":"We don't have to pay for the vaccine, do we?","bn":"আমাদের টিকার জন্য টাকা দিতে হবে না, তাই না?","words":[{"w":"pay for","bn":"টাকা দেওয়া","pos":"phrasal verb"},{"w":"vaccine","bn":"টিকা","pos":"noun"}]},
+            {"id":"05","en":"Rokeya should cut down on salt, shouldn't she?","bn":"রোকেয়ার লবণ খাওয়া কমানো উচিত, তাই না?","words":[{"w":"cut down on","bn":"কমানো","pos":"phrasal verb"},{"w":"salt","bn":"লবণ","pos":"noun"}]},
+            {"id":"06","en":"Arif has to work again tonight, doesn't he?","bn":"আরিফকে আজ রাতেও আবার কাজ করতে হবে, তাই না?","words":[{"w":"has to","bn":"করতে হবে","pos":"phrase","base":"have to"},{"w":"tonight","bn":"আজ রাতে","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences of advice and rules with should, must, have to, might, can.",
+          "tipBn": "অনুচ্ছেদে should, must, have to, might ও can দিয়ে পরামর্শ, নিয়ম ও সম্ভাবনার কথা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Advice for dengue season","en":"During dengue season, you should cover water containers and empty flower pots every few days. You must see a doctor if a fever lasts more than two days. Patients should drink plenty of fluids and rest. They shouldn't take painkillers without medical advice.","bn":"ডেঙ্গুর মৌসুমে পানির পাত্রগুলো ঢেকে রাখা আর কয়েকদিন পরপর ফুলের টব খালি করা উচিত। জ্বর দুই দিনের বেশি থাকলে অবশ্যই ডাক্তার দেখাতে হবে। রোগীদের প্রচুর তরল খাবার খাওয়া ও বিশ্রাম নেওয়া উচিত। চিকিৎসকের পরামর্শ ছাড়া তাঁদের ব্যথানাশক ওষুধ খাওয়া উচিত নয়।","words":[{"w":"containers","bn":"পাত্র","pos":"noun","base":"container"},{"w":"empty","bn":"খালি করা","pos":"verb"},{"w":"lasts","bn":"স্থায়ী হয়, থাকে","pos":"verb","base":"last"},{"w":"fluids","bn":"তরল খাবার","pos":"noun","base":"fluid"},{"w":"medical advice","bn":"চিকিৎসকের পরামর্শ","pos":"phrase"}]},
+            {"id":"02","title":"Rules on Ward 5","en":"Visitors must leave the ward by eight o'clock in the evening. Only one family member may stay with each patient at night. Everyone has to wash their hands at the door. Children under twelve shouldn't visit because they might catch an infection.","bn":"দর্শনার্থীদের অবশ্যই সন্ধ্যা ৮টার মধ্যে ওয়ার্ড ছেড়ে যেতে হবে। রাতে প্রতিটি রোগীর সাথে পরিবারের মাত্র একজন থাকতে পারবেন। সবাইকে দরজায় হাত ধুতে হবে। ১২ বছরের কম বয়সী শিশুদের দেখতে আসা উচিত নয়, কারণ তাদের সংক্রমণ হতে পারে।","words":[{"w":"visitors","bn":"দর্শনার্থী","pos":"noun","base":"visitor"},{"w":"may","bn":"পারবেন, অনুমতি আছে","pos":"verb"},{"w":"under","bn":"কম বয়সী, নিচে","pos":"preposition"},{"w":"catch an infection","bn":"সংক্রমণে আক্রান্ত হওয়া","pos":"phrase"}]},
+            {"id":"03","title":"Dr. Mitu talks to Shuvo","en":"Shuvo, you can't keep working fourteen hours a day. You should take short breaks and go outside for fresh air. You might also try talking to a counselor. You don't have to solve every problem alone.","bn":"শুভ, তুমি দিনে ১৪ ঘণ্টা করে কাজ চালিয়ে যেতে পারো না। তোমার মাঝে মাঝে ছোট বিরতি নেওয়া আর খোলা বাতাসে বাইরে যাওয়া উচিত। তুমি চাইলে একজন কাউন্সেলরের সাথেও কথা বলে দেখতে পারো। সব সমস্যার সমাধান তোমাকে একা করতে হবে না।","words":[{"w":"keep working","bn":"কাজ চালিয়ে যাওয়া","pos":"phrase"},{"w":"breaks","bn":"বিরতি","pos":"noun","base":"break"},{"w":"fresh air","bn":"খোলা বাতাস","pos":"noun"},{"w":"solve","bn":"সমাধান করা","pos":"verb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Talk about health choices and their results",
+      "focusBn": "স্বাস্থ্য-সংক্রান্ত সিদ্ধান্ত ও তার ফলাফল নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + present simple, will + verb. / If + past simple, would + verb.",
+          "tipBn": "সম্ভাব্য অবস্থায় If + present simple এবং ফলাফলে will বসে; কাল্পনিক অবস্থায় If + past simple এবং ফলাফলে would বসে।",
+          "items": [
+            {"id":"01","en":"If you sleep under a mosquito net, you will avoid many bites.","bn":"মশারির নিচে ঘুমালে তুমি অনেক কামড় থেকে বেঁচে যাবে।","words":[{"w":"mosquito net","bn":"মশারি","pos":"noun"},{"w":"avoid","bn":"এড়ানো","pos":"verb"},{"w":"bites","bn":"কামড়","pos":"noun","base":"bite"}]},
+            {"id":"02","en":"If Rokeya walks every day, her blood pressure will improve.","bn":"রোকেয়া যদি প্রতিদিন হাঁটেন, তাহলে তাঁর রক্তচাপের উন্নতি হবে।","words":[{"w":"blood pressure","bn":"রক্তচাপ","pos":"noun"},{"w":"improve","bn":"উন্নতি হওয়া","pos":"verb"}]},
+            {"id":"03","en":"If I had more free time, I would join a gym.","bn":"আমার যদি আরও অবসর থাকত, তাহলে আমি জিমে ভর্তি হতাম।","words":[{"w":"free time","bn":"অবসর","pos":"noun"},{"w":"join","bn":"ভর্তি হওয়া","pos":"verb"}]},
+            {"id":"04","en":"Shuvo would feel much better if he slept seven hours a night.","bn":"শুভ যদি রাতে ৭ ঘণ্টা ঘুমাত, তাহলে অনেক ভালো বোধ করত।","words":[{"w":"much better","bn":"অনেক ভালো","pos":"phrase"},{"w":"slept","bn":"ঘুমাত","pos":"verb","base":"sleep"}]},
+            {"id":"05","en":"If the swelling gets worse, you will need an X-ray.","bn":"ফোলা যদি বাড়ে, তাহলে তোমার একটা এক্স-রে লাগবে।","words":[{"w":"swelling","bn":"ফোলা","pos":"noun"},{"w":"gets worse","bn":"খারাপ হয়, বাড়ে","pos":"phrase","base":"get worse"}]},
+            {"id":"06","en":"If Arif were the hospital director, he would hire more nurses.","bn":"আরিফ যদি হাসপাতালের পরিচালক হতেন, তাহলে আরও নার্স নিয়োগ দিতেন।","words":[{"w":"director","bn":"পরিচালক","pos":"noun"},{"w":"hire","bn":"নিয়োগ দেওয়া","pos":"verb"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + don't/didn't ..., won't/wouldn't + verb.",
+          "tipBn": "শর্তের অংশে don't বা didn't, আর ফলাফলের অংশে won't বা wouldn't বসিয়ে না-বোধক শর্তবাক্য হয়।",
+          "items": [
+            {"id":"01","en":"If you don't finish the antibiotics, the infection may come back.","bn":"অ্যান্টিবায়োটিকের কোর্স শেষ না করলে সংক্রমণ আবার ফিরে আসতে পারে।","words":[{"w":"finish","bn":"শেষ করা","pos":"verb"},{"w":"infection","bn":"সংক্রমণ","pos":"noun"}]},
+            {"id":"02","en":"If Rokeya doesn't reduce salt, her pressure won't come down.","bn":"রোকেয়া লবণ না কমালে তাঁর রক্তচাপ কমবে না।","words":[{"w":"reduce","bn":"কমানো","pos":"verb"},{"w":"come down","bn":"কমা","pos":"phrasal verb"}]},
+            {"id":"03","en":"Shuvo wouldn't feel so stressed if he didn't work every weekend.","bn":"শুভ যদি প্রতি সপ্তাহান্তে কাজ না করত, তাহলে এত চাপে থাকত না।","words":[{"w":"stressed","bn":"মানসিক চাপে থাকা","pos":"adjective"},{"w":"weekend","bn":"সপ্তাহান্ত, ছুটির দিন","pos":"noun"}]},
+            {"id":"04","en":"If you don't book early, you won't get an appointment this week.","bn":"আগে থেকে বুক না করলে তুমি এই সপ্তাহে অ্যাপয়েন্টমেন্ট পাবে না।","words":[{"w":"book","bn":"বুক করা","pos":"verb"},{"w":"appointment","bn":"অ্যাপয়েন্টমেন্ট","pos":"noun"}]},
+            {"id":"05","en":"If Arif didn't love his job, he wouldn't work such long hours.","bn":"আরিফ যদি তাঁর কাজটা ভালো না বাসতেন, তাহলে এত লম্বা সময় কাজ করতেন না।","words":[{"w":"such","bn":"এত","pos":"adjective"},{"w":"long hours","bn":"লম্বা সময় ধরে","pos":"phrase"}]},
+            {"id":"06","en":"The wound won't heal quickly if you don't keep it clean.","bn":"ক্ষতটা পরিষ্কার না রাখলে তাড়াতাড়ি শুকাবে না।","words":[{"w":"wound","bn":"ক্ষত","pos":"noun"},{"w":"heal","bn":"সারা, শুকানো","pos":"verb"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + will/would + subject + verb + if ...?",
+          "tipBn": "প্রশ্নশব্দের পরে will বা would বসে, আর শর্তটি If দিয়ে যুক্ত হয়।",
+          "items": [
+            {"id":"01","en":"What will happen if I miss a dose?","bn":"আমি যদি একটা ডোজ বাদ দিই, তাহলে কী হবে?","words":[{"w":"miss","bn":"বাদ পড়া","pos":"verb"},{"w":"dose","bn":"ওষুধের মাত্রা, ডোজ","pos":"noun"}]},
+            {"id":"02","en":"What would you do if you got dengue?","bn":"তোমার ডেঙ্গু হলে তুমি কী করতে?","words":[{"w":"got","bn":"হতো, আক্রান্ত হতে","pos":"verb","base":"get"},{"w":"dengue","bn":"ডেঙ্গু","pos":"noun"}]},
+            {"id":"03","en":"Where will you go if the clinic is closed?","bn":"ক্লিনিক বন্ধ থাকলে তুমি কোথায় যাবে?","words":[{"w":"clinic","bn":"ক্লিনিক","pos":"noun"},{"w":"closed","bn":"বন্ধ","pos":"adjective"}]},
+            {"id":"04","en":"How would Shuvo feel if he took a week off?","bn":"শুভ যদি এক সপ্তাহ ছুটি নিত, তাহলে তার কেমন লাগত?","words":[{"w":"took","bn":"নিত","pos":"verb","base":"take"},{"w":"a week off","bn":"এক সপ্তাহের ছুটি","pos":"phrase"}]},
+            {"id":"05","en":"Who will look after Rokeya if Arif can't get leave?","bn":"আরিফ ছুটি না পেলে রোকেয়ার দেখাশোনা কে করবে?","words":[{"w":"look after","bn":"দেখাশোনা করা","pos":"phrasal verb"},{"w":"leave","bn":"ছুটি","pos":"noun"}]},
+            {"id":"06","en":"What would happen if hospitals had no nurses?","bn":"হাসপাতালে কোনো নার্স না থাকলে কী হতো?","words":[{"w":"happen","bn":"ঘটা","pos":"verb"},{"w":"nurses","bn":"নার্স","pos":"noun","base":"nurse"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "3–4 sentences with first and second conditionals.",
+          "tipBn": "অনুচ্ছেদে বাস্তব সম্ভাবনার জন্য If + present ও will, আর কাল্পনিক অবস্থার জন্য If + past ও would ব্যবহার হয়েছে।",
+          "items": [
+            {"id":"01","title":"Small changes, big results","en":"If Rokeya keeps walking every evening, she will feel stronger. If she eats less salt, her blood pressure will stay under control. Her doctor says that if she follows this plan, she won't need extra medicine. Arif will be very happy if she sticks to it.","bn":"রোকেয়া যদি প্রতিদিন সন্ধ্যায় হাঁটা চালিয়ে যান, তাহলে তিনি আরও শক্তি পাবেন। তিনি যদি কম লবণ খান, তাহলে তাঁর রক্তচাপ নিয়ন্ত্রণে থাকবে। তাঁর ডাক্তার বলেন, এই পরিকল্পনা মেনে চললে তাঁর বাড়তি ওষুধ লাগবে না। তিনি এতে লেগে থাকলে আরিফ খুব খুশি হবেন।","words":[{"w":"stronger","bn":"আরও শক্তিশালী","pos":"adjective","base":"strong"},{"w":"under control","bn":"নিয়ন্ত্রণে","pos":"phrase"},{"w":"follows","bn":"মেনে চলে","pos":"verb","base":"follow"},{"w":"sticks to","bn":"লেগে থাকে","pos":"phrasal verb","base":"stick to"}]},
+            {"id":"02","title":"Shuvo's dream","en":"Shuvo often thinks about a different life. If he worked fewer hours, he would cook healthy meals at home. He would play badminton with friends if he had free evenings. If his job were less stressful, he would probably sleep much better.","bn":"শুভ প্রায়ই অন্যরকম একটা জীবনের কথা ভাবে। সে যদি কম সময় কাজ করত, তাহলে বাসায় স্বাস্থ্যকর খাবার রান্না করত। সন্ধ্যাগুলো ফাঁকা থাকলে সে বন্ধুদের সাথে ব্যাডমিন্টন খেলত। তার চাকরিতে চাপ কম থাকলে সে সম্ভবত অনেক ভালো ঘুমাত।","words":[{"w":"fewer","bn":"কম","pos":"adjective"},{"w":"healthy meals","bn":"স্বাস্থ্যকর খাবার","pos":"phrase"},{"w":"stressful","bn":"চাপপূর্ণ","pos":"adjective"},{"w":"probably","bn":"সম্ভবত","pos":"adverb"}]},
+            {"id":"03","title":"If I ran a hospital","en":"Arif sometimes imagines running his own hospital. If he had the money, he would build it in a village near Cox's Bazar. Poor patients wouldn't pay for basic treatment. If the government helped, he could open small clinics in every union.","bn":"আরিফ মাঝে মাঝে নিজের একটা হাসপাতাল চালানোর কথা কল্পনা করেন। টাকা থাকলে তিনি সেটা কক্সবাজারের কাছের একটা গ্রামে বানাতেন। গরিব রোগীদের প্রাথমিক চিকিৎসার জন্য টাকা দিতে হতো না। সরকার সাহায্য করলে তিনি প্রতিটি ইউনিয়নে ছোট ছোট ক্লিনিক খুলতে পারতেন।","words":[{"w":"imagines","bn":"কল্পনা করেন","pos":"verb","base":"imagine"},{"w":"basic treatment","bn":"প্রাথমিক চিকিৎসা","pos":"phrase"},{"w":"government","bn":"সরকার","pos":"noun"},{"w":"union","bn":"ইউনিয়ন","pos":"noun"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

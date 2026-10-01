@@ -1,0 +1,247 @@
+{
+  "topic": "health",
+  "level": "starter",
+  "title": "Sumi Gets a Fever",
+  "story": "Sumi is eleven years old and lives in Khulna with her father and her grandma. One day she gets a fever and a sore throat. Her father takes her to Dr. Hasan at the clinic near their home, and Grandma helps her get well again.",
+  "storyBn": "সুমির বয়স এগারো বছর। সে বাবা আর দাদির সাথে খুলনায় থাকে। একদিন তার জ্বর আর গলাব্যথা হয়। বাবা তাকে বাসার কাছের ক্লিনিকে ডা. হাসানের কাছে নিয়ে যান, আর দাদি তাকে আবার সুস্থ হয়ে উঠতে সাহায্য করেন।",
+  "units": [
+    {
+      "grammar": "present-simple",
+      "focus": "Talk about the body and feeling sick",
+      "focusBn": "শরীর আর অসুস্থতা নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + is/has + ... / Subject + verb(s) + ...",
+          "tipBn": "অবস্থা বোঝাতে is বা has বসে; he, she বা it এর পরে verb-এর সাথে s যোগ হয়।",
+          "items": [
+            {"id":"01","en":"I have two eyes and two ears.","bn":"আমার দুটি চোখ আর দুটি কান আছে।","words":[{"w":"eyes","bn":"চোখ","pos":"noun","base":"eye"},{"w":"ears","bn":"কান","pos":"noun","base":"ear"}]},
+            {"id":"02","en":"Sumi has a fever.","bn":"সুমির জ্বর।","words":[{"w":"fever","bn":"জ্বর","pos":"noun"}]},
+            {"id":"03","en":"Her head is very hot.","bn":"ওর মাথা খুব গরম।","words":[{"w":"head","bn":"মাথা","pos":"noun"},{"w":"hot","bn":"গরম","pos":"adjective"}]},
+            {"id":"04","en":"Her throat hurts.","bn":"ওর গলায় ব্যথা।","words":[{"w":"throat","bn":"গলা","pos":"noun"},{"w":"hurts","bn":"ব্যথা করে","pos":"verb","base":"hurt"}]},
+            {"id":"05","en":"Grandma gives her warm water.","bn":"দাদি ওকে কুসুম গরম পানি দেন।","words":[{"w":"gives","bn":"দেন","pos":"verb","base":"give"},{"w":"warm","bn":"কুসুম গরম","pos":"adjective"}]},
+            {"id":"06","en":"Dr. Hasan works at a clinic.","bn":"ডা. হাসান একটি ক্লিনিকে কাজ করেন।","words":[{"w":"clinic","bn":"ক্লিনিক","pos":"noun"}]},
+            {"id":"07","en":"Father buys medicine from the pharmacy.","bn":"বাবা ফার্মেসি থেকে ওষুধ কেনেন।","words":[{"w":"medicine","bn":"ওষুধ","pos":"noun"},{"w":"pharmacy","bn":"ফার্মেসি, ওষুধের দোকান","pos":"noun"}]},
+            {"id":"08","en":"Sumi sleeps eight hours every night.","bn":"সুমি প্রতি রাতে ৮ ঘণ্টা ঘুমায়।","words":[{"w":"sleeps","bn":"ঘুমায়","pos":"verb","base":"sleep"},{"w":"hours","bn":"ঘণ্টা","pos":"noun","base":"hour"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + is not + ... / Subject + don't/doesn't + verb.",
+          "tipBn": "is এর পরে not বসে; অন্য verb-এর আগে don't বা doesn't বসে এবং verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Sumi doesn't have a cold.","bn":"সুমির সর্দি নেই।","words":[{"w":"cold","bn":"সর্দি","pos":"noun"}]},
+            {"id":"02","en":"Her throat doesn't hurt much.","bn":"ওর গলায় খুব বেশি ব্যথা নেই।","words":[{"w":"hurt","bn":"ব্যথা করা","pos":"verb"},{"w":"much","bn":"খুব বেশি","pos":"adverb"}]},
+            {"id":"03","en":"Grandma doesn't give her cold water.","bn":"দাদি ওকে ঠান্ডা পানি দেন না।","words":[{"w":"cold","bn":"ঠান্ডা","pos":"adjective"}]},
+            {"id":"04","en":"Sumi is not well.","bn":"সুমি ভালো নেই।","words":[{"w":"well","bn":"সুস্থ, ভালো","pos":"adjective"}]},
+            {"id":"05","en":"Father doesn't buy medicine without a prescription.","bn":"বাবা প্রেসক্রিপশন ছাড়া ওষুধ কেনেন না।","words":[{"w":"without","bn":"ছাড়া","pos":"preposition"},{"w":"prescription","bn":"প্রেসক্রিপশন, ব্যবস্থাপত্র","pos":"noun"}]},
+            {"id":"06","en":"I don't eat junk food.","bn":"আমি জাঙ্ক ফুড খাই না।","words":[{"w":"junk food","bn":"অস্বাস্থ্যকর খাবার","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Is + subject + ...? / Do/Does + subject + verb?",
+          "tipBn": "প্রশ্ন করতে Is অথবা Do/Does বাক্যের শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Does Sumi have a fever?","bn":"সুমির কি জ্বর আছে?","words":[{"w":"fever","bn":"জ্বর","pos":"noun"}]},
+            {"id":"02","en":"Is her head very hot?","bn":"ওর মাথা কি খুব গরম?","words":[{"w":"head","bn":"মাথা","pos":"noun"}]},
+            {"id":"03","en":"Does your stomach hurt?","bn":"তোমার কি পেট ব্যথা করে?","words":[{"w":"stomach","bn":"পেট","pos":"noun"},{"w":"hurt","bn":"ব্যথা করা","pos":"verb"}]},
+            {"id":"04","en":"Does Dr. Hasan work at a clinic?","bn":"ডা. হাসান কি একটি ক্লিনিকে কাজ করেন?","words":[{"w":"clinic","bn":"ক্লিনিক","pos":"noun"}]},
+            {"id":"05","en":"Is the pharmacy open at night?","bn":"ফার্মেসি কি রাতে খোলা থাকে?","words":[{"w":"pharmacy","bn":"ফার্মেসি","pos":"noun"},{"w":"open","bn":"খোলা","pos":"adjective"}]},
+            {"id":"06","en":"Do you wash your hands before meals?","bn":"তুমি কি খাওয়ার আগে হাত ধোও?","words":[{"w":"wash","bn":"ধোয়া","pos":"verb"},{"w":"meals","bn":"খাবার","pos":"noun","base":"meal"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + is/do/does + subject ...?",
+          "tipBn": "What, Where, How ইত্যাদি প্রশ্নশব্দ শুরুতে বসে, তারপর is বা do/does।",
+          "items": [
+            {"id":"01","en":"What is wrong with Sumi?","bn":"সুমির সমস্যাটা কী?","words":[{"w":"wrong","bn":"সমস্যা, গোলমাল","pos":"adjective"}]},
+            {"id":"02","en":"Where does it hurt?","bn":"কোথায় ব্যথা করে?","words":[{"w":"hurt","bn":"ব্যথা করা","pos":"verb"}]},
+            {"id":"03","en":"How is your fever today?","bn":"আজ তোমার জ্বর কেমন?","words":[{"w":"fever","bn":"জ্বর","pos":"noun"}]},
+            {"id":"04","en":"When does the clinic open?","bn":"ক্লিনিক কখন খোলে?","words":[{"w":"clinic","bn":"ক্লিনিক","pos":"noun"},{"w":"open","bn":"খোলা","pos":"verb"}]},
+            {"id":"05","en":"Who gives Sumi her medicine?","bn":"সুমিকে কে ওষুধ দেয়?","words":[{"w":"medicine","bn":"ওষুধ","pos":"noun"}]},
+            {"id":"06","en":"How many hours does Sumi sleep?","bn":"সুমি কত ঘণ্টা ঘুমায়?","words":[{"w":"How many","bn":"কতগুলো, কত","pos":"phrase"},{"w":"sleep","bn":"ঘুমানো","pos":"verb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "present-continuous",
+      "focus": "Say how a sick person is right now",
+      "focusBn": "অসুস্থ মানুষ এখন কেমন আছে তা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + verb-ing.",
+          "tipBn": "এই মুহূর্তে চলছে এমন কাজ বোঝাতে am/is/are + verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"Sumi is lying in bed.","bn":"সুমি বিছানায় শুয়ে আছে।","words":[{"w":"lying","bn":"শুয়ে আছে","pos":"verb","base":"lie"},{"w":"bed","bn":"বিছানা","pos":"noun"}]},
+            {"id":"02","en":"She is coughing a lot.","bn":"সে অনেক কাশছে।","words":[{"w":"coughing","bn":"কাশছে","pos":"verb","base":"cough"}]},
+            {"id":"03","en":"Her nose is running.","bn":"ওর নাক দিয়ে পানি পড়ছে।","words":[{"w":"nose","bn":"নাক","pos":"noun"},{"w":"running","bn":"পানি পড়ছে","pos":"verb","base":"run"}]},
+            {"id":"04","en":"Grandma is making hot soup.","bn":"দাদি গরম স্যুপ বানাচ্ছেন।","words":[{"w":"making","bn":"বানাচ্ছেন","pos":"verb","base":"make"},{"w":"soup","bn":"স্যুপ","pos":"noun"}]},
+            {"id":"05","en":"Father is calling the doctor.","bn":"বাবা ডাক্তারকে ফোন করছেন।","words":[{"w":"calling","bn":"ফোন করছেন","pos":"verb","base":"call"},{"w":"doctor","bn":"ডাক্তার","pos":"noun"}]},
+            {"id":"06","en":"I am taking my medicine now.","bn":"আমি এখন আমার ওষুধ খাচ্ছি।","words":[{"w":"taking","bn":"খাচ্ছি","pos":"verb","base":"take"},{"w":"medicine","bn":"ওষুধ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + verb-ing.",
+          "tipBn": "am/is/are এর পরে not বসিয়ে ঘটমান বর্তমানের না-বোধক বাক্য হয়।",
+          "items": [
+            {"id":"01","en":"Sumi isn't playing outside today.","bn":"সুমি আজ বাইরে খেলছে না।","words":[{"w":"playing","bn":"খেলছে","pos":"verb","base":"play"},{"w":"outside","bn":"বাইরে","pos":"adverb"}]},
+            {"id":"02","en":"She is not coughing much now.","bn":"সে এখন বেশি কাশছে না।","words":[{"w":"coughing","bn":"কাশছে","pos":"verb","base":"cough"}]},
+            {"id":"03","en":"Grandma isn't cooking spicy food.","bn":"দাদি ঝাল খাবার রান্না করছেন না।","words":[{"w":"cooking","bn":"রান্না করছেন","pos":"verb","base":"cook"},{"w":"spicy","bn":"ঝাল","pos":"adjective"}]},
+            {"id":"04","en":"The fever is not going down.","bn":"জ্বর কমছে না।","words":[{"w":"going down","bn":"কমছে","pos":"phrasal verb","base":"go down"}]},
+            {"id":"05","en":"I am not eating much these days.","bn":"আমি আজকাল বেশি খাচ্ছি না।","words":[{"w":"these days","bn":"আজকাল","pos":"phrase"}]},
+            {"id":"06","en":"Her nose is not running now.","bn":"ওর নাক দিয়ে এখন আর পানি পড়ছে না।","words":[{"w":"nose","bn":"নাক","pos":"noun"},{"w":"running","bn":"পানি পড়ছে","pos":"verb","base":"run"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + verb-ing?",
+          "tipBn": "Am/Is/Are বাক্যের শুরুতে বসিয়ে ঘটমান বর্তমানের প্রশ্ন করা হয়।",
+          "items": [
+            {"id":"01","en":"Is Sumi lying in bed?","bn":"সুমি কি বিছানায় শুয়ে আছে?","words":[{"w":"lying","bn":"শুয়ে আছে","pos":"verb","base":"lie"}]},
+            {"id":"02","en":"Is she coughing a lot?","bn":"সে কি অনেক কাশছে?","words":[{"w":"coughing","bn":"কাশছে","pos":"verb","base":"cough"}]},
+            {"id":"03","en":"Is Grandma making soup?","bn":"দাদি কি স্যুপ বানাচ্ছেন?","words":[{"w":"soup","bn":"স্যুপ","pos":"noun"}]},
+            {"id":"04","en":"Are you feeling better now?","bn":"তুমি কি এখন একটু ভালো বোধ করছ?","words":[{"w":"feeling better","bn":"ভালো বোধ করা","pos":"phrase"}]},
+            {"id":"05","en":"Is the fever going down?","bn":"জ্বর কি কমছে?","words":[{"w":"going down","bn":"কমছে","pos":"phrasal verb","base":"go down"}]},
+            {"id":"06","en":"Are you drinking enough water?","bn":"তুমি কি যথেষ্ট পানি খাচ্ছ?","words":[{"w":"enough","bn":"যথেষ্ট","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + verb-ing?",
+          "tipBn": "প্রশ্নশব্দের পরে am/is/are, তারপর subject ও verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"What is Sumi doing now?","bn":"সুমি এখন কী করছে?","words":[{"w":"doing","bn":"করছে","pos":"verb","base":"do"}]},
+            {"id":"02","en":"Why is she coughing?","bn":"সে কাশছে কেন?","words":[{"w":"coughing","bn":"কাশছে","pos":"verb","base":"cough"}]},
+            {"id":"03","en":"Who is calling the doctor?","bn":"ডাক্তারকে কে ফোন করছে?","words":[{"w":"calling","bn":"ফোন করছে","pos":"verb","base":"call"}]},
+            {"id":"04","en":"What is Grandma cooking?","bn":"দাদি কী রান্না করছেন?","words":[{"w":"cooking","bn":"রান্না করছেন","pos":"verb","base":"cook"}]},
+            {"id":"05","en":"How are you feeling today?","bn":"আজ তোমার কেমন লাগছে?","words":[{"w":"feeling","bn":"বোধ করছ, লাগছে","pos":"verb","base":"feel"}]},
+            {"id":"06","en":"Where is Father taking Sumi?","bn":"বাবা সুমিকে কোথায় নিয়ে যাচ্ছেন?","words":[{"w":"taking","bn":"নিয়ে যাচ্ছেন","pos":"verb","base":"take"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-simple",
+      "focus": "Tell about the visit to the doctor",
+      "focusBn": "ডাক্তারের কাছে যাওয়ার কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb (past) + ... (+ yesterday / last ...).",
+          "tipBn": "অতীতের কাজ বোঝাতে verb-এর past রূপ বসে; অনেক verb-এর সাথে ed যোগ হয়।",
+          "items": [
+            {"id":"01","en":"Father took Sumi to the clinic yesterday.","bn":"বাবা গতকাল সুমিকে ক্লিনিকে নিয়ে গিয়েছিলেন।","words":[{"w":"took","bn":"নিয়ে গিয়েছিলেন","pos":"verb","base":"take"},{"w":"yesterday","bn":"গতকাল","pos":"adverb"}]},
+            {"id":"02","en":"They waited for twenty minutes.","bn":"তাঁরা ২০ মিনিট অপেক্ষা করেছিলেন।","words":[{"w":"waited","bn":"অপেক্ষা করেছিলেন","pos":"verb","base":"wait"}]},
+            {"id":"03","en":"The doctor checked her temperature.","bn":"ডাক্তার ওর তাপমাত্রা মেপেছিলেন।","words":[{"w":"checked","bn":"মেপেছিলেন, পরীক্ষা করেছিলেন","pos":"verb","base":"check"},{"w":"temperature","bn":"তাপমাত্রা","pos":"noun"}]},
+            {"id":"04","en":"Her temperature was 102 degrees.","bn":"ওর তাপমাত্রা ছিল ১০২ ডিগ্রি।","words":[{"w":"degrees","bn":"ডিগ্রি","pos":"noun","base":"degree"}]},
+            {"id":"05","en":"Dr. Hasan wrote a prescription.","bn":"ডা. হাসান একটি প্রেসক্রিপশন লিখেছিলেন।","words":[{"w":"wrote","bn":"লিখেছিলেন","pos":"verb","base":"write"},{"w":"prescription","bn":"প্রেসক্রিপশন","pos":"noun"}]},
+            {"id":"06","en":"Sumi felt better in the evening.","bn":"সন্ধ্যায় সুমি একটু ভালো বোধ করেছিল।","words":[{"w":"felt","bn":"বোধ করেছিল","pos":"verb","base":"feel"},{"w":"better","bn":"আগের চেয়ে ভালো","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + didn't + verb (base). / was/were + not ...",
+          "tipBn": "didn't এর পরে verb মূল রূপে ফিরে যায়; was/were এর পরে সরাসরি not বসে।",
+          "items": [
+            {"id":"01","en":"Father didn't take Sumi to the hospital.","bn":"বাবা সুমিকে হাসপাতালে নিয়ে যাননি।","words":[{"w":"hospital","bn":"হাসপাতাল","pos":"noun"}]},
+            {"id":"02","en":"They didn't wait for long.","bn":"তাঁরা বেশিক্ষণ অপেক্ষা করেননি।","words":[{"w":"for long","bn":"বেশিক্ষণ","pos":"phrase"}]},
+            {"id":"03","en":"Sumi didn't eat breakfast yesterday.","bn":"সুমি গতকাল সকালের নাশতা খায়নি।","words":[{"w":"breakfast","bn":"সকালের নাশতা","pos":"noun"}]},
+            {"id":"04","en":"Her temperature wasn't normal.","bn":"ওর তাপমাত্রা স্বাভাবিক ছিল না।","words":[{"w":"normal","bn":"স্বাভাবিক","pos":"adjective"}]},
+            {"id":"05","en":"The doctor didn't give her an injection.","bn":"ডাক্তার ওকে ইনজেকশন দেননি।","words":[{"w":"injection","bn":"ইনজেকশন","pos":"noun"}]},
+            {"id":"06","en":"Sumi didn't feel well in the morning.","bn":"সকালে সুমির শরীর ভালো লাগেনি।","words":[{"w":"feel well","bn":"সুস্থ বোধ করা","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Did + subject + verb (base)? / Was/Were + subject ...?",
+          "tipBn": "প্রশ্ন করতে Did শুরুতে বসে এবং verb মূল রূপে থাকে; is এর অতীত রূপ Was।",
+          "items": [
+            {"id":"01","en":"Did Father take Sumi to the clinic?","bn":"বাবা কি সুমিকে ক্লিনিকে নিয়ে গিয়েছিলেন?","words":[{"w":"take","bn":"নিয়ে যাওয়া","pos":"verb"}]},
+            {"id":"02","en":"Did the doctor check her temperature?","bn":"ডাক্তার কি ওর তাপমাত্রা মেপেছিলেন?","words":[{"w":"check","bn":"মাপা, পরীক্ষা করা","pos":"verb"},{"w":"temperature","bn":"তাপমাত্রা","pos":"noun"}]},
+            {"id":"03","en":"Was her temperature very high?","bn":"ওর তাপমাত্রা কি অনেক বেশি ছিল?","words":[{"w":"high","bn":"বেশি, উঁচু","pos":"adjective"}]},
+            {"id":"04","en":"Did Dr. Hasan write a prescription?","bn":"ডা. হাসান কি প্রেসক্রিপশন লিখেছিলেন?","words":[{"w":"prescription","bn":"প্রেসক্রিপশন","pos":"noun"}]},
+            {"id":"05","en":"Did you sleep well last night?","bn":"তুমি কি কাল রাতে ভালো ঘুমিয়েছিলে?","words":[{"w":"last night","bn":"গত রাতে","pos":"phrase"}]},
+            {"id":"06","en":"Were you sick last week?","bn":"তুমি কি গত সপ্তাহে অসুস্থ ছিলে?","words":[{"w":"sick","bn":"অসুস্থ","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + did + subject + verb (base)?",
+          "tipBn": "প্রশ্নশব্দের পরে did বসে এবং verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"When did they go to the clinic?","bn":"তাঁরা কখন ক্লিনিকে গিয়েছিলেন?","words":[{"w":"clinic","bn":"ক্লিনিক","pos":"noun"}]},
+            {"id":"02","en":"How long did they wait?","bn":"তাঁরা কতক্ষণ অপেক্ষা করেছিলেন?","words":[{"w":"How long","bn":"কতক্ষণ","pos":"phrase"},{"w":"wait","bn":"অপেক্ষা করা","pos":"verb"}]},
+            {"id":"03","en":"What did the doctor say?","bn":"ডাক্তার কী বলেছিলেন?","words":[{"w":"say","bn":"বলা","pos":"verb"}]},
+            {"id":"04","en":"Who paid the doctor's fee?","bn":"ডাক্তারের ফি কে দিয়েছিলেন?","words":[{"w":"paid","bn":"দিয়েছিলেন, পরিশোধ করেছিলেন","pos":"verb","base":"pay"},{"w":"fee","bn":"ফি","pos":"noun"}]},
+            {"id":"05","en":"How much was the medicine?","bn":"ওষুধের দাম কত ছিল?","words":[{"w":"How much","bn":"কত","pos":"phrase"}]},
+            {"id":"06","en":"Why did Sumi miss school?","bn":"সুমি কেন স্কুল কামাই করেছিল?","words":[{"w":"miss","bn":"কামাই করা","pos":"verb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "future-will",
+      "focus": "Talk about getting well again",
+      "focusBn": "আবার সুস্থ হয়ে ওঠার কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + will + verb (base).",
+          "tipBn": "ভবিষ্যতের কথা, প্রতিশ্রুতি বা তাৎক্ষণিক সিদ্ধান্তে will + verb মূল রূপ বসে।",
+          "items": [
+            {"id":"01","en":"Sumi will get better soon.","bn":"সুমি শিগগিরই সুস্থ হয়ে উঠবে।","words":[{"w":"get better","bn":"সুস্থ হয়ে ওঠা","pos":"phrase"},{"w":"soon","bn":"শিগগিরই","pos":"adverb"}]},
+            {"id":"02","en":"She will take her medicine on time.","bn":"সে সময়মতো ওষুধ খাবে।","words":[{"w":"on time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"03","en":"I will bring you some fruit.","bn":"আমি তোমার জন্য কিছু ফল আনব।","words":[{"w":"bring","bn":"আনা","pos":"verb"},{"w":"fruit","bn":"ফল","pos":"noun"}]},
+            {"id":"04","en":"Father will call the doctor tomorrow.","bn":"বাবা আগামীকাল ডাক্তারকে ফোন করবেন।","words":[{"w":"tomorrow","bn":"আগামীকাল","pos":"adverb"}]},
+            {"id":"05","en":"Sumi will rest for three days.","bn":"সুমি ৩ দিন বিশ্রাম নেবে।","words":[{"w":"rest","bn":"বিশ্রাম নেওয়া","pos":"verb"}]},
+            {"id":"06","en":"We will walk in the park every morning.","bn":"আমরা প্রতিদিন সকালে পার্কে হাঁটব।","words":[{"w":"walk","bn":"হাঁটা","pos":"verb"},{"w":"park","bn":"পার্ক","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + won't (will not) + verb (base).",
+          "tipBn": "will not বা সংক্ষেপে won't এর পরে verb মূল রূপে বসে।",
+          "items": [
+            {"id":"01","en":"Sumi won't go to school tomorrow.","bn":"সুমি আগামীকাল স্কুলে যাবে না।","words":[{"w":"won't","bn":"করবে না","pos":"verb","base":"will not"}]},
+            {"id":"02","en":"She won't forget her medicine.","bn":"সে ওষুধ খেতে ভুলবে না।","words":[{"w":"forget","bn":"ভুলে যাওয়া","pos":"verb"}]},
+            {"id":"03","en":"I won't eat ice cream this week.","bn":"আমি এই সপ্তাহে আইসক্রিম খাব না।","words":[{"w":"ice cream","bn":"আইসক্রিম","pos":"noun"}]},
+            {"id":"04","en":"The fever won't last long.","bn":"জ্বর বেশিদিন থাকবে না।","words":[{"w":"last","bn":"টিকে থাকা","pos":"verb"}]},
+            {"id":"05","en":"Father won't call the doctor today.","bn":"বাবা আজ ডাক্তারকে ফোন করবেন না।","words":[{"w":"call","bn":"ফোন করা","pos":"verb"}]},
+            {"id":"06","en":"We won't skip our morning walk.","bn":"আমরা সকালের হাঁটা বাদ দেব না।","words":[{"w":"skip","bn":"বাদ দেওয়া","pos":"verb"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Will + subject + verb (base)?",
+          "tipBn": "Will বাক্যের শুরুতে বসিয়ে ভবিষ্যতের প্রশ্ন করা হয়।",
+          "items": [
+            {"id":"01","en":"Will Sumi get better soon?","bn":"সুমি কি শিগগিরই সুস্থ হয়ে উঠবে?","words":[{"w":"get better","bn":"সুস্থ হয়ে ওঠা","pos":"phrase"}]},
+            {"id":"02","en":"Will she take her medicine on time?","bn":"সে কি সময়মতো ওষুধ খাবে?","words":[{"w":"on time","bn":"সময়মতো","pos":"phrase"}]},
+            {"id":"03","en":"Will you bring some fruit?","bn":"তুমি কি কিছু ফল আনবে?","words":[{"w":"bring","bn":"আনা","pos":"verb"}]},
+            {"id":"04","en":"Will the doctor visit again?","bn":"ডাক্তার কি আবার দেখতে আসবেন?","words":[{"w":"visit","bn":"দেখতে আসা","pos":"verb"}]},
+            {"id":"05","en":"Will you walk with me tomorrow?","bn":"তুমি কি কাল আমার সাথে হাঁটবে?","words":[{"w":"walk","bn":"হাঁটা","pos":"verb"}]},
+            {"id":"06","en":"Will the medicine taste bad?","bn":"ওষুধটা কি খেতে খারাপ লাগবে?","words":[{"w":"taste","bn":"স্বাদ লাগা","pos":"verb"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + will + subject + verb (base)?",
+          "tipBn": "প্রশ্নশব্দের পরে will, তারপর subject ও verb মূল রূপে বসে।",
+          "items": [
+            {"id":"01","en":"When will Sumi go back to school?","bn":"সুমি কবে আবার স্কুলে যাবে?","words":[{"w":"go back","bn":"ফিরে যাওয়া","pos":"phrasal verb"}]},
+            {"id":"02","en":"What will you eat for dinner?","bn":"রাতে তুমি কী খাবে?","words":[{"w":"dinner","bn":"রাতের খাবার","pos":"noun"}]},
+            {"id":"03","en":"How long will she rest?","bn":"সে কতদিন বিশ্রাম নেবে?","words":[{"w":"How long","bn":"কতদিন, কতক্ষণ","pos":"phrase"},{"w":"rest","bn":"বিশ্রাম নেওয়া","pos":"verb"}]},
+            {"id":"04","en":"Who will stay with Sumi?","bn":"সুমির সাথে কে থাকবে?","words":[{"w":"stay","bn":"থাকা","pos":"verb"}]},
+            {"id":"05","en":"Where will you buy the medicine?","bn":"তুমি ওষুধ কোথায় কিনবে?","words":[{"w":"buy","bn":"কেনা","pos":"verb"}]},
+            {"id":"06","en":"What time will you take your medicine?","bn":"তুমি কয়টায় ওষুধ খাবে?","words":[{"w":"What time","bn":"কয়টায়","pos":"phrase"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

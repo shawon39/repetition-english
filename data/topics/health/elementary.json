@@ -1,0 +1,271 @@
+{
+  "topic": "health",
+  "level": "elementary",
+  "title": "A Healthier Year in Mirpur",
+  "story": "Nasrin and Jamal live in Mirpur, Dhaka, with their son Tuhin, who is fourteen. Mr. Biswas runs the pharmacy downstairs, and Dr. Farzana works at the local health center. This year the family gets through dengue season and a football injury, and they make a plan to live a healthier life.",
+  "storyBn": "নাসরিন আর জামাল তাঁদের চৌদ্দ বছরের ছেলে তুহিনকে নিয়ে ঢাকার মিরপুরে থাকেন। বিশ্বাস সাহেব নিচতলায় ফার্মেসি চালান, আর ডা. ফারজানা এলাকার স্বাস্থ্যকেন্দ্রে কাজ করেন। এই বছর পরিবারটি ডেঙ্গুর মৌসুম আর একটা ফুটবল খেলার আঘাত সামলে ওঠে, আর আরও স্বাস্থ্যকর জীবনযাপনের পরিকল্পনা করে।",
+  "units": [
+    {
+      "grammar": "present-simple",
+      "focus": "Talk about the family's health habits",
+      "focusBn": "পরিবারের স্বাস্থ্য-অভ্যাস নিয়ে কথা বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb(s) + ... (+ every day / often). / Subject + is + ...",
+          "tipBn": "অভ্যাস ও নিয়মিত কাজ বোঝাতে present simple বসে; he, she বা it এর পরে verb-এর সাথে s বা es যোগ হয়।",
+          "items": [
+            {"id":"01","en":"Nasrin walks for thirty minutes every morning.","bn":"নাসরিন প্রতিদিন সকালে ৩০ মিনিট হাঁটেন।","words":[{"w":"walks","bn":"হাঁটেন","pos":"verb","base":"walk"},{"w":"minutes","bn":"মিনিট","pos":"noun","base":"minute"}]},
+            {"id":"02","en":"Jamal often gets headaches at work.","bn":"অফিসে জামালের প্রায়ই মাথাব্যথা হয়।","words":[{"w":"often","bn":"প্রায়ই","pos":"adverb"},{"w":"headaches","bn":"মাথাব্যথা","pos":"noun","base":"headache"}]},
+            {"id":"03","en":"Tuhin plays football after school.","bn":"তুহিন স্কুল শেষে ফুটবল খেলে।","words":[{"w":"after school","bn":"স্কুল শেষে","pos":"phrase"}]},
+            {"id":"04","en":"Mr. Biswas runs a pharmacy downstairs.","bn":"বিশ্বাস সাহেব নিচতলায় একটা ফার্মেসি চালান।","words":[{"w":"runs","bn":"চালান","pos":"verb","base":"run"},{"w":"downstairs","bn":"নিচতলায়","pos":"adverb"}]},
+            {"id":"05","en":"The family eats vegetables with every meal.","bn":"পরিবারটি প্রতি বেলার খাবারে সবজি খায়।","words":[{"w":"vegetables","bn":"সবজি","pos":"noun","base":"vegetable"},{"w":"meal","bn":"এক বেলার খাবার","pos":"noun"}]},
+            {"id":"06","en":"Dr. Farzana is a kind and patient doctor.","bn":"ডা. ফারজানা একজন দয়ালু ও ধৈর্যশীল ডাক্তার।","words":[{"w":"kind","bn":"দয়ালু","pos":"adjective"},{"w":"patient","bn":"ধৈর্যশীল","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + don't/doesn't + verb (base). / Subject + isn't + ...",
+          "tipBn": "verb-এর আগে don't বা doesn't বসে এবং verb মূল রূপে থাকে; doesn't এর পরে verb-এ s থাকে না।",
+          "items": [
+            {"id":"01","en":"Nasrin doesn't skip her morning walk.","bn":"নাসরিন সকালের হাঁটা বাদ দেন না।","words":[{"w":"skip","bn":"বাদ দেওয়া","pos":"verb"}]},
+            {"id":"02","en":"Jamal doesn't sleep enough on weekdays.","bn":"জামাল কাজের দিনগুলোতে যথেষ্ট ঘুমান না।","words":[{"w":"enough","bn":"যথেষ্ট","pos":"adverb"},{"w":"weekdays","bn":"কাজের দিন","pos":"noun","base":"weekday"}]},
+            {"id":"03","en":"Tuhin doesn't drink soft drinks.","bn":"তুহিন কোমল পানীয় খায় না।","words":[{"w":"soft drinks","bn":"কোমল পানীয়","pos":"noun","base":"soft drink"}]},
+            {"id":"04","en":"Mr. Biswas doesn't sell medicine without a prescription.","bn":"বিশ্বাস সাহেব প্রেসক্রিপশন ছাড়া ওষুধ বিক্রি করেন না।","words":[{"w":"sell","bn":"বিক্রি করা","pos":"verb"},{"w":"prescription","bn":"প্রেসক্রিপশন, ব্যবস্থাপত্র","pos":"noun"}]},
+            {"id":"05","en":"The family doesn't eat much fried food.","bn":"পরিবারটি বেশি ভাজাপোড়া খায় না।","words":[{"w":"fried food","bn":"ভাজাপোড়া","pos":"phrase"}]},
+            {"id":"06","en":"Dr. Farzana doesn't see patients on Fridays.","bn":"ডা. ফারজানা শুক্রবারে রোগী দেখেন না।","words":[{"w":"see patients","bn":"রোগী দেখা","pos":"phrase"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Do/Does + subject + verb (base)? / Is + subject + ...?",
+          "tipBn": "Do বা Does বাক্যের শুরুতে বসে এবং verb মূল রূপে থাকে; to be হলে Is শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Does Nasrin walk every morning?","bn":"নাসরিন কি প্রতিদিন সকালে হাঁটেন?","words":[{"w":"walk","bn":"হাঁটা","pos":"verb"}]},
+            {"id":"02","en":"Does Jamal get headaches often?","bn":"জামালের কি প্রায়ই মাথাব্যথা হয়?","words":[{"w":"headaches","bn":"মাথাব্যথা","pos":"noun","base":"headache"},{"w":"often","bn":"প্রায়ই","pos":"adverb"}]},
+            {"id":"03","en":"Is the pharmacy open on Fridays?","bn":"ফার্মেসি কি শুক্রবারে খোলা থাকে?","words":[{"w":"open","bn":"খোলা","pos":"adjective"}]},
+            {"id":"04","en":"Do you wash your hands with soap?","bn":"তুমি কি সাবান দিয়ে হাত ধোও?","words":[{"w":"soap","bn":"সাবান","pos":"noun"}]},
+            {"id":"05","en":"Does Tuhin play football after school?","bn":"তুহিন কি স্কুল শেষে ফুটবল খেলে?","words":[{"w":"after school","bn":"স্কুল শেষে","pos":"phrase"}]},
+            {"id":"06","en":"Is your blood pressure normal?","bn":"আপনার রক্তচাপ কি স্বাভাবিক?","words":[{"w":"blood pressure","bn":"রক্তচাপ","pos":"noun"},{"w":"normal","bn":"স্বাভাবিক","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Don't/Doesn't/Isn't + subject + ...?",
+          "tipBn": "অবাক হয়ে বা নিশ্চিত হতে Don't, Doesn't বা Isn't দিয়ে প্রশ্ন শুরু হয়।",
+          "items": [
+            {"id":"01","en":"Doesn't Jamal sleep enough at night?","bn":"জামাল কি রাতে যথেষ্ট ঘুমান না?","words":[{"w":"enough","bn":"যথেষ্ট","pos":"adverb"}]},
+            {"id":"02","en":"Don't you eat breakfast every day?","bn":"তুমি কি প্রতিদিন নাশতা করো না?","words":[{"w":"breakfast","bn":"সকালের নাশতা","pos":"noun"}]},
+            {"id":"03","en":"Isn't Dr. Farzana a kind doctor?","bn":"ডা. ফারজানা কি একজন দয়ালু ডাক্তার নন?","words":[{"w":"kind","bn":"দয়ালু","pos":"adjective"}]},
+            {"id":"04","en":"Doesn't Tuhin drink milk at night?","bn":"তুহিন কি রাতে দুধ খায় না?","words":[{"w":"milk","bn":"দুধ","pos":"noun"}]},
+            {"id":"05","en":"Don't you feel tired after work?","bn":"কাজের পরে তোমার কি ক্লান্ত লাগে না?","words":[{"w":"tired","bn":"ক্লান্ত","pos":"adjective"}]},
+            {"id":"06","en":"Isn't the health center near your house?","bn":"স্বাস্থ্যকেন্দ্রটা কি তোমার বাসার কাছে নয়?","words":[{"w":"health center","bn":"স্বাস্থ্যকেন্দ্র","pos":"noun"},{"w":"near","bn":"কাছে","pos":"preposition"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + do/does + subject + verb (base)?",
+          "tipBn": "প্রশ্নশব্দের পরে do বা does বসে, তারপর subject ও verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"How often does Nasrin exercise?","bn":"নাসরিন কত ঘন ঘন ব্যায়াম করেন?","words":[{"w":"How often","bn":"কত ঘন ঘন","pos":"phrase"},{"w":"exercise","bn":"ব্যায়াম করা","pos":"verb"}]},
+            {"id":"02","en":"Why does Jamal get headaches?","bn":"জামালের মাথাব্যথা হয় কেন?","words":[{"w":"headaches","bn":"মাথাব্যথা","pos":"noun","base":"headache"}]},
+            {"id":"03","en":"What time does the pharmacy close?","bn":"ফার্মেসি কয়টায় বন্ধ হয়?","words":[{"w":"What time","bn":"কয়টায়","pos":"phrase"},{"w":"close","bn":"বন্ধ হওয়া","pos":"verb"}]},
+            {"id":"04","en":"How many glasses of water do you drink?","bn":"তুমি কত গ্লাস পানি খাও?","words":[{"w":"How many","bn":"কত, কতগুলো","pos":"phrase"},{"w":"glasses","bn":"গ্লাস","pos":"noun","base":"glass"}]},
+            {"id":"05","en":"Which fruit does Tuhin like most?","bn":"তুহিন কোন ফল সবচেয়ে বেশি পছন্দ করে?","words":[{"w":"fruit","bn":"ফল","pos":"noun"},{"w":"most","bn":"সবচেয়ে বেশি","pos":"adverb"}]},
+            {"id":"06","en":"When does Dr. Farzana see patients?","bn":"ডা. ফারজানা কখন রোগী দেখেন?","words":[{"w":"patients","bn":"রোগী","pos":"noun","base":"patient"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "present-continuous",
+      "focus": "Describe what is happening during dengue season",
+      "focusBn": "ডেঙ্গুর মৌসুমে এখন কী ঘটছে তা বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + verb-ing (+ now / these days).",
+          "tipBn": "এখন বা এই সময়টায় চলছে এমন কাজ বোঝাতে am/is/are + verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"Dengue cases are rising in Dhaka this month.","bn":"এই মাসে ঢাকায় ডেঙ্গুর রোগী বাড়ছে।","words":[{"w":"cases","bn":"রোগী, আক্রান্তের ঘটনা","pos":"noun","base":"case"},{"w":"rising","bn":"বাড়ছে","pos":"verb","base":"rise"}]},
+            {"id":"02","en":"Tuhin is shivering under a blanket.","bn":"তুহিন কম্বলের নিচে কাঁপছে।","words":[{"w":"shivering","bn":"কাঁপছে","pos":"verb","base":"shiver"},{"w":"blanket","bn":"কম্বল","pos":"noun"}]},
+            {"id":"03","en":"Nasrin is putting up a mosquito net.","bn":"নাসরিন মশারি টানাচ্ছেন।","words":[{"w":"putting up","bn":"টানাচ্ছেন","pos":"phrasal verb","base":"put up"},{"w":"mosquito net","bn":"মশারি","pos":"noun"}]},
+            {"id":"04","en":"Jamal is cleaning the flower pots on the balcony.","bn":"জামাল বারান্দার ফুলের টবগুলো পরিষ্কার করছেন।","words":[{"w":"flower pots","bn":"ফুলের টব","pos":"noun","base":"flower pot"},{"w":"balcony","bn":"বারান্দা","pos":"noun"}]},
+            {"id":"05","en":"Mr. Biswas is selling a lot of saline these days.","bn":"বিশ্বাস সাহেব আজকাল অনেক স্যালাইন বিক্রি করছেন।","words":[{"w":"saline","bn":"স্যালাইন","pos":"noun"},{"w":"these days","bn":"আজকাল","pos":"phrase"}]},
+            {"id":"06","en":"The doctors are testing his blood for dengue.","bn":"ডাক্তাররা ডেঙ্গু আছে কি না দেখতে ওর রক্ত পরীক্ষা করছেন।","words":[{"w":"testing","bn":"পরীক্ষা করছেন","pos":"verb","base":"test"},{"w":"blood","bn":"রক্ত","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + verb-ing.",
+          "tipBn": "am/is/are এর পরে not বসে; isn't ও aren't হলো এর সংক্ষিপ্ত রূপ।",
+          "items": [
+            {"id":"01","en":"Dengue cases are not going down yet.","bn":"ডেঙ্গুর রোগী এখনও কমছে না।","words":[{"w":"going down","bn":"কমছে","pos":"phrasal verb","base":"go down"},{"w":"yet","bn":"এখনও","pos":"adverb"}]},
+            {"id":"02","en":"Tuhin isn't shivering anymore.","bn":"তুহিন আর কাঁপছে না।","words":[{"w":"shivering","bn":"কাঁপছে","pos":"verb","base":"shiver"},{"w":"anymore","bn":"আর","pos":"adverb"}]},
+            {"id":"03","en":"Nasrin isn't sleeping well these days.","bn":"নাসরিন আজকাল ভালো ঘুমাচ্ছেন না।","words":[{"w":"sleeping","bn":"ঘুমাচ্ছেন","pos":"verb","base":"sleep"}]},
+            {"id":"04","en":"Jamal isn't leaving any water in the pots.","bn":"জামাল টবগুলোতে কোনো পানি জমে থাকতে দিচ্ছেন না।","words":[{"w":"leaving","bn":"রেখে দিচ্ছেন","pos":"verb","base":"leave"},{"w":"pots","bn":"টব","pos":"noun","base":"pot"}]},
+            {"id":"05","en":"Tuhin isn't attending school this week.","bn":"তুহিন এই সপ্তাহে স্কুলে যাচ্ছে না।","words":[{"w":"attending","bn":"উপস্থিত হচ্ছে","pos":"verb","base":"attend"}]},
+            {"id":"06","en":"The doctors aren't giving him antibiotics.","bn":"ডাক্তাররা ওকে অ্যান্টিবায়োটিক দিচ্ছেন না।","words":[{"w":"antibiotics","bn":"অ্যান্টিবায়োটিক","pos":"noun","base":"antibiotic"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + verb-ing?",
+          "tipBn": "Am/Is/Are বাক্যের শুরুতে বসিয়ে এখন চলমান কাজের প্রশ্ন করা হয়।",
+          "items": [
+            {"id":"01","en":"Are dengue cases rising in your area?","bn":"তোমাদের এলাকায় কি ডেঙ্গুর রোগী বাড়ছে?","words":[{"w":"rising","bn":"বাড়ছে","pos":"verb","base":"rise"},{"w":"area","bn":"এলাকা","pos":"noun"}]},
+            {"id":"02","en":"Is Tuhin shivering under the blanket?","bn":"তুহিন কি কম্বলের নিচে কাঁপছে?","words":[{"w":"shivering","bn":"কাঁপছে","pos":"verb","base":"shiver"}]},
+            {"id":"03","en":"Is Nasrin putting up the mosquito net?","bn":"নাসরিন কি মশারি টানাচ্ছেন?","words":[{"w":"mosquito net","bn":"মশারি","pos":"noun"}]},
+            {"id":"04","en":"Are the doctors testing his blood?","bn":"ডাক্তাররা কি ওর রক্ত পরীক্ষা করছেন?","words":[{"w":"testing","bn":"পরীক্ষা করছেন","pos":"verb","base":"test"}]},
+            {"id":"05","en":"Is he drinking enough fluids?","bn":"ও কি যথেষ্ট তরল খাবার খাচ্ছে?","words":[{"w":"fluids","bn":"তরল খাবার","pos":"noun","base":"fluid"}]},
+            {"id":"06","en":"Are you taking care of yourself?","bn":"তুমি কি নিজের যত্ন নিচ্ছ?","words":[{"w":"taking care of","bn":"যত্ন নেওয়া","pos":"phrase","base":"take care of"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + verb-ing?",
+          "tipBn": "প্রশ্নশব্দের পরে am/is/are, তারপর subject ও verb-ing বসে।",
+          "items": [
+            {"id":"01","en":"Why are dengue cases rising so fast?","bn":"ডেঙ্গুর রোগী এত দ্রুত বাড়ছে কেন?","words":[{"w":"fast","bn":"দ্রুত","pos":"adverb"}]},
+            {"id":"02","en":"What is Jamal cleaning on the balcony?","bn":"জামাল বারান্দায় কী পরিষ্কার করছেন?","words":[{"w":"cleaning","bn":"পরিষ্কার করছেন","pos":"verb","base":"clean"}]},
+            {"id":"03","en":"How is Tuhin feeling this afternoon?","bn":"আজ বিকেলে তুহিনের কেমন লাগছে?","words":[{"w":"feeling","bn":"বোধ করছে, লাগছে","pos":"verb","base":"feel"},{"w":"afternoon","bn":"বিকেল","pos":"noun"}]},
+            {"id":"04","en":"Who is looking after Tuhin today?","bn":"আজ তুহিনের দেখাশোনা কে করছে?","words":[{"w":"looking after","bn":"দেখাশোনা করছে","pos":"phrasal verb","base":"look after"}]},
+            {"id":"05","en":"What are the doctors checking?","bn":"ডাক্তাররা কী পরীক্ষা করছেন?","words":[{"w":"checking","bn":"পরীক্ষা করছেন","pos":"verb","base":"check"}]},
+            {"id":"06","en":"Where are the mosquitoes breeding?","bn":"মশা কোথায় জন্মাচ্ছে?","words":[{"w":"mosquitoes","bn":"মশা","pos":"noun","base":"mosquito"},{"w":"breeding","bn":"জন্মাচ্ছে, বংশবিস্তার করছে","pos":"verb","base":"breed"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-simple",
+      "focus": "Tell the story of Tuhin's football injury",
+      "focusBn": "ফুটবল খেলতে গিয়ে তুহিনের আঘাত পাওয়ার গল্প বলা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + verb (past) + ...",
+          "tipBn": "অতীতে শেষ হওয়া কাজে verb-এর past রূপ বসে; fall, take, put এর মতো verb-এর past রূপ অনিয়মিত।",
+          "items": [
+            {"id":"01","en":"Tuhin hurt his ankle in a football match.","bn":"তুহিন একটা ফুটবল ম্যাচে গোড়ালিতে চোট পেয়েছিল।","words":[{"w":"hurt","bn":"চোট পেয়েছিল","pos":"verb","base":"hurt"},{"w":"ankle","bn":"গোড়ালি","pos":"noun"}]},
+            {"id":"02","en":"He fell on the wet grass.","bn":"সে ভেজা ঘাসের ওপর পড়ে গিয়েছিল।","words":[{"w":"fell","bn":"পড়ে গিয়েছিল","pos":"verb","base":"fall"},{"w":"wet","bn":"ভেজা","pos":"adjective"}]},
+            {"id":"03","en":"His coach put ice on his ankle.","bn":"তার কোচ তার গোড়ালিতে বরফ দিয়েছিলেন।","words":[{"w":"coach","bn":"কোচ, প্রশিক্ষক","pos":"noun"},{"w":"ice","bn":"বরফ","pos":"noun"}]},
+            {"id":"04","en":"Jamal took him to the hospital by rickshaw.","bn":"জামাল তাকে রিকশায় করে হাসপাতালে নিয়ে গিয়েছিলেন।","words":[{"w":"took","bn":"নিয়ে গিয়েছিলেন","pos":"verb","base":"take"},{"w":"hospital","bn":"হাসপাতাল","pos":"noun"}]},
+            {"id":"05","en":"The doctor ordered an X-ray.","bn":"ডাক্তার একটা এক্স-রে করাতে বলেছিলেন।","words":[{"w":"ordered","bn":"করাতে বলেছিলেন","pos":"verb","base":"order"},{"w":"X-ray","bn":"এক্স-রে","pos":"noun"}]},
+            {"id":"06","en":"The ankle was swollen for a week.","bn":"গোড়ালিটা এক সপ্তাহ ফোলা ছিল।","words":[{"w":"swollen","bn":"ফোলা","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + didn't + verb (base). / was/were + not ...",
+          "tipBn": "didn't এর পরে verb মূল রূপে থাকে; was বা were এর পরে সরাসরি not বসে।",
+          "items": [
+            {"id":"01","en":"Tuhin didn't break his ankle.","bn":"তুহিনের গোড়ালি ভাঙেনি।","words":[{"w":"break","bn":"ভাঙা","pos":"verb"}]},
+            {"id":"02","en":"He didn't cry at the hospital.","bn":"সে হাসপাতালে কাঁদেনি।","words":[{"w":"cry","bn":"কাঁদা","pos":"verb"}]},
+            {"id":"03","en":"The coach didn't let him play again.","bn":"কোচ তাকে আর খেলতে দেননি।","words":[{"w":"let","bn":"করতে দেওয়া","pos":"verb"}]},
+            {"id":"04","en":"Jamal didn't call an ambulance.","bn":"জামাল অ্যাম্বুলেন্স ডাকেননি।","words":[{"w":"ambulance","bn":"অ্যাম্বুলেন্স","pos":"noun"}]},
+            {"id":"05","en":"The X-ray didn't show any broken bones.","bn":"এক্স-রেতে কোনো ভাঙা হাড় দেখা যায়নি।","words":[{"w":"show","bn":"দেখানো","pos":"verb"},{"w":"broken bones","bn":"ভাঙা হাড়","pos":"phrase","base":"broken bone"}]},
+            {"id":"06","en":"The swelling wasn't serious.","bn":"ফোলাটা গুরুতর ছিল না।","words":[{"w":"swelling","bn":"ফোলা","pos":"noun"},{"w":"serious","bn":"গুরুতর","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Did + subject + verb (base)? / Was/Were + subject ...?",
+          "tipBn": "Did বাক্যের শুরুতে বসে এবং verb মূল রূপে থাকে; to be হলে Was বা Were শুরুতে বসে।",
+          "items": [
+            {"id":"01","en":"Did Tuhin hurt his ankle?","bn":"তুহিন কি গোড়ালিতে চোট পেয়েছিল?","words":[{"w":"ankle","bn":"গোড়ালি","pos":"noun"}]},
+            {"id":"02","en":"Did he fall on the wet grass?","bn":"সে কি ভেজা ঘাসের ওপর পড়ে গিয়েছিল?","words":[{"w":"fall","bn":"পড়ে যাওয়া","pos":"verb"},{"w":"grass","bn":"ঘাস","pos":"noun"}]},
+            {"id":"03","en":"Did the coach put ice on it?","bn":"কোচ কি সেখানে বরফ দিয়েছিলেন?","words":[{"w":"ice","bn":"বরফ","pos":"noun"}]},
+            {"id":"04","en":"Was the hospital very crowded?","bn":"হাসপাতালে কি খুব ভিড় ছিল?","words":[{"w":"crowded","bn":"ভিড়ে ভরা","pos":"adjective"}]},
+            {"id":"05","en":"Did the doctor order an X-ray?","bn":"ডাক্তার কি এক্স-রে করাতে বলেছিলেন?","words":[{"w":"order","bn":"করাতে বলা","pos":"verb"}]},
+            {"id":"06","en":"Did Tuhin use crutches?","bn":"তুহিন কি ক্রাচ ব্যবহার করেছিল?","words":[{"w":"crutches","bn":"ক্রাচ","pos":"noun","base":"crutch"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Didn't/Wasn't/Weren't + subject + ...?",
+          "tipBn": "অবাক হয়ে বা নিশ্চিত হতে Didn't, Wasn't বা Weren't দিয়ে প্রশ্ন শুরু হয়; Didn't এর পরে verb মূল রূপে থাকে।",
+          "items": [
+            {"id":"01","en":"Didn't Tuhin wear his shin guards?","bn":"তুহিন কি শিন গার্ড পরেনি?","words":[{"w":"shin guards","bn":"পায়ের সুরক্ষা প্যাড","pos":"noun","base":"shin guard"}]},
+            {"id":"02","en":"Didn't the coach see the fall?","bn":"কোচ কি পড়ে যাওয়াটা দেখেননি?","words":[{"w":"fall","bn":"পড়ে যাওয়া","pos":"noun"}]},
+            {"id":"03","en":"Wasn't the X-ray expensive?","bn":"এক্স-রে করাতে কি অনেক খরচ হয়নি?","words":[{"w":"expensive","bn":"দামি, ব্যয়বহুল","pos":"adjective"}]},
+            {"id":"04","en":"Didn't Jamal call Nasrin from the hospital?","bn":"জামাল কি হাসপাতাল থেকে নাসরিনকে ফোন করেননি?","words":[{"w":"call","bn":"ফোন করা","pos":"verb"}]},
+            {"id":"05","en":"Didn't the doctor give him painkillers?","bn":"ডাক্তার কি ওকে ব্যথানাশক ওষুধ দেননি?","words":[{"w":"painkillers","bn":"ব্যথানাশক ওষুধ","pos":"noun","base":"painkiller"}]},
+            {"id":"06","en":"Weren't you scared at the hospital?","bn":"হাসপাতালে তোমার কি ভয় লাগেনি?","words":[{"w":"scared","bn":"ভীত","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + did + subject + verb (base)?",
+          "tipBn": "প্রশ্নশব্দের পরে did বসে এবং verb মূল রূপে থাকে; Who কর্তা হলে সরাসরি past verb বসে।",
+          "items": [
+            {"id":"01","en":"How did Tuhin hurt his ankle?","bn":"তুহিন কীভাবে গোড়ালিতে চোট পেয়েছিল?","words":[{"w":"hurt","bn":"চোট পাওয়া","pos":"verb"}]},
+            {"id":"02","en":"When did the accident happen?","bn":"দুর্ঘটনাটা কখন ঘটেছিল?","words":[{"w":"accident","bn":"দুর্ঘটনা","pos":"noun"},{"w":"happen","bn":"ঘটা","pos":"verb"}]},
+            {"id":"03","en":"Who took him to the hospital?","bn":"কে তাকে হাসপাতালে নিয়ে গিয়েছিল?","words":[{"w":"took","bn":"নিয়ে গিয়েছিল","pos":"verb","base":"take"}]},
+            {"id":"04","en":"What did the X-ray show?","bn":"এক্স-রেতে কী দেখা গিয়েছিল?","words":[{"w":"show","bn":"দেখানো","pos":"verb"}]},
+            {"id":"05","en":"How long was his ankle swollen?","bn":"তার গোড়ালি কতদিন ফোলা ছিল?","words":[{"w":"How long","bn":"কতদিন","pos":"phrase"},{"w":"swollen","bn":"ফোলা","pos":"adjective"}]},
+            {"id":"06","en":"How much did the treatment cost?","bn":"চিকিৎসায় কত খরচ হয়েছিল?","words":[{"w":"treatment","bn":"চিকিৎসা","pos":"noun"},{"w":"cost","bn":"খরচ হওয়া","pos":"verb"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "future-going-to",
+      "focus": "Make plans for a healthier life",
+      "focusBn": "আরও স্বাস্থ্যকর জীবনের পরিকল্পনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + am/is/are + going to + verb (base).",
+          "tipBn": "আগে থেকে ঠিক করা পরিকল্পনা বা চোখে দেখা লক্ষণ থেকে ভবিষ্যদ্বাণী করতে am/is/are going to + verb বসে।",
+          "items": [
+            {"id":"01","en":"Jamal is going to get a full check-up next week.","bn":"জামাল আগামী সপ্তাহে পুরো শরীরের চেকআপ করাবেন।","words":[{"w":"full","bn":"পুরো, সম্পূর্ণ","pos":"adjective"},{"w":"check-up","bn":"স্বাস্থ্য পরীক্ষা, চেকআপ","pos":"noun"}]},
+            {"id":"02","en":"He is going to cut down on sugar.","bn":"তিনি চিনি খাওয়া কমাবেন।","words":[{"w":"cut down on","bn":"কমানো","pos":"phrasal verb"},{"w":"sugar","bn":"চিনি","pos":"noun"}]},
+            {"id":"03","en":"Nasrin is going to join a yoga class.","bn":"নাসরিন একটা যোগব্যায়ামের ক্লাসে ভর্তি হবেন।","words":[{"w":"join","bn":"যোগ দেওয়া, ভর্তি হওয়া","pos":"verb"},{"w":"yoga","bn":"যোগব্যায়াম","pos":"noun"}]},
+            {"id":"04","en":"Tuhin is going to start physiotherapy on Sunday.","bn":"তুহিন রবিবারে ফিজিওথেরাপি শুরু করবে।","words":[{"w":"physiotherapy","bn":"ফিজিওথেরাপি","pos":"noun"}]},
+            {"id":"05","en":"Look at his face. He is going to sneeze.","bn":"ওর মুখের দিকে দেখো। ও এখনই হাঁচি দেবে।","words":[{"w":"sneeze","bn":"হাঁচি দেওয়া","pos":"verb"}]},
+            {"id":"06","en":"We are going to drink more water this summer.","bn":"এই গরমে আমরা আরও বেশি পানি খাব।","words":[{"w":"more","bn":"আরও বেশি","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + am/is/are + not + going to + verb (base).",
+          "tipBn": "am/is/are এর পরে not বসে, তারপর going to + verb মূল রূপ।",
+          "items": [
+            {"id":"01","en":"Jamal isn't going to miss his check-up.","bn":"জামাল তাঁর চেকআপ বাদ দেবেন না।","words":[{"w":"miss","bn":"বাদ দেওয়া","pos":"verb"}]},
+            {"id":"02","en":"He isn't going to add sugar to his tea.","bn":"তিনি চায়ে চিনি দেবেন না।","words":[{"w":"add","bn":"যোগ করা, দেওয়া","pos":"verb"}]},
+            {"id":"03","en":"Nasrin isn't going to work late anymore.","bn":"নাসরিন আর দেরি পর্যন্ত কাজ করবেন না।","words":[{"w":"work late","bn":"দেরি পর্যন্ত কাজ করা","pos":"phrase"},{"w":"anymore","bn":"আর","pos":"adverb"}]},
+            {"id":"04","en":"Tuhin isn't going to play football for a month.","bn":"তুহিন এক মাস ফুটবল খেলবে না।","words":[{"w":"month","bn":"মাস","pos":"noun"}]},
+            {"id":"05","en":"We aren't going to buy junk food.","bn":"আমরা জাঙ্ক ফুড কিনব না।","words":[{"w":"junk food","bn":"অস্বাস্থ্যকর খাবার","pos":"phrase"}]},
+            {"id":"06","en":"I'm not going to stay up past midnight.","bn":"আমি মাঝরাতের পর জেগে থাকব না।","words":[{"w":"stay up","bn":"জেগে থাকা","pos":"phrasal verb"},{"w":"midnight","bn":"মাঝরাত","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Am/Is/Are + subject + going to + verb (base)?",
+          "tipBn": "Am/Is/Are বাক্যের শুরুতে বসে, তারপর subject ও going to + verb।",
+          "items": [
+            {"id":"01","en":"Is Jamal going to get a check-up?","bn":"জামাল কি চেকআপ করাবেন?","words":[{"w":"check-up","bn":"চেকআপ","pos":"noun"}]},
+            {"id":"02","en":"Are you going to join the yoga class?","bn":"তুমি কি যোগব্যায়ামের ক্লাসে যোগ দেবে?","words":[{"w":"join","bn":"যোগ দেওয়া","pos":"verb"}]},
+            {"id":"03","en":"Is Tuhin going to start physiotherapy soon?","bn":"তুহিন কি শিগগিরই ফিজিওথেরাপি শুরু করবে?","words":[{"w":"soon","bn":"শিগগিরই","pos":"adverb"}]},
+            {"id":"04","en":"Is Nasrin going to cut down on rice?","bn":"নাসরিন কি ভাত খাওয়া কমাবেন?","words":[{"w":"cut down on","bn":"কমানো","pos":"phrasal verb"}]},
+            {"id":"05","en":"Are they going to test his blood sugar?","bn":"তাঁরা কি ওঁর রক্তে শর্করা পরীক্ষা করবেন?","words":[{"w":"test","bn":"পরীক্ষা করা","pos":"verb"},{"w":"blood sugar","bn":"রক্তে শর্করা","pos":"noun"}]},
+            {"id":"06","en":"Are we going to walk together every evening?","bn":"আমরা কি প্রতিদিন সন্ধ্যায় একসাথে হাঁটব?","words":[{"w":"together","bn":"একসাথে","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + am/is/are + subject + going to + verb (base)?",
+          "tipBn": "প্রশ্নশব্দের পরে am/is/are, তারপর subject ও going to + verb বসে।",
+          "items": [
+            {"id":"01","en":"When is Jamal going to see the doctor?","bn":"জামাল কবে ডাক্তার দেখাবেন?","words":[{"w":"see the doctor","bn":"ডাক্তার দেখানো","pos":"phrase"}]},
+            {"id":"02","en":"What is Nasrin going to eat for lunch?","bn":"নাসরিন দুপুরে কী খাবেন?","words":[{"w":"lunch","bn":"দুপুরের খাবার","pos":"noun"}]},
+            {"id":"03","en":"Where are you going to do the blood test?","bn":"তুমি কোথায় রক্ত পরীক্ষা করাবে?","words":[{"w":"blood test","bn":"রক্ত পরীক্ষা","pos":"noun"}]},
+            {"id":"04","en":"How are you going to reduce stress?","bn":"তুমি কীভাবে মানসিক চাপ কমাবে?","words":[{"w":"reduce","bn":"কমানো","pos":"verb"},{"w":"stress","bn":"মানসিক চাপ","pos":"noun"}]},
+            {"id":"05","en":"Who is going to take Tuhin to physiotherapy?","bn":"তুহিনকে ফিজিওথেরাপিতে কে নিয়ে যাবে?","words":[{"w":"take","bn":"নিয়ে যাওয়া","pos":"verb"}]},
+            {"id":"06","en":"How many days a week are you going to exercise?","bn":"তুমি সপ্তাহে কত দিন ব্যায়াম করবে?","words":[{"w":"a week","bn":"সপ্তাহে","pos":"phrase"},{"w":"exercise","bn":"ব্যায়াম করা","pos":"verb"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}

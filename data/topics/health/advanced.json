@@ -1,0 +1,272 @@
+{
+  "topic": "health",
+  "level": "advanced",
+  "title": "Between Dhaka and London",
+  "story": "Anika Rahman is a public health researcher from Dhaka who now works in London. When her father, Mahbub, has heart bypass surgery in Dhaka, she learns a great deal about recovery, health insurance and lifestyle diseases. Her colleague Tom runs a community clinic in East London and faces his own struggle with burnout.",
+  "storyBn": "আনিকা রহমান ঢাকার একজন জনস্বাস্থ্য গবেষক, যিনি এখন লন্ডনে কাজ করেন। ঢাকায় তাঁর বাবা মাহবুবের হার্টের বাইপাস সার্জারি হলে তিনি সেরে ওঠা, স্বাস্থ্যবিমা আর জীবনযাপনজনিত রোগ সম্পর্কে অনেক কিছু শেখেন। তাঁর সহকর্মী টম পূর্ব লন্ডনে একটি কমিউনিটি ক্লিনিক চালান এবং কাজের চাপে নিঃশেষ হয়ে পড়ার সাথে নিজের লড়াই চালিয়ে যান।",
+  "units": [
+    {
+      "grammar": "present-perfect-continuous",
+      "focus": "Describe ongoing recovery and long-running health efforts",
+      "focusBn": "চলমান আরোগ্য ও দীর্ঘদিনের স্বাস্থ্য-উদ্যোগ বর্ণনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + has/have been + verb-ing (+ for / since ...).",
+          "tipBn": "অতীতে শুরু হয়ে এখনো চলছে এমন কাজ বোঝাতে has/have been + verb-ing বসে; সময়কাল বোঝাতে for আর শুরুর সময় বোঝাতে since ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"Mahbub has been recovering from heart bypass surgery at his home in Dhanmondi for six weeks.","bn":"মাহবুব ৬ সপ্তাহ ধরে ধানমন্ডির বাসায় হার্টের বাইপাস সার্জারির পর সেরে উঠছেন।","words":[{"w":"recovering","bn":"সেরে উঠছেন","pos":"verb","base":"recover"},{"w":"bypass surgery","bn":"বাইপাস অস্ত্রোপচার","pos":"noun"}]},
+            {"id":"02","en":"Anika has been researching the rise of type 2 diabetes in South Asian communities since 2023.","bn":"আনিকা ২০২৩ সাল থেকে দক্ষিণ এশীয় জনগোষ্ঠীর মধ্যে টাইপ ২ ডায়াবেটিস বেড়ে যাওয়া নিয়ে গবেষণা করছেন।","words":[{"w":"researching","bn":"গবেষণা করছেন","pos":"verb","base":"research"},{"w":"rise","bn":"বৃদ্ধি","pos":"noun"},{"w":"communities","bn":"জনগোষ্ঠী","pos":"noun","base":"community"}]},
+            {"id":"03","en":"Tom has been running a free blood pressure screening program in East London for three years.","bn":"টম ৩ বছর ধরে পূর্ব লন্ডনে বিনামূল্যে রক্তচাপ পরীক্ষার একটি কর্মসূচি চালাচ্ছেন।","words":[{"w":"screening","bn":"রোগ শনাক্তের প্রাথমিক পরীক্ষা","pos":"noun"},{"w":"program","bn":"কর্মসূচি","pos":"noun"}]},
+            {"id":"04","en":"Mahbub's physiotherapist has been encouraging him to walk a little further every day.","bn":"মাহবুবের ফিজিওথেরাপিস্ট তাঁকে প্রতিদিন একটু একটু করে বেশি দূর হাঁটতে উৎসাহ দিয়ে আসছেন।","words":[{"w":"physiotherapist","bn":"ফিজিওথেরাপিস্ট","pos":"noun"},{"w":"encouraging","bn":"উৎসাহ দিচ্ছেন","pos":"verb","base":"encourage"},{"w":"further","bn":"আরও দূরে","pos":"adverb"}]},
+            {"id":"05","en":"Health experts have been warning that sedentary lifestyles are fueling a sharp rise in heart disease.","bn":"স্বাস্থ্য বিশেষজ্ঞরা সতর্ক করে আসছেন যে শারীরিক পরিশ্রমহীন জীবনযাপন হৃদরোগ দ্রুত বাড়িয়ে দিচ্ছে।","words":[{"w":"warning","bn":"সতর্ক করছেন","pos":"verb","base":"warn"},{"w":"sedentary","bn":"শারীরিক পরিশ্রমহীন","pos":"adjective"},{"w":"fueling","bn":"উসকে দিচ্ছে","pos":"verb","base":"fuel"}]},
+            {"id":"06","en":"Anika's mother has been cooking with far less oil since the cardiologist's warning.","bn":"হৃদরোগ বিশেষজ্ঞের সতর্কবার্তার পর থেকে আনিকার মা অনেক কম তেলে রান্না করে আসছেন।","words":[{"w":"far less","bn":"অনেক কম","pos":"phrase"},{"w":"cardiologist's","bn":"হৃদরোগ বিশেষজ্ঞের","pos":"noun","base":"cardiologist"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hasn't/haven't been + verb-ing ...",
+          "tipBn": "has/have এর পরে not বসে, তারপর been + verb-ing; এতে বোঝায় কাজটি কিছুদিন ধরে হচ্ছে না।",
+          "items": [
+            {"id":"01","en":"Mahbub hasn't been sleeping well since he came home from the hospital.","bn":"হাসপাতাল থেকে বাসায় ফেরার পর থেকে মাহবুব ভালো ঘুমাতে পারছেন না।","words":[{"w":"sleeping well","bn":"ভালো ঘুমানো","pos":"phrase","base":"sleep well"},{"w":"since","bn":"পর থেকে","pos":"conjunction"}]},
+            {"id":"02","en":"Anika hasn't been taking proper breaks from work, despite her own advice to others.","bn":"অন্যদের পরামর্শ দিলেও আনিকা নিজে কাজ থেকে ঠিকমতো বিরতি নিচ্ছেন না।","words":[{"w":"proper","bn":"ঠিকমতো, যথাযথ","pos":"adjective"},{"w":"despite","bn":"সত্ত্বেও","pos":"preposition"}]},
+            {"id":"03","en":"The new clinic hasn't been receiving enough funding to hire extra staff.","bn":"নতুন ক্লিনিকটি বাড়তি কর্মী নিয়োগের জন্য যথেষ্ট অর্থ পাচ্ছে না।","words":[{"w":"funding","bn":"অর্থায়ন","pos":"noun"},{"w":"hire","bn":"নিয়োগ দেওয়া","pos":"verb"}]},
+            {"id":"04","en":"Mahbub hasn't been following his low-sugar diet as strictly as he promised.","bn":"মাহবুব যেমন কথা দিয়েছিলেন, তেমন কড়াভাবে কম চিনির খাদ্যতালিকা মেনে চলছেন না।","words":[{"w":"low-sugar diet","bn":"কম চিনির খাদ্যতালিকা","pos":"phrase"},{"w":"strictly","bn":"কড়াভাবে","pos":"adverb"},{"w":"promised","bn":"কথা দিয়েছিলেন","pos":"verb","base":"promise"}]},
+            {"id":"05","en":"Many factory workers haven't been getting regular health check-ups because they can't afford to miss work.","bn":"অনেক কারখানা-শ্রমিক নিয়মিত স্বাস্থ্য পরীক্ষা করাতে পারছেন না, কারণ কাজ কামাই করার সামর্থ্য তাঁদের নেই।","words":[{"w":"check-ups","bn":"স্বাস্থ্য পরীক্ষা","pos":"noun","base":"check-up"},{"w":"afford","bn":"সামর্থ্য থাকা","pos":"verb"}]},
+            {"id":"06","en":"Tom hasn't been feeling himself lately, so he has booked a check-up.","bn":"টম ইদানীং নিজেকে ঠিক স্বাভাবিক বোধ করছেন না, তাই তিনি একটা চেকআপের সময় নিয়েছেন।","words":[{"w":"feeling himself","bn":"নিজেকে স্বাভাবিক বোধ করা","pos":"idiom","base":"feel oneself"},{"w":"lately","bn":"ইদানীং","pos":"adverb"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Has/Have + subject + been + verb-ing ...?",
+          "tipBn": "Has/Have বাক্যের শুরুতে বসে, তারপর subject ও been + verb-ing।",
+          "items": [
+            {"id":"01","en":"Has Mahbub been taking his blood thinners exactly as the surgeon prescribed?","bn":"মাহবুব কি সার্জনের নির্দেশ অনুযায়ী ঠিকঠাক রক্ত পাতলা করার ওষুধ খেয়ে আসছেন?","words":[{"w":"blood thinners","bn":"রক্ত পাতলা করার ওষুধ","pos":"noun","base":"blood thinner"},{"w":"prescribed","bn":"ওষুধ লিখে দিয়েছিলেন","pos":"verb","base":"prescribe"}]},
+            {"id":"02","en":"Have you been experiencing any chest pain or shortness of breath recently?","bn":"আপনি কি সম্প্রতি বুকে ব্যথা বা শ্বাসকষ্ট অনুভব করছেন?","words":[{"w":"experiencing","bn":"অনুভব করছেন","pos":"verb","base":"experience"},{"w":"shortness of breath","bn":"শ্বাসকষ্ট","pos":"phrase"}]},
+            {"id":"03","en":"Has Anika been working on the report about urban air pollution all week?","bn":"আনিকা কি সারা সপ্তাহ ধরে শহরের বায়ুদূষণ নিয়ে প্রতিবেদনটির কাজ করছেন?","words":[{"w":"urban","bn":"শহুরে","pos":"adjective"},{"w":"pollution","bn":"দূষণ","pos":"noun"}]},
+            {"id":"04","en":"Have the nurses been checking his wound for signs of infection every day?","bn":"সংক্রমণের লক্ষণ আছে কি না দেখতে নার্সরা কি প্রতিদিন তাঁর ক্ষত পরীক্ষা করে আসছেন?","words":[{"w":"wound","bn":"ক্ষত","pos":"noun"},{"w":"signs","bn":"লক্ষণ","pos":"noun","base":"sign"},{"w":"infection","bn":"সংক্রমণ","pos":"noun"}]},
+            {"id":"05","en":"Has the government been doing enough to prepare hospitals for the dengue season?","bn":"ডেঙ্গু মৌসুমের জন্য হাসপাতালগুলোকে প্রস্তুত করতে সরকার কি যথেষ্ট কাজ করে আসছে?","words":[{"w":"government","bn":"সরকার","pos":"noun"},{"w":"prepare","bn":"প্রস্তুত করা","pos":"verb"}]},
+            {"id":"06","en":"Have you been paying your health insurance premiums on time every month?","bn":"আপনি কি প্রতি মাসে সময়মতো স্বাস্থ্যবিমার প্রিমিয়াম দিয়ে আসছেন?","words":[{"w":"health insurance","bn":"স্বাস্থ্যবিমা","pos":"noun"},{"w":"premiums","bn":"বিমার কিস্তি, প্রিমিয়াম","pos":"noun","base":"premium"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + has/have + subject + been + verb-ing ...?",
+          "tipBn": "প্রশ্নশব্দের পরে has/have, তারপর subject ও been + verb-ing বসে; সময়কাল জানতে How long ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"How long has Mahbub been attending cardiac rehabilitation sessions at the heart institute?","bn":"মাহবুব কতদিন ধরে হার্ট ইনস্টিটিউটে হৃদরোগ-পরবর্তী পুনর্বাসনের সেশনে যাচ্ছেন?","words":[{"w":"attending","bn":"অংশ নিচ্ছেন, যাচ্ছেন","pos":"verb","base":"attend"},{"w":"cardiac rehabilitation","bn":"হৃদরোগ-পরবর্তী পুনর্বাসন","pos":"phrase"}]},
+            {"id":"02","en":"What has Anika been doing to cope with the pressure of her new job?","bn":"নতুন চাকরির চাপ সামলাতে আনিকা কী করে আসছেন?","words":[{"w":"cope with","bn":"সামলানো","pos":"phrasal verb"},{"w":"pressure","bn":"চাপ","pos":"noun"}]},
+            {"id":"03","en":"Why have so many young professionals been developing high blood pressure?","bn":"এত তরুণ পেশাজীবীর উচ্চ রক্তচাপ দেখা দিচ্ছে কেন?","words":[{"w":"professionals","bn":"পেশাজীবী","pos":"noun","base":"professional"},{"w":"developing","bn":"দেখা দিচ্ছে, আক্রান্ত হচ্ছেন","pos":"verb","base":"develop"}]},
+            {"id":"04","en":"Which exercises has the physiotherapist been recommending for Mahbub after the operation?","bn":"অস্ত্রোপচারের পর ফিজিওথেরাপিস্ট মাহবুবের জন্য কোন কোন ব্যায়ামের পরামর্শ দিয়ে আসছেন?","words":[{"w":"recommending","bn":"পরামর্শ দিচ্ছেন","pos":"verb","base":"recommend"},{"w":"operation","bn":"অস্ত্রোপচার","pos":"noun"}]},
+            {"id":"05","en":"How much have you been spending on medicine since your insurance expired?","bn":"বিমার মেয়াদ শেষ হওয়ার পর থেকে আপনি ওষুধের পেছনে কত খরচ করছেন?","words":[{"w":"spending","bn":"খরচ করছেন","pos":"verb","base":"spend"},{"w":"expired","bn":"মেয়াদ শেষ হয়েছে","pos":"verb","base":"expire"}]},
+            {"id":"06","en":"Who has been looking after Mahbub while Anika has been working in London?","bn":"আনিকা লন্ডনে কাজ করার সময়টায় মাহবুবের দেখাশোনা কে করে আসছেন?","words":[{"w":"looking after","bn":"দেখাশোনা করছেন","pos":"phrasal verb","base":"look after"},{"w":"while","bn":"যখন, যতদিন","pos":"conjunction"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences, mostly has/have been + verb-ing.",
+          "tipBn": "অনুচ্ছেদে has/have been + verb-ing দিয়ে এমন কাজের কথা বলা হয়েছে যা কিছুদিন ধরে চলছে এবং এখনো থামেনি।",
+          "items": [
+            {"id":"01","title":"The long road to recovery","en":"Mahbub has been recovering from heart surgery for almost two months. Every morning, he has been walking slowly around the lake in Dhanmondi with his wife. His physiotherapist has been adding a few minutes to each walk. He has also been attending a support group for heart patients, which has been helping him stay positive. Although he has been feeling tired at times, his doctors say his progress has been remarkable.","bn":"মাহবুব প্রায় দুই মাস ধরে হার্টের অস্ত্রোপচারের পর সেরে উঠছেন। প্রতিদিন সকালে তিনি স্ত্রীকে নিয়ে ধানমন্ডি লেকের চারপাশে ধীরে ধীরে হাঁটছেন। তাঁর ফিজিওথেরাপিস্ট প্রতিবার হাঁটার সময় কয়েক মিনিট করে বাড়িয়ে দিচ্ছেন। তিনি হৃদরোগীদের একটি সহায়তা দলেও যোগ দিচ্ছেন, যা তাঁকে ইতিবাচক থাকতে সাহায্য করছে। মাঝে মাঝে ক্লান্ত লাগলেও ডাক্তাররা বলছেন, তাঁর উন্নতি অসাধারণ।","words":[{"w":"recovering","bn":"সেরে উঠছেন","pos":"verb","base":"recover"},{"w":"physiotherapist","bn":"ফিজিওথেরাপিস্ট","pos":"noun"},{"w":"support group","bn":"সহায়তা দল","pos":"noun"},{"w":"positive","bn":"ইতিবাচক","pos":"adjective"},{"w":"remarkable","bn":"অসাধারণ","pos":"adjective"}]},
+            {"id":"02","title":"A silent epidemic","en":"Anika has been studying lifestyle diseases among Bangladeshi families in London. For decades, diets have been changing, and people have been spending more time in front of screens. As a result, rates of diabetes and obesity have been climbing steadily. Community leaders have been asking for better health education in mosques and schools. Anika has been working with them to design simple, culturally sensitive campaigns.","bn":"আনিকা লন্ডনে বসবাসরত বাংলাদেশি পরিবারগুলোর মধ্যে জীবনযাপনজনিত রোগ নিয়ে গবেষণা করছেন। কয়েক দশক ধরে মানুষের খাদ্যাভ্যাস বদলে যাচ্ছে, আর তারা স্ক্রিনের সামনে আগের চেয়ে বেশি সময় কাটাচ্ছে। ফলে ডায়াবেটিস ও স্থূলতার হার ক্রমাগত বাড়ছে। কমিউনিটির নেতারা মসজিদ ও স্কুলে আরও ভালো স্বাস্থ্যশিক্ষার দাবি জানিয়ে আসছেন। আনিকা তাঁদের সাথে মিলে সহজ ও সংস্কৃতির প্রতি সংবেদনশীল প্রচারণা তৈরির কাজ করছেন।","words":[{"w":"lifestyle diseases","bn":"জীবনযাপনজনিত রোগ","pos":"phrase","base":"lifestyle disease"},{"w":"obesity","bn":"স্থূলতা","pos":"noun"},{"w":"steadily","bn":"ক্রমাগত","pos":"adverb"},{"w":"culturally sensitive","bn":"সংস্কৃতির প্রতি সংবেদনশীল","pos":"phrase"},{"w":"campaigns","bn":"প্রচারণা","pos":"noun","base":"campaign"}]},
+            {"id":"03","title":"Tom's busy clinic","en":"Tom has been running a walk-in health clinic in Tower Hamlets for three years. Lately, the waiting room has been filling up before the doors even open. Many patients haven't been seeing a doctor regularly because appointments have been getting harder to book. Tom and his team have been offering free blood pressure checks and advice on diet. They have been hoping the local council will extend their funding.","bn":"টম ৩ বছর ধরে টাওয়ার হ্যামলেটসে আগে থেকে সময় না নিয়েই আসা যায় এমন একটি স্বাস্থ্য ক্লিনিক চালাচ্ছেন। ইদানীং দরজা খোলার আগেই অপেক্ষার ঘর ভরে যাচ্ছে। অনেক রোগী নিয়মিত ডাক্তার দেখাতে পারছেন না, কারণ অ্যাপয়েন্টমেন্ট পাওয়া দিন দিন কঠিন হয়ে উঠছে। টম ও তাঁর দল বিনামূল্যে রক্তচাপ পরীক্ষা আর খাদ্যাভ্যাস নিয়ে পরামর্শ দিয়ে আসছেন। তাঁরা আশা করে আছেন যে স্থানীয় কাউন্সিল তাঁদের অর্থায়নের মেয়াদ বাড়াবে।","words":[{"w":"walk-in","bn":"আগে সময় না নিয়েই আসা যায় এমন","pos":"adjective"},{"w":"filling up","bn":"ভরে যাচ্ছে","pos":"phrasal verb","base":"fill up"},{"w":"council","bn":"স্থানীয় পরিষদ","pos":"noun"},{"w":"extend","bn":"মেয়াদ বাড়ানো","pos":"verb"},{"w":"funding","bn":"অর্থায়ন","pos":"noun"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "past-perfect",
+      "focus": "Explain what had happened before a health crisis",
+      "focusBn": "স্বাস্থ্য-সংকটের আগে কী ঘটেছিল তা ব্যাখ্যা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + had + past participle (+ before / by the time / after ...).",
+          "tipBn": "অতীতের দুটি ঘটনার মধ্যে যেটি আগে ঘটেছিল, সেটিতে had + past participle বসে; পরের ঘটনাটি past simple-এ থাকে।",
+          "items": [
+            {"id":"01","en":"By the time the ambulance arrived, Mahbub had already been in pain for an hour.","bn":"অ্যাম্বুলেন্স যখন পৌঁছাল, ততক্ষণে মাহবুব এক ঘণ্টা ধরে ব্যথায় কষ্ট পাচ্ছিলেন।","words":[{"w":"by the time","bn":"যখন... ততক্ষণে","pos":"conjunction"},{"w":"in pain","bn":"ব্যথায় কাতর","pos":"phrase"}]},
+            {"id":"02","en":"He had ignored the warning signs for months before he finally collapsed at work.","bn":"অফিসে শেষমেশ জ্ঞান হারিয়ে পড়ে যাওয়ার আগে তিনি কয়েক মাস ধরে সতর্কসংকেতগুলো উপেক্ষা করেছিলেন।","words":[{"w":"ignored","bn":"উপেক্ষা করেছিলেন","pos":"verb","base":"ignore"},{"w":"warning signs","bn":"সতর্কসংকেত","pos":"noun","base":"warning sign"},{"w":"collapsed","bn":"জ্ঞান হারিয়ে পড়ে গেলেন","pos":"verb","base":"collapse"}]},
+            {"id":"03","en":"The surgeons had studied his scans carefully before they decided to operate.","bn":"অস্ত্রোপচারের সিদ্ধান্ত নেওয়ার আগে সার্জনরা তাঁর স্ক্যানগুলো মনোযোগ দিয়ে দেখেছিলেন।","words":[{"w":"scans","bn":"স্ক্যান রিপোর্ট","pos":"noun","base":"scan"},{"w":"operate","bn":"অস্ত্রোপচার করা","pos":"verb"}]},
+            {"id":"04","en":"Luckily, Anika had bought a good health insurance policy for her parents the year before.","bn":"সৌভাগ্যক্রমে, আনিকা আগের বছরই তাঁর মা-বাবার জন্য একটি ভালো স্বাস্থ্যবিমা পলিসি কিনেছিলেন।","words":[{"w":"luckily","bn":"সৌভাগ্যক্রমে","pos":"adverb"},{"w":"policy","bn":"বিমাপত্র, পলিসি","pos":"noun"}]},
+            {"id":"05","en":"After the doctor had explained the risks, the family signed the consent form.","bn":"ডাক্তার ঝুঁকিগুলো ব্যাখ্যা করার পর পরিবারটি সম্মতিপত্রে সই করল।","words":[{"w":"risks","bn":"ঝুঁকি","pos":"noun","base":"risk"},{"w":"consent form","bn":"সম্মতিপত্র","pos":"noun"}]},
+            {"id":"06","en":"Tom realized that he had gained ten kilos since starting his desk job.","bn":"টম বুঝতে পারলেন, ডেস্কের চাকরি শুরু করার পর থেকে তাঁর ১০ কেজি ওজন বেড়ে গিয়েছিল।","words":[{"w":"realized","bn":"বুঝতে পারলেন","pos":"verb","base":"realize"},{"w":"gained","bn":"বেড়েছিল","pos":"verb","base":"gain"},{"w":"desk job","bn":"বসে করার অফিসের চাকরি","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + hadn't (had not) + past participle ...",
+          "tipBn": "had এর পরে not বসিয়ে বোঝানো হয় যে অতীতের একটি নির্দিষ্ট সময়ের আগে কাজটি ঘটেনি।",
+          "items": [
+            {"id":"01","en":"Mahbub hadn't seen a doctor for over two years before his heart attack.","bn":"হার্ট অ্যাটাকের আগে মাহবুব দুই বছরেরও বেশি সময় কোনো ডাক্তার দেখাননি।","words":[{"w":"over","bn":"এর বেশি","pos":"preposition"},{"w":"heart attack","bn":"হার্ট অ্যাটাক","pos":"noun"}]},
+            {"id":"02","en":"He hadn't told anyone about the chest pains because he didn't want to worry his family.","bn":"তিনি কাউকে বুকের ব্যথার কথা বলেননি, কারণ পরিবারকে দুশ্চিন্তায় ফেলতে চাননি।","words":[{"w":"chest pains","bn":"বুকের ব্যথা","pos":"noun","base":"chest pain"},{"w":"worry","bn":"দুশ্চিন্তায় ফেলা","pos":"verb"}]},
+            {"id":"03","en":"The family hadn't expected the hospital bill to be so high.","bn":"হাসপাতালের বিল যে এত বেশি হবে, পরিবারটি তা আশা করেনি।","words":[{"w":"expected","bn":"আশা করেছিল","pos":"verb","base":"expect"},{"w":"bill","bn":"বিল","pos":"noun"}]},
+            {"id":"04","en":"Anika hadn't realized how much stress her father had been under.","bn":"আনিকা বুঝতে পারেননি যে তাঁর বাবা কতটা মানসিক চাপের মধ্যে ছিলেন।","words":[{"w":"realized","bn":"বুঝতে পেরেছিলেন","pos":"verb","base":"realize"},{"w":"stress","bn":"মানসিক চাপ","pos":"noun"}]},
+            {"id":"05","en":"By the time the rescue team arrived, the flood victims hadn't had clean water for three days.","bn":"উদ্ধারকারী দল যখন পৌঁছাল, ততক্ষণে বন্যাদুর্গতরা ৩ দিন ধরে বিশুদ্ধ পানি পাননি।","words":[{"w":"rescue team","bn":"উদ্ধারকারী দল","pos":"noun"},{"w":"victims","bn":"দুর্গত মানুষ","pos":"noun","base":"victim"}]},
+            {"id":"06","en":"Tom hadn't taken a single day off before he finally burned out last spring.","bn":"গত বসন্তে শেষ পর্যন্ত পুরোপুরি নিঃশেষ হয়ে পড়ার আগে টম একদিনও ছুটি নেননি।","words":[{"w":"single","bn":"একটিও","pos":"adjective"},{"w":"burned out","bn":"কাজের চাপে নিঃশেষ হয়ে পড়লেন","pos":"phrasal verb","base":"burn out"}]}
+          ]
+        },
+        {
+          "type": "negative-question",
+          "pattern": "Hadn't + subject + past participle ...? / Why hadn't + subject + past participle ...?",
+          "tipBn": "অবাক হয়ে বা নিশ্চিত হতে Hadn't দিয়ে প্রশ্ন শুরু হয়; কারণ জানতে Why hadn't ব্যবহার হয়।",
+          "items": [
+            {"id":"01","en":"Hadn't Mahbub noticed any symptoms in the weeks before the heart attack?","bn":"হার্ট অ্যাটাকের আগের সপ্তাহগুলোতে মাহবুব কি কোনো লক্ষণ টের পাননি?","words":[{"w":"noticed","bn":"টের পেয়েছিলেন","pos":"verb","base":"notice"},{"w":"symptoms","bn":"লক্ষণ, উপসর্গ","pos":"noun","base":"symptom"}]},
+            {"id":"02","en":"Hadn't the doctor warned him about his cholesterol levels last year?","bn":"ডাক্তার কি গত বছর তাঁকে কোলেস্টেরলের মাত্রা নিয়ে সতর্ক করেননি?","words":[{"w":"warned","bn":"সতর্ক করেছিলেন","pos":"verb","base":"warn"},{"w":"cholesterol levels","bn":"কোলেস্টেরলের মাত্রা","pos":"noun","base":"cholesterol level"}]},
+            {"id":"03","en":"Hadn't Anika already arranged the insurance before her father got sick?","bn":"বাবা অসুস্থ হওয়ার আগেই কি আনিকা বিমার ব্যবস্থা করে রাখেননি?","words":[{"w":"arranged","bn":"ব্যবস্থা করেছিলেন","pos":"verb","base":"arrange"},{"w":"insurance","bn":"বিমা","pos":"noun"}]},
+            {"id":"04","en":"Why hadn't anyone at the office called an ambulance as soon as he collapsed?","bn":"তিনি পড়ে যাওয়ার সঙ্গে সঙ্গে অফিসের কেউ কেন অ্যাম্বুলেন্স ডাকেননি?","words":[{"w":"as soon as","bn":"সঙ্গে সঙ্গে","pos":"conjunction"},{"w":"collapsed","bn":"জ্ঞান হারিয়ে পড়ে গেলেন","pos":"verb","base":"collapse"}]},
+            {"id":"05","en":"Hadn't the hospital informed the family about the extra costs before the surgery?","bn":"অস্ত্রোপচারের আগে হাসপাতাল কি পরিবারকে বাড়তি খরচের কথা জানায়নি?","words":[{"w":"informed","bn":"জানিয়েছিল","pos":"verb","base":"inform"},{"w":"costs","bn":"খরচ","pos":"noun","base":"cost"}]},
+            {"id":"06","en":"Hadn't Tom's colleagues noticed that he was exhausted long before he burned out?","bn":"টম পুরোপুরি নিঃশেষ হয়ে পড়ার অনেক আগেই কি তাঁর সহকর্মীরা খেয়াল করেননি যে তিনি ভীষণ ক্লান্ত?","words":[{"w":"colleagues","bn":"সহকর্মী","pos":"noun","base":"colleague"},{"w":"exhausted","bn":"ভীষণ ক্লান্ত","pos":"adjective"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + had + subject + past participle ...?",
+          "tipBn": "প্রশ্নশব্দের পরে had, তারপর subject ও past participle বসে।",
+          "items": [
+            {"id":"01","en":"What had Mahbub eaten at the wedding just before the chest pain started?","bn":"বুকে ব্যথা শুরু হওয়ার ঠিক আগে মাহবুব বিয়েবাড়িতে কী খেয়েছিলেন?","words":[{"w":"wedding","bn":"বিয়ের অনুষ্ঠান","pos":"noun"},{"w":"chest pain","bn":"বুকে ব্যথা","pos":"noun"}]},
+            {"id":"02","en":"How long had he been a smoker before he finally quit?","bn":"পুরোপুরি ছেড়ে দেওয়ার আগে তিনি কত বছর ধূমপান করেছিলেন?","words":[{"w":"smoker","bn":"ধূমপায়ী","pos":"noun"},{"w":"quit","bn":"ছেড়ে দিলেন","pos":"verb"}]},
+            {"id":"03","en":"Why had the surgeons decided against a second operation after reviewing his scans?","bn":"স্ক্যান পর্যালোচনার পর সার্জনরা কেন দ্বিতীয়বার অস্ত্রোপচার না করার সিদ্ধান্ত নিয়েছিলেন?","words":[{"w":"decided against","bn":"না করার সিদ্ধান্ত নেওয়া","pos":"phrasal verb","base":"decide against"},{"w":"reviewing","bn":"পর্যালোচনা করা","pos":"verb","base":"review"}]},
+            {"id":"04","en":"Which hospital had the ambulance taken him to before he was transferred to the heart institute?","bn":"হার্ট ইনস্টিটিউটে স্থানান্তরের আগে অ্যাম্বুলেন্স তাঁকে কোন হাসপাতালে নিয়ে গিয়েছিল?","words":[{"w":"transferred","bn":"স্থানান্তর করা হলো","pos":"verb","base":"transfer"},{"w":"institute","bn":"প্রতিষ্ঠান, ইনস্টিটিউট","pos":"noun"}]},
+            {"id":"05","en":"How much had the family spent on treatment before the insurance paid out?","bn":"বিমার টাকা পাওয়ার আগে পরিবারটি চিকিৎসায় কত খরচ করেছিল?","words":[{"w":"treatment","bn":"চিকিৎসা","pos":"noun"},{"w":"paid out","bn":"টাকা পরিশোধ করল","pos":"phrasal verb","base":"pay out"}]},
+            {"id":"06","en":"Where had Tom worked before he joined the community clinic in East London?","bn":"পূর্ব লন্ডনের কমিউনিটি ক্লিনিকে যোগ দেওয়ার আগে টম কোথায় কাজ করেছিলেন?","words":[{"w":"joined","bn":"যোগ দিলেন","pos":"verb","base":"join"},{"w":"community clinic","bn":"কমিউনিটি ক্লিনিক","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences, mostly had + past participle, with some past simple.",
+          "tipBn": "অনুচ্ছেদে had + past participle দিয়ে আগের ঘটনা আর past simple দিয়ে পরের ঘটনা বলা হয়েছে।",
+          "items": [
+            {"id":"01","title":"The day everything changed","en":"Mahbub had felt tired for weeks, but he had blamed the heat. On the morning of his nephew's wedding, he had skipped breakfast and climbed four flights of stairs. By the time the guests arrived, he had started sweating heavily. His wife had never seen him so pale. Before anyone could react, he collapsed onto a chair.","bn":"মাহবুব কয়েক সপ্তাহ ধরে ক্লান্ত বোধ করছিলেন, কিন্তু তিনি এর জন্য গরমকে দায়ী করেছিলেন। ভাগ্নের বিয়ের দিন সকালে তিনি নাশতা না খেয়েই চার তলা সিঁড়ি বেয়ে উঠেছিলেন। অতিথিরা আসতে আসতে তিনি দরদর করে ঘামতে শুরু করেছিলেন। তাঁর স্ত্রী তাঁকে আগে কখনো এত ফ্যাকাশে দেখেননি। কেউ কিছু বুঝে ওঠার আগেই তিনি একটা চেয়ারের ওপর ঢলে পড়লেন।","words":[{"w":"blamed","bn":"দায়ী করেছিলেন","pos":"verb","base":"blame"},{"w":"flights of stairs","bn":"তলার সিঁড়ি","pos":"phrase","base":"flight of stairs"},{"w":"sweating heavily","bn":"দরদর করে ঘামা","pos":"phrase","base":"sweat heavily"},{"w":"pale","bn":"ফ্যাকাশে","pos":"adjective"},{"w":"react","bn":"প্রতিক্রিয়া দেখানো","pos":"verb"}]},
+            {"id":"02","title":"A lucky decision","en":"A year earlier, Anika had read about families who had lost their savings to medical bills. She had compared several insurance plans and had chosen one that covered heart surgery. Her father had laughed at the idea at the time. However, when the hospital bill arrived, the insurer had already approved most of the costs. Mahbub admitted that his daughter had been right.","bn":"এক বছর আগে আনিকা এমন পরিবারগুলোর কথা পড়েছিলেন, যারা চিকিৎসার বিল মেটাতে গিয়ে তাদের সব সঞ্চয় হারিয়েছিল। তিনি কয়েকটি বিমা পরিকল্পনা তুলনা করে এমন একটি বেছে নিয়েছিলেন, যাতে হার্টের অস্ত্রোপচারের খরচ ধরা ছিল। তখন তাঁর বাবা এই ভাবনা নিয়ে হেসেছিলেন। কিন্তু হাসপাতালের বিল আসার আগেই বিমা প্রতিষ্ঠান বেশিরভাগ খরচ অনুমোদন করে দিয়েছিল। মাহবুব স্বীকার করলেন যে তাঁর মেয়েই ঠিক ছিলেন।","words":[{"w":"savings","bn":"সঞ্চয়","pos":"noun"},{"w":"compared","bn":"তুলনা করেছিলেন","pos":"verb","base":"compare"},{"w":"covered","bn":"খরচ বহন করত","pos":"verb","base":"cover"},{"w":"insurer","bn":"বিমা প্রতিষ্ঠান","pos":"noun"},{"w":"approved","bn":"অনুমোদন করেছিল","pos":"verb","base":"approve"}]},
+            {"id":"03","title":"Tom's burnout","en":"Before Tom started at the clinic, he had worked in a busy hospital emergency department for ten years. He had rarely taken holidays and had stopped seeing his friends. By last spring, he had lost interest in almost everything he had once enjoyed. A colleague who had gone through the same thing encouraged him to get help. After he had spoken to a therapist, he decided to change jobs.","bn":"ক্লিনিকে যোগ দেওয়ার আগে টম ১০ বছর একটি ব্যস্ত হাসপাতালের জরুরি বিভাগে কাজ করেছিলেন। তিনি কদাচিৎ ছুটি নিতেন এবং বন্ধুদের সাথে দেখা করা বন্ধ করে দিয়েছিলেন। গত বসন্তের মধ্যে একসময় যা কিছু উপভোগ করতেন, তার প্রায় সবকিছুতেই তিনি আগ্রহ হারিয়ে ফেলেছিলেন। একই অভিজ্ঞতার মধ্য দিয়ে যাওয়া এক সহকর্মী তাঁকে সাহায্য নিতে উৎসাহ দিলেন। একজন থেরাপিস্টের সাথে কথা বলার পর তিনি চাকরি বদলানোর সিদ্ধান্ত নিলেন।","words":[{"w":"emergency department","bn":"জরুরি বিভাগ","pos":"noun"},{"w":"rarely","bn":"কদাচিৎ","pos":"adverb"},{"w":"lost interest","bn":"আগ্রহ হারিয়েছিলেন","pos":"phrase","base":"lose interest"},{"w":"gone through","bn":"পার করেছিলেন","pos":"phrasal verb","base":"go through"},{"w":"therapist","bn":"থেরাপিস্ট, মনোচিকিৎসক","pos":"noun"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "passive",
+      "focus": "Discuss how health care is organized and delivered",
+      "focusBn": "স্বাস্থ্যসেবা কীভাবে পরিচালিত ও দেওয়া হয় তা আলোচনা করা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "Subject + be (is / was / has been / will be / is being) + past participle (+ by ...).",
+          "tipBn": "কাজটি কে করেছে তার চেয়ে কাজটি বেশি গুরুত্বপূর্ণ হলে be + past participle দিয়ে passive বাক্য হয়।",
+          "items": [
+            {"id":"01","en":"Mahbub was discharged from the hospital ten days after his bypass surgery.","bn":"বাইপাস সার্জারির ১০ দিন পর মাহবুবকে হাসপাতাল থেকে ছুটি দেওয়া হয়।","words":[{"w":"discharged","bn":"ছুটি দেওয়া হয়েছিল","pos":"verb","base":"discharge"},{"w":"bypass surgery","bn":"বাইপাস অস্ত্রোপচার","pos":"noun"}]},
+            {"id":"02","en":"Free vitamin A capsules are given to young children across Bangladesh twice a year.","bn":"সারা বাংলাদেশে বছরে দুবার ছোট শিশুদের বিনামূল্যে ভিটামিন এ ক্যাপসুল খাওয়ানো হয়।","words":[{"w":"capsules","bn":"ক্যাপসুল","pos":"noun","base":"capsule"},{"w":"across","bn":"সারা, জুড়ে","pos":"preposition"}]},
+            {"id":"03","en":"Most of the surgery costs have been covered by Mahbub's insurance policy.","bn":"অস্ত্রোপচারের বেশিরভাগ খরচ মাহবুবের বিমা পলিসি থেকে বহন করা হয়েছে।","words":[{"w":"covered","bn":"বহন করা হয়েছে","pos":"verb","base":"cover"},{"w":"insurance policy","bn":"বিমা পলিসি","pos":"noun"}]},
+            {"id":"04","en":"A new dengue awareness campaign will be launched in Dhaka before the monsoon.","bn":"বর্ষার আগে ঢাকায় ডেঙ্গু সচেতনতার একটি নতুন প্রচারণা শুরু করা হবে।","words":[{"w":"awareness","bn":"সচেতনতা","pos":"noun"},{"w":"launched","bn":"শুরু করা হবে","pos":"verb","base":"launch"},{"w":"monsoon","bn":"বর্ষাকাল","pos":"noun"}]},
+            {"id":"05","en":"Patients' records are being moved to a secure digital system at Tom's clinic.","bn":"টমের ক্লিনিকে রোগীদের নথিপত্র একটি নিরাপদ ডিজিটাল ব্যবস্থায় সরিয়ে নেওয়া হচ্ছে।","words":[{"w":"records","bn":"নথিপত্র","pos":"noun","base":"record"},{"w":"secure","bn":"নিরাপদ, সুরক্ষিত","pos":"adjective"}]},
+            {"id":"06","en":"Anika's research on diabetes has been published in a leading medical journal.","bn":"ডায়াবেটিস নিয়ে আনিকার গবেষণা একটি শীর্ষস্থানীয় চিকিৎসা সাময়িকীতে প্রকাশিত হয়েছে।","words":[{"w":"published","bn":"প্রকাশিত হয়েছে","pos":"verb","base":"publish"},{"w":"leading","bn":"শীর্ষস্থানীয়","pos":"adjective"},{"w":"journal","bn":"সাময়িকী, জার্নাল","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "Subject + be + not + past participle ... (isn't / wasn't / hasn't been / won't be / shouldn't be)",
+          "tipBn": "passive বাক্যে be-এর রূপটির পরে not বসে, তারপর past participle।",
+          "items": [
+            {"id":"01","en":"Mental health services are not offered in many rural health centers.","bn":"অনেক গ্রামীণ স্বাস্থ্যকেন্দ্রে মানসিক স্বাস্থ্যসেবা দেওয়া হয় না।","words":[{"w":"mental health services","bn":"মানসিক স্বাস্থ্যসেবা","pos":"phrase"},{"w":"rural","bn":"গ্রামীণ","pos":"adjective"}]},
+            {"id":"02","en":"Mahbub's follow-up appointment for next month hasn't been confirmed by the hospital yet.","bn":"আগামী মাসে মাহবুবের ফলো-আপ অ্যাপয়েন্টমেন্ট হাসপাতাল থেকে এখনও নিশ্চিত করা হয়নি।","words":[{"w":"follow-up","bn":"পরবর্তী পরীক্ষা, ফলো-আপ","pos":"adjective"},{"w":"confirmed","bn":"নিশ্চিত করা হয়েছে","pos":"verb","base":"confirm"}]},
+            {"id":"03","en":"The cost of physiotherapy isn't covered by most basic insurance plans.","bn":"বেশিরভাগ সাধারণ বিমা পরিকল্পনায় ফিজিওথেরাপির খরচ বহন করা হয় না।","words":[{"w":"physiotherapy","bn":"ফিজিওথেরাপি","pos":"noun"},{"w":"basic","bn":"সাধারণ, মৌলিক","pos":"adjective"}]},
+            {"id":"04","en":"The stagnant water near the construction site wasn't cleared before the rains began.","bn":"বৃষ্টি শুরুর আগে নির্মাণস্থলের কাছের জমে থাকা পানি সরানো হয়নি।","words":[{"w":"stagnant","bn":"জমে থাকা, বদ্ধ","pos":"adjective"},{"w":"construction site","bn":"নির্মাণস্থল","pos":"noun"},{"w":"cleared","bn":"সরানো হয়েছিল","pos":"verb","base":"clear"}]},
+            {"id":"05","en":"Antibiotics should not be sold over the counter without a valid prescription.","bn":"বৈধ প্রেসক্রিপশন ছাড়া দোকানে অ্যান্টিবায়োটিক বিক্রি করা উচিত নয়।","words":[{"w":"over the counter","bn":"প্রেসক্রিপশন ছাড়াই দোকান থেকে","pos":"idiom"},{"w":"valid","bn":"বৈধ","pos":"adjective"}]},
+            {"id":"06","en":"The results of the study will not be released until next spring.","bn":"আগামী বসন্তের আগে গবেষণার ফলাফল প্রকাশ করা হবে না।","words":[{"w":"released","bn":"প্রকাশ করা হবে","pos":"verb","base":"release"},{"w":"until","bn":"আগ পর্যন্ত","pos":"preposition"}]}
+          ]
+        },
+        {
+          "type": "yes-no-question",
+          "pattern": "Be (Is / Was / Has ... been / Will ... be) + subject + past participle ...?",
+          "tipBn": "passive প্রশ্নে be-এর রূপটি (বা has/will) বাক্যের শুরুতে বসে, তারপর subject ও past participle।",
+          "items": [
+            {"id":"01","en":"Was Mahbub given any instructions about diet when he was discharged?","bn":"ছুটি দেওয়ার সময় মাহবুবকে কি খাদ্যাভ্যাস নিয়ে কোনো নির্দেশনা দেওয়া হয়েছিল?","words":[{"w":"instructions","bn":"নির্দেশনা","pos":"noun","base":"instruction"},{"w":"discharged","bn":"ছুটি দেওয়া হয়েছিল","pos":"verb","base":"discharge"}]},
+            {"id":"02","en":"Are blood donors screened for infections before their blood is used?","bn":"রক্ত ব্যবহারের আগে কি রক্তদাতাদের সংক্রমণ আছে কি না পরীক্ষা করা হয়?","words":[{"w":"donors","bn":"দাতা","pos":"noun","base":"donor"},{"w":"screened","bn":"পরীক্ষা করা হয়","pos":"verb","base":"screen"}]},
+            {"id":"03","en":"Has the new cancer hospital been opened to the public yet?","bn":"নতুন ক্যানসার হাসপাতালটি কি এখনও সাধারণ মানুষের জন্য খুলে দেওয়া হয়েছে?","words":[{"w":"cancer","bn":"ক্যানসার","pos":"noun"},{"w":"the public","bn":"সাধারণ মানুষ","pos":"phrase"}]},
+            {"id":"04","en":"Will the cost of the rehabilitation program be covered by his insurance?","bn":"পুনর্বাসন কর্মসূচির খরচ কি তাঁর বিমা থেকে বহন করা হবে?","words":[{"w":"rehabilitation","bn":"পুনর্বাসন","pos":"noun"},{"w":"covered","bn":"বহন করা হবে","pos":"verb","base":"cover"}]},
+            {"id":"05","en":"Is the drinking water in the camps being tested regularly for bacteria?","bn":"ক্যাম্পগুলোর খাবার পানি কি নিয়মিত ব্যাকটেরিয়ার জন্য পরীক্ষা করা হচ্ছে?","words":[{"w":"camps","bn":"শিবির, ক্যাম্প","pos":"noun","base":"camp"},{"w":"bacteria","bn":"ব্যাকটেরিয়া, জীবাণু","pos":"noun"}]},
+            {"id":"06","en":"Were the nurses trained to recognize the early signs of a stroke?","bn":"নার্সদের কি স্ট্রোকের প্রাথমিক লক্ষণ চিনতে প্রশিক্ষণ দেওয়া হয়েছিল?","words":[{"w":"recognize","bn":"চেনা, শনাক্ত করা","pos":"verb"},{"w":"stroke","bn":"স্ট্রোক","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "indirect-question",
+          "pattern": "Could you tell me / Do you know whether / I wonder if + subject + passive verb ...?",
+          "tipBn": "ভদ্রভাবে প্রশ্ন করতে Could you tell me বা Do you know দিয়ে শুরু হয়; ভেতরের অংশে subject আগে বসে, তারপর passive verb।",
+          "items": [
+            {"id":"01","en":"Could you tell me when my father will be discharged from the hospital?","bn":"আপনি কি আমাকে বলতে পারবেন, আমার বাবাকে কবে হাসপাতাল থেকে ছুটি দেওয়া হবে?","words":[{"w":"Could you tell me","bn":"আপনি কি বলতে পারবেন","pos":"phrase"},{"w":"discharged","bn":"ছুটি দেওয়া হবে","pos":"verb","base":"discharge"}]},
+            {"id":"02","en":"Do you know whether the surgery costs are covered by this policy?","bn":"আপনি কি জানেন, অস্ত্রোপচারের খরচ এই পলিসিতে বহন করা হয় কি না?","words":[{"w":"whether","bn":"কি না","pos":"conjunction"},{"w":"policy","bn":"বিমাপত্র, পলিসি","pos":"noun"}]},
+            {"id":"03","en":"I wonder if the test results have been sent to Anika by email.","bn":"আমি ভাবছি, পরীক্ষার ফলাফল ইমেইলে আনিকার কাছে পাঠানো হয়েছে কি না।","words":[{"w":"wonder","bn":"ভাবা, জানতে চাওয়া","pos":"verb"},{"w":"results","bn":"ফলাফল","pos":"noun","base":"result"}]},
+            {"id":"04","en":"Could you explain how an insurance claim is processed after surgery?","bn":"আপনি কি বুঝিয়ে বলতে পারবেন, অস্ত্রোপচারের পর বিমা দাবি কীভাবে প্রক্রিয়া করা হয়?","words":[{"w":"claim","bn":"দাবি","pos":"noun"},{"w":"processed","bn":"প্রক্রিয়া করা হয়","pos":"verb","base":"process"}]},
+            {"id":"05","en":"Would you mind telling me where the prescriptions are kept in this ward?","bn":"কিছু মনে না করলে বলবেন কি, এই ওয়ার্ডে প্রেসক্রিপশনগুলো কোথায় রাখা হয়?","words":[{"w":"Would you mind","bn":"কিছু মনে না করলে","pos":"phrase"},{"w":"kept","bn":"রাখা হয়","pos":"verb","base":"keep"}]},
+            {"id":"06","en":"I'd like to know whether the vaccine has been approved for children.","bn":"আমি জানতে চাই, টিকাটি শিশুদের জন্য অনুমোদন দেওয়া হয়েছে কি না।","words":[{"w":"I'd like to know","bn":"আমি জানতে চাই","pos":"phrase"},{"w":"approved","bn":"অনুমোদন দেওয়া হয়েছে","pos":"verb","base":"approve"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences, mostly passive verbs in different tenses.",
+          "tipBn": "অনুচ্ছেদে বিভিন্ন কালের passive (is done, was done, has been done, will be done) দিয়ে স্বাস্থ্যসেবার কাজগুলো বর্ণনা করা হয়েছে।",
+          "items": [
+            {"id":"01","title":"Coming home after surgery","en":"Mahbub was discharged on a rainy Thursday morning. Before he left, he was given a list of exercises and a strict diet plan. His wounds were checked by a nurse, and his medicines were explained to his wife in detail. A follow-up appointment has been scheduled for next month. Until then, he will be visited at home by a community health worker every week.","bn":"এক বৃষ্টিভেজা বৃহস্পতিবার সকালে মাহবুবকে ছুটি দেওয়া হয়। যাওয়ার আগে তাঁকে ব্যায়ামের একটি তালিকা আর একটি কড়া খাদ্যতালিকা দেওয়া হয়। একজন নার্স তাঁর ক্ষতগুলো পরীক্ষা করেন, আর তাঁর স্ত্রীকে ওষুধগুলো বিস্তারিতভাবে বুঝিয়ে দেওয়া হয়। আগামী মাসের জন্য একটি ফলো-আপ অ্যাপয়েন্টমেন্ট ঠিক করা হয়েছে। ততদিন পর্যন্ত একজন কমিউনিটি স্বাস্থ্যকর্মী প্রতি সপ্তাহে বাসায় এসে তাঁকে দেখে যাবেন।","words":[{"w":"discharged","bn":"ছুটি দেওয়া হয়েছিল","pos":"verb","base":"discharge"},{"w":"strict","bn":"কড়া","pos":"adjective"},{"w":"in detail","bn":"বিস্তারিতভাবে","pos":"phrase"},{"w":"scheduled","bn":"নির্ধারণ করা হয়েছে","pos":"verb","base":"schedule"},{"w":"community health worker","bn":"কমিউনিটি স্বাস্থ্যকর্মী","pos":"noun"}]},
+            {"id":"02","title":"Fighting dengue in the city","en":"Every monsoon, thousands of dengue cases are reported in Dhaka. This year, the problem is being tackled more seriously. Roofs and construction sites are being inspected for standing water, and fines are being issued to careless owners. Free test kits have been distributed to public hospitals. Experts believe that many lives could be saved if these measures are continued.","bn":"প্রতি বর্ষায় ঢাকায় হাজার হাজার ডেঙ্গু রোগীর খবর পাওয়া যায়। এ বছর সমস্যাটি আরও গুরুত্বের সাথে মোকাবিলা করা হচ্ছে। জমে থাকা পানির খোঁজে ছাদ আর নির্মাণস্থলগুলো পরিদর্শন করা হচ্ছে, আর অসচেতন মালিকদের জরিমানা করা হচ্ছে। সরকারি হাসপাতালগুলোতে বিনামূল্যে পরীক্ষার কিট বিতরণ করা হয়েছে। বিশেষজ্ঞরা মনে করেন, এসব পদক্ষেপ চালিয়ে গেলে অনেক জীবন বাঁচানো যেতে পারে।","words":[{"w":"tackled","bn":"মোকাবিলা করা হচ্ছে","pos":"verb","base":"tackle"},{"w":"inspected","bn":"পরিদর্শন করা হচ্ছে","pos":"verb","base":"inspect"},{"w":"standing water","bn":"জমে থাকা পানি","pos":"noun"},{"w":"fines","bn":"জরিমানা","pos":"noun","base":"fine"},{"w":"distributed","bn":"বিতরণ করা হয়েছে","pos":"verb","base":"distribute"},{"w":"measures","bn":"পদক্ষেপ","pos":"noun","base":"measure"}]},
+            {"id":"03","title":"How Tom's clinic is funded","en":"Tom's clinic is funded partly by the local council and partly by donations. Each year, its budget is reviewed by a committee. Last year, the clinic was praised in a government report for reaching people who had been ignored by larger hospitals. Even so, two nurses' posts were cut because of budget pressures. Tom hopes the decision will be reversed soon.","bn":"টমের ক্লিনিকের অর্থায়ন আংশিকভাবে স্থানীয় কাউন্সিল আর আংশিকভাবে অনুদান থেকে আসে। প্রতি বছর একটি কমিটি এর বাজেট পর্যালোচনা করে। গত বছর বড় হাসপাতালগুলো যাঁদের উপেক্ষা করেছিল, সেই মানুষদের কাছে পৌঁছানোর জন্য একটি সরকারি প্রতিবেদনে ক্লিনিকটির প্রশংসা করা হয়েছিল। তবুও বাজেটের চাপের কারণে নার্সদের দুটি পদ বাতিল করা হয়। টম আশা করেন, সিদ্ধান্তটি শিগগিরই বদলানো হবে।","words":[{"w":"funded","bn":"অর্থায়ন করা হয়","pos":"verb","base":"fund"},{"w":"donations","bn":"অনুদান","pos":"noun","base":"donation"},{"w":"reviewed","bn":"পর্যালোচনা করা হয়","pos":"verb","base":"review"},{"w":"praised","bn":"প্রশংসা করা হয়েছিল","pos":"verb","base":"praise"},{"w":"posts","bn":"পদ","pos":"noun","base":"post"},{"w":"reversed","bn":"বাতিল বা বদলানো হবে","pos":"verb","base":"reverse"}]}
+          ]
+        }
+      ]
+    },
+    {
+      "grammar": "conditionals",
+      "focus": "Reflect on past health decisions and their effects",
+      "focusBn": "অতীতের স্বাস্থ্য-সিদ্ধান্ত ও তার প্রভাব নিয়ে ভাবা",
+      "sessions": [
+        {
+          "type": "affirmative",
+          "pattern": "If + had + past participle, would have + past participle. / If + had + past participle, would + verb (now).",
+          "tipBn": "অতীতের কাল্পনিক অবস্থায় If + had + past participle আর ফলাফলে would have বসে; ফলাফল বর্তমানে হলে (mixed) would + verb বসে।",
+          "items": [
+            {"id":"01","en":"If Mahbub had gone for regular check-ups, the doctors would have found the blockage earlier.","bn":"মাহবুব যদি নিয়মিত চেকআপ করাতেন, তাহলে ডাক্তাররা ব্লকেজটা আরও আগে ধরতে পারতেন।","words":[{"w":"regular","bn":"নিয়মিত","pos":"adjective"},{"w":"blockage","bn":"ধমনীর বাধা, ব্লকেজ","pos":"noun"}]},
+            {"id":"02","en":"If Anika had ignored the insurance offer, her parents would be in serious debt now.","bn":"আনিকা যদি বিমার প্রস্তাবটি উপেক্ষা করতেন, তাহলে তাঁর মা-বাবা এখন বড় ঋণে ডুবে থাকতেন।","words":[{"w":"ignored","bn":"উপেক্ষা করতেন","pos":"verb","base":"ignore"},{"w":"debt","bn":"ঋণ, দেনা","pos":"noun"}]},
+            {"id":"03","en":"Tom would have asked for help sooner if he had recognized the signs of burnout.","bn":"টম যদি কাজের চাপে নিঃশেষ হওয়ার লক্ষণগুলো চিনতে পারতেন, তাহলে আরও আগে সাহায্য চাইতেন।","words":[{"w":"recognized","bn":"চিনতে পারতেন","pos":"verb","base":"recognize"},{"w":"burnout","bn":"কাজের চাপে নিঃশেষ অবস্থা","pos":"noun"}]},
+            {"id":"04","en":"If the city had cleared the drains last year, fewer people would have caught dengue.","bn":"গত বছর শহর কর্তৃপক্ষ যদি নালাগুলো পরিষ্কার করত, তাহলে কম মানুষ ডেঙ্গুতে আক্রান্ত হতো।","words":[{"w":"drains","bn":"নালা, ড্রেন","pos":"noun","base":"drain"},{"w":"caught","bn":"আক্রান্ত হতো","pos":"verb","base":"catch"}]},
+            {"id":"05","en":"If Mahbub had quit smoking at forty, he would probably be much healthier today.","bn":"মাহবুব যদি ৪০ বছর বয়সে ধূমপান ছেড়ে দিতেন, তাহলে আজ সম্ভবত অনেক বেশি সুস্থ থাকতেন।","words":[{"w":"quit","bn":"ছেড়ে দিতেন","pos":"verb"},{"w":"healthier","bn":"আরও সুস্থ","pos":"adjective","base":"healthy"}]},
+            {"id":"06","en":"Anika would be working in Dhaka now if she had accepted the job at the medical college.","bn":"আনিকা যদি মেডিকেল কলেজের চাকরিটা নিতেন, তাহলে এখন ঢাকায় কাজ করতেন।","words":[{"w":"accepted","bn":"গ্রহণ করতেন","pos":"verb","base":"accept"},{"w":"medical college","bn":"মেডিকেল কলেজ","pos":"noun"}]}
+          ]
+        },
+        {
+          "type": "negative",
+          "pattern": "If + hadn't + past participle, wouldn't have + past participle / wouldn't + verb.",
+          "tipBn": "শর্তের অংশে hadn't, আর ফলাফলের অংশে wouldn't have বা wouldn't বসিয়ে না-বোধক কাল্পনিক শর্তবাক্য হয়।",
+          "items": [
+            {"id":"01","en":"If the ambulance hadn't arrived so quickly, Mahbub might not have survived.","bn":"অ্যাম্বুলেন্স যদি এত দ্রুত না পৌঁছাত, তাহলে মাহবুব হয়তো বাঁচতেন না।","words":[{"w":"quickly","bn":"দ্রুত","pos":"adverb"},{"w":"survived","bn":"বেঁচে যেতেন","pos":"verb","base":"survive"}]},
+            {"id":"02","en":"Tom wouldn't have burned out if he hadn't worked every weekend for years.","bn":"টম যদি বছরের পর বছর প্রতি সপ্তাহান্তে কাজ না করতেন, তাহলে এভাবে নিঃশেষ হয়ে পড়তেন না।","words":[{"w":"burned out","bn":"নিঃশেষ হয়ে পড়েছিলেন","pos":"phrasal verb","base":"burn out"},{"w":"for years","bn":"বছরের পর বছর","pos":"phrase"}]},
+            {"id":"03","en":"If Anika hadn't moved to London, she wouldn't be leading this research project now.","bn":"আনিকা যদি লন্ডনে না যেতেন, তাহলে এখন এই গবেষণা প্রকল্পের নেতৃত্ব দিতেন না।","words":[{"w":"leading","bn":"নেতৃত্ব দিচ্ছেন","pos":"verb","base":"lead"},{"w":"project","bn":"প্রকল্প","pos":"noun"}]},
+            {"id":"04","en":"The infection wouldn't have spread if the wound had been cleaned properly.","bn":"ক্ষতটা ঠিকমতো পরিষ্কার করা হলে সংক্রমণ ছড়াত না।","words":[{"w":"spread","bn":"ছড়ানো","pos":"verb"},{"w":"properly","bn":"ঠিকমতো","pos":"adverb"}]},
+            {"id":"05","en":"If Mahbub hadn't had insurance, the family wouldn't be able to afford his rehabilitation now.","bn":"মাহবুবের বিমা না থাকলে পরিবারটি এখন তাঁর পুনর্বাসনের খরচ বহন করতে পারত না।","words":[{"w":"afford","bn":"খরচ বহনের সামর্থ্য থাকা","pos":"verb"},{"w":"rehabilitation","bn":"পুনর্বাসন","pos":"noun"}]},
+            {"id":"06","en":"If the village hadn't relied on that polluted pond, the children wouldn't have fallen ill.","bn":"গ্রামটি যদি ওই দূষিত পুকুরের ওপর নির্ভর না করত, তাহলে বাচ্চারা অসুস্থ হতো না।","words":[{"w":"relied on","bn":"নির্ভর করত","pos":"phrasal verb","base":"rely on"},{"w":"polluted","bn":"দূষিত","pos":"adjective"},{"w":"fallen ill","bn":"অসুস্থ হওয়া","pos":"phrase","base":"fall ill"}]}
+          ]
+        },
+        {
+          "type": "wh-question",
+          "pattern": "Wh- word + would (have) + subject + verb / past participle + if + had ...?",
+          "tipBn": "প্রশ্নশব্দের পরে would have বা would বসে, আর কাল্পনিক অতীত শর্তটি If + had + past participle দিয়ে যুক্ত হয়।",
+          "items": [
+            {"id":"01","en":"What would have happened if Mahbub had been alone when he collapsed?","bn":"জ্ঞান হারিয়ে পড়ে যাওয়ার সময় মাহবুব যদি একা থাকতেন, তাহলে কী হতো?","words":[{"w":"alone","bn":"একা","pos":"adjective"},{"w":"collapsed","bn":"জ্ঞান হারিয়ে পড়ে গেলেন","pos":"verb","base":"collapse"}]},
+            {"id":"02","en":"How would your life be different now if you had studied medicine?","bn":"আপনি যদি চিকিৎসাবিদ্যা পড়তেন, তাহলে এখন আপনার জীবন কতটা অন্যরকম হতো?","words":[{"w":"different","bn":"ভিন্ন, অন্যরকম","pos":"adjective"},{"w":"medicine","bn":"চিকিৎসাবিদ্যা","pos":"noun"}]},
+            {"id":"03","en":"Which hospital would you have chosen if the insurance had covered private care?","bn":"বিমা যদি বেসরকারি চিকিৎসার খরচ বহন করত, তাহলে আপনি কোন হাসপাতাল বেছে নিতেন?","words":[{"w":"chosen","bn":"বেছে নিতেন","pos":"verb","base":"choose"},{"w":"private care","bn":"বেসরকারি চিকিৎসা","pos":"phrase"}]},
+            {"id":"04","en":"Why would the surgeons have delayed the operation if his blood pressure had stayed high?","bn":"তাঁর রক্তচাপ যদি বেশি থেকে যেত, তাহলে সার্জনরা কেন অস্ত্রোপচার পিছিয়ে দিতেন?","words":[{"w":"delayed","bn":"পিছিয়ে দিতেন","pos":"verb","base":"delay"},{"w":"stayed high","bn":"বেশি থেকে যেত","pos":"phrase","base":"stay high"}]},
+            {"id":"05","en":"Where would Tom be working today if he hadn't left the hospital?","bn":"টম যদি হাসপাতাল না ছাড়তেন, তাহলে আজ তিনি কোথায় কাজ করতেন?","words":[{"w":"left","bn":"ছেড়েছিলেন","pos":"verb","base":"leave"},{"w":"today","bn":"আজ, বর্তমানে","pos":"adverb"}]},
+            {"id":"06","en":"How many lives could have been saved if the outbreak had been detected earlier?","bn":"প্রাদুর্ভাবটি যদি আরও আগে শনাক্ত করা যেত, তাহলে কতগুলো জীবন বাঁচানো যেত?","words":[{"w":"outbreak","bn":"প্রাদুর্ভাব","pos":"noun"},{"w":"detected","bn":"শনাক্ত করা হতো","pos":"verb","base":"detect"}]}
+          ]
+        },
+        {
+          "type": "paragraph",
+          "pattern": "4–6 sentences with third and mixed conditionals.",
+          "tipBn": "অনুচ্ছেদে অতীতের কাল্পনিক অবস্থা ও তার ফলাফল বোঝাতে third conditional, আর বর্তমান ফলাফল বোঝাতে mixed conditional ব্যবহার হয়েছে।",
+          "items": [
+            {"id":"01","title":"Looking back","en":"Mahbub often thinks about the choices he made in his fifties. If he had listened to his doctor, he would have changed his diet much earlier. He might have avoided the surgery if he had exercised regularly. If he hadn't smoked for thirty years, his heart would be much stronger today. Now he tells his younger relatives not to repeat his mistakes.","bn":"পঞ্চাশের কোঠায় নেওয়া সিদ্ধান্তগুলো নিয়ে মাহবুব প্রায়ই ভাবেন। তিনি যদি ডাক্তারের কথা শুনতেন, তাহলে অনেক আগেই খাদ্যাভ্যাস বদলে ফেলতেন। নিয়মিত ব্যায়াম করলে হয়তো অস্ত্রোপচারটা এড়াতে পারতেন। ৩০ বছর ধরে ধূমপান না করলে আজ তাঁর হৃৎপিণ্ড অনেক বেশি সবল থাকত। এখন তিনি ছোট আত্মীয়দের বলেন, তারা যেন তাঁর ভুলগুলো না করে।","words":[{"w":"fifties","bn":"পঞ্চাশের কোঠা","pos":"noun"},{"w":"avoided","bn":"এড়াতে পারতেন","pos":"verb","base":"avoid"},{"w":"exercised","bn":"ব্যায়াম করতেন","pos":"verb","base":"exercise"},{"w":"relatives","bn":"আত্মীয়","pos":"noun","base":"relative"},{"w":"repeat","bn":"আবার করা","pos":"verb"}]},
+            {"id":"02","title":"What if Anika had stayed?","en":"Anika sometimes wonders how her life would look if she had stayed in Dhaka. If she had taken the job at the medical college, she would be closer to her parents now. She could have looked after her father herself when he had his heart attack. On the other hand, if she hadn't moved to London, she would never have met Tom or started her diabetes research. She has decided that both paths would have had their rewards.","bn":"আনিকা মাঝে মাঝে ভাবেন, তিনি ঢাকায় থেকে গেলে তাঁর জীবনটা কেমন হতো। মেডিকেল কলেজের চাকরিটা নিলে তিনি এখন মা-বাবার আরও কাছে থাকতেন। বাবার হার্ট অ্যাটাকের সময় তিনি নিজেই তাঁর দেখাশোনা করতে পারতেন। অন্যদিকে, লন্ডনে না গেলে তাঁর কখনো টমের সাথে দেখা হতো না, ডায়াবেটিস নিয়ে গবেষণাও শুরু হতো না। তিনি ঠিক করেছেন, দুটি পথেরই নিজস্ব সুফল থাকত।","words":[{"w":"wonders","bn":"ভাবেন","pos":"verb","base":"wonder"},{"w":"closer","bn":"আরও কাছে","pos":"adjective","base":"close"},{"w":"on the other hand","bn":"অন্যদিকে","pos":"phrase"},{"w":"paths","bn":"পথ","pos":"noun","base":"path"},{"w":"rewards","bn":"সুফল, প্রাপ্তি","pos":"noun","base":"reward"}]},
+            {"id":"03","title":"A preventable outbreak","en":"Last year, a cholera outbreak hit a crowded neighborhood near the river. If the water pipes had been repaired in time, the outbreak would never have started. Health officials admitted that more lives would have been saved if mobile clinics had been sent sooner. If the community had received clear warnings, families would have boiled their drinking water. Thanks to those lessons, the city now responds to outbreaks much faster.","bn":"গত বছর নদীর কাছের একটি ঘনবসতিপূর্ণ এলাকায় কলেরার প্রাদুর্ভাব দেখা দেয়। পানির পাইপগুলো সময়মতো মেরামত করা হলে প্রাদুর্ভাবটি কখনো শুরুই হতো না। স্বাস্থ্য কর্মকর্তারা স্বীকার করেছেন, ভ্রাম্যমাণ ক্লিনিক আরও আগে পাঠানো হলে আরও বেশি জীবন বাঁচানো যেত। এলাকার মানুষ স্পষ্ট সতর্কবার্তা পেলে পরিবারগুলো খাবার পানি ফুটিয়ে নিত। সেই শিক্ষার কারণে শহরটি এখন প্রাদুর্ভাবের সময় অনেক দ্রুত ব্যবস্থা নেয়।","words":[{"w":"cholera","bn":"কলেরা","pos":"noun"},{"w":"in time","bn":"সময়মতো","pos":"phrase"},{"w":"officials","bn":"কর্মকর্তা","pos":"noun","base":"official"},{"w":"mobile clinics","bn":"ভ্রাম্যমাণ ক্লিনিক","pos":"noun","base":"mobile clinic"},{"w":"boiled","bn":"ফুটিয়ে নিত","pos":"verb","base":"boil"}]}
+          ]
+        }
+      ]
+    }
+  ]
+}
